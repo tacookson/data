@@ -92,7 +92,6 @@ members <-
     hired = HIRED,
     success = MSUCCESS,
     solo = MSOLO,
-    highpoint_reached = MHIGHPT,
     oxygen_used = MO2USED,
     died = DEATH,
     death_cause = DEATHTYPE,
