@@ -78,5 +78,5 @@ Credit: [Alex Cookson](https://twitter.com/alexcookson)
 | death_height_metres  | double    | Height at which the person died                              |
 | injured              | logical   | Whether the person was injured                               |
 | injury_type          | character | Primary cause of injury                                      |
-| injury_height_metres | double    | Injury at which the injury occurred                          |
+| injury_height_metres | double    | Height at which the injury occurred                          |
 
