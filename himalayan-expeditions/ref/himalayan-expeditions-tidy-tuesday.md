@@ -1,4 +1,4 @@
-# Himalayan Expeditions
+# Himalayan Climbing Expeditions
 
 The data this week comes from [The Himalayan Database](https://www.himalayandatabase.com/).
 
@@ -8,9 +8,7 @@ The data this week comes from [The Himalayan Database](https://www.himalayandata
 
 
 
-This [blog post](LINK_TO_ARTICLE) talks about Himalayan Expeditions in greater detail.
-
-Credit: [Alex Cookson](https://twitter.com/alexcookson)
+This [blog post](https://www.alexcookson.com/post/analyzing-himalayan-peaks-first-ascents/) by [Alex Cookson](https://twitter.com/alexcookson) explores the data in greater detail.
 
 
 
