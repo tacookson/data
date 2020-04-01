@@ -68,6 +68,7 @@ This [blog post](https://www.alexcookson.com/post/analyzing-himalayan-peaks-firs
 | citizenship          | character | Citizenship of the person                                    |
 | expedition_role      | character | Role of the person on the expedition                         |
 | hired                | logical   | Whether the person was hired by the expedition               |
+| highpoint_metres     | double    | Elevation highpoint of the person                            |
 | success              | logical   | Whether the person was successful in summitting a main peak or sub-peak, depending on the goal of expedition |
 | solo                 | logical   | Whether the person attempted a solo ascent                   |
 | oxygen_used          | logical   | Whether the person used oxygen                               |
