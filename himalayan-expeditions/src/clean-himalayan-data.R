@@ -90,6 +90,7 @@ members <-
     citizenship = CITIZEN,
     expedition_role = STATUS,
     hired = HIRED,
+    highpoint_metres = MPERHIGHPT,
     success = MSUCCESS,
     solo = MSOLO,
     oxygen_used = MO2USED,
