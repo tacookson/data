@@ -37,7 +37,7 @@ expeditions <- read_csv("./himalayan-expeditions/raw/exped.csv") %>%
     year = YEAR,
     season = SEASON,
     basecamp_date = BCDATE,
-    summit_date = SMTDATE,
+    highpoint_date = SMTDATE,
     termination_date = TERMDATE,
     termination_reason = TERMREASON,
     # Highpoint of 0 is most likely missing value

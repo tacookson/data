@@ -1,4 +1,4 @@
-expedition_id,peak_id,peak_name,year,season,basecamp_date,summit_date,termination_date,termination_reason,highpoint_metres,members,member_deaths,hired_staff,hired_staff_deaths,oxygen_used,trekking_agency
+expedition_id,peak_id,peak_name,year,season,basecamp_date,highpoint_date,termination_date,termination_reason,highpoint_metres,members,member_deaths,hired_staff,hired_staff_deaths,oxygen_used,trekking_agency
 ANN260101,ANN2,Annapurna II,1960,Spring,1960-03-15,1960-05-17,NA,Success (main peak),7937,10,0,9,0,TRUE,NA
 ANN269301,ANN2,Annapurna II,1969,Autumn,1969-09-25,1969-10-22,1969-10-26,Success (main peak),7937,10,0,0,0,FALSE,NA
 ANN273101,ANN2,Annapurna II,1973,Spring,1973-03-16,1973-05-06,NA,Success (main peak),7937,6,0,8,0,FALSE,NA

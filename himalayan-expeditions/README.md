@@ -35,7 +35,7 @@ Data is from [The Himalayan Database](https://www.himalayandatabase.com/):
 | year               | double    | Year of expedition                                           |
 | season             | character | Season of expedition (Spring, Summer, etc.)                  |
 | basecamp_date      | date      | Date of expedition arrival at basecamp                       |
-| summit_date        | date      | Date of expedition summitting the peak or reaching its highpoint for the first time |
+| highpoint_date     | date      | Date of expedition summiting the peak for the first time or, if peak wasn't reached, date of reaching its highpoint |
 | termination_date   | date      | Date the expedition was terminated                           |
 | termination_reason | character | Primary reason the expedition was terminated. There are two possibilities for a successful expeditions, depending on whether the main peak or a sub-peak was summitted. |
 | highpoint_metres   | double    | Elevation highpoint of the expedition                        |
