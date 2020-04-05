@@ -40,7 +40,8 @@ expeditions <- read_csv("./himalayan-expeditions/raw/exped.csv") %>%
     summit_date = SMTDATE,
     termination_date = TERMDATE,
     termination_reason = TERMREASON,
-    highpoint_metres = HIGHPOINT,
+    # Highpoint of 0 is most likely missing value
+    highpoint_metres = ifelse(HIGHPOINT == 0, NA, HIGHPOINT),
     members = TOTMEMBERS,
     member_deaths = MDEATHS,
     hired_staff = TOTHIRED,
@@ -90,16 +91,19 @@ members <-
     citizenship = CITIZEN,
     expedition_role = STATUS,
     hired = HIRED,
-    highpoint_metres = MPERHIGHPT,
+    # Highpoint of 0 is most likely missing value
+    highpoint_metres = ifelse(MPERHIGHPT == 0, NA, MPERHIGHPT),
     success = MSUCCESS,
     solo = MSOLO,
     oxygen_used = MO2USED,
     died = DEATH,
     death_cause = DEATHTYPE,
-    death_height_metres = DEATHHGTM,
+    # Height of 0 is most likely missing value
+    death_height_metres = ifelse(DEATHHGTM == 0, NA, DEATHHGTM),
     injured = INJURY,
     injury_type = INJURYTYPE,
-    injury_height_metres = INJURYHGTM
+    # Height of 0 is most likely missing value
+    injury_height_metres = ifelse(INJURYHGTM == 0, NA, INJURYHGTM)
   ) %>%
   mutate(
     season = case_when(
