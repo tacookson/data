@@ -2,6 +2,8 @@
 
 This data comes from [Playbill](https://www.playbill.com/grosses). Weekly box office grosses comprise data on revenue and attendance figures for theatres that are part of [The Broadway League](https://en.wikipedia.org/wiki/The_Broadway_League), an industry association for, you guessed it, Broadway theatre.
 
+CPI data is from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/). There are many, *many* measures of CPI, so the one used here is "All items less food and energy in U.S. city average, all urban consumers, seasonally adjusted" (table [CUSR0000SA0L1E](https://beta.bls.gov/dataViewer/view/timeseries/CUSR0000SA0L1E)).
+
 
 
 # Data Dictionary
@@ -33,3 +35,12 @@ This data comes from [Playbill](https://www.playbill.com/grosses). Weekly box of
 | :------- | :-------- | :----------------------------------------------------------- |
 | show     | character | Name of show                                                 |
 | synopsis | character | Plot synopsis of show. Contains some missing values, especially for shows with multiple runs (due to how the data was collected). |
+
+
+
+### `cpi.csv`
+
+| variable   | class  | description                                    |
+| :--------- | :----- | :--------------------------------------------- |
+| year_month | date   | Month of CPI value                             |
+| cpi        | double | Consumer Price Index value for the given month |

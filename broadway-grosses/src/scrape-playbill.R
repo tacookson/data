@@ -56,7 +56,7 @@ broadway_grosses <- broadway_grosses_raw %>%
 
 ### Write to CSV
 broadway_grosses %>%
-  write_csv("grosses.csv")
+  write_csv("./broadway-grosses/grosses.csv")
 
 
 
@@ -92,4 +92,4 @@ synopses <- synopses_raw %>%
 
 ### Write to CSV
 synopses %>%
-  write_csv("synopses.csv")
+  write_csv("./broadway-grosses/synopses.csv")
