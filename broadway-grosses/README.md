@@ -44,3 +44,13 @@ CPI data is from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/). Th
 | :--------- | :----- | :--------------------------------------------- |
 | year_month | date   | Month of CPI value                             |
 | cpi        | double | Consumer Price Index value for the given month |
+
+
+
+### `pre-1985-starts.csv`
+
+| variable       | class     | description                                                  |
+| :------------- | :-------- | :----------------------------------------------------------- |
+| week_ending    | date      | Date of the end of the weekly measurement period             |
+| show           | character | Name of show                                                 |
+| run_start_week | date      | Starting week for shows that premiered before `1985-06-08` (the start of the dataset) |
