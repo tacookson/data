@@ -1,8 +1,10 @@
 # Broadway Weekly Grosses
 
-The data this week comes from [Playbill](https://www.playbill.com/grosses).
+The data comes from [Playbill](https://www.playbill.com/grosses). Weekly box office grosses comprise data on revenue and attendance figures for theatres that are part of [The Broadway League](https://en.wikipedia.org/wiki/The_Broadway_League), an industry association for Broadway theatre.
 
-This [blog post](LINK_TO_ARTICLE) talks about Broadway Grosses in greater detail.
+CPI data is from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/). There are many measures of CPI, but the one used here is "All items less food and energy in U.S. city average, all urban consumers, seasonally adjusted" (table [CUSR0000SA0L1E](https://beta.bls.gov/dataViewer/view/timeseries/CUSR0000SA0L1E)).
+
+This [blog post](https://www.alexcookson.com/post/most-successful-broadway-show-of-all-time/) talks about Broadway Grosses in greater detail.
 
 Credit: [Alex Cookson](https://twitter.com/alexcookson)
 
@@ -38,6 +40,15 @@ Credit: [Alex Cookson](https://twitter.com/alexcookson)
 | :------- | :-------- | :----------------------------------------------------------- |
 | show     | character | Name of show                                                 |
 | synopsis | character | Plot synopsis of show. Contains some missing values, especially for shows with multiple runs (due to how the data was collected). |
+
+
+
+### `cpi.csv`
+
+| variable   | class  | description                                    |
+| :--------- | :----- | :--------------------------------------------- |
+| year_month | date   | Month of CPI value                             |
+| cpi        | double | Consumer Price Index value for the given month |
 
 
 
