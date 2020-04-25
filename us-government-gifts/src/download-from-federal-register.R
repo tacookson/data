@@ -29,13 +29,19 @@ document_list <- as_tibble(response$results, .name_repair = "universal") %>%
          str_detect(str_to_lower(title), "gifts to federal employees")) %>%
   mutate(publication_date = ymd(publication_date),
          year = year(publication_date),
+         # Create 
          month = str_pad(month(publication_date), 2, side = "left", pad = "0"),
          day = str_pad(day(publication_date), 2, side = "left", pad = "0"),
          text_url = glue("https://www.federalregister.gov/documents/full_text/text/{year}/{month}/{day}/{document_number}.txt"))
 
-# Read full text from Federal Register
-document_text <- document_list %>%
-  mutate(full_text = map(text_url, read_lines))
+# Create vector of URLs of full text
+url_list <- document_list$text_url
 
-# Pull first full text as sample
-document_text$full_text[[1]]
+# Create list of paths and document names -- {publication_date}_{document_number}.txt
+path_list <- glue("./us-government-gifts/raw/{document_text$publication_date}_doc{document_text$document_number}.txt")
+
+# Write function with safely in case of error
+safe_download <- safely(~ download.file(.x, .y, mode = "wb"))
+
+# Download full text from Federal Register (takes ~45 seconds)
+walk2(url_list, path_list, safe_download)
