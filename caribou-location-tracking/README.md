@@ -1,4 +1,4 @@
-# Mountain Caribou Tracking
+# Caribou Location Tracking
 
 **Data cleaning still in progress!**
 
