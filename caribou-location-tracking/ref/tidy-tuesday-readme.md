@@ -4,7 +4,7 @@ This data tracks [woodland caribou](https://en.wikipedia.org/wiki/Boreal_woodlan
 
 The tracking was part of a study prepared in 2014 by the [B.C. Ministry of Environment & Climate Change](https://gov.bc.ca/env) to inform the management and recovery of the species, which is [classified as "Vulnerable"](https://www.iucnredlist.org/species/29742/22167140) on the International Union for the Conservation of Nature's (IUCN) [Red List](https://www.iucnredlist.org/).
 
-Data was accessed through [Movebank](https://www.movebank.org/cms/movebank-content/about-movebank), "a free online platform that helps researchers manage, share, analyze and archive animal movement data."
+Data was accessed through [Movebank](https://www.movebank.org/cms/movebank-content/about-movebank), "a free online platform that helps researchers manage, share, analyze and archive animal movement data." You can access data through the website or through R directly with the [**move**]() package!
 
 
 
@@ -51,7 +51,7 @@ Data was accessed through [Movebank](https://www.movebank.org/cms/movebank-conte
 
 **`deploy_off_type` classifications**
 
-| deploy_off_type   | description                                                  |
+| classification    | description                                                  |
 | :---------------- | :----------------------------------------------------------- |
 | captured          | Tag remained on the animal but the animal was captured or confined |
 | dead              | Deployment ended with the death of the animal that was carrying the tag |
