@@ -16,7 +16,7 @@ CPI data is from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/). Th
 | week_number          | double    | Week number in the Broadway season. The season starts after the Tony Awards, held in early June. Some seasons have 53 weeks. |
 | weekly_gross_overall | double    | Weekly box office gross for all shows                        |
 | show                 | character | Name of show. Some shows have the same name, but multiple runs. |
-| theatre              | character | Name of theatre                                              |
+| theatre              | character | Name of theatre. Only shows most recent theatre for shows that started at one theatre and moved to another (e.g., *The Lion King* will show Minskoff Theatre even though it played at New Amsterdam Theatre from 1997-2006).                                              |
 | weekly_gross         | double    | Weekly box office gross for individual show                  |
 | potential_gross      | double    | Weekly box office gross if all seats are sold at full price. Shows can exceed their potential gross by selling premium tickets and/or standing room tickets. |
 | avg_ticket_price     | double    | Average price of tickets sold                                |
