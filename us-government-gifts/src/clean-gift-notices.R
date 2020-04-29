@@ -2,89 +2,26 @@
 # Load libraries
 library(tidyverse)
 library(lubridate)
-
-# Load text of notices
-# Parse publication date and document number from filename
-gift_notices <- tibble(filename = list.files("./us-government-gifts/raw/", full.names = TRUE),
-       full_text = map(filename, read_lines)) %>%
-  mutate(filename = str_remove(filename, "./us-government-gifts/raw/"),
-         filename = str_remove(filename, ".txt"),
-         filename = str_remove(filename, "doc")) %>%
-  separate(filename, into = c("publication_date", "document_number"), sep = "_") %>%
-  mutate(publication_date = ymd(publication_date)) %>%
-  filter(year(publication_date) >= 2000)
+library(countrycode)
+library(fuzzyjoin)
 
 
-# Create vector of agency names to check for in cleaning function
-agency_list <- c("Central Intelligence Agency",
-                 "Department of Defense",
-                 "Department of Energy",
-                 "Department of State",
-                 "Department of the Air Force",
-                 "Department of the Navy",
-                 "Department of the Treasury",
-                 "FBI",
-                 "U.S. House of Representatives",
-                 "United States Agency for International Development",
-                 "United States Department of Agriculture",
-                 "United States Senate",
-                 "White House Office and the National Security Council",
-                 "Department of Agriculture",
-                 "Department of Commerce",
-                 "Executive Office of the President",
-                 "Executive Office of the President, Office of Science and Technology Policy",
-                 "Office of the Vice President",
-                 "Department of Air Force",
-                 "Department of Homeland Security",
-                 "Department of Navy",
-                 "Federal Reserve Board",
-                 "Health and Human Services",
-                 "National Archives and Records Administration",
-                 "Department of Health and Human Services",
-                 "National Transportation Safety Board",
-                 "Office of Personnel Management",
-                 "Office of the Director of National Intelligence",
-                 "President of the U.S. and the National Security Council",
-                 "United States House of Representatives",
-                 "Vice President",
-                 "Department of Justice",
-                 "Department of the Army",
-                 "Department of Treasury",
-                 "Department of Defense, U.S. Marine Corps",
-                 "Department of Education",
-                 "Federal Housing Finance Board",
-                 "Research and Innovative Technology Administration/Volpe National Transportation Systems Center",
-                 "The White House, Office of the Vice President",
-                 "U.S. Agency for International Development",
-                 "Administrative Offices of the United States Court",
-                 "Appalachian Regional Commission",
-                 "Defense Intelligence Agency",
-                 "Federal Energy Regulatory Commission",
-                 "Office of Science and Technology Policy",
-                 "The White House--Executive Office of the President",
-                 "The White House--Office of the Vice President",
-                 "Environmental Protection Agency",
-                 "Export Import Bank",
-                 "Federal Communications Commission",
-                 "Holocaust Memorial Museum",
-                 "National Aeronautics and Space Administration",
-                 "Office of Director of National Intelligence",
-                 "Peace Corps",
-                 "U.S. Senate",
-                 "United States Marine Corps",
-                 "Administrative Office of the United States Courts",
-                 "Defense Logistics Agency",
-                 "Department of Education",
-                 "Department of Veterans' Affairs",
-                 "Office of National Drug Control Policy",
-                 "Department of Housing and Urban Development",
-                 "Department of Transportation",
-                 "United States Central Command")
+### Define functions ------------------------------------------------------------------------------
+# Helper function to find where to split column in the text
+# We know the approximate location from looking at the data
+# But it changes slightly from document to document
+# Logic: character position with most spaces is the delimiter position
+find_spaces_between <- function(x, low, high) {
+  str_locate_all(x, " ") %>%
+    unlist() %>%
+    as_tibble() %>%
+    count(value) %>%
+    filter(between(value, low, high)) %>%
+    filter(n == max(n)) %>%
+    pull(value)
+}
 
-agency_regex <- agency_list %>%
-  str_c(., collapse = "|")
-
-# Function to clean individual notices
+# Function to clean individual notices (main powerhouse function)
 clean_notices <- function(x) {
   notice <- x %>%
     # Convert to tibble
@@ -99,6 +36,7 @@ clean_notices <- function(x) {
     mutate(header_separator = str_detect(text, "^[-]+$"),
            header_separator_number = cumsum(header_separator)) %>%
     # Filter out headers (leaving only actual entries)
+    # Header separators are at the top and bottom of headers (which is why we need 2)
     filter(header_separator_number >= 2,
            !header_separator) %>%
     # Find first line of entry, which will be a capitalized alphabetical character
@@ -108,23 +46,13 @@ clean_notices <- function(x) {
     # Get rid of helper columns
     select(agency_name, entry_number, text)
   
-  # Find end of string of at least three periods "..." (indicates end of first column)
-  first_col <- str_locate(test_notice$text, "[.]{3,}")
-  min(first_col[, 2], na.rm = TRUE)
-  
-  # Find start of string with "His Excellency" (there is always a "His Excellency to give a gift")
-  third_col <- str_locate(test_notice$text, "His Excellency")
-  min(third_col[, 1], na.rm = TRUE)
-  
-  # Find start of string with "Non-acceptance" (indicating start of justification column)
-  fourth_col <- str_locate(test_notice$text, "Non-acceptance")
-  min(fourth_col[, 1], na.rm = TRUE)
-  
-  split_locations <- c(min(first_col[, 2], na.rm = TRUE),
-                       min(third_col[, 1], na.rm = TRUE),
-                       min(fourth_col[, 1], na.rm = TRUE))
+  # We know approximate locations from earlier failed attempts to clean this data
+  split_locations <- c(find_spaces_between(notice$text, 32, 42),
+                       find_spaces_between(notice$text, 60, 70),
+                       find_spaces_between(notice$text, 85, 95))
   
   notice %>%
+    # Apply split locations to the text
     mutate(recipient = str_sub(text, start = 1L, end = split_locations[[1]]),
            gift_description = str_sub(text, start = split_locations[[1]], end = split_locations[[2]] - 1),
            donor = str_sub(text, start = split_locations[[2]], end = split_locations[[3]] - 1),
@@ -134,6 +62,7 @@ clean_notices <- function(x) {
     mutate(text = str_remove_all(text, "\\[\\[(.+?)\\]\\]"),
            text = str_squish(text)) %>%
     filter(text != "") %>%
+    # Some fields have filler periods until the next column
     mutate(text = str_replace(text, "[..]{2,}", "")) %>%
     group_by(agency_name, entry_number, category) %>%
     summarise(text = str_c(text, collapse = " ")) %>%
@@ -142,19 +71,65 @@ clean_notices <- function(x) {
     filter(str_detect(gift_description, "Est. Value") | str_detect(gift_description, "\\$[0-9]+"))
 }
 
-# Testing how good the cleaning function did
+# Function to pull the last value from a list
+# Used when there are multiple dollar values in a gift description
+# (The last one is usual the total of all items)
+find_max_value <- function(x) {
+  ifelse(length(x) == 0, NA_character_, map(x, parse_number) %>% unlist() %>% max())
+}
 
-gift_notices_clean <- gift_notices %>%
-  mutate(clean_text = map(full_text, clean_notices))
 
-df <- gift_notices_clean %>%
-  select(publication_date, document_number, clean_text) %>%
+# find_max_value <- function(x) {
+#   ifelse(length(x) == 0, NA_character_, x[[length(x)]])
+# }
+
+### Load and clean documents ----------------------------------------------------------------------
+
+# Load documents and parse publication date and document number from filename
+gift_notices_raw <- tibble(filename = list.files("./us-government-gifts/raw/", full.names = TRUE),
+       full_text = map(filename, read_lines)) %>%
+  mutate(filename = str_remove(filename, "./us-government-gifts/raw/"),
+         filename = str_remove(filename, ".txt"),
+         filename = str_remove(filename, "doc")) %>%
+  separate(filename, into = c("publication_date", "document_number"), sep = "_") %>%
+  mutate(publication_date = ymd(publication_date)) %>%
+  # Ditch everything before 2000 because we don't have continuous data
+  filter(year(publication_date) >= 2000) %>%
+  mutate(clean_text = map(full_text, clean_notices)) %>%
   unnest(clean_text) %>%
-  select(publication_date, document_number, recipient, gift_description, donor, justification)
+  select(agency_name, recipient, gift_description, donor, justification)
 
-df %>%
-  mutate(gift_description = str_remove(gift_description, "^[^0-9A-Z(]")) %>%
+
+
+# Pull English-language country names and regex from {countrycode} package
+country_list <- as_tibble(countrycode::codelist) %>%
+  transmute(donor_country = country.name.en,
+            country_regex = country.name.en.regex)
+
+# Final cleaning steps
+gift_notices <- gift_notices_raw %>%
+  # Add row number as id field
+  mutate(id = row_number()) %>%
+  # Get rid of any extra whitespace that snuck in
   mutate_at(vars(recipient:justification), str_squish) %>%
-  mutate(value = str_extract(gift_description, "[Vv]alue[-\\s]*\\$(\\d{1,3}(\\,\\d{3})*|(\\d+))(\\.\\d{2})?"),
-         number_value = parse_number(str_remove(value, "--")))
+  # Find the dollar value, indicated by the word "value" and a dollar figure
+  # Messy regex is for different formatting (e.g., comma or period separating thousands, optional cent values)
+  mutate(value_list = str_extract_all(gift_description, "\\$([0-9]{1,3}[,\\.]([0-9]{3}[,\\.])*[0-9]{3}|[0-9]+)(.[0-9][0-9])?"),
+         value_text = map_chr(value_list, find_max_value),
+         # Parse character dollar value -- running map_dbl throws an error because one element isn't coercible
+         value_usd = parse_number(value_text)) %>%
+  # Find m/d/y dates that might be one- or two-digit and might have spaces between digits and slashes
+  mutate(date_text = str_extract(gift_description, "(1[0-2]|0?[1-9]) */ *(3[01]|[12][0-9]|0?[1-9]) */ *[0-9]{2,4}"),
+         date_received = mdy(date_text)) %>%
+  # Get rid of periods at the end of recipient and donor names and titles
+  mutate(recipient = str_remove(recipient, "\\.$"),
+         donor = str_remove(donor, "\\.$")) %>%
+  # Search for countries in donor title using 
+  mutate(donor_lower = str_to_lower(donor)) %>%
+  regex_left_join(country_list, by = c("donor_lower" = "country_regex")) %>%
+  # Change fields to be in a nice order (and get rid of helper fields)
+  select(recipient, agency_name, date_received, donor, donor_country, gift_description, value_usd, justification)
 
+
+### Write to CSV ----------------------------------------------------------------------------------
+write_csv(gift_notices, "./us-government-gifts/gifts.csv")
