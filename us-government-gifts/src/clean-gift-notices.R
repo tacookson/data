@@ -58,7 +58,10 @@ clean_notices <- function(x) {
            donor = str_sub(text, start = split_locations[[2]], end = split_locations[[3]] - 1),
            justification = str_sub(text, start = split_locations[[3]])) %>%
     select(-text) %>%
+    # pivot_longer() and pivot_wider() shenanigans to get entries from multiple lines to a single line
+    # There is almost certainly a more elegant way to do this
     pivot_longer(cols = recipient:justification, names_to = "category", values_to = "text") %>%
+    # Page numbers are in double-square brackets, like [[Page 123]]
     mutate(text = str_remove_all(text, "\\[\\[(.+?)\\]\\]"),
            text = str_squish(text)) %>%
     filter(text != "") %>%
@@ -68,7 +71,9 @@ clean_notices <- function(x) {
     summarise(text = str_c(text, collapse = " ")) %>%
     ungroup() %>%
     pivot_wider(id_cols = agency_name:entry_number, names_from = category, values_from = text) %>%
-    filter(str_detect(gift_description, "Est. Value") | str_detect(gift_description, "\\$[0-9]+"))
+    # All "real" gift descriptions have an estimated value
+    # Filtering to look for "Est. Value" or a dollar figure gets rid of header text that snuck in
+    filter(str_detect(gift_description, "Est. [Vv]alue") | str_detect(gift_description, "\\$[0-9]+"))
 }
 
 # Function to pull the last value from a list
@@ -78,10 +83,6 @@ find_max_value <- function(x) {
   ifelse(length(x) == 0, NA_character_, map(x, parse_number) %>% unlist() %>% max())
 }
 
-
-# find_max_value <- function(x) {
-#   ifelse(length(x) == 0, NA_character_, x[[length(x)]])
-# }
 
 ### Load and clean documents ----------------------------------------------------------------------
 
@@ -98,8 +99,6 @@ gift_notices_raw <- tibble(filename = list.files("./us-government-gifts/raw/", f
   mutate(clean_text = map(full_text, clean_notices)) %>%
   unnest(clean_text) %>%
   select(agency_name, recipient, gift_description, donor, justification)
-
-
 
 # Pull English-language country names and regex from {countrycode} package
 country_list <- as_tibble(countrycode::codelist) %>%
