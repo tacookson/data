@@ -127,7 +127,9 @@ gift_notices <- gift_notices_raw %>%
   mutate(donor_lower = str_to_lower(donor)) %>%
   regex_left_join(country_list, by = c("donor_lower" = "country_regex")) %>%
   # Change fields to be in a nice order (and get rid of helper fields)
-  select(recipient, agency_name, date_received, donor, donor_country, gift_description, value_usd, justification)
+  select(id, recipient, agency_name, date_received, donor, donor_country, gift_description, value_usd, justification) %>%
+  # Remove some duplicate entries that got added when regex matching to country names
+  distinct(id, .keep_all = TRUE)
 
 
 ### Write to CSV ----------------------------------------------------------------------------------
