@@ -24,14 +24,18 @@ find_spaces_between <- function(x, low, high) {
 # Function to clean individual notices (main powerhouse function)
 clean_notices <- function(x) {
   notice <- x %>%
-    # Convert to tibble
-    as_tibble_col(column_name = "text") %>%
+  # Convert to tibble
+  as_tibble_col(column_name = "text") %>%
     # Find rows with agency headers
     mutate(agency_header = str_detect(text, "A(GENCY|gency):"),
            # Extract name of agency
            agency_name = ifelse(agency_header, str_squish(str_remove(text, "AGENCY: |Agency: ")), NA_character_)) %>%
     # Fill name of agency down until hitting another agency header
     tidyr::fill(agency_name, .direction = "down") %>%
+    # Find the year the data is for (it's in the preamble and is usually 2 years before publication year)
+    extract(text, "year_received", "[Cc]alendar [Yy]ear ([12][09][019][0-9])", remove = FALSE, convert = TRUE) %>%
+    # Fill the extracted year to all rows
+    fill(year_received, .direction = "downup") %>%
     # Find header titles, which are between lines that are only dashes "-----"
     mutate(header_separator = str_detect(text, "^[-]+$"),
            header_separator_number = cumsum(header_separator)) %>%
@@ -44,7 +48,7 @@ clean_notices <- function(x) {
            # Create entry number based on where first lines occur
            entry_number = cumsum(entry_first_line)) %>%
     # Get rid of helper columns
-    select(agency_name, entry_number, text)
+    select(agency_name, year_received, entry_number, text)
   
   # We know approximate locations from earlier failed attempts to clean this data
   split_locations <- c(find_spaces_between(notice$text, 32, 42),
@@ -67,7 +71,7 @@ clean_notices <- function(x) {
     filter(text != "") %>%
     # Some fields have filler periods until the next column
     mutate(text = str_replace(text, "[..]{2,}", "")) %>%
-    group_by(agency_name, entry_number, category) %>%
+    group_by(agency_name, year_received, entry_number, category) %>%
     summarise(text = str_c(text, collapse = " ")) %>%
     ungroup() %>%
     pivot_wider(id_cols = agency_name:entry_number, names_from = category, values_from = text) %>%
@@ -80,7 +84,11 @@ clean_notices <- function(x) {
 # Used when there are multiple dollar values in a gift description
 # (The last one is usual the total of all items)
 find_max_value <- function(x) {
-  ifelse(length(x) == 0, NA_character_, map(x, parse_number) %>% unlist() %>% max())
+  ifelse(length(x) == 0,
+         NA_character_,
+         map(x, parse_number) %>%
+           unlist() %>%
+           max())
 }
 
 
@@ -95,10 +103,11 @@ gift_notices_raw <- tibble(filename = list.files("./us-government-gifts/raw/", f
   separate(filename, into = c("publication_date", "document_number"), sep = "_") %>%
   mutate(publication_date = ymd(publication_date)) %>%
   # Ditch everything before 2000 because we don't have continuous data
+  # Also because the notice format is different and not worth the work for two extra non-contiguous years
   filter(year(publication_date) >= 2000) %>%
   mutate(clean_text = map(full_text, clean_notices)) %>%
   unnest(clean_text) %>%
-  select(agency_name, recipient, gift_description, donor, justification)
+  select(agency_name, year_received, recipient, gift_description, donor, justification)
 
 # Pull English-language country names and regex from {countrycode} package
 country_list <- as_tibble(countrycode::codelist) %>%
@@ -119,15 +128,33 @@ gift_notices <- gift_notices_raw %>%
          value_usd = parse_number(value_text)) %>%
   # Find m/d/y dates that might be one- or two-digit and might have spaces between digits and slashes
   mutate(date_text = str_extract(gift_description, "(1[0-2]|0?[1-9]) */ *(3[01]|[12][0-9]|0?[1-9]) */ *[0-9]{2,4}"),
-         date_received = mdy(date_text)) %>%
+         date_received = mdy(date_text),
+         # Not sure why I need to wrap as_date around the ifelse function
+         # If I don't date_received becomes a double class
+         date_received = as_date(ifelse(date_received >= "2019-01-01", NA, date_received))) %>%
+  # Change year_received when we have a different year in date_received
+  # Notices commonly report some gifts given for prior years but weren't known at that time to reporting authority
+  # date_received much likelier to be more accurate than year_received because it is at entry-level rather than document-level
+  mutate(year_received = ifelse(is.na(date_received), year_received, year(date_received))) %>%
   # Get rid of periods at the end of recipient and donor names and titles
   mutate(recipient = str_remove(recipient, "\\.$"),
          donor = str_remove(donor, "\\.$")) %>%
   # Search for countries in donor title using 
   mutate(donor_lower = str_to_lower(donor)) %>%
   regex_left_join(country_list, by = c("donor_lower" = "country_regex")) %>%
+  # Convert references to U.S.C. 7342 and U.S.C. 403 in donor field to more meaningful description
+  mutate(donor = ifelse(str_detect(donor, "U[.]?S[.]?C[.]?.*(7342)|(403)"),
+                        "Redacted -- Disclosure could adversely affect intelligence sources or methods",
+                        donor)) %>%
+  # Clean inconsistent wording of justification "Non-acceptance would cause embarrassment"
+  mutate(justification = ifelse(str_detect(justification, "embarras"),
+                                "Non-acceptance would cause embarrassment to donor and U.S. Government",
+                                justification)) %>%
+  # Manually cleaning 3 entries that did not parse correctly
+  mutate(donor = ifelse(id %in% c(314, 1068, 1074), NA, donor),
+         gift_description = ifelse(id %in% c(1068, 1074), NA, gift_description)) %>%
   # Change fields to be in a nice order (and get rid of helper fields)
-  select(id, recipient, agency_name, date_received, donor, donor_country, gift_description, value_usd, justification) %>%
+  select(id, recipient, agency_name, year_received, date_received, donor, donor_country, gift_description, value_usd, justification) %>%
   # Remove some duplicate entries that got added when regex matching to country names
   distinct(id, .keep_all = TRUE)
 
