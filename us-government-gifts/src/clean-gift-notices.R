@@ -150,6 +150,25 @@ gift_notices <- gift_notices_raw %>%
   mutate(justification = ifelse(str_detect(justification, "embarras"),
                                 "Non-acceptance would cause embarrassment to donor and U.S. Government",
                                 justification)) %>%
+  # Clean inconsistent agency names
+  mutate(agency_name = case_when(str_detect(agency_name, "Office of Science and Technology") ~ "Office of Science and Technology Policy",
+                                 str_detect(agency_name, "Vice President") ~ "Executive Office of the Vice President",
+                                 str_detect(agency_name, "Office of the President") ~ "Executive Office of the President",
+                                 str_detect(agency_name, "United States Court") ~ "Administrative Office of the United States Courts",
+                                 str_detect(agency_name, "Department of Education") ~ "Department of Education",
+                                 str_detect(agency_name, "Agriculture") ~ "Department of Agriculture",
+                                 str_detect(agency_name, "International Development") ~ "U.S. Agency for International Development",
+                                 str_detect(agency_name, "Senate") ~ "U.S. Senate",
+                                 str_detect(agency_name, "House of Representatives") ~ "U.S. House of Representatives",
+                                 str_detect(agency_name, "NASA") ~ "National Aeronautics and Space Administration",
+                                 str_detect(agency_name, "Federal Reserve") ~ "Federal Reserve Board",
+                                 str_detect(agency_name, "Marine Corps") ~ "U.S. Marine Corps",
+                                 str_detect(agency_name, "National Security Council") ~ "National Security Council",
+                                 str_detect(agency_name, "Environmental Protection") ~ "Environmental Protection Agency",
+                                 str_detect(agency_name, "Office of the Mayor") ~ "Office of the Mayor of the District of Columbia",
+                                 TRUE ~ agency_name),
+         agency_name = str_remove(agency_name, "^The "),
+         agency_name = str_replace(agency_name, "Department of the", "Department of")) %>%
   # Manually cleaning 3 entries that did not parse correctly
   mutate(donor = ifelse(id %in% c(314, 1068, 1074), NA, donor),
          gift_description = ifelse(id %in% c(1068, 1074), NA, gift_description)) %>%
