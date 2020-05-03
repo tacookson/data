@@ -30,4 +30,7 @@ country_adjectives <- countrycode::codelist %>%
   stringdist_inner_join(adjectives_table, by = c("regex" = "country_lower"), max_dist = 1.5) %>%
   select(country, country_lower, adjective)
 
+# Create character vector if using country names and adjectives as stop words
+country_stop_words <- c(adjectives_table$country_lower, adjectives_table$adjective)
+
 rm(adjectives_table)
