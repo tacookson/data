@@ -4,6 +4,7 @@ library(tidyverse)
 library(lubridate)
 library(countrycode)
 library(fuzzyjoin)
+library(tidytext)
 
 
 ### Define functions ------------------------------------------------------------------------------

@@ -12,7 +12,7 @@ adjectives_table <- read_html("https://en.wikipedia.org/wiki/List_of_adjectival_
   html_table() %>%
   as_tibble() %>%
   clean_names() %>%
-  select(country_entity_name, adjective = adjectivals) %>%
+  select(country_lower = country_entity_name, adjective = adjectivals) %>%
   # Convert all to lowercase
   mutate_all(~ str_to_lower(.)) %>%
   # Separate multiple adjectivals on the same row
@@ -27,6 +27,7 @@ country_adjectives <- countrycode::codelist %>%
   as_tibble() %>%
   select(country = country.name.en,
          regex = country.name.en.regex) %>%
-  stringdist_inner_join(adjectives_table, by = c("regex" = "country_entity_name"), max_dist = 1.5)
+  stringdist_inner_join(adjectives_table, by = c("regex" = "country_lower"), max_dist = 1.5) %>%
+  select(country, country_lower, adjective)
 
 rm(adjectives_table)
