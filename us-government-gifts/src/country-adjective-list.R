@@ -31,6 +31,11 @@ country_adjectives <- countrycode::codelist %>%
   select(country, country_lower, adjective)
 
 # Create character vector if using country names and adjectives as stop words
-country_stop_words <- c(adjectives_table$country_lower, adjectives_table$adjective)
+# Combines country names from Wikipedia adjectives table and countrycode's codelist
+# It's sloppily implement (lots of duplication), but it's quick enough and gets the output I need!
+country_stop_words <- c(adjectives_table$country_lower,
+                        adjectives_table$adjective,
+                        str_to_lower(countrycode::codelist$country.name.en)) %>%
+  unique()
 
 rm(adjectives_table)
