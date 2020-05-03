@@ -114,8 +114,8 @@ country_list <- as_tibble(countrycode::codelist) %>%
   transmute(donor_country = country.name.en,
             country_regex = country.name.en.regex)
 
-# Final cleaning steps
-gift_notices <- gift_notices_raw %>%
+# Additional cleaning steps
+gift_notices_clean <- gift_notices_raw %>%
   # Add row number as id field
   mutate(id = row_number()) %>%
   # Get rid of any extra whitespace that snuck in
@@ -179,6 +179,21 @@ gift_notices <- gift_notices_raw %>%
   # Remove some duplicate entries that got added when regex matching to country names
   distinct(id, .keep_all = TRUE)
 
+# Fill in additional donor countries based on country adjectivals (e.g., "Italian" for "Italy")
+source("./us-government-gifts/src/country-adjective-list.R")
+
+parsed_countries <- gift_notices_clean %>%
+  select(id, donor_country, donor) %>%
+  unnest_tokens(word, donor) %>%
+  regex_left_join(country_adjectives, by = c("word" = "adjective")) %>%
+  filter(!is.na(adjective),
+         is.na(donor_country)) %>%
+  select(id, country_from_adjective = country)
+
+gift_notices <- gift_notices_clean %>%
+  left_join(parsed_countries, by = "id") %>%
+  mutate(donor_country = ifelse(!is.na(country_from_adjective), country_from_adjective, donor_country)) %>%
+  select(-country_from_adjective)
 
 ### Write to CSV ----------------------------------------------------------------------------------
 write_csv(gift_notices, "./us-government-gifts/gifts.csv")
