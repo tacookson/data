@@ -1,4 +1,4 @@
-# U.S. Government Gifts
+# U.S. Diplomatic Gifts
 
 
 
@@ -24,6 +24,7 @@ Cornell Law School has the text of the [part of the U.S. Code](https://www.law.c
 
 | variable         | class     | description                                                  |
 | :--------------- | :-------- | :----------------------------------------------------------- |
+| id               | integer   | Unique identifier -- doesn't have any real-world meaning     |
 | recipient        | character | Name and/or title of gift recipient                          |
 | agency_name      | character | Agency that the recipient is associated with                 |
 | year_received    | double    | Year the gift was received. Based on `date_received` if available, otherwise based on reporting year of the source document. |

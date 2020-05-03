@@ -169,6 +169,8 @@ gift_notices <- gift_notices_raw %>%
                                  TRUE ~ agency_name),
          agency_name = str_remove(agency_name, "^The "),
          agency_name = str_replace(agency_name, "Department of the", "Department of")) %>%
+  # Replacing mis-parsed "<gr-thn-eq>" with quotation mark symbol " (because it appears to represent inches, indicated by ")
+  mutate(gift_description = str_replace_all(gift_description, "<gr ?- ?thn ?- ?eq>", "\"")) %>%
   # Manually cleaning 3 entries that did not parse correctly
   mutate(donor = ifelse(id %in% c(314, 1068, 1074), NA, donor),
          gift_description = ifelse(id %in% c(1068, 1074), NA, gift_description)) %>%
