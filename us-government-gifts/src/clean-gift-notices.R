@@ -1,5 +1,5 @@
 
-# Load libraries
+# Load libraries ----------------------------------------------------------------------------------
 library(tidyverse)
 library(lubridate)
 library(countrycode)
@@ -117,6 +117,8 @@ country_list <- as_tibble(countrycode::codelist) %>%
 
 # Additional cleaning steps
 gift_notices_clean <- gift_notices_raw %>%
+  # Filter out entries that I can't figure out parsing for
+  filter(!row_number() %in% c(1064:1077, 1536, 2498, 3914, 4565, 5123, 5651, 6150, 7128, 7763, 7905)) %>%
   # Add row number as id field
   mutate(id = row_number()) %>%
   # Get rid of any extra whitespace that snuck in
@@ -179,6 +181,7 @@ gift_notices_clean <- gift_notices_raw %>%
   select(id, recipient, agency_name, year_received, date_received, donor, donor_country, gift_description, value_usd, justification) %>%
   # Remove some duplicate entries that got added when regex matching to country names
   distinct(id, .keep_all = TRUE)
+
 
 # Fill in additional donor countries based on country adjectivals (e.g., "Italian" for "Italy")
 source("./us-government-gifts/src/country-adjective-list.R")
