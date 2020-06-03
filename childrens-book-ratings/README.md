@@ -10,8 +10,7 @@ Data is meant to feed into a blog post on empirical Bayes estimation on [alexcoo
 
 | variable              | class     | description                                                  |
 | :-------------------- | :-------- | :----------------------------------------------------------- |
-| isbn10                | character | Ten-digit ISBN (International Standard Book Number)          |
-| isbn13                | character | Thirteen-digit ISBN (International Standard Book Number)     |
+| isbn                  | character | Ten-digit ISBN (International Standard Book Number)          |
 | title                 | character | Book title                                                   |
 | author                | character | Book author, illustrator, translator, etc.                   |
 | description           | character | Brief description, sometimes only partial and cut off mid-sentence |
