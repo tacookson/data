@@ -16,6 +16,7 @@ Data is meant to feed into a blog post on empirical Bayes estimation on [alexcoo
 | author                | character | Book author, illustrator, translator, etc.                   |
 | description           | character | Brief description, sometimes only partial and cut off mid-sentence |
 | cover                 | character | Cover type (e.g., hardcover, paperback)                      |
+| pages                 | double    | Number of pages                                              |
 | publisher             | character | Publisher                                                    |
 | original_publish_year | double    | Original year of publishing (if publishing date is different than `publish_year`) |
 | publish_year          | double    | Year of publishing                                           |
