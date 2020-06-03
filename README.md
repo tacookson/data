@@ -28,10 +28,11 @@ Each dataset has its own folder with the following structure. **Bold** text sign
 
 
 
-| Folder                      | Description                                                  |       Status       |
-| --------------------------- | ------------------------------------------------------------ | :----------------: |
-| [`broadway-grosses`](./broadway-grosses)          | Weekly box office grosses from Broadway shows from 1985-2020. Includes weekly grosses, seats sold, and average and top ticket prices for over 1,000 shows. | :heavy_check_mark: |
+| Folder                                                     | Description                                                  |       Status       |
+| ---------------------------------------------------------- | ------------------------------------------------------------ | :----------------: |
+| [`broadway-grosses`](./broadway-grosses)                   | Weekly box office grosses from Broadway shows from 1985-2020. Includes weekly grosses, seats sold, and average and top ticket prices for over 1,000 shows. | :heavy_check_mark: |
+| [`childrens-book-ratings`](./childrens-book-ratings)       | Ratings (1-5) for ~6,000 children's books, as well as title, author, and publishing details. | :heavy_check_mark: |
 | [`caribou-location-tracking`](./caribou-location-tracking) | Time-stamped location tracking of 260 individual caribou from herds in northern British Columbia, Canada, from 1988-2016. Great practice for mapping or animation with `gganimate`. | :heavy_check_mark: |
-| [`himalayan-expeditions`](./himalayan-expeditions)     | Records for over 10,000 expeditions from 1905-2019 that have climbed the Nepal Himalayas (which includes Mt. Everest), like dates, outcomes (success/failure), highpoints reached, and details on individual climbers, like sex, age, citizenship, and (if applicable) cause of injury or death. | :heavy_check_mark: |
-| [`japanese-mascots`](./japanese-mascots)          | *Work in progress.* Records of Japanese mascots (yuru-chara), including name, description, home area latitude and longitude, and (possibly) yuru-chara events. | :heavy_minus_sign: |
-| [`us-government-gifts`](./us-government-gifts)       | Diplomatic gifts foreign governments given to U.S. government employees -- such as when a a foreign leader visits the White House -- from 1999-2018. Includes recipient, donor, gift description, and estimated dollar value. Fun for text mining with a package like `tidytext`. | :heavy_check_mark: |
+| [`himalayan-expeditions`](./himalayan-expeditions)         | Records for over 10,000 expeditions from 1905-2019 that have climbed the Nepal Himalayas (which includes Mt. Everest), like dates, outcomes (success/failure), highpoints reached, and details on individual climbers, like sex, age, citizenship, and (if applicable) cause of injury or death. | :heavy_check_mark: |
+| [`japanese-mascots`](./japanese-mascots)                   | *Work in progress.* Records of Japanese mascots (yuru-chara), including name, description, home area latitude and longitude, and (possibly) yuru-chara events. | :heavy_minus_sign: |
+| [`us-government-gifts`](./us-government-gifts)             | Diplomatic gifts foreign governments given to U.S. government employees -- such as when a a foreign leader visits the White House -- from 1999-2018. Includes recipient, donor, gift description, and estimated dollar value. Fun for text mining with a package like `tidytext`. | :heavy_check_mark: |
