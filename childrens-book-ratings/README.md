@@ -20,6 +20,7 @@ Data is meant to feed into a blog post on empirical Bayes estimation on [alexcoo
 | original_publish_year | double    | Original year of publishing (if publishing date is different than `publish_year`) |
 | publish_year          | double    | Year of publishing                                           |
 | rating                | double    | Mean rating (out of 5)                                       |
+| rating_count          | double    | Number of ratings given (rating_5 + ... + rating_1)          |
 | rating_5              | double    | Number of 5-star ratings                                     |
 | rating_4              | double    | Number of 4-star ratings                                     |
 | rating_3              | double    | Number of 3-star ratings                                     |
