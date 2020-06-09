@@ -9774,21 +9774,3 @@ NA	El pingüino Marcelino de color azul marino	San Julián (Illustrator), Mònic
 0027546330	A Snow Story	Melvin Leavitt	Hardcover	NA	Marcel Dekker	NA	1995	NA	0	0	0	0	0	0
 NA	Draw Comics Here's How	George Leonard Carlson	Hardcover	58	Whitman	NA	1933	NA	0	0	0	0	0	0
 NA	Trolul	Margot Senden (Author), Tineke Lemmens	NA	NA	NA	NA	NA	NA	0	0	0	0	0	0
-044845694X	The Story of Ferdinand	Munro Leaf, Robert Lawson	Paperback	32	Grosset	1936	2011	NA	NA	NA	NA	NA	NA	NA
-0394800133	One Fish, Two Fish, Red Fish, Blue Fish	Dr. Seuss	Hardcover	63	Random House Books for Young Readers	1960	1988	NA	NA	NA	NA	NA	NA	NA
-0395159938	Curious George	H.A. Rey	Hardcover	64	HMH Books for Young Readers	1941	1973	NA	NA	NA	NA	NA	NA	NA
-1629917397	The Little Mermaid	Metaphrog (Author) (Artist), Hans Christian Andersen, Jim Salicrup (Editor)	Hardcover	NA	Papercutz	NA	2017	NA	NA	NA	NA	NA	NA	NA
-0060539194	Beauty and the Beast	Mahlon F. Craft, Kinuko Y. Craft (Illustrator)	Hardcover	32	HarperCollins	NA	2016	NA	NA	NA	NA	NA	NA	NA
-1481479156	Cinderella	Chloe Perkins, Sandra Equihua (Illustrations)	Board Book	24	Little Simon	NA	2016	NA	NA	NA	NA	NA	NA	NA
-1935179624	Hansel and Gretel	Neil Gaiman (Author), Lorenzo Mattotti (Illustrator)	Hardcover	NA	Toon Graphics	1857	2014	NA	NA	NA	NA	NA	NA	NA
-1554537118	Into the Woods	J. Torres (Author), Faith Erin Hicks (Author) (Illustrator)	Hardcover	100	Kids Can	2012	2012	NA	NA	NA	NA	NA	NA	NA
-1937786021	The Conference of the Birds	Rabiah York Lumbard (Author) (Adapter), Demi (Illustrator), Seyyed Hossein Nasr (Foreword)	Hardcover	40	Wisdom Tales	NA	2012	NA	NA	NA	NA	NA	NA	NA
-1841352365	The Water Babies	Charles Kingsley, Jane Carruth (Editor)	Hardcover	NA	Award Publications	1863	2012	NA	NA	NA	NA	NA	NA	NA
-1423111869	Hansel and Gretel	Cynthia Rylant, Jen Corace (Author) (Illustrator)	Hardcover	40	Hyperion Books for Children	NA	2008	NA	NA	NA	NA	NA	NA	NA
-0060759682	The Book of Dragons	Michael Hague	Paperback	146	HarperCollins Publishers	1995	2005	NA	NA	NA	NA	NA	NA	NA
-0590978012	The Party	Barbara Reid (Author)	Hardcover	32	Scholastic	NA	1999	NA	NA	NA	NA	NA	NA	NA
-0525461523	Hansel and Gretel	Rika Lesser (Retold by), Paul O. Zelinsky (Illustrator)	Hardcover	48	Dutton Books for Young Readers	1984	1999	NA	NA	NA	NA	NA	NA	NA
-0805057935	Rapunzel	Alix Berenzy (Retold by)	Paperback	32	Henry Holt and Co	1995	1998	NA	NA	NA	NA	NA	NA	NA
-0440408474	Emma	Wendy Kesselman, Barbara Cooney	Paperback	32	Dragonfly	1980	1993	NA	NA	NA	NA	NA	NA	NA
-0836249194	Beauty and the Beast	Samantha Easton (Adapter), Ruth Sanderson (Illustrator)	Hardcover	32	Andrews McMeel Publishing	NA	1992	NA	NA	NA	NA	NA	NA	NA
-0671783971	Dragon	Wayne Anderson (Author)	Hardcover	32	Simon	1992	1992	NA	NA	NA	NA	NA	NA	NA
