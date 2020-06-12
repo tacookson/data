@@ -5202,7 +5202,6 @@ isbn	title	author	cover	pages	publisher	original_publish_year	publish_year	ratin
 1101996447	Max Explains Everything: Grocery Store Expert	Stacy McAnulty (Author), Deborah Hocking (Author) (Illustrator)	Hardcover	32	GP Putnam	NA	2018	3.7	242	48	97	76	19	2
 1442465115	We Love You, Rosie!	Cynthia Rylant, Linda Davick (Illustrations)	Hardcover	48	Beach Lane	NA	2017	3.4899999999999998	242	36	66	121	19	0
 0679435824	Poetry for Cats: The Definitive Anthology of Distinguished Feline Verse	Henry N. Beard, Gary Zamchick (Illustrator)	Hardcover	96	Villard	NA	1994	4.119999999999999	242	97	86	51	6	2
-1091165424	The Genius Mind of an Anti-Vaxxer: Truth Unleashed	Sharon Storm	Paperback	104	Independently Published	NA	2019	4.96	242	239	1	0	0	2
 0062689886	Everybody Says Meow	Constance Lombardo (Author)	Hardcover	32	HarperCollins	NA	2019	4	241	84	90	55	8	4
 1939547172	A Wilcox and Griswold Mystery: The Case of the Missing Carrot Cake	Robin Newman (Author), Deborah Zemke (Illustrations)	Hardcover	40	Creston	NA	2015	4.109999999999999	241	110	65	53	9	4
 0399256881	The Amazing Hamweenie	Patty Bowman	Hardcover	32	Philomel	NA	2012	3.8899999999999997	241	76	90	53	16	6
@@ -5255,7 +5254,6 @@ isbn	title	author	cover	pages	publisher	original_publish_year	publish_year	ratin
 0545880157	Billy Bloo is Stuck in Goo	Jennifer Hamburg, Ross Burach (Illustrator)	Hardcover	32	Scholastic	NA	2017	3.74	234	49	89	82	14	0
 1404867864	Bear Says Thank You	Michael Dahl, Oriol Vidal (Illustrator)	Board Book	18	Picture Window	NA	2011	3.8299999999999996	234	61	84	77	12	0
 0823406172	An Early American Christmas	Tomie dePaola	Hardcover	32	Holiday House	1987	1987	3.9099999999999997	234	62	100	63	7	2
-1091418012	55 Celebrities With Anxiety: The Secret Weapon Cure That Is Being Concealed	Sharon Storm	Paperback	28	Independently Published	NA	2019	4.99	234	233	0	0	1	0
 1401233104	Tiny Titans, Volume 6: The Treehouse and Beyond!	Art Baltazar, Franco	Paperback	NA	DC Comics	2011	2011	4.21	234	108	78	39	7	2
 0140503250	Just Me	Marie Hall Ets	Paperback	32	Puffin	1965	1978	3.8	234	70	75	66	19	4
 0714874086	Before & After	Jean Jullien	Board Book	40	Phaidon	NA	2017	3.9499999999999997	233	78	86	52	14	3
