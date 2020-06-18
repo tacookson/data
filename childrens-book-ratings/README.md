@@ -1,6 +1,11 @@
 # Children's Book Ratings
 
-Data is meant to feed into a blog post on empirical Bayes estimation on [alexcookson.com](https://www.alexcookson.com).
+Data is meant to feed into a [blog post](https://www.alexcookson.com/post/rating-childrens-books-with-empirical-bayes-estimation/) on empirical Bayes estimation on my website, [alexcookson.com](https://www.alexcookson.com).
+
+There are multiple files:
+
+- `childrens-books.txt`: books, some metadata (e.g., cover type, publisher) and unadjusted ratings
+- `childrens-books-empirical-bayes-estimate.txt`: books, unadjusted ratings, and empirical Bayes estimates of ratings
 
 
 
