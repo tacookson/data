@@ -5,7 +5,7 @@ Data is meant to feed into a [blog post](https://www.alexcookson.com/post/rating
 There are multiple files:
 
 - `childrens-books.txt`: books, some metadata (e.g., cover type, publisher) and unadjusted ratings
-- `childrens-books-empirical-bayes-estimate.txt`: books, unadjusted ratings, and empirical Bayes estimates of ratings
+- `childrens-books-empirical-bayes-ratings.txt`: books, unadjusted ratings, and empirical Bayes estimates of ratings
 
 
 
