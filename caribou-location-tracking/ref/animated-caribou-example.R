@@ -38,13 +38,20 @@ df <- locations %>%
 
 ### Create plot and animation ---------------------------------------------------------------------
 p <- df %>%
-  ggplot(aes(longitude_centroid, latitude_centroid, col = animal_id)) +
+  # Set animal_id to colour aesthetic so that animation knows they are in different groups
+  ggplot(aes(longitude_centroid, latitude_centroid, colour = animal_id)) +
   geom_point(size = 2) +
+  # coord_map() and theme_void() useful for geospatial plotting
   coord_map() +
   theme_void() +
   theme(legend.position = "none") +
+  # transition_time() animates according to different points in time
   transition_time(time = date) +
+  # shadow_mark() leaves caribous' previous locations on the graph
+  # Manually setting to make it more transparent (alpha) and smaller (size) ensures that it doesn't
+  # distract too much from the "current" point in time
   shadow_mark(alpha = 0.2, size = 0.8) +
+  # {frame_time} shows the current date being animated
   ggtitle("Caribou location on {frame_time}")
 
 ### Specify animation parameters ------------------------------------------------------------------
