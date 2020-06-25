@@ -16,7 +16,7 @@ get_translation <- function(origin_text) {
 }
 
 ### Test translation ------------------------------------------------------------------------------
-test_translation <- read_tsv("./japanese-mascots/src/test-for-translating.txt")
+yuru_gp_japanese <- read_tsv("./japanese-mascots/yuru-chara-grand-prix-japanese.txt")
 
 # Single vector
 single_text <- test_translation %>%
@@ -31,6 +31,3 @@ multi_text <- test_translation %>%
 
 result <- multi_text %>%
   mutate(name_english = map(name, get_translation))
-
-result %>%
-  View()

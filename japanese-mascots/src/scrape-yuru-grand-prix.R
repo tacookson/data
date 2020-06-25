@@ -54,15 +54,16 @@ yuru_gp <- yuru_gp_raw %>%
          character_id = parse_number(character_id),
          # Fix rankings to account for there being one category in up to 2016
          # Starting in 2017, there were two categories: area/prefecture and organization
-         ranking_category = ifelse(year <= 2016, "all", ranking_category),
+         category = ifelse(year <= 2016, "all", ranking_category),
          image_url = paste0("https://www.yurugp.jp/", image_url)) %>%
   # Get rid of double entries (e.g., due to category changes in 2017)
   distinct(year, ranking_category, rank, character_id, .keep_all = TRUE) %>%
-  select(-url, -page)
+  # Select desired fields and drop fields used only for scraping
+  select(year:rank, character_id, name:image_url)
 
 
 ### Write to TXT file -----------------------------------------------------------------------------
-write_tsv(yuru_gp, "./japanese-mascots/yuru-chara-grand-prix.txt")
+write_tsv(yuru_gp, "./japanese-mascots/yuru-gp-japanese.txt")
 
 
 
