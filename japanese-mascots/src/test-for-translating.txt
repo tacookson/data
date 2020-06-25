@@ -1,0 +1,699 @@
+year	page	ranking_category	url	rank	name	area	organization	image_url
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	1	くまモン	（熊本県）	熊本県	/img/uploads/character/200/00000001.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	2	いまばり バリィさん	（愛媛県）	第一印刷株式会社	/img/uploads/character/200/00000002.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	3	にしこくん	（東京都）	にしこくんプロジェクト	/img/uploads/character/200/00000003.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	4	与一くん	（栃木県）	大田原市観光協会	/img/uploads/character/200/00000004.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	5	はち丸/だなも/エビザベス	（愛知県）	はち丸事務局	/img/uploads/character/200/00000005.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	6	ふっかちゃん	（埼玉県）	深谷市役所	/img/uploads/character/200/00000006.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	7	モモマルくん	（福岡県）	北九州市人権推進センター	/img/uploads/character/200/00000007.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	8	やなな	（岐阜県）	ひとひとの会(柳ケ瀬商店街)	/img/uploads/character/200/00000008.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	9	滝ノ道ゆずる	（大阪府）	大阪府箕面市	/img/uploads/character/200/00000009.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	10	レルヒさん	（新潟県）	にいがたスキー100年委員会	/img/uploads/character/200/00000010.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	11	ナガラ―	（岐阜県）	シーシーエヌ株式会社	/img/uploads/character/200/00000011.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	12	千梅ちゃん	（福岡県）	太宰府市商工会青年部	/img/uploads/character/200/00000012.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	13	いなッピー	（愛知県）	愛知県稲沢市	/img/uploads/character/200/00000013.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	14	すがもん	（東京都）	巣鴨地蔵通り商店街振興組合	/img/uploads/character/200/00000014.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	15	キャプテン海道くん	（熊本県）	一般社団法人天草宝島観光協会	/img/uploads/character/200/00000015.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	16	いしきりん	（大阪府）	石切参道商店街振興組合	/img/uploads/character/200/00000016.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	17	ミヤリー	（栃木県）	宇都宮市	/img/uploads/character/200/00000017.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	18	群馬県のマスコット「ぐんまちゃん」	（群馬県）	群馬県	/img/uploads/character/200/00000018.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	19	しょうぶパン鬼一	（埼玉県）	菖蒲商工会青年部	/img/uploads/character/200/00000019.jpg
+2011	1	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=1&sort=2	20	さのまる	（栃木県）	佐野市	/img/uploads/character/200/00000020.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	1	くまモン	（熊本県）	熊本県	/img/uploads/character/200/00000001.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	2	いまばり バリィさん	（愛媛県）	第一印刷株式会社	/img/uploads/character/200/00000002.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	3	にしこくん	（東京都）	にしこくんプロジェクト	/img/uploads/character/200/00000003.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	4	与一くん	（栃木県）	大田原市観光協会	/img/uploads/character/200/00000004.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	5	はち丸/だなも/エビザベス	（愛知県）	はち丸事務局	/img/uploads/character/200/00000005.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	6	ふっかちゃん	（埼玉県）	深谷市役所	/img/uploads/character/200/00000006.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	7	モモマルくん	（福岡県）	北九州市人権推進センター	/img/uploads/character/200/00000007.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	8	やなな	（岐阜県）	ひとひとの会(柳ケ瀬商店街)	/img/uploads/character/200/00000008.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	9	滝ノ道ゆずる	（大阪府）	大阪府箕面市	/img/uploads/character/200/00000009.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	10	レルヒさん	（新潟県）	にいがたスキー100年委員会	/img/uploads/character/200/00000010.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	11	ナガラ―	（岐阜県）	シーシーエヌ株式会社	/img/uploads/character/200/00000011.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	12	千梅ちゃん	（福岡県）	太宰府市商工会青年部	/img/uploads/character/200/00000012.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	13	いなッピー	（愛知県）	愛知県稲沢市	/img/uploads/character/200/00000013.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	14	すがもん	（東京都）	巣鴨地蔵通り商店街振興組合	/img/uploads/character/200/00000014.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	15	キャプテン海道くん	（熊本県）	一般社団法人天草宝島観光協会	/img/uploads/character/200/00000015.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	16	いしきりん	（大阪府）	石切参道商店街振興組合	/img/uploads/character/200/00000016.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	17	ミヤリー	（栃木県）	宇都宮市	/img/uploads/character/200/00000017.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	18	群馬県のマスコット「ぐんまちゃん」	（群馬県）	群馬県	/img/uploads/character/200/00000018.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	19	しょうぶパン鬼一	（埼玉県）	菖蒲商工会青年部	/img/uploads/character/200/00000019.jpg
+2011	1	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=1	20	さのまる	（栃木県）	佐野市	/img/uploads/character/200/00000020.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	21	島根県観光キャラクター「しまねっこ」	（島根県）	公益社団法人　島根県観光連盟	/img/uploads/character/200/00000021.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	22	玄武岩の玄	（兵庫県）	豊岡市役所	/img/uploads/character/200/00000022.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	23	とりもっちゃん	（山梨県）	甲府鳥もつ煮でみなさまの縁をとりもつ隊	/img/uploads/character/200/00000023.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	24	とうひょうくん	（群馬県）	館林市選挙管理委員会	/img/uploads/character/200/00000024.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	25	たいしくん	（大阪府）	大阪・太子町	/img/uploads/character/200/00000025.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	26	阿賀野市イメージキャラクター「ごずっちょ」	（新潟県）	阿賀野市	/img/uploads/character/200/00000026.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	27	あゆコロちゃん	（神奈川県）	厚木市	/img/uploads/character/200/00000027.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	28	さばトラななちゃん	（福井県）	小浜商工会議所　ななちゃん友の会	/img/uploads/character/200/00000028.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	29	おけわんこ	（愛知県）	桶狭間古戦場保存会	/img/uploads/character/200/00000029.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	30	ピカリャ～	（沖縄県）	竹富町観光協会	/img/uploads/character/200/00000030.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	31	うなりくん	（千葉県）	成田市観光プロモーション課	/img/uploads/character/200/00000031.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	32	たか丸くん	（青森県）	青森県弘前市観光政策課	/img/uploads/character/200/00000032.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	33	ばっしょくん	（石川県）	能登野菜応援プロジェクト	/img/uploads/character/200/00000033.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	34	和倉温泉わくたまくん	（石川県）	和倉温泉観光協会	/img/uploads/character/200/00000034.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	35	ネージュ	（新潟県）	十日町市　観光交流課	/img/uploads/character/200/00000035.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	36	もち‐うさぎ	（新潟県）	株式会社坂井商店	/img/uploads/character/200/00000036.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	37	浜松市マスコットキャラクター「出世大名家康くん」	（静岡県）	浜松市	/img/uploads/character/200/00000037.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	38	ビバッチェくん	（滋賀県）	ビバシティ専門店街	/img/uploads/character/200/00000038.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	39	みくちゃん	（奈良県）	奈良県大和高田市	/img/uploads/character/200/00000039.jpg
+2011	2	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=2&sort=2	40	コバトン	（埼玉県）	埼玉県	/img/uploads/character/200/00000040.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	21	島根県観光キャラクター「しまねっこ」	（島根県）	公益社団法人　島根県観光連盟	/img/uploads/character/200/00000021.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	22	玄武岩の玄	（兵庫県）	豊岡市役所	/img/uploads/character/200/00000022.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	23	とりもっちゃん	（山梨県）	甲府鳥もつ煮でみなさまの縁をとりもつ隊	/img/uploads/character/200/00000023.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	24	とうひょうくん	（群馬県）	館林市選挙管理委員会	/img/uploads/character/200/00000024.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	25	たいしくん	（大阪府）	大阪・太子町	/img/uploads/character/200/00000025.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	26	阿賀野市イメージキャラクター「ごずっちょ」	（新潟県）	阿賀野市	/img/uploads/character/200/00000026.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	27	あゆコロちゃん	（神奈川県）	厚木市	/img/uploads/character/200/00000027.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	28	さばトラななちゃん	（福井県）	小浜商工会議所　ななちゃん友の会	/img/uploads/character/200/00000028.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	29	おけわんこ	（愛知県）	桶狭間古戦場保存会	/img/uploads/character/200/00000029.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	30	ピカリャ～	（沖縄県）	竹富町観光協会	/img/uploads/character/200/00000030.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	31	うなりくん	（千葉県）	成田市観光プロモーション課	/img/uploads/character/200/00000031.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	32	たか丸くん	（青森県）	青森県弘前市観光政策課	/img/uploads/character/200/00000032.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	33	ばっしょくん	（石川県）	能登野菜応援プロジェクト	/img/uploads/character/200/00000033.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	34	和倉温泉わくたまくん	（石川県）	和倉温泉観光協会	/img/uploads/character/200/00000034.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	35	ネージュ	（新潟県）	十日町市　観光交流課	/img/uploads/character/200/00000035.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	36	もち‐うさぎ	（新潟県）	株式会社坂井商店	/img/uploads/character/200/00000036.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	37	浜松市マスコットキャラクター「出世大名家康くん」	（静岡県）	浜松市	/img/uploads/character/200/00000037.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	38	ビバッチェくん	（滋賀県）	ビバシティ専門店街	/img/uploads/character/200/00000038.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	39	みくちゃん	（奈良県）	奈良県大和高田市	/img/uploads/character/200/00000039.jpg
+2011	2	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=2	40	コバトン	（埼玉県）	埼玉県	/img/uploads/character/200/00000040.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	41	パイプル君	（埼玉県）	アロハガス株式会社	/img/uploads/character/200/00000041.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	42	ホシーワン	（千葉県）	千葉ショッピングセンターC-one	/img/uploads/character/200/00000042.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	43	へしこちゃん	（福井県）	美浜町観光協会	/img/uploads/character/200/00000043.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	44	アックマ	（北海道）	コアックマプロジェクト	/img/uploads/character/200/00000044.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	45	ゾウキリン	（埼玉県）	新座市役所観光推進課	/img/uploads/character/200/00000045.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	46	丹波竜のちーたん	（兵庫県）	丹波市	/img/uploads/character/200/00000046.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	47	むすび丸	（宮城県）	仙台・宮城観光キャンペーン推進協議会	/img/uploads/character/200/00000047.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	48	明智かめまる	（京都府）	亀岡市観光戦略課	/img/uploads/character/200/00000048.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	49	唐ワンくん	（佐賀県）	唐津市	/img/uploads/character/200/00000049.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	50	あさっぴー	（北海道）	旭川市	/img/uploads/character/200/00000050.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	51	あいちゃん	（愛知県）	株式会社アイ・シー・シー	/img/uploads/character/200/00000051.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	52	あやめ	（茨城県）	潮来市	/img/uploads/character/200/00000052.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	53	きみぴょん	（千葉県）	君津市	/img/uploads/character/200/00000053.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	54	きんたくん	（兵庫県）	川西市	/img/uploads/character/200/00000054.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	55	ちま吉	（滋賀県）		/img/uploads/character/200/00000055.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	56	いがまんちゃん	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000056.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	57	ケキョきち	（岩手県）	鴬宿温泉観光協会	/img/uploads/character/200/00000057.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	58	まゆまろ	（京都府）	京都府	/img/uploads/character/200/00000058.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	59	よしみん	（埼玉県）	ゆる玉応援団よしみんサポート委員会	/img/uploads/character/200/00000059.jpg
+2011	3	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=3&sort=2	60	やっぷー	（兵庫県）	やぶ市観光協会	/img/uploads/character/200/00000060.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	41	パイプル君	（埼玉県）	アロハガス株式会社	/img/uploads/character/200/00000041.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	42	ホシーワン	（千葉県）	千葉ショッピングセンターC-one	/img/uploads/character/200/00000042.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	43	へしこちゃん	（福井県）	美浜町観光協会	/img/uploads/character/200/00000043.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	44	アックマ	（北海道）	コアックマプロジェクト	/img/uploads/character/200/00000044.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	45	ゾウキリン	（埼玉県）	新座市役所観光推進課	/img/uploads/character/200/00000045.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	46	丹波竜のちーたん	（兵庫県）	丹波市	/img/uploads/character/200/00000046.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	47	むすび丸	（宮城県）	仙台・宮城観光キャンペーン推進協議会	/img/uploads/character/200/00000047.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	48	明智かめまる	（京都府）	亀岡市観光戦略課	/img/uploads/character/200/00000048.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	49	唐ワンくん	（佐賀県）	唐津市	/img/uploads/character/200/00000049.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	50	あさっぴー	（北海道）	旭川市	/img/uploads/character/200/00000050.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	51	あいちゃん	（愛知県）	株式会社アイ・シー・シー	/img/uploads/character/200/00000051.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	52	あやめ	（茨城県）	潮来市	/img/uploads/character/200/00000052.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	53	きみぴょん	（千葉県）	君津市	/img/uploads/character/200/00000053.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	54	きんたくん	（兵庫県）	川西市	/img/uploads/character/200/00000054.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	55	ちま吉	（滋賀県）		/img/uploads/character/200/00000055.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	56	いがまんちゃん	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000056.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	57	ケキョきち	（岩手県）	鴬宿温泉観光協会	/img/uploads/character/200/00000057.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	58	まゆまろ	（京都府）	京都府	/img/uploads/character/200/00000058.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	59	よしみん	（埼玉県）	ゆる玉応援団よしみんサポート委員会	/img/uploads/character/200/00000059.jpg
+2011	3	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=3	60	やっぷー	（兵庫県）	やぶ市観光協会	/img/uploads/character/200/00000060.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	61	わたる	（兵庫県）	本州四国連絡高速道路	/img/uploads/character/200/00000061.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	62	市川三郷レンジャー（にんにん・どんどん・ぽんぽん）	（山梨県）	市川三郷町	/img/uploads/character/200/00000062.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	63	カブッキー	（石川県）	石川県小松市	/img/uploads/character/200/00000063.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	64	びわこぐま	（滋賀県）	株式会社フエンテ	/img/uploads/character/200/00000064.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	65	わん丸君	（愛知県）	犬山市観光協会	/img/uploads/character/200/00000065.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	66	いなりん	（愛知県）	豊川市観光協会	/img/uploads/character/200/00000066.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	67	はばタン	（兵庫県）	兵庫県	/img/uploads/character/200/00000067.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	68	かさまるくん・かさまるちゃん	（岐阜県）	笠松町役場	/img/uploads/character/200/00000068.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	69	きーほくん	（三重県）	紀北町観光協会	/img/uploads/character/200/00000069.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	70	すいたん	（大阪府）	吹田市	/img/uploads/character/200/00000070.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	71	つなが竜ヌゥ	（埼玉県）	さいたま市	/img/uploads/character/200/00000071.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	72	ブコーさん	（埼玉県）	横瀬町	/img/uploads/character/200/00000072.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	73	いなぼう	（兵庫県）	猪名川町	/img/uploads/character/200/00000073.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	74	むきぱんだ	（鳥取県）	大山町	/img/uploads/character/200/00000074.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	75	ニャオざね	（埼玉県）	熊谷市市民部市民活動推進課　	/img/uploads/character/200/00000075.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	76	ムズムズ	（富山県）	富山県射水市	/img/uploads/character/200/00000076.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	77	くらわんこ	（大阪府）	特定非営利活動法人　枚方文化観光協会	/img/uploads/character/200/00000077.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	78	やらにゃん	（新潟県）	胎内検定実行委員会	/img/uploads/character/200/00000078.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	79	あいづじげん	（福島県）	会津美里町	/img/uploads/character/200/00000079.jpg
+2011	4	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=4&sort=2	80	えんむちゃん	（埼玉県）	くまがや市商工会	/img/uploads/character/200/00000080.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	61	わたる	（兵庫県）	本州四国連絡高速道路	/img/uploads/character/200/00000061.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	62	市川三郷レンジャー（にんにん・どんどん・ぽんぽん）	（山梨県）	市川三郷町	/img/uploads/character/200/00000062.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	63	カブッキー	（石川県）	石川県小松市	/img/uploads/character/200/00000063.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	64	びわこぐま	（滋賀県）	株式会社フエンテ	/img/uploads/character/200/00000064.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	65	わん丸君	（愛知県）	犬山市観光協会	/img/uploads/character/200/00000065.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	66	いなりん	（愛知県）	豊川市観光協会	/img/uploads/character/200/00000066.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	67	はばタン	（兵庫県）	兵庫県	/img/uploads/character/200/00000067.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	68	かさまるくん・かさまるちゃん	（岐阜県）	笠松町役場	/img/uploads/character/200/00000068.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	69	きーほくん	（三重県）	紀北町観光協会	/img/uploads/character/200/00000069.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	70	すいたん	（大阪府）	吹田市	/img/uploads/character/200/00000070.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	71	つなが竜ヌゥ	（埼玉県）	さいたま市	/img/uploads/character/200/00000071.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	72	ブコーさん	（埼玉県）	横瀬町	/img/uploads/character/200/00000072.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	73	いなぼう	（兵庫県）	猪名川町	/img/uploads/character/200/00000073.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	74	むきぱんだ	（鳥取県）	大山町	/img/uploads/character/200/00000074.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	75	ニャオざね	（埼玉県）	熊谷市市民部市民活動推進課　	/img/uploads/character/200/00000075.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	76	ムズムズ	（富山県）	富山県射水市	/img/uploads/character/200/00000076.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	77	くらわんこ	（大阪府）	特定非営利活動法人　枚方文化観光協会	/img/uploads/character/200/00000077.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	78	やらにゃん	（新潟県）	胎内検定実行委員会	/img/uploads/character/200/00000078.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	79	あいづじげん	（福島県）	会津美里町	/img/uploads/character/200/00000079.jpg
+2011	4	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=4	80	えんむちゃん	（埼玉県）	くまがや市商工会	/img/uploads/character/200/00000080.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	81	やきっピ	（秋田県）	横手やきそば研究会	/img/uploads/character/200/00000081.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	82	ポチ武者こじゅーろう	（宮城県）	宮城県白石市	/img/uploads/character/200/00000082.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	83	こゆりちゃん	（福島県）	福島県西会津町	/img/uploads/character/200/00000083.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	84	かねたんＳ『愛と義の四人衆』	（山形県）	一般社団法人米沢観光コンベンション協会	/img/uploads/character/200/00000084.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	85	縁丸	（福井県）	出雲記念（株）	/img/uploads/character/200/00000085.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	86	戸越銀次郎	（東京都）	戸越銀座商店街連合組合	/img/uploads/character/200/00000086.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	87	シロモチくん	（三重県）	津市観光協会	/img/uploads/character/200/00000087.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	88	ニャモタン	（青森県）	(株)ムジコ・クリエイト モータースクール	/img/uploads/character/200/00000088.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	89	ハッスル黄門	（茨城県）	茨城県	/img/uploads/character/200/00000089.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	90	ミムリン	（埼玉県）	埼玉県美里町	/img/uploads/character/200/00000090.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	91	ブットンくん	（大阪府）	真宗大谷派(東本願寺)大阪教区	/img/uploads/character/200/00000091.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	92	ふくまるくん	（大阪府）	池田市	/img/uploads/character/200/00000092.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	93	はにぽん	（埼玉県）	埼玉県本庄市	/img/uploads/character/200/00000093.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	94	ほろんちゃん	（北海道）	上士幌町	/img/uploads/character/200/00000094.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	95	マジャッキー	（熊本県）	荒尾市	/img/uploads/character/200/00000095.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	96	ころう君	（熊本県）	熊本県	/img/uploads/character/200/00000096.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	97	もろ丸くん	（埼玉県）	毛呂山町	/img/uploads/character/200/00000097.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	98	イナゴージャス	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000098.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	99	大野ジョー	（福岡県）	福岡県大野城市	/img/uploads/character/200/00000099.jpg
+2011	5	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=5&sort=2	100	フルーツ王国の仲間たち	（和歌山県）	かつらぎ町	/img/uploads/character/200/00000100.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	81	やきっピ	（秋田県）	横手やきそば研究会	/img/uploads/character/200/00000081.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	82	ポチ武者こじゅーろう	（宮城県）	宮城県白石市	/img/uploads/character/200/00000082.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	83	こゆりちゃん	（福島県）	福島県西会津町	/img/uploads/character/200/00000083.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	84	かねたんＳ『愛と義の四人衆』	（山形県）	一般社団法人米沢観光コンベンション協会	/img/uploads/character/200/00000084.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	85	縁丸	（福井県）	出雲記念（株）	/img/uploads/character/200/00000085.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	86	戸越銀次郎	（東京都）	戸越銀座商店街連合組合	/img/uploads/character/200/00000086.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	87	シロモチくん	（三重県）	津市観光協会	/img/uploads/character/200/00000087.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	88	ニャモタン	（青森県）	(株)ムジコ・クリエイト モータースクール	/img/uploads/character/200/00000088.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	89	ハッスル黄門	（茨城県）	茨城県	/img/uploads/character/200/00000089.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	90	ミムリン	（埼玉県）	埼玉県美里町	/img/uploads/character/200/00000090.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	91	ブットンくん	（大阪府）	真宗大谷派(東本願寺)大阪教区	/img/uploads/character/200/00000091.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	92	ふくまるくん	（大阪府）	池田市	/img/uploads/character/200/00000092.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	93	はにぽん	（埼玉県）	埼玉県本庄市	/img/uploads/character/200/00000093.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	94	ほろんちゃん	（北海道）	上士幌町	/img/uploads/character/200/00000094.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	95	マジャッキー	（熊本県）	荒尾市	/img/uploads/character/200/00000095.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	96	ころう君	（熊本県）	熊本県	/img/uploads/character/200/00000096.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	97	もろ丸くん	（埼玉県）	毛呂山町	/img/uploads/character/200/00000097.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	98	イナゴージャス	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000098.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	99	大野ジョー	（福岡県）	福岡県大野城市	/img/uploads/character/200/00000099.jpg
+2011	5	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=5	100	フルーツ王国の仲間たち	（和歌山県）	かつらぎ町	/img/uploads/character/200/00000100.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	101	武者丸	（岐阜県）		/img/uploads/character/200/00000101.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	102	まっくん・あゆみん	（埼玉県）	東松山市	/img/uploads/character/200/00000102.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	103	ササダンゴン	（新潟県）	新潟応援団☆笹だんごの会	/img/uploads/character/200/00000103.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	104	ぎんにゃん	（滋賀県）	滋賀県立彦根東高等学校	/img/uploads/character/200/00000104.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	105	なみすけ	（東京都）	杉並区	/img/uploads/character/200/00000105.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	106	やちにゃん	（滋賀県）	ＬＬＣひこらぼ	/img/uploads/character/200/00000106.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	107	ミョーコーさん	（新潟県）	妙高市　観光商工課	/img/uploads/character/200/00000107.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	108	ハンバーグマのグーグー	（静岡県）	食べよう!!ハンバーグの会	/img/uploads/character/200/00000108.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	109	ザリガニータ	（新潟県）	ガッタープロジェクト	/img/uploads/character/200/00000109.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	110	おいでちゃん	（群馬県）	水上温泉旅館協同組合	/img/uploads/character/200/00000110.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	111	ふくしまから はじめよう。キビタン	（福島県）	福島県	/img/uploads/character/200/00000111.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	112	宮坊・チャミー	（三重県）	大台町	/img/uploads/character/200/00000112.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	113	ひょこたん	（香川県）	高松兵庫町商店街振興組合	/img/uploads/character/200/00000113.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	114	杉戸町マスコットキャラクターすぎぴょん・すぎたろう	（埼玉県）	杉戸町	/img/uploads/character/200/00000114.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	115	サケリン	（新潟県）	新潟県村上市	/img/uploads/character/200/00000115.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	116	ゴーヤ先生	（京都府）	福知山環境会議	/img/uploads/character/200/00000116.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	117	ぶるべー	（東京都）	小平ブルーベリー協議会	/img/uploads/character/200/00000117.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	118	オケちゃん	（埼玉県）	(一社)桶川市観光協会	/img/uploads/character/200/00000118.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	119	マッキー	（大阪府）	松原市	/img/uploads/character/200/00000119.jpg
+2011	6	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=6&sort=2	120	前橋市マスコットキャラクター「ころとん」	（群馬県）	群馬県前橋市	/img/uploads/character/200/00000120.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	101	武者丸	（岐阜県）		/img/uploads/character/200/00000101.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	102	まっくん・あゆみん	（埼玉県）	東松山市	/img/uploads/character/200/00000102.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	103	ササダンゴン	（新潟県）	新潟応援団☆笹だんごの会	/img/uploads/character/200/00000103.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	104	ぎんにゃん	（滋賀県）	滋賀県立彦根東高等学校	/img/uploads/character/200/00000104.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	105	なみすけ	（東京都）	杉並区	/img/uploads/character/200/00000105.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	106	やちにゃん	（滋賀県）	ＬＬＣひこらぼ	/img/uploads/character/200/00000106.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	107	ミョーコーさん	（新潟県）	妙高市　観光商工課	/img/uploads/character/200/00000107.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	108	ハンバーグマのグーグー	（静岡県）	食べよう!!ハンバーグの会	/img/uploads/character/200/00000108.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	109	ザリガニータ	（新潟県）	ガッタープロジェクト	/img/uploads/character/200/00000109.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	110	おいでちゃん	（群馬県）	水上温泉旅館協同組合	/img/uploads/character/200/00000110.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	111	ふくしまから はじめよう。キビタン	（福島県）	福島県	/img/uploads/character/200/00000111.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	112	宮坊・チャミー	（三重県）	大台町	/img/uploads/character/200/00000112.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	113	ひょこたん	（香川県）	高松兵庫町商店街振興組合	/img/uploads/character/200/00000113.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	114	杉戸町マスコットキャラクターすぎぴょん・すぎたろう	（埼玉県）	杉戸町	/img/uploads/character/200/00000114.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	115	サケリン	（新潟県）	新潟県村上市	/img/uploads/character/200/00000115.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	116	ゴーヤ先生	（京都府）	福知山環境会議	/img/uploads/character/200/00000116.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	117	ぶるべー	（東京都）	小平ブルーベリー協議会	/img/uploads/character/200/00000117.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	118	オケちゃん	（埼玉県）	(一社)桶川市観光協会	/img/uploads/character/200/00000118.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	119	マッキー	（大阪府）	松原市	/img/uploads/character/200/00000119.jpg
+2011	6	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=6	120	前橋市マスコットキャラクター「ころとん」	（群馬県）	群馬県前橋市	/img/uploads/character/200/00000120.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	121	たべんばくん	（佐賀県）		/img/uploads/character/200/00000121.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	122	せとちゃん	（愛知県）	瀬戸市まるっとミュージアム・観光協会	/img/uploads/character/200/00000122.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	123	わ鐵のわっしー	（群馬県）	わたらせ渓谷鐵道株式会社	/img/uploads/character/200/00000123.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	124	はちかづきちゃん	（大阪府）	寝屋川市	/img/uploads/character/200/00000124.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	125	すべっ太クン	（新潟県）	わかぶな高原スキー場（駅川村観光協会）	/img/uploads/character/200/00000125.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	126	ほたるの妖精　もーりー	（滋賀県）	守山商工会議所	/img/uploads/character/200/00000126.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	127	けーぶるん	（福井県）		/img/uploads/character/200/00000127.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	128	出汁之介	（北海道）	稚内観光協会青年部	/img/uploads/character/200/00000128.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	129	歯－ト・エンジェル	（埼玉県）	羽生市立西中学校	/img/uploads/character/200/00000129.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	130	にゃんたろう	（石川県）	かほく市	/img/uploads/character/200/00000130.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	131	おいらくん	（青森県）	青森県　おいらせ町	/img/uploads/character/200/00000131.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	132	かいくん	（愛知県）	貝づくし渥美事業委員会	/img/uploads/character/200/00000132.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	133	さくらゆいちゃん	（静岡県）	由比町商工会	/img/uploads/character/200/00000133.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	134	ブリカツくん	（新潟県）	佐渡ご当地グルメ普及促進協議会	/img/uploads/character/200/00000134.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	135	もーにくん、もーにちゃん	（愛媛県）	宇和島商工会議所	/img/uploads/character/200/00000135.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	136	ぽんちゃん	（群馬県）	館林市	/img/uploads/character/200/00000136.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	137	トヨッキー	（愛知県）	豊橋市	/img/uploads/character/200/00000137.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	138	ふなやん	（京都府）	伊根町観光協会	/img/uploads/character/200/00000138.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	139	ぴっかりちゃん	（長野県）	辰野町	/img/uploads/character/200/00000139.jpg
+2011	7	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=7&sort=2	140	たっけー☆☆	（東京都）	福生市	/img/uploads/character/200/00000140.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	121	たべんばくん	（佐賀県）		/img/uploads/character/200/00000121.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	122	せとちゃん	（愛知県）	瀬戸市まるっとミュージアム・観光協会	/img/uploads/character/200/00000122.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	123	わ鐵のわっしー	（群馬県）	わたらせ渓谷鐵道株式会社	/img/uploads/character/200/00000123.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	124	はちかづきちゃん	（大阪府）	寝屋川市	/img/uploads/character/200/00000124.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	125	すべっ太クン	（新潟県）	わかぶな高原スキー場（駅川村観光協会）	/img/uploads/character/200/00000125.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	126	ほたるの妖精　もーりー	（滋賀県）	守山商工会議所	/img/uploads/character/200/00000126.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	127	けーぶるん	（福井県）		/img/uploads/character/200/00000127.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	128	出汁之介	（北海道）	稚内観光協会青年部	/img/uploads/character/200/00000128.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	129	歯－ト・エンジェル	（埼玉県）	羽生市立西中学校	/img/uploads/character/200/00000129.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	130	にゃんたろう	（石川県）	かほく市	/img/uploads/character/200/00000130.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	131	おいらくん	（青森県）	青森県　おいらせ町	/img/uploads/character/200/00000131.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	132	かいくん	（愛知県）	貝づくし渥美事業委員会	/img/uploads/character/200/00000132.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	133	さくらゆいちゃん	（静岡県）	由比町商工会	/img/uploads/character/200/00000133.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	134	ブリカツくん	（新潟県）	佐渡ご当地グルメ普及促進協議会	/img/uploads/character/200/00000134.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	135	もーにくん、もーにちゃん	（愛媛県）	宇和島商工会議所	/img/uploads/character/200/00000135.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	136	ぽんちゃん	（群馬県）	館林市	/img/uploads/character/200/00000136.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	137	トヨッキー	（愛知県）	豊橋市	/img/uploads/character/200/00000137.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	138	ふなやん	（京都府）	伊根町観光協会	/img/uploads/character/200/00000138.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	139	ぴっかりちゃん	（長野県）	辰野町	/img/uploads/character/200/00000139.jpg
+2011	7	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=7	140	たっけー☆☆	（東京都）	福生市	/img/uploads/character/200/00000140.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	141	ゴーちゃん	（三重県）	一般社団法人津市観光協会	/img/uploads/character/200/00000141.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	142	トマピー	（埼玉県）	戸田市ボランティア・市民活動支援センター	/img/uploads/character/200/00000142.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	143	おいちごちゃん・ながまちゃくん	（滋賀県）	長江市 浅井商工会議所	/img/uploads/character/200/00000143.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	144	多久翁さん	（佐賀県）	多久市	/img/uploads/character/200/00000144.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	144	はね丸	（福岡県）	筑後市役所　商工観光課	/img/uploads/character/200/00000145.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	146	メロン熊	（北海道）	（有）ワカサ観光物産	/img/uploads/character/200/00000146.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	147	トマトン	（広島県）	横川商店街	/img/uploads/character/200/00000147.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	148	ニャジロウ	（秋田県）	ニャッパゲ事務局	/img/uploads/character/200/00000148.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	148	フカニャン	（埼玉県）	埼玉工業大学	/img/uploads/character/200/00000149.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	150	テレビ父さん	（北海道）	さっぽろテレビ塔	/img/uploads/character/200/00000150.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	151	いが☆グリオ	（三重県）	いが☆グリオ実行委員会	/img/uploads/character/200/00000151.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	152	ふくみみ福ちゃん	（兵庫県）	西宮中央商店街　チームふくみみ	/img/uploads/character/200/00000152.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	153	つちまる	（茨城県）	茨城県土浦市	/img/uploads/character/200/00000153.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	154	さくらっきー	（宮城県）	大河原町観光物産協会	/img/uploads/character/200/00000154.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	155	ゆっぴ～	（京都府）	道の駅スプリングスひよし	/img/uploads/character/200/00000155.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	156	あぶらげんしん	（新潟県）	栃尾商工会	/img/uploads/character/200/00000156.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	157	一宮いっちゃん	（千葉県）	一宮町	/img/uploads/character/200/00000157.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	158	みとよん	（香川県）		/img/uploads/character/200/00000158.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	159	トリピー	（鳥取県）	鳥取県	/img/uploads/character/200/00000159.jpg
+2011	8	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=8&sort=2	160	交野市産業PRキャラクターおりひめちゃん	（大阪府）	交野市地域社会部みんなの活力課	/img/uploads/character/200/00000160.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	141	ゴーちゃん	（三重県）	一般社団法人津市観光協会	/img/uploads/character/200/00000141.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	142	トマピー	（埼玉県）	戸田市ボランティア・市民活動支援センター	/img/uploads/character/200/00000142.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	143	おいちごちゃん・ながまちゃくん	（滋賀県）	長江市 浅井商工会議所	/img/uploads/character/200/00000143.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	144	多久翁さん	（佐賀県）	多久市	/img/uploads/character/200/00000144.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	144	はね丸	（福岡県）	筑後市役所　商工観光課	/img/uploads/character/200/00000145.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	146	メロン熊	（北海道）	（有）ワカサ観光物産	/img/uploads/character/200/00000146.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	147	トマトン	（広島県）	横川商店街	/img/uploads/character/200/00000147.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	148	ニャジロウ	（秋田県）	ニャッパゲ事務局	/img/uploads/character/200/00000148.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	148	フカニャン	（埼玉県）	埼玉工業大学	/img/uploads/character/200/00000149.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	150	テレビ父さん	（北海道）	さっぽろテレビ塔	/img/uploads/character/200/00000150.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	151	いが☆グリオ	（三重県）	いが☆グリオ実行委員会	/img/uploads/character/200/00000151.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	152	ふくみみ福ちゃん	（兵庫県）	西宮中央商店街　チームふくみみ	/img/uploads/character/200/00000152.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	153	つちまる	（茨城県）	茨城県土浦市	/img/uploads/character/200/00000153.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	154	さくらっきー	（宮城県）	大河原町観光物産協会	/img/uploads/character/200/00000154.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	155	ゆっぴ～	（京都府）	道の駅スプリングスひよし	/img/uploads/character/200/00000155.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	156	あぶらげんしん	（新潟県）	栃尾商工会	/img/uploads/character/200/00000156.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	157	一宮いっちゃん	（千葉県）	一宮町	/img/uploads/character/200/00000157.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	158	みとよん	（香川県）		/img/uploads/character/200/00000158.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	159	トリピー	（鳥取県）	鳥取県	/img/uploads/character/200/00000159.jpg
+2011	8	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=8	160	交野市産業PRキャラクターおりひめちゃん	（大阪府）	交野市地域社会部みんなの活力課	/img/uploads/character/200/00000160.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	161	はながたベニちゃん	（山形県）	山形市	/img/uploads/character/200/00000161.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	162	キッピー	（兵庫県）		/img/uploads/character/200/00000162.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	163	はるちゃん	（愛知県）	大治町	/img/uploads/character/200/00000163.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	164	としま　ななまる	（東京都）	豊島区	/img/uploads/character/200/00000164.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	165	じーも	（福岡県）	北九州市門司区役所	/img/uploads/character/200/00000165.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	166	もんちゃん	（石川県）	門前町商工会	/img/uploads/character/200/00000166.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	167	ねぎっちょ	（岐阜県）	岐南町役場　自治振興課	/img/uploads/character/200/00000167.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	168	和み柴っこ	（京都府）	京の三条まちづくり協議会	/img/uploads/character/200/00000168.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	169	プチボザウルス	（福岡県）	北九州市社会福祉協議会	/img/uploads/character/200/00000169.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	170	ごみまる	（三重県）	紀北町役場 環境管理課	/img/uploads/character/200/00000170.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	171	デカボー	（兵庫県）	デカンショ祭実行委員会	/img/uploads/character/200/00000171.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	172	コアックマ	（北海道）	コアックマプロジェクト	/img/uploads/character/200/00000172.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	173	えべチュン	（北海道）	えべチュン飼育係	/img/uploads/character/200/00000173.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	174	ぎせつ丸	（岐阜県）	岐雪宅配サービス	/img/uploads/character/200/00000174.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	175	モーリー	（青森県）	青い森鉄道株式会社	/img/uploads/character/200/00000175.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	176	上越忠義隊けんけんず	（新潟県）	新潟県　上越市	/img/uploads/character/200/00000176.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	177	はいくちゃん	（三重県）	いが☆グリオ実行委員会	/img/uploads/character/200/00000177.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	178	静岡県三島市マスコットキャラクター　みしまるくん・みしまるこちゃん	（静岡県）	静岡県三島市	/img/uploads/character/200/00000178.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	179	いしおさん	（茨城県）	石匠の見世蔵組合	/img/uploads/character/200/00000179.jpg
+2011	9	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=9&sort=2	180	うさぽん	（滋賀県）	株式会社チェキポン	/img/uploads/character/200/00000180.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	161	はながたベニちゃん	（山形県）	山形市	/img/uploads/character/200/00000161.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	162	キッピー	（兵庫県）		/img/uploads/character/200/00000162.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	163	はるちゃん	（愛知県）	大治町	/img/uploads/character/200/00000163.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	164	としま　ななまる	（東京都）	豊島区	/img/uploads/character/200/00000164.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	165	じーも	（福岡県）	北九州市門司区役所	/img/uploads/character/200/00000165.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	166	もんちゃん	（石川県）	門前町商工会	/img/uploads/character/200/00000166.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	167	ねぎっちょ	（岐阜県）	岐南町役場　自治振興課	/img/uploads/character/200/00000167.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	168	和み柴っこ	（京都府）	京の三条まちづくり協議会	/img/uploads/character/200/00000168.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	169	プチボザウルス	（福岡県）	北九州市社会福祉協議会	/img/uploads/character/200/00000169.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	170	ごみまる	（三重県）	紀北町役場 環境管理課	/img/uploads/character/200/00000170.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	171	デカボー	（兵庫県）	デカンショ祭実行委員会	/img/uploads/character/200/00000171.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	172	コアックマ	（北海道）	コアックマプロジェクト	/img/uploads/character/200/00000172.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	173	えべチュン	（北海道）	えべチュン飼育係	/img/uploads/character/200/00000173.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	174	ぎせつ丸	（岐阜県）	岐雪宅配サービス	/img/uploads/character/200/00000174.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	175	モーリー	（青森県）	青い森鉄道株式会社	/img/uploads/character/200/00000175.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	176	上越忠義隊けんけんず	（新潟県）	新潟県　上越市	/img/uploads/character/200/00000176.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	177	はいくちゃん	（三重県）	いが☆グリオ実行委員会	/img/uploads/character/200/00000177.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	178	静岡県三島市マスコットキャラクター　みしまるくん・みしまるこちゃん	（静岡県）	静岡県三島市	/img/uploads/character/200/00000178.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	179	いしおさん	（茨城県）	石匠の見世蔵組合	/img/uploads/character/200/00000179.jpg
+2011	9	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=9	180	うさぽん	（滋賀県）	株式会社チェキポン	/img/uploads/character/200/00000180.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	181	高田地区キャラクターたかたん	（神奈川県）	横浜市港北区高田地区	/img/uploads/character/200/00000181.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	182	とらとうちゃん	（大阪府）	株式会社シカトキノコ	/img/uploads/character/200/00000182.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	183	はぎまろ	（茨城県）	高萩市	/img/uploads/character/200/00000183.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	184	ムジナもん	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000184.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	185	向嶋言問姐さん	（東京都）	向嶋言問姐さん事務局	/img/uploads/character/200/00000185.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	186	ひあゆ丸	（岐阜県）	岐阜まんまる団	/img/uploads/character/200/00000186.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	187	Hip　Hop　びわっちくん	（滋賀県）	ホテルラフォーレ琵琶湖プラネタリウム	/img/uploads/character/200/00000187.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	188	うめサブロー	（埼玉県）	フラワーラジオ（ＦＭこうのす）	/img/uploads/character/200/00000188.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	189	クニ男。	（滋賀県）		/img/uploads/character/200/00000189.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	190	くねんワン、くねんニャン	（佐賀県）	神埼市	/img/uploads/character/200/00000190.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	191	越生町のマスコット「うめりん」	（埼玉県）	埼玉県越生町	/img/uploads/character/200/00000191.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	192	蓮ちゃん	（大阪府）	NPO法人あいまち門真ステーション	/img/uploads/character/200/00000192.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	193	ぽんぽこちゃん	（滋賀県）	信楽町観光協会	/img/uploads/character/200/00000193.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	194	大崎一番太郎	（東京都）	大崎駅西口商店会	/img/uploads/character/200/00000194.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	195	袋井市キャラクター「フッピー」	（静岡県）	袋井市	/img/uploads/character/200/00000195.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	196	アッピー、あゆみ、まゆみちゃん	（埼玉県）	埼玉県上尾市（アッピー、あゆみ）、福島県本宮市（まゆみちゃん、あゆみ）	/img/uploads/character/200/00000196.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	197	伊奈ローズちゃん・伊奈ローズくん	（埼玉県）	（一社）伊奈町観光協会	/img/uploads/character/200/00000197.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	198	さらまんサンたろう	（岐阜県）	オオサンショウウオ生活	/img/uploads/character/200/00000198.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	199	ニーラ	（山梨県）	韮崎市観光協会	/img/uploads/character/200/00000199.jpg
+2011	10	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=10&sort=2	200	ぶぅ	（岐阜県）	特定非営利活動法人　せき・まちづくりNPOぶうめらん	/img/uploads/character/200/00000200.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	181	高田地区キャラクターたかたん	（神奈川県）	横浜市港北区高田地区	/img/uploads/character/200/00000181.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	182	とらとうちゃん	（大阪府）	株式会社シカトキノコ	/img/uploads/character/200/00000182.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	183	はぎまろ	（茨城県）	高萩市	/img/uploads/character/200/00000183.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	184	ムジナもん	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000184.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	185	向嶋言問姐さん	（東京都）	向嶋言問姐さん事務局	/img/uploads/character/200/00000185.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	186	ひあゆ丸	（岐阜県）	岐阜まんまる団	/img/uploads/character/200/00000186.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	187	Hip　Hop　びわっちくん	（滋賀県）	ホテルラフォーレ琵琶湖プラネタリウム	/img/uploads/character/200/00000187.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	188	うめサブロー	（埼玉県）	フラワーラジオ（ＦＭこうのす）	/img/uploads/character/200/00000188.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	189	クニ男。	（滋賀県）		/img/uploads/character/200/00000189.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	190	くねんワン、くねんニャン	（佐賀県）	神埼市	/img/uploads/character/200/00000190.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	191	越生町のマスコット「うめりん」	（埼玉県）	埼玉県越生町	/img/uploads/character/200/00000191.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	192	蓮ちゃん	（大阪府）	NPO法人あいまち門真ステーション	/img/uploads/character/200/00000192.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	193	ぽんぽこちゃん	（滋賀県）	信楽町観光協会	/img/uploads/character/200/00000193.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	194	大崎一番太郎	（東京都）	大崎駅西口商店会	/img/uploads/character/200/00000194.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	195	袋井市キャラクター「フッピー」	（静岡県）	袋井市	/img/uploads/character/200/00000195.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	196	アッピー、あゆみ、まゆみちゃん	（埼玉県）	埼玉県上尾市（アッピー、あゆみ）、福島県本宮市（まゆみちゃん、あゆみ）	/img/uploads/character/200/00000196.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	197	伊奈ローズちゃん・伊奈ローズくん	（埼玉県）	（一社）伊奈町観光協会	/img/uploads/character/200/00000197.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	198	さらまんサンたろう	（岐阜県）	オオサンショウウオ生活	/img/uploads/character/200/00000198.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	199	ニーラ	（山梨県）	韮崎市観光協会	/img/uploads/character/200/00000199.jpg
+2011	10	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=10	200	ぶぅ	（岐阜県）	特定非営利活動法人　せき・まちづくりNPOぶうめらん	/img/uploads/character/200/00000200.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	201	たけちゃん・はなちゃん	（岐阜県）	美濃竹鼻中心市街地活性化委員会	/img/uploads/character/200/00000201.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	202	ゆうちゃん	（佐賀県）	佐賀県庁　地域福祉課	/img/uploads/character/200/00000202.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	203	なかっぱ	（福岡県）	中間市役所	/img/uploads/character/200/00000203.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	204	ひめっ子	（岡山県）	岡山県新庄村	/img/uploads/character/200/00000204.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	205	あいさいさん	（愛知県）	愛西市観光協会	/img/uploads/character/200/00000205.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	206	うめみちゃん	（長野県）		/img/uploads/character/200/00000206.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	207	ひだっち	（岐阜県）	山都印刷株式会社	/img/uploads/character/200/00000207.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	208	おしなりくん	（東京都）		/img/uploads/character/200/00000208.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	209	たけちゃん	（三重県）	武四郎まつり実行委員会	/img/uploads/character/200/00000209.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	210	ぼくでん	（茨城県）	鹿嶋市観光協会	/img/uploads/character/200/00000210.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	211	チヨマツ	（熊本県）		/img/uploads/character/200/00000211.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	212	たら丸	（北海道）	岩内観光協会	/img/uploads/character/200/00000212.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	213	台東くん	（東京都）	東京都台東区	/img/uploads/character/200/00000213.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	214	たがゆいちゃん	（滋賀県）	一般社団法人　多賀観光協会	/img/uploads/character/200/00000214.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	215	江姫・初姫・茶々姫	（滋賀県）	江・浅井三姉妹博覧会実行委員会	/img/uploads/character/200/00000215.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	216	ナスキー	（長野県）	野沢温泉村	/img/uploads/character/200/00000216.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	217	あわじい	（兵庫県）	スローフード淡路島	/img/uploads/character/200/00000217.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	218	藤堂とらまる	（三重県）	特定非営利活動法人　三重ドリームクラブ	/img/uploads/character/200/00000218.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	219	とまちゃん	（埼玉県）	埼玉県北本市	/img/uploads/character/200/00000219.jpg
+2011	11	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=11&sort=2	220	スミレン	（兵庫県）	社会福祉法人宝塚市社会福祉協議会	/img/uploads/character/200/00000220.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	201	たけちゃん・はなちゃん	（岐阜県）	美濃竹鼻中心市街地活性化委員会	/img/uploads/character/200/00000201.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	202	ゆうちゃん	（佐賀県）	佐賀県庁　地域福祉課	/img/uploads/character/200/00000202.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	203	なかっぱ	（福岡県）	中間市役所	/img/uploads/character/200/00000203.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	204	ひめっ子	（岡山県）	岡山県新庄村	/img/uploads/character/200/00000204.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	205	あいさいさん	（愛知県）	愛西市観光協会	/img/uploads/character/200/00000205.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	206	うめみちゃん	（長野県）		/img/uploads/character/200/00000206.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	207	ひだっち	（岐阜県）	山都印刷株式会社	/img/uploads/character/200/00000207.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	208	おしなりくん	（東京都）		/img/uploads/character/200/00000208.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	209	たけちゃん	（三重県）	武四郎まつり実行委員会	/img/uploads/character/200/00000209.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	210	ぼくでん	（茨城県）	鹿嶋市観光協会	/img/uploads/character/200/00000210.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	211	チヨマツ	（熊本県）		/img/uploads/character/200/00000211.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	212	たら丸	（北海道）	岩内観光協会	/img/uploads/character/200/00000212.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	213	台東くん	（東京都）	東京都台東区	/img/uploads/character/200/00000213.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	214	たがゆいちゃん	（滋賀県）	一般社団法人　多賀観光協会	/img/uploads/character/200/00000214.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	215	江姫・初姫・茶々姫	（滋賀県）	江・浅井三姉妹博覧会実行委員会	/img/uploads/character/200/00000215.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	216	ナスキー	（長野県）	野沢温泉村	/img/uploads/character/200/00000216.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	217	あわじい	（兵庫県）	スローフード淡路島	/img/uploads/character/200/00000217.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	218	藤堂とらまる	（三重県）	特定非営利活動法人　三重ドリームクラブ	/img/uploads/character/200/00000218.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	219	とまちゃん	（埼玉県）	埼玉県北本市	/img/uploads/character/200/00000219.jpg
+2011	11	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=11	220	スミレン	（兵庫県）	社会福祉法人宝塚市社会福祉協議会	/img/uploads/character/200/00000220.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	221	からっキー	（京都府）	京都向日市激辛商店街	/img/uploads/character/200/00000221.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	222	ゆめはまちゃん	（三重県）	桑名商工会議所	/img/uploads/character/200/00000222.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	223	蓮花ちゃん	（奈良県）	葛城市観光協会	/img/uploads/character/200/00000223.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	224	夢馬	（埼玉県）	埼玉県飯能市	/img/uploads/character/200/00000224.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	225	ゆうきくん	（広島県）		/img/uploads/character/200/00000225.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	226	チキンマスク ほか	（滋賀県）		/img/uploads/character/200/00000226.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	227	あたかちゃん	（奈良県）	橿原・高市広域行政事務組合	/img/uploads/character/200/00000227.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	228	日立のモルちゃん	（茨城県）	日立地区３モール商店街活性化実行委員会	/img/uploads/character/200/00000228.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	229	こい姫・ようかん右衛門	（佐賀県）	小城市商工観光課	/img/uploads/character/200/00000229.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	230	キララちゃん	（京都府）	キララ商店街事業協同組合	/img/uploads/character/200/00000230.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	231	キューちゃん	（新潟県）	キューピットバレイ	/img/uploads/character/200/00000231.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	231	ぽ～ろ	（兵庫県）	ぽ～ろで尼崎を元気にする会	/img/uploads/character/200/00000232.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	233	たっこ王子	（青森県）	田子町役場	/img/uploads/character/200/00000233.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	234	くノんちゃん	（三重県）	伊賀フットボールクラブ　くノ一	/img/uploads/character/200/00000234.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	235	サイパンだ！	（海外）	マリアナ政府観光局  Marianas Visitors Authority	/img/uploads/character/200/00000235.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	236	あぢかもくん	（滋賀県）	道の駅「塩津海道あぢかまの里」	/img/uploads/character/200/00000236.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	237	えべっちゃん	（兵庫県）	町おこし市民グループさしすせその会	/img/uploads/character/200/00000237.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	238	ライトくん、ビットちゃん	（長崎県）	壱岐市	/img/uploads/character/200/00000238.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	239	つなっぺ	（新潟県）	津南町観光協会	/img/uploads/character/200/00000239.jpg
+2011	12	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=12&sort=2	240	モックル	（大阪府）	河内長野市	/img/uploads/character/200/00000240.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	221	からっキー	（京都府）	京都向日市激辛商店街	/img/uploads/character/200/00000221.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	222	ゆめはまちゃん	（三重県）	桑名商工会議所	/img/uploads/character/200/00000222.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	223	蓮花ちゃん	（奈良県）	葛城市観光協会	/img/uploads/character/200/00000223.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	224	夢馬	（埼玉県）	埼玉県飯能市	/img/uploads/character/200/00000224.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	225	ゆうきくん	（広島県）		/img/uploads/character/200/00000225.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	226	チキンマスク ほか	（滋賀県）		/img/uploads/character/200/00000226.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	227	あたかちゃん	（奈良県）	橿原・高市広域行政事務組合	/img/uploads/character/200/00000227.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	228	日立のモルちゃん	（茨城県）	日立地区３モール商店街活性化実行委員会	/img/uploads/character/200/00000228.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	229	こい姫・ようかん右衛門	（佐賀県）	小城市商工観光課	/img/uploads/character/200/00000229.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	230	キララちゃん	（京都府）	キララ商店街事業協同組合	/img/uploads/character/200/00000230.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	231	キューちゃん	（新潟県）	キューピットバレイ	/img/uploads/character/200/00000231.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	231	ぽ～ろ	（兵庫県）	ぽ～ろで尼崎を元気にする会	/img/uploads/character/200/00000232.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	233	たっこ王子	（青森県）	田子町役場	/img/uploads/character/200/00000233.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	234	くノんちゃん	（三重県）	伊賀フットボールクラブ　くノ一	/img/uploads/character/200/00000234.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	235	サイパンだ！	（海外）	マリアナ政府観光局  Marianas Visitors Authority	/img/uploads/character/200/00000235.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	236	あぢかもくん	（滋賀県）	道の駅「塩津海道あぢかまの里」	/img/uploads/character/200/00000236.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	237	えべっちゃん	（兵庫県）	町おこし市民グループさしすせその会	/img/uploads/character/200/00000237.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	238	ライトくん、ビットちゃん	（長崎県）	壱岐市	/img/uploads/character/200/00000238.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	239	つなっぺ	（新潟県）	津南町観光協会	/img/uploads/character/200/00000239.jpg
+2011	12	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=12	240	モックル	（大阪府）	河内長野市	/img/uploads/character/200/00000240.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	241	桑折町観光大使「ホタピー」	（福島県）	桑折町	/img/uploads/character/200/00000241.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	242	しずくちゃん	（岩手県）	雫石町役場	/img/uploads/character/200/00000242.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	243	ムーちゃん	（東京都）	東京むさし農業協同組合	/img/uploads/character/200/00000243.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	244	ときたまちゃん	（香川県）	ブリーザーズスクエア運営委員会	/img/uploads/character/200/00000244.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	245	アサヒナサブロー	（宮城県）	大和町役場	/img/uploads/character/200/00000245.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	246	チキなん番長	（宮崎県）	一般社団法人延岡観光協会	/img/uploads/character/200/00000246.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	247	コットベリー	（栃木県）	真岡市	/img/uploads/character/200/00000247.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	248	たんぽ小町ちゃん	（秋田県）	鹿角市	/img/uploads/character/200/00000248.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	249	ガネッタ・つきみん	（佐賀県）	太良町観光協会	/img/uploads/character/200/00000249.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	250	さくらッピー	（栃木県）	社会福祉法人さくら市社会福祉協議会	/img/uploads/character/200/00000250.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	251	でんえんまる	（群馬県）	邑楽館林農業協同組合	/img/uploads/character/200/00000251.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	251	とらにゃん	（滋賀県）	甲良町商工会	/img/uploads/character/200/00000252.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	253	みかわ丸（みーちゃん）	（福岡県）	着ぐるみ応援団「るみすと-RUMIST-」	/img/uploads/character/200/00000253.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	254	ぽぉ	（長野県）	いいだ人形劇フェスタ実行委員会	/img/uploads/character/200/00000254.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	255	たりたりOTARI	（長野県）	小谷村商工会	/img/uploads/character/200/00000255.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	256	タンク君	（群馬県）	前橋市水道局	/img/uploads/character/200/00000256.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	257	志波城古代公園マスコットしわまろくん	（岩手県）	志波城跡愛護協会	/img/uploads/character/200/00000257.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	258	ゆう子ちゃん	（山口県）	湯田温泉旅館協同組合	/img/uploads/character/200/00000258.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	259	お江ちゃん・お初ちゃん・お茶々ちゃん	（滋賀県）	大河ドラマ　江～姫たちの戦国～滋賀県推進協議会	/img/uploads/character/200/00000259.jpg
+2011	13	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=13&sort=2	260	としまくん	（東京都）	公益財団法人としま未来文化財団	/img/uploads/character/200/00000260.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	241	桑折町観光大使「ホタピー」	（福島県）	桑折町	/img/uploads/character/200/00000241.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	242	しずくちゃん	（岩手県）	雫石町役場	/img/uploads/character/200/00000242.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	243	ムーちゃん	（東京都）	東京むさし農業協同組合	/img/uploads/character/200/00000243.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	244	ときたまちゃん	（香川県）	ブリーザーズスクエア運営委員会	/img/uploads/character/200/00000244.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	245	アサヒナサブロー	（宮城県）	大和町役場	/img/uploads/character/200/00000245.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	246	チキなん番長	（宮崎県）	一般社団法人延岡観光協会	/img/uploads/character/200/00000246.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	247	コットベリー	（栃木県）	真岡市	/img/uploads/character/200/00000247.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	248	たんぽ小町ちゃん	（秋田県）	鹿角市	/img/uploads/character/200/00000248.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	249	ガネッタ・つきみん	（佐賀県）	太良町観光協会	/img/uploads/character/200/00000249.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	250	さくらッピー	（栃木県）	社会福祉法人さくら市社会福祉協議会	/img/uploads/character/200/00000250.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	251	でんえんまる	（群馬県）	邑楽館林農業協同組合	/img/uploads/character/200/00000251.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	251	とらにゃん	（滋賀県）	甲良町商工会	/img/uploads/character/200/00000252.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	253	みかわ丸（みーちゃん）	（福岡県）	着ぐるみ応援団「るみすと-RUMIST-」	/img/uploads/character/200/00000253.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	254	ぽぉ	（長野県）	いいだ人形劇フェスタ実行委員会	/img/uploads/character/200/00000254.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	255	たりたりOTARI	（長野県）	小谷村商工会	/img/uploads/character/200/00000255.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	256	タンク君	（群馬県）	前橋市水道局	/img/uploads/character/200/00000256.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	257	志波城古代公園マスコットしわまろくん	（岩手県）	志波城跡愛護協会	/img/uploads/character/200/00000257.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	258	ゆう子ちゃん	（山口県）	湯田温泉旅館協同組合	/img/uploads/character/200/00000258.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	259	お江ちゃん・お初ちゃん・お茶々ちゃん	（滋賀県）	大河ドラマ　江～姫たちの戦国～滋賀県推進協議会	/img/uploads/character/200/00000259.jpg
+2011	13	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=13	260	としまくん	（東京都）	公益財団法人としま未来文化財団	/img/uploads/character/200/00000260.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	261	たまらん3兄弟	（鹿児島県）	指宿市観光協会駅前通り事務所	/img/uploads/character/200/00000261.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	262	葵区ＰＲキャラクター　あおいくん	（静岡県）	静岡市葵区役所　地域総務課	/img/uploads/character/200/00000262.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	263	サイコミ君	（埼玉県）	彩の国コミュニティ協議会	/img/uploads/character/200/00000263.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	264	赤ふん坊や	（福井県）	一般社団法人若狭高浜観光協会	/img/uploads/character/200/00000264.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	265	さばにゃん	（福井県）	さばにゃん本舗	/img/uploads/character/200/00000265.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	266	ヒットくん	（熊本県）	一般社団法人人吉温泉観光協会	/img/uploads/character/200/00000266.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	267	にんじゃえもん	（滋賀県）	甲賀市観光協会・甲賀市商工会	/img/uploads/character/200/00000267.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	268	としぼう	（東京都）		/img/uploads/character/200/00000268.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	269	なめくじクジ夫くん	（愛知県）	太田油脂（株）	/img/uploads/character/200/00000269.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	270	ディスカバチャーリー23世 チャリ太	（神奈川県）		/img/uploads/character/200/00000270.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	271	もうかりやっこ	（埼玉県）	さいたまもうかりやっこ隊	/img/uploads/character/200/00000271.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	272	うだつまる	（徳島県）	美馬市観光協会	/img/uploads/character/200/00000272.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	273	コン丸くん	（石川県）	公益社会法人七尾青年会議所	/img/uploads/character/200/00000273.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	273	もじゃろー	（群馬県）	伊勢崎商工会議所青年部	/img/uploads/character/200/00000274.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	275	スマイルくん	（兵庫県）	公益財団法人尼崎市スポーツ振興事業団	/img/uploads/character/200/00000275.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	276	８０１(やおい)ちゃん	（京都府）	御薗橋８０１商店街振興組合	/img/uploads/character/200/00000276.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	276	ゆっくりちゃん	（京都府）	道の駅農匠の郷やくの連絡協議会	/img/uploads/character/200/00000277.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	278	茶ノミコト	（鹿児島県）		/img/uploads/character/200/00000278.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	279	モセキ君	（山口県）	下関市消防団	/img/uploads/character/200/00000279.jpg
+2011	14	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=14&sort=2	279	「足利 うんと いいとこだがね！ＰＲ隊」副隊長「たかうじ君」	（栃木県）	足利市	/img/uploads/character/200/00000280.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	261	たまらん3兄弟	（鹿児島県）	指宿市観光協会駅前通り事務所	/img/uploads/character/200/00000261.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	262	葵区ＰＲキャラクター　あおいくん	（静岡県）	静岡市葵区役所　地域総務課	/img/uploads/character/200/00000262.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	263	サイコミ君	（埼玉県）	彩の国コミュニティ協議会	/img/uploads/character/200/00000263.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	264	赤ふん坊や	（福井県）	一般社団法人若狭高浜観光協会	/img/uploads/character/200/00000264.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	265	さばにゃん	（福井県）	さばにゃん本舗	/img/uploads/character/200/00000265.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	266	ヒットくん	（熊本県）	一般社団法人人吉温泉観光協会	/img/uploads/character/200/00000266.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	267	にんじゃえもん	（滋賀県）	甲賀市観光協会・甲賀市商工会	/img/uploads/character/200/00000267.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	268	としぼう	（東京都）		/img/uploads/character/200/00000268.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	269	なめくじクジ夫くん	（愛知県）	太田油脂（株）	/img/uploads/character/200/00000269.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	270	ディスカバチャーリー23世 チャリ太	（神奈川県）		/img/uploads/character/200/00000270.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	271	もうかりやっこ	（埼玉県）	さいたまもうかりやっこ隊	/img/uploads/character/200/00000271.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	272	うだつまる	（徳島県）	美馬市観光協会	/img/uploads/character/200/00000272.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	273	コン丸くん	（石川県）	公益社会法人七尾青年会議所	/img/uploads/character/200/00000273.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	273	もじゃろー	（群馬県）	伊勢崎商工会議所青年部	/img/uploads/character/200/00000274.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	275	スマイルくん	（兵庫県）	公益財団法人尼崎市スポーツ振興事業団	/img/uploads/character/200/00000275.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	276	８０１(やおい)ちゃん	（京都府）	御薗橋８０１商店街振興組合	/img/uploads/character/200/00000276.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	276	ゆっくりちゃん	（京都府）	道の駅農匠の郷やくの連絡協議会	/img/uploads/character/200/00000277.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	278	茶ノミコト	（鹿児島県）		/img/uploads/character/200/00000278.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	279	モセキ君	（山口県）	下関市消防団	/img/uploads/character/200/00000279.jpg
+2011	14	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=14	279	「足利 うんと いいとこだがね！ＰＲ隊」副隊長「たかうじ君」	（栃木県）	足利市	/img/uploads/character/200/00000280.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	281	つゆヤキソバン	（青森県）	黒石やきそば応援団ブラスト	/img/uploads/character/200/00000281.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	282	こい吉	（東京都）	烏森神社	/img/uploads/character/200/00000282.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	283	五岳くん・火の子ちゃん	（熊本県）	阿蘇市	/img/uploads/character/200/00000283.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	283	さけ太郎/さけ子	（北海道）	社団法人石狩観光協会	/img/uploads/character/200/00000284.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	285	湯巡権三	（福井県）	あわら湯けむり創生塾	/img/uploads/character/200/00000285.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	286	あ！官兵衛	（大分県）	豊前国中津黒田武士顕彰会	/img/uploads/character/200/00000286.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	287	ひこどん	（滋賀県）	彦根商工会議所青年部古式銃研究会	/img/uploads/character/200/00000287.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	288	とび太くん	（滋賀県）	Mahorova	/img/uploads/character/200/00000288.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	289	こけ丸	（神奈川県）	相模原中央商店街協同組合	/img/uploads/character/200/00000289.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	290	よいとちゃん	（滋賀県）	豊郷町観光協会	/img/uploads/character/200/00000290.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	291	おごとん	（滋賀県）	おごと温泉観光協会	/img/uploads/character/200/00000291.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	292	こめつぐ君	（新潟県）	南魚沼市	/img/uploads/character/200/00000292.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	292	スイッピー	（福岡県）		/img/uploads/character/200/00000293.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	294	う～みん・ゆ～みん	（香川県）	財団法人宇多津町振興財団	/img/uploads/character/200/00000294.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	295	一休さん	（京都府）	(一社）京田辺市観光協会	/img/uploads/character/200/00000295.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	296	宮崎市観光イメージキャラクター　ミッシちゃん	（宮崎県）	公益社団法人　宮崎市観光協会	/img/uploads/character/200/00000296.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	297	こぜにちゃん	（埼玉県）	行田市商工観光課	/img/uploads/character/200/00000297.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	298	つつみん	（三重県）		/img/uploads/character/200/00000298.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	299	星のあまん	（大阪府）	交野市星のまち観光協会	/img/uploads/character/200/00000299.jpg
+2011	15	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=15&sort=2	300	うめっぴ＆みかっぴ	（和歌山県）	ＪＡ紀南	/img/uploads/character/200/00000300.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	281	つゆヤキソバン	（青森県）	黒石やきそば応援団ブラスト	/img/uploads/character/200/00000281.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	282	こい吉	（東京都）	烏森神社	/img/uploads/character/200/00000282.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	283	五岳くん・火の子ちゃん	（熊本県）	阿蘇市	/img/uploads/character/200/00000283.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	283	さけ太郎/さけ子	（北海道）	社団法人石狩観光協会	/img/uploads/character/200/00000284.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	285	湯巡権三	（福井県）	あわら湯けむり創生塾	/img/uploads/character/200/00000285.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	286	あ！官兵衛	（大分県）	豊前国中津黒田武士顕彰会	/img/uploads/character/200/00000286.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	287	ひこどん	（滋賀県）	彦根商工会議所青年部古式銃研究会	/img/uploads/character/200/00000287.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	288	とび太くん	（滋賀県）	Mahorova	/img/uploads/character/200/00000288.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	289	こけ丸	（神奈川県）	相模原中央商店街協同組合	/img/uploads/character/200/00000289.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	290	よいとちゃん	（滋賀県）	豊郷町観光協会	/img/uploads/character/200/00000290.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	291	おごとん	（滋賀県）	おごと温泉観光協会	/img/uploads/character/200/00000291.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	292	こめつぐ君	（新潟県）	南魚沼市	/img/uploads/character/200/00000292.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	292	スイッピー	（福岡県）		/img/uploads/character/200/00000293.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	294	う～みん・ゆ～みん	（香川県）	財団法人宇多津町振興財団	/img/uploads/character/200/00000294.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	295	一休さん	（京都府）	(一社）京田辺市観光協会	/img/uploads/character/200/00000295.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	296	宮崎市観光イメージキャラクター　ミッシちゃん	（宮崎県）	公益社団法人　宮崎市観光協会	/img/uploads/character/200/00000296.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	297	こぜにちゃん	（埼玉県）	行田市商工観光課	/img/uploads/character/200/00000297.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	298	つつみん	（三重県）		/img/uploads/character/200/00000298.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	299	星のあまん	（大阪府）	交野市星のまち観光協会	/img/uploads/character/200/00000299.jpg
+2011	15	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=15	300	うめっぴ＆みかっぴ	（和歌山県）	ＪＡ紀南	/img/uploads/character/200/00000300.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	301	いたっち	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000301.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	301	ダイトン	（大阪府）	大阪府大東市	/img/uploads/character/200/00000302.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	303	さらさちゃん	（滋賀県）	マキノ高原観光株式会社	/img/uploads/character/200/00000303.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	304	ゆう太くん	（山口県）	湯田温泉旅館協同組合	/img/uploads/character/200/00000304.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	305	とあらん	（東京都）		/img/uploads/character/200/00000305.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	305	ふわぽん	（兵庫県）	神戸市社会福祉協議会	/img/uploads/character/200/00000306.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	307	ひこちゅう	（滋賀県）		/img/uploads/character/200/00000307.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	308	メガ佐藤	（大阪府）	本氣メディア株式会社	/img/uploads/character/200/00000308.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	309	カワシロウ	（埼玉県）		/img/uploads/character/200/00000309.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	310	龍夢（ドラム）	（千葉県）	千葉県印旛郡栄町	/img/uploads/character/200/00000310.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	311	ミコロ・ハコロ	（岡山県）	岡山市役所広報課	/img/uploads/character/200/00000311.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	312	トロベー	（静岡県）	静岡市立登呂博物館（静岡市）	/img/uploads/character/200/00000312.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	312	フラべぇ	（埼玉県）	行田市商工観光課	/img/uploads/character/200/00000313.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	314	あさ彦	（滋賀県）	朝日新聞　ＡＳＡ彦根	/img/uploads/character/200/00000314.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	315	ばん・とく子	（兵庫県）	（株）マックアース　ばんしゅう戸倉スノーパーク	/img/uploads/character/200/00000315.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	316	ニコリン	（愛知県）	豊橋市役所　福祉部　こども未来館	/img/uploads/character/200/00000316.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	317	いたこいぬ・いたこねこ	（茨城県）	（株）いたこ	/img/uploads/character/200/00000317.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	318	すわ湖太郎・う～なちゃん	（長野県）	「うなぎのまち岡谷」の会	/img/uploads/character/200/00000318.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	319	おうみん	（滋賀県）	おうみ冨士農業協同組合	/img/uploads/character/200/00000319.jpg
+2011	16	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=16&sort=2	320	福ちゃん	（長野県）	木曽福島地域協議会福ちゃんの会	/img/uploads/character/200/00000320.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	301	いたっち	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000301.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	301	ダイトン	（大阪府）	大阪府大東市	/img/uploads/character/200/00000302.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	303	さらさちゃん	（滋賀県）	マキノ高原観光株式会社	/img/uploads/character/200/00000303.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	304	ゆう太くん	（山口県）	湯田温泉旅館協同組合	/img/uploads/character/200/00000304.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	305	とあらん	（東京都）		/img/uploads/character/200/00000305.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	305	ふわぽん	（兵庫県）	神戸市社会福祉協議会	/img/uploads/character/200/00000306.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	307	ひこちゅう	（滋賀県）		/img/uploads/character/200/00000307.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	308	メガ佐藤	（大阪府）	本氣メディア株式会社	/img/uploads/character/200/00000308.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	309	カワシロウ	（埼玉県）		/img/uploads/character/200/00000309.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	310	龍夢（ドラム）	（千葉県）	千葉県印旛郡栄町	/img/uploads/character/200/00000310.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	311	ミコロ・ハコロ	（岡山県）	岡山市役所広報課	/img/uploads/character/200/00000311.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	312	トロベー	（静岡県）	静岡市立登呂博物館（静岡市）	/img/uploads/character/200/00000312.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	312	フラべぇ	（埼玉県）	行田市商工観光課	/img/uploads/character/200/00000313.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	314	あさ彦	（滋賀県）	朝日新聞　ＡＳＡ彦根	/img/uploads/character/200/00000314.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	315	ばん・とく子	（兵庫県）	（株）マックアース　ばんしゅう戸倉スノーパーク	/img/uploads/character/200/00000315.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	316	ニコリン	（愛知県）	豊橋市役所　福祉部　こども未来館	/img/uploads/character/200/00000316.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	317	いたこいぬ・いたこねこ	（茨城県）	（株）いたこ	/img/uploads/character/200/00000317.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	318	すわ湖太郎・う～なちゃん	（長野県）	「うなぎのまち岡谷」の会	/img/uploads/character/200/00000318.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	319	おうみん	（滋賀県）	おうみ冨士農業協同組合	/img/uploads/character/200/00000319.jpg
+2011	16	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=16	320	福ちゃん	（長野県）	木曽福島地域協議会福ちゃんの会	/img/uploads/character/200/00000320.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	321	ふっくん・ぴーちゃん	（栃木県）	社会福祉法人岩舟町社会福祉協議会	/img/uploads/character/200/00000321.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	321	ベルちゃん／としちゃん	（大阪府）	大利商店街振興組合	/img/uploads/character/200/00000322.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	323	えこまいくまー	（静岡県）	エコマイスター委員会	/img/uploads/character/200/00000323.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	324	ホッキーナちゃん・ほきのすけ	（青森県）	三沢市役所・観光物産課	/img/uploads/character/200/00000324.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	325	あぶらやつぶさん	（愛知県）	太田油脂（株）	/img/uploads/character/200/00000325.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	326	カモンちゃん	（滋賀県）		/img/uploads/character/200/00000326.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	326	なまりん	（埼玉県）	埼玉県吉川市	/img/uploads/character/200/00000327.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	328	おくあさちゃん	（東京都）	一般社団法人奥浅草観光まちづくり協会	/img/uploads/character/200/00000328.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	329	源氏パパル／姫ママル／ホタルン	（滋賀県）	米原市役所	/img/uploads/character/200/00000329.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	330	ひねキング	（和歌山県）	橋本商工会議所	/img/uploads/character/200/00000330.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	331	モーダくん	（兵庫県）	兵庫ブルーサンダーズ（関西独立リーグ）	/img/uploads/character/200/00000331.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	332	来久(like)ちゃん	（埼玉県）	久喜市商工会	/img/uploads/character/200/00000332.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	333	フナどん	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000333.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	334	モー太郎	（三重県）	モー太郎松阪をＰＲ実行委員会	/img/uploads/character/200/00000334.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	335	うみりん	（福井県）		/img/uploads/character/200/00000335.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	335	ちゃお	（静岡県）	浜松餃子学会	/img/uploads/character/200/00000336.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	335	ぼっくりん	（兵庫県）	ＮＰＯ法人高砂物産協会	/img/uploads/character/200/00000337.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	338	くりぴー	（長野県）	王滝村役場	/img/uploads/character/200/00000338.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	339	しらさき婦人	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000339.jpg
+2011	17	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=17&sort=2	340	こんぴーくん	（香川県）	香川県琴平町役場　観光商工課	/img/uploads/character/200/00000340.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	321	ふっくん・ぴーちゃん	（栃木県）	社会福祉法人岩舟町社会福祉協議会	/img/uploads/character/200/00000321.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	321	ベルちゃん／としちゃん	（大阪府）	大利商店街振興組合	/img/uploads/character/200/00000322.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	323	えこまいくまー	（静岡県）	エコマイスター委員会	/img/uploads/character/200/00000323.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	324	ホッキーナちゃん・ほきのすけ	（青森県）	三沢市役所・観光物産課	/img/uploads/character/200/00000324.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	325	あぶらやつぶさん	（愛知県）	太田油脂（株）	/img/uploads/character/200/00000325.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	326	カモンちゃん	（滋賀県）		/img/uploads/character/200/00000326.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	326	なまりん	（埼玉県）	埼玉県吉川市	/img/uploads/character/200/00000327.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	328	おくあさちゃん	（東京都）	一般社団法人奥浅草観光まちづくり協会	/img/uploads/character/200/00000328.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	329	源氏パパル／姫ママル／ホタルン	（滋賀県）	米原市役所	/img/uploads/character/200/00000329.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	330	ひねキング	（和歌山県）	橋本商工会議所	/img/uploads/character/200/00000330.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	331	モーダくん	（兵庫県）	兵庫ブルーサンダーズ（関西独立リーグ）	/img/uploads/character/200/00000331.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	332	来久(like)ちゃん	（埼玉県）	久喜市商工会	/img/uploads/character/200/00000332.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	333	フナどん	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000333.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	334	モー太郎	（三重県）	モー太郎松阪をＰＲ実行委員会	/img/uploads/character/200/00000334.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	335	うみりん	（福井県）		/img/uploads/character/200/00000335.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	335	ちゃお	（静岡県）	浜松餃子学会	/img/uploads/character/200/00000336.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	335	ぼっくりん	（兵庫県）	ＮＰＯ法人高砂物産協会	/img/uploads/character/200/00000337.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	338	くりぴー	（長野県）	王滝村役場	/img/uploads/character/200/00000338.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	339	しらさき婦人	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000339.jpg
+2011	17	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=17	340	こんぴーくん	（香川県）	香川県琴平町役場　観光商工課	/img/uploads/character/200/00000340.jpg
+2011	18	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=18&sort=2	341	開運かなえちゃん	（岩手県）	盛岡駅前商店街振興組合	/img/uploads/character/200/00000341.jpg
+2011	18	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=18&sort=2	342	ゑびすくん	（滋賀県）		/img/uploads/character/200/00000342.jpg
+2011	18	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=18&sort=2	343	アンジー＆ホーリー	（千葉県）	東京ドイツ村	/img/uploads/character/200/00000343.jpg
+2011	18	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=18&sort=2	344	ザリガニ博士	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000344.jpg
+2011	18	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=18&sort=2	345	チョキまる	（京都府）	一般社団法人　舞鶴観光協会	/img/uploads/character/200/00000345.jpg
+2011	18	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=18&sort=2	346	ゴーヤくん	（沖縄県）	みやげ屋「あ」	/img/uploads/character/200/00000346.jpg
+2011	18	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=18&sort=2	347	龍王ちゃん	（三重県）		/img/uploads/character/200/00000347.jpg
+2011	18	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=18&sort=2	348	しまちゃん	（長野県）	木曽福島地域協議会福ちゃんの会	/img/uploads/character/200/00000348.jpg
+2011	18	organization	https://www.yurugp.jp/jp/ranking/?year=2011&page=18&sort=2	348	まっくん	（長野県）	南箕輪村	/img/uploads/character/200/00000349.jpg
+2011	18	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=18	341	開運かなえちゃん	（岩手県）	盛岡駅前商店街振興組合	/img/uploads/character/200/00000341.jpg
+2011	18	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=18	342	ゑびすくん	（滋賀県）		/img/uploads/character/200/00000342.jpg
+2011	18	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=18	343	アンジー＆ホーリー	（千葉県）	東京ドイツ村	/img/uploads/character/200/00000343.jpg
+2011	18	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=18	344	ザリガニ博士	（埼玉県）	羽生市キャラクター推進室	/img/uploads/character/200/00000344.jpg
+2011	18	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=18	345	チョキまる	（京都府）	一般社団法人　舞鶴観光協会	/img/uploads/character/200/00000345.jpg
+2011	18	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=18	346	ゴーヤくん	（沖縄県）	みやげ屋「あ」	/img/uploads/character/200/00000346.jpg
+2011	18	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=18	347	龍王ちゃん	（三重県）		/img/uploads/character/200/00000347.jpg
+2011	18	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=18	348	しまちゃん	（長野県）	木曽福島地域協議会福ちゃんの会	/img/uploads/character/200/00000348.jpg
+2011	18	area	https://www.yurugp.jp/jp/ranking/?year=2011&page=18	348	まっくん	（長野県）	南箕輪村	/img/uploads/character/200/00000349.jpg

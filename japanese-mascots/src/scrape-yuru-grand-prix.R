@@ -39,6 +39,7 @@ get_yuru_chara <- function(url) {
 
 
 ### Scrape rankings -------------------------------------------------------------------------------
+# Test scrape
 test <- crossing(year = 2011:2019,
          page = 1:30) %>%
   mutate(organization = glue("https://www.yurugp.jp/jp/ranking/?year={year}&page={page}&sort=2"),
@@ -46,6 +47,10 @@ test <- crossing(year = 2011:2019,
   pivot_longer(organization:area, names_to = "ranking_category", values_to = "url") %>%
   slice(1:40) %>%
   mutate(yuru_chara_data = map(url, possibly(get_yuru_chara, NULL, quiet = FALSE)))
+
+# Clean up dataframe
+test %>%
+  unnest(yuru_chara_data)
 
 
 
