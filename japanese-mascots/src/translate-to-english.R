@@ -5,6 +5,8 @@ library(googleLanguageR)
 
 
 ### Authenticate with Google Cloud ----------------------------------------------------------------
+# Use your own Google Cloud credentials if you'd like to run this yourself
+# Note: this costs money!
 gl_auth("./japanese-mascots/src/keys/japanese-mascots-translation-service-account.json")
 
 
@@ -15,19 +17,18 @@ get_translation <- function(origin_text) {
   return(translation_object[["translatedText"]])
 }
 
-### Test translation ------------------------------------------------------------------------------
-yuru_gp_japanese <- read_tsv("./japanese-mascots/yuru-chara-grand-prix-japanese.txt")
 
-# Single vector
-single_text <- test_translation %>%
-  sample_n(1) %>%
-  pull(organization)
+### Translate to English --------------------------------------------------------------------------
+yuru_gp_japanese <- read_tsv("./japanese-mascots/yuru-gp-japanese.txt")
 
-result <- gl_translate(single_text, target = "en", format = "text")
+yuru_gp_translated <- yuru_gp_japanese %>%
+  mutate(name_english = map(name, get_translation),
+         area_english = map(area, get_translation),
+         organization_english = map(organization, get_translation))
 
-# In tibble
-multi_text <- test_translation %>%
-  sample_n(3)
 
-result <- multi_text %>%
-  mutate(name_english = map(name, get_translation))
+### Save intermediate translated file -------------------------------------------------------------
+# Note: I want to save the unaltered output immediately to avoid having to re-run in case of issues
+yuru_gp_translated %>%
+  unnest(name_english:organization_english) %>%
+  write_tsv("./japanese-mascots/yuru-gp-translated.txt")
