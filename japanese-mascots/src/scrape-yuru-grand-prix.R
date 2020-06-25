@@ -58,7 +58,7 @@ yuru_gp <- yuru_gp_raw %>%
          image_url = paste0("https://www.yurugp.jp/", image_url)) %>%
   # Get rid of double entries (e.g., due to category changes in 2017)
   distinct(year, ranking_category, rank, character_id, .keep_all = TRUE) %>%
-  select(-url)
+  select(-url, -page)
 
 
 ### Write to TXT file -----------------------------------------------------------------------------
