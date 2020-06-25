@@ -1,8 +1,9 @@
 # Japanese Mascots (Yuru-chara)
 
 [Yuru-chara](https://en.wikipedia.org/wiki/Yuru-chara) are Japanese mascot characters, often representing towns or organizations. Western audiences, if they are familiar with yuru-chara at all, might know [*Chiitan*](https://en.wikipedia.org/wiki/Chiitan), who was featured on *Last Week Tonight With John Oliver*. These mascots are often silly and whimsical, and they are definitely [*kawaii*](https://en.wikipedia.org/wiki/Kawaii) (cute)! For example, here is *Chiyopen*, the mascot for the Chiyoda Real Estate Company:
-
-![Chiyopen](https://www.yurugp.jp/img/uploads/character/650/00001884.jpg)
+<p align="center">
+<img height="500px" src="https://www.yurugp.jp/img/uploads/character/650/00001884.jpg">
+</p>
 
 The Twitter account [Mondo Mascots](https://twitter.com/mondomascots) regularly posts pictures and descriptions of the many mascots that exist. Chris Carlier, curator of Mondo Mascots, was also featured on an episode of *99% Invisible*, [Return of the Yokai](https://99percentinvisible.org/episode/return-of-the-yokai/).
 
