@@ -11,7 +11,6 @@ pull_node <- function(website, node) {
 }
 
 # Function to scrape rankings page
-### TO DO: adjust function to account for pages with fewer than 20 characters (last page of yearly rankings, like 2011 p. 18)
 get_yuru_chara <- function(url) {
   message(glue("Currently scraping ... {url}"))
   
@@ -31,27 +30,39 @@ get_yuru_chara <- function(url) {
     pivot_wider(names_from = field, values_from = data) %>%
     unnest(cols = everything())
   
-  # Add 3s delay for "polite" scraping
-  Sys.sleep(3)
+  # Add 2s delay for "polite" scraping
+  Sys.sleep(2)
   
   return(df)
 }
 
 
 ### Scrape rankings -------------------------------------------------------------------------------
-# Test scrape
-test <- crossing(year = 2011:2019,
-         page = 1:30) %>%
+yuru_gp_raw <- crossing(year = 2011:2019,
+         page = 1:80) %>%
   mutate(organization = glue("https://www.yurugp.jp/jp/ranking/?year={year}&page={page}&sort=2"),
          area = glue("https://www.yurugp.jp/jp/ranking/?year={year}&page={page}")) %>%
   pivot_longer(organization:area, names_to = "ranking_category", values_to = "url") %>%
-  slice(1:40) %>%
   mutate(yuru_chara_data = map(url, possibly(get_yuru_chara, NULL, quiet = FALSE)))
 
 # Clean up dataframe
-test %>%
-  unnest(yuru_chara_data)
+yuru_gp <- yuru_gp_raw %>%
+  unnest(yuru_chara_data) %>%
+  mutate(rank = parse_number(rank),
+         character_id = str_remove(image_url, "/img/uploads/character/200/"),
+         character_id = str_remove(character_id, ".jpg"),
+         character_id = parse_number(character_id),
+         # Fix rankings to account for there being one category in up to 2016
+         # Starting in 2017, there were two categories: area/prefecture and organization
+         ranking_category = ifelse(year <= 2016, "all", ranking_category),
+         image_url = paste0("https://www.yurugp.jp/", image_url)) %>%
+  # Get rid of double entries (e.g., due to category changes in 2017)
+  distinct(year, ranking_category, rank, character_id, .keep_all = TRUE) %>%
+  select(-url)
 
+
+### Write to TXT file -----------------------------------------------------------------------------
+write_tsv(yuru_gp, "./japanese-mascots/yuru-chara-grand-prix.txt")
 
 
 
