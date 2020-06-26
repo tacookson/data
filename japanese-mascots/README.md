@@ -18,10 +18,11 @@ The data is from the official website of the [Yuru-Chara Grand Prix](https://www
 | variable             | class     | description                                                  |
 | :------------------- | :-------- | :----------------------------------------------------------- |
 | year | double | Year of Yuru-chara Grand Prix |
-| category | character | Ranking category. In 2017, it was split into two categories: local and company/organization |
+| category | character | Ranking category (in 2017, it was split into two categories: local and company/organization) |
 | rank | double | Character's rank within their category for that year |
 | character_id | double | Unique identifier of character used by yurugp.jp |
-| name | character | Name of character |
+| name | character | Character name |
 | area | character | Area character is from (usually a [prefecture](https://en.wikipedia.org/wiki/Prefectures_of_Japan)) |
-| organization | character | Company, town, or organization the character represents |
-| image_url | character | Link to a character's picture |
+| affiliation | character | Company, town, or organization the character represents |
+| description | character | Character description |
+| image_url | character | Link to character's picture |

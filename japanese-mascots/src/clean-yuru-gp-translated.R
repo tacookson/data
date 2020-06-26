@@ -26,7 +26,8 @@ descriptions <- read_tsv("./japanese-mascots/raw/descriptions-translated.txt") %
 # Note: there is duplication in the description field, but made that trade-off to get everything
 # into one dataframe
 yuru_gp <- yuru_gp_no_description %>%
-  left_join(descriptions, by = "character_id")
+  left_join(descriptions, by = "character_id") %>%
+  select(year:affiliation, description, image_url)
 
 ### Write to TXT file -----------------------------------------------------------------------------
 write_tsv(yuru_gp, "./japanese-mascots/yuru-gp.txt")
