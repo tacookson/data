@@ -4,7 +4,7 @@ library(tidyverse)
 
 
 ### Import and clean data -------------------------------------------------------------------------
-yuru_gp <- read_tsv("./japanese-mascots/yuru-gp-translated.txt") %>%
+yuru_gp <- read_tsv("./japanese-mascots/raw/yuru-gp-translated.txt") %>%
   transmute(year,
             category,
             rank,

@@ -19,16 +19,28 @@ get_translation <- function(origin_text) {
 
 
 ### Translate to English --------------------------------------------------------------------------
-yuru_gp_japanese <- read_tsv("./japanese-mascots/yuru-gp-japanese.txt")
+# Rankings
+yuru_gp_japanese <- read_tsv("./japanese-mascots/raw/yuru-gp-japanese.txt")
 
 yuru_gp_translated <- yuru_gp_japanese %>%
-  mutate(name_english = map(name, get_translation),
-         area_english = map(area, get_translation),
-         organization_english = map(organization, get_translation))
+  mutate(name_english = map_chr(name, get_translation),
+         area_english = map_chr(area, get_translation),
+         organization_english = map_chr(organization, get_translation))
+
+# Descriptions
+# Note: translating descriptions separately to cut down on number of characters needing translation
+# (Google Cloud Translate charges by character after 500K in a month)
+# I should have also translated names, areas, etc. separately to be most efficient
+descriptions_japanese <- read_tsv("./japanese-mascots/raw/descriptions-japanese.txt")
+
+descriptions_translated <- descriptions_japanese %>%
+  mutate(description_english = map_chr(description, get_translation))
 
 
 ### Save intermediate translated file -------------------------------------------------------------
 # Note: I want to save the unaltered output immediately to avoid having to re-run in case of issues
 yuru_gp_translated %>%
-  unnest(name_english:organization_english) %>%
-  write_tsv("./japanese-mascots/yuru-gp-translated.txt")
+  write_tsv("./japanese-mascots/raw/yuru-gp-translated.txt")
+
+descriptions_translated %>%
+  write_tsv("./japanese-mascots/raw/descriptions-translated.txt")

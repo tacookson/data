@@ -36,6 +36,20 @@ get_yuru_chara <- function(url) {
   return(df)
 }
 
+# Function to scrape description from individual character page
+get_description <- function(url) {
+  message(glue("Currently scraping ... {url}"))
+  
+  website <- read_html(url)
+
+  
+  description <- pull_node(website, ".prof")
+  
+  # Add 2s delay for "polite" scraping
+  Sys.sleep(2)
+  
+  return(description)
+}
 
 ### Scrape rankings -------------------------------------------------------------------------------
 yuru_gp_raw <- crossing(year = 2011:2019,
@@ -62,20 +76,17 @@ yuru_gp <- yuru_gp_raw %>%
   select(year:rank, character_id, name:image_url)
 
 
+### Scrape descriptions ---------------------------------------------------------------------------
+descriptions <- yuru_gp %>%
+  distinct(character_id) %>%
+  mutate(padded_character_id = str_pad(character_id, 4, side = "left", pad = "0"),
+         url = paste0("https://www.yurugp.jp/en/vote/detail.php?id=0000", padded_character_id)) %>%
+  mutate(description = map(url, possibly(get_description, NULL, quiet = FALSE))) %>%
+  unnest(description) %>%
+  select(character_id, description)
+  
+
 ### Write to TXT file -----------------------------------------------------------------------------
-write_tsv(yuru_gp, "./japanese-mascots/yuru-gp-japanese.txt")
+write_tsv(yuru_gp, "./japanese-mascots/raw/yuru-gp-japanese.txt")
 
-
-
-
-### APPENDIX (Individual character) ---------------------------------------------------------------
-url <- "https://www.yurugp.jp/en/vote/detail.php?id=00004000"
-
-message(url)
-
-website <- read_html(url)
-
-html_nodes(website, "strong") %>% html_text(trim = TRUE) # Rank
-html_node(website, ".charaname") %>% html_text(trim = TRUE) # Name
-html_node(website, ".en") %>% html_text(trim = TRUE) # English
-html_node(website, ".region") %>% html_text(trim = TRUE)
+write_tsv(descriptions, "./japanese-mascots/raw/descriptions-japanese.txt")
