@@ -8,6 +8,10 @@ Data is from [The Himalayan Database](https://www.himalayandatabase.com/):
 
 
 
+![](https://upload.wikimedia.org/wikipedia/commons/2/25/Himalayas_landsat_7.png)
+
+
+
 # Data Dictionary
 
 ### `peaks.csv`

@@ -6,6 +6,8 @@ The tracking was part of a study prepared in 2014 by the [B.C. Ministry of Envir
 
 Data was accessed through [Movebank](https://www.movebank.org/cms/movebank-content/about-movebank), "a free online platform that helps researchers manage, share, analyze and archive animal movement data."
 
+![https://upload.wikimedia.org/wikipedia/commons/0/0e/Une_m%C3%A8re_caribou_allaite_son_petit.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0e/Une_mère_caribou_allaite_son_petit.jpg)
+
 
 
 **Original article citation**
