@@ -1,0 +1,1205 @@
+year,temp_c_recon,temp_c_obs,flower_doy,flower_date,flower_source,flower_source_name,study_source
+812,9.9,NA,92,0812-04-01,From diary description about cherry blossom viewing party,NIHON-KOKI,Taguchi (1939)
+813,NA,NA,NA,NA,NA,NA,NA
+814,NA,NA,NA,NA,NA,NA,NA
+815,6,NA,105,0815-04-15,From diary description about cherry blossom viewing party,NIHON-KOKI,Taguchi (1939)
+816,NA,NA,NA,NA,NA,NA,NA
+817,NA,NA,NA,NA,NA,NA,NA
+818,NA,NA,NA,NA,NA,NA,NA
+819,NA,NA,NA,NA,NA,NA,NA
+820,NA,NA,NA,NA,NA,NA,NA
+821,NA,NA,NA,NA,NA,NA,NA
+822,NA,NA,NA,NA,NA,NA,NA
+823,NA,NA,NA,NA,NA,NA,NA
+824,NA,NA,NA,NA,NA,NA,NA
+825,NA,NA,NA,NA,NA,NA,NA
+826,NA,NA,NA,NA,NA,NA,NA
+827,NA,NA,NA,NA,NA,NA,NA
+828,NA,NA,NA,NA,NA,NA,NA
+829,NA,NA,NA,NA,NA,NA,NA
+830,NA,NA,NA,NA,NA,NA,NA
+831,8.6,NA,96,0831-04-06,From diary description about cherry blossom viewing party,NIHON-KOKI,Taguchi (1939)
+832,NA,NA,NA,NA,NA,NA,NA
+833,NA,NA,NA,NA,NA,NA,NA
+834,NA,NA,NA,NA,NA,NA,NA
+835,NA,NA,NA,NA,NA,NA,NA
+836,NA,NA,NA,NA,NA,NA,NA
+837,NA,NA,NA,NA,NA,NA,NA
+838,NA,NA,NA,NA,NA,NA,NA
+839,NA,NA,NA,NA,NA,NA,NA
+840,NA,NA,NA,NA,NA,NA,NA
+841,NA,NA,NA,NA,NA,NA,NA
+842,NA,NA,NA,NA,NA,NA,NA
+843,NA,NA,NA,NA,NA,NA,NA
+844,NA,NA,NA,NA,NA,NA,NA
+845,NA,NA,NA,NA,NA,NA,NA
+846,NA,NA,NA,NA,NA,NA,NA
+847,NA,NA,NA,NA,NA,NA,NA
+848,NA,NA,NA,NA,NA,NA,NA
+849,NA,NA,NA,NA,NA,NA,NA
+850,NA,NA,NA,NA,NA,NA,NA
+851,5.2,NA,108,0851-04-18,From diary description about cherry blossom viewing party,MONTOKUTENNO-JITSUROKU,Taguchi (1939)
+852,NA,NA,NA,NA,NA,NA,NA
+853,6.3,NA,104,0853-04-14,From diary description about cherry blossom viewing party,MONTOKUTENNO-JITSUROKU,Taguchi (1939)
+854,NA,NA,NA,NA,NA,NA,NA
+855,NA,NA,NA,NA,NA,NA,NA
+856,NA,NA,NA,NA,NA,NA,NA
+857,NA,NA,NA,NA,NA,NA,NA
+858,NA,NA,NA,NA,NA,NA,NA
+859,NA,NA,NA,NA,NA,NA,NA
+860,NA,NA,NA,NA,NA,NA,NA
+861,NA,NA,NA,NA,NA,NA,NA
+862,NA,NA,NA,NA,NA,NA,NA
+863,NA,NA,NA,NA,NA,NA,NA
+864,7.4,NA,100,0864-04-09,From diary description about cherry blossom viewing party,NIPPON-SANDAI-JITSUROKU,Taguchi (1939)
+865,NA,NA,NA,NA,NA,NA,NA
+866,5.7,NA,106,0866-04-16,From diary description about cherry blossom viewing party,NIPPON-SANDAI-JITSUROKU,Taguchi (1939)
+867,NA,NA,NA,NA,NA,NA,NA
+868,NA,NA,NA,NA,NA,NA,NA
+869,8.9,NA,95,0869-04-05,From diary description about cherry blossom viewing party,KANKE-BUNSOU,Aono and Saito (2010)
+870,NA,NA,NA,NA,NA,NA,NA
+871,NA,NA,NA,NA,NA,NA,NA
+872,NA,NA,NA,NA,NA,NA,NA
+873,NA,NA,NA,NA,NA,NA,NA
+874,NA,NA,NA,NA,NA,NA,NA
+875,NA,NA,NA,NA,NA,NA,NA
+876,NA,NA,NA,NA,NA,NA,NA
+877,NA,NA,NA,NA,NA,NA,NA
+878,NA,NA,NA,NA,NA,NA,NA
+879,NA,NA,NA,NA,NA,NA,NA
+880,NA,NA,NA,NA,NA,NA,NA
+881,NA,NA,NA,NA,NA,NA,NA
+882,NA,NA,NA,NA,NA,NA,NA
+883,NA,NA,NA,NA,NA,NA,NA
+884,NA,NA,NA,NA,NA,NA,NA
+885,NA,NA,NA,NA,NA,NA,NA
+886,NA,NA,NA,NA,NA,NA,NA
+887,NA,NA,NA,NA,NA,NA,NA
+888,NA,NA,NA,NA,NA,NA,NA
+889,6.3,NA,104,0889-04-14,From diary description about cherry blossom viewing party,NIPPON-SANDAI-JITSUROKU,Aono and Saito (2010)
+890,NA,NA,NA,NA,NA,NA,NA
+891,4.9,NA,109,0891-04-19,Title in Japanese poetry,NIHONKIRYAKU,Aono and Saito (2010)
+892,5.2,NA,108,0892-04-17,From diary description about presents of cherry twigs from party participants,FUSHIMIIN-GOKIROKKU,Aono and Saito (2010)
+893,NA,NA,NA,NA,NA,NA,NA
+894,5.7,NA,106,0894-04-16,From diary description about cherry blossom viewing party,KANKE-BUNSOU,Aono and Saito (2010)
+895,6.3,NA,104,0895-04-14,Title in Japanese poetry,NIHONKIRYAKU,Aono and Saito (2010)
+896,6.3,NA,104,0896-04-13,Title in Japanese poetry,NIPPON-SANDAI-JITSUROKU,Aono and Saito (2010)
+897,NA,NA,NA,NA,NA,NA,NA
+898,NA,NA,NA,NA,NA,NA,NA
+899,NA,NA,NA,NA,NA,NA,NA
+900,NA,NA,NA,NA,NA,NA,NA
+901,NA,NA,NA,NA,NA,NA,NA
+902,6.9,NA,102,0902-04-12,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(NIHONGI-RYAKU),Aono and Saito (2010)
+903,NA,NA,NA,NA,NA,NA,NA
+904,NA,NA,NA,NA,NA,NA,NA
+905,NA,NA,NA,NA,NA,NA,NA
+906,NA,NA,NA,NA,NA,NA,NA
+907,NA,NA,NA,NA,NA,NA,NA
+908,8,NA,98,0908-04-07,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(KIMITADA-SHU),Aono and Saito (2010)
+909,NA,NA,NA,NA,NA,NA,NA
+910,NA,NA,NA,NA,NA,NA,NA
+911,NA,NA,NA,NA,NA,NA,NA
+912,8.9,NA,95,0912-04-04,From diary description about cherry blossom viewing party,SHINGISHIKI,Taguchi (1939)
+913,4.6,NA,110,0913-04-20,From diary description about cherry blossom viewing party,SHUI-WAKASHU,Aono and Saito (2010)
+914,NA,NA,NA,NA,NA,NA,NA
+915,NA,NA,NA,NA,NA,NA,NA
+916,NA,NA,NA,NA,NA,NA,NA
+917,8.9,NA,95,0917-04-05,From diary description about cherry blossom viewing party,KINHISHO,Taguchi (1939)
+918,NA,NA,NA,NA,NA,NA,NA
+919,NA,NA,NA,NA,NA,NA,NA
+920,NA,NA,NA,NA,NA,NA,NA
+921,NA,NA,NA,NA,NA,NA,NA
+922,NA,NA,NA,NA,NA,NA,NA
+923,6.3,NA,104,0923-04-14,Title in Japanese poetry,ZOKU-KOKIN-WAKASHU,Aono and Saito (2010)
+924,NA,NA,NA,NA,NA,NA,NA
+925,NA,NA,NA,NA,NA,NA,NA
+926,8,NA,98,0926-04-08,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+927,NA,NA,NA,NA,NA,NA,NA
+928,NA,NA,NA,NA,NA,NA,NA
+929,NA,NA,NA,NA,NA,NA,NA
+930,8.3,NA,97,0930-04-07,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(SHIRYO-SORAN),Aono and Saito (2010)
+931,NA,NA,NA,NA,NA,NA,NA
+932,NA,NA,NA,NA,NA,NA,NA
+933,5.7,NA,106,0933-04-16,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(SHIRYO-SORAN),Aono and Saito (2010)
+934,NA,NA,NA,NA,NA,NA,NA
+935,NA,NA,NA,NA,NA,NA,NA
+936,NA,NA,NA,NA,NA,NA,NA
+937,NA,NA,NA,NA,NA,NA,NA
+938,NA,NA,NA,NA,NA,NA,NA
+939,NA,NA,NA,NA,NA,NA,NA
+940,NA,NA,NA,NA,NA,NA,NA
+941,4.9,NA,109,0941-04-19,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+942,NA,NA,NA,NA,NA,NA,NA
+943,NA,NA,NA,NA,NA,NA,NA
+944,NA,NA,NA,NA,NA,NA,NA
+945,NA,NA,NA,NA,NA,NA,NA
+946,NA,NA,NA,NA,NA,NA,NA
+947,NA,NA,NA,NA,NA,NA,NA
+948,NA,NA,NA,NA,NA,NA,NA
+949,5.4,NA,107,0949-04-17,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+950,8.9,NA,95,0950-04-05,From diary description about cherry blossom viewing party,DAINIHON-SHIRYO,Aono and Kazui (2008)
+951,NA,NA,NA,NA,NA,NA,NA
+952,NA,NA,NA,NA,NA,NA,NA
+953,NA,NA,NA,NA,NA,NA,NA
+954,NA,NA,NA,NA,NA,NA,NA
+955,10.8,NA,89,0955-03-30,Title in Japanese poetry,SHUISHO,Aono and Saito (2010)
+956,NA,NA,NA,NA,NA,NA,NA
+957,4.1,NA,112,0957-04-22,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+958,4.9,NA,109,0958-04-19,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+959,8.3,NA,97,0959-04-07,From diary description about cherry blossom viewing party,KYUREKI,Aono and Omoto (1994)
+960,7.2,NA,101,0960-04-10,From diary description about cherry blossom viewing party,KYUREKI,Aono and Omoto (1994)
+961,11.5,NA,87,0961-03-28,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+962,NA,NA,NA,NA,NA,NA,NA
+963,9.3,NA,94,0963-04-04,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+964,NA,NA,NA,NA,NA,NA,NA
+965,6.3,NA,104,0965-04-14,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+966,8,NA,98,0966-04-08,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+967,6.6,NA,103,0967-04-13,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+968,NA,NA,NA,NA,NA,NA,NA
+969,8,NA,98,0969-04-08,Title in Japanese poetry,NIHONKIRYAKU,Aono and Saito (2010)
+970,NA,NA,NA,NA,NA,NA,NA
+971,NA,NA,NA,NA,NA,NA,NA
+972,5.4,NA,107,0972-04-16,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(SHIRYO-SORAN),Aono and Saito (2010)
+973,NA,NA,NA,NA,NA,NA,NA
+974,5.2,NA,108,0974-04-18,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+975,7.2,NA,101,0975-04-11,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Aono and Saito (2010)
+976,NA,NA,NA,NA,NA,NA,NA
+977,4.1,NA,112,0977-04-22,From diary description about cherry blossom viewing party,FUSO-RYAKKI,Sekiguchi (1969)
+978,NA,NA,NA,NA,NA,NA,NA
+979,6.3,NA,104,0979-04-14,From diary description about presents of cherry twigs from party participants,DAINIHON-SHIRYO,Aono and Kazui (2008)
+980,NA,NA,NA,NA,NA,NA,NA
+981,NA,NA,NA,NA,NA,NA,NA
+982,NA,NA,NA,NA,NA,NA,NA
+983,NA,NA,NA,NA,NA,NA,NA
+984,NA,NA,NA,NA,NA,NA,NA
+985,9.3,NA,94,0985-04-04,From diary description about cherry blossom viewing party,SHOYUKI,Aono and Kazui (2008)
+986,NA,NA,NA,NA,NA,NA,NA
+987,NA,NA,NA,NA,NA,NA,NA
+988,NA,NA,NA,NA,NA,NA,NA
+989,7.4,NA,100,0989-04-10,From diary description about cherry blossom viewing party,SHOYUKI,Aono and Kazui (2008)
+990,NA,NA,NA,NA,NA,NA,NA
+991,6.3,NA,104,0991-04-14,From diary description about full bloom,EIGA-MONOGATARI(MIHATENUYUME),Aono (2012)
+992,NA,NA,NA,NA,NA,NA,NA
+993,NA,NA,NA,NA,NA,NA,NA
+994,NA,NA,NA,NA,NA,NA,NA
+995,NA,NA,NA,NA,NA,NA,NA
+996,NA,NA,NA,NA,NA,NA,NA
+997,NA,NA,NA,NA,NA,NA,NA
+998,NA,NA,NA,NA,NA,NA,NA
+999,NA,NA,NA,NA,NA,NA,NA
+1000,6,NA,105,1000-04-15,From diary description about cherry blossom viewing party,MIDO-KAMPAKUKI,Aono and Omoto (1994)
+1001,NA,NA,NA,NA,NA,NA,NA
+1002,NA,NA,NA,NA,NA,NA,NA
+1003,NA,NA,NA,NA,NA,NA,NA
+1004,2.7,NA,117,1004-04-26,From diary description about cherry blossom viewing party,MIDO-KAMPAKUKI,Aono and Omoto (1994)
+1005,NA,NA,NA,NA,NA,NA,NA
+1006,7.4,NA,100,1006-04-10,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Taguchi (1939)
+1007,5.7,NA,106,1007-04-16,Title in Japanese poetry,MIDO-KAMPAKUKI,Aono and Saito (2010)
+1008,NA,NA,NA,NA,NA,NA,NA
+1009,NA,NA,NA,NA,NA,NA,NA
+1010,NA,NA,NA,NA,NA,NA,NA
+1011,NA,NA,NA,NA,NA,NA,NA
+1012,NA,NA,NA,NA,NA,NA,NA
+1013,NA,NA,NA,NA,NA,NA,NA
+1014,3.2,NA,115,1014-04-25,From diary description about cherry blossom viewing party,DAI-SAIIN-GYOSHU,Aono and Saito (2010)
+1015,NA,NA,NA,NA,NA,NA,NA
+1016,4.3,NA,111,1016-04-20,From diary description about cherry blossom viewing party,MIDO-KAMPAKUKI,Sekiguchi (1969)
+1017,7.7,NA,99,1017-04-09,From diary description about cherry blossom viewing party,MIDO-KAMPAKUKI,Aono and Omoto (1994)
+1018,3.8,NA,113,1018-04-23,From diary description about cherry blossom viewing party,MIDO-KAMPAKUKI,Sekiguchi (1969)
+1019,8,NA,98,1019-04-08,From diary description about cherry blossom viewing party,SHOYUKI,Aono and Kazui (2008)
+1020,NA,NA,NA,NA,NA,NA,NA
+1021,NA,NA,NA,NA,NA,NA,NA
+1022,NA,NA,NA,NA,NA,NA,NA
+1023,NA,NA,NA,NA,NA,NA,NA
+1024,NA,NA,NA,NA,NA,NA,NA
+1025,NA,NA,NA,NA,NA,NA,NA
+1026,NA,NA,NA,NA,NA,NA,NA
+1027,NA,NA,NA,NA,NA,NA,NA
+1028,NA,NA,NA,NA,NA,NA,NA
+1029,3,NA,116,1029-04-26,From diary description about cherry blossom viewing party,REKIDAI-HENNEN-SHUSEI,Taguchi (1939)
+1030,NA,NA,NA,NA,NA,NA,NA
+1031,8.3,NA,97,1031-04-07,From diary description about cherry blossom viewing party,SHOYUKI,Aono and Kazui (2008)
+1032,4.3,NA,111,1032-04-20,From diary description about cherry blossom viewing party,NIHONKIRYAKU,Aono and Saito (2010)
+1033,6.9,NA,102,1033-04-12,Title in Japanese poetry,NIHONKIRYAKU,Aono and Saito (2010)
+1034,8.6,NA,96,1034-04-06,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(EIGA-MONOGATARI),Aono and Saito (2010)
+1035,NA,NA,NA,NA,NA,NA,NA
+1036,6.3,NA,104,1036-04-13,Title in Japanese poetry,NIHONKIRYAKU,Aono and Saito (2010)
+1037,NA,NA,NA,NA,NA,NA,NA
+1038,NA,NA,NA,NA,NA,NA,NA
+1039,NA,NA,NA,NA,NA,NA,NA
+1040,NA,NA,NA,NA,NA,NA,NA
+1041,6.6,NA,103,1041-04-13,From diary description about cherry blossom viewing party,FUSO-RYAKKI,Taguchi (1939)
+1042,NA,NA,NA,NA,NA,NA,NA
+1043,NA,NA,NA,NA,NA,NA,NA
+1044,NA,NA,NA,NA,NA,NA,NA
+1045,NA,NA,NA,NA,NA,NA,NA
+1046,6.6,NA,103,1046-04-13,From diary description about full bloom,EIGA-MONOGATARI(NEAWASE),Aono (2012)
+1047,NA,NA,NA,NA,NA,NA,NA
+1048,4.1,NA,112,1048-04-21,From diary description about presents of cherry twigs from party participants,IETSUNE-ASON-SHU,Aono (2011)
+1049,NA,NA,NA,NA,NA,NA,NA
+1050,6,NA,105,1050-04-15,From diary description about cherry blossom viewing party,EIGA-MONOGATARI(NEAWASE),Aono (2012)
+1051,NA,NA,NA,NA,NA,NA,NA
+1052,NA,NA,NA,NA,NA,NA,NA
+1053,NA,NA,NA,NA,NA,NA,NA
+1054,NA,NA,NA,NA,NA,NA,NA
+1055,NA,NA,NA,NA,NA,NA,NA
+1056,NA,NA,NA,NA,NA,NA,NA
+1057,NA,NA,NA,NA,NA,NA,NA
+1058,NA,NA,NA,NA,NA,NA,NA
+1059,NA,NA,NA,NA,NA,NA,NA
+1060,5.2,NA,108,1060-04-17,Title in Japanese poetry,SHIN-SENZAI-WAKASHU,Aono and Saito (2010)
+1061,9.9,NA,92,1061-04-02,Title in Japanese poetry,MOROZANE-SHU,Aono (2011)
+1062,NA,NA,NA,NA,NA,NA,NA
+1063,NA,NA,NA,NA,NA,NA,NA
+1064,NA,NA,NA,NA,NA,NA,NA
+1065,NA,NA,NA,NA,NA,NA,NA
+1066,6,NA,105,1066-04-15,From diary description about cherry blossom viewing party,SUISAKI,Aono and Omoto (1994)
+1067,NA,NA,NA,NA,NA,NA,NA
+1068,NA,NA,NA,NA,NA,NA,NA
+1069,NA,NA,NA,NA,NA,NA,NA
+1070,NA,NA,NA,NA,NA,NA,NA
+1071,3.8,NA,113,1071-04-23,From diary description about cherry blossom viewing party,SHUGAKKAIKI,Aono (2012)
+1072,NA,NA,NA,NA,NA,NA,NA
+1073,6.6,NA,103,1073-04-13,From diary description about cherry blossom viewing party,EIGA-MONOGATARI(MATSUNO-SHIDUE),Aono (2012)
+1074,NA,NA,NA,NA,NA,NA,NA
+1075,NA,NA,NA,NA,NA,NA,NA
+1076,NA,NA,NA,NA,NA,NA,NA
+1077,NA,NA,NA,NA,NA,NA,NA
+1078,NA,NA,NA,NA,NA,NA,NA
+1079,NA,NA,NA,NA,NA,NA,NA
+1080,6.9,NA,102,1080-04-11,From diary description about cherry blossom viewing party,SUISAKI,Aono and Omoto (1994)
+1081,NA,NA,NA,NA,NA,NA,NA
+1082,NA,NA,NA,NA,NA,NA,NA
+1083,8.6,NA,96,1083-04-06,From diary description about full bloom,GONIJO-MOROMICHIKI,Aono and Omoto (1994)
+1084,2,NA,120,1084-04-29,Title in Japanese poetry,ZOKU-GOSEN-WAKASHU,Aono and Saito (2010)
+1085,NA,NA,NA,NA,NA,NA,NA
+1086,NA,NA,NA,NA,NA,NA,NA
+1087,NA,NA,NA,NA,NA,NA,NA
+1088,6.3,NA,104,1088-04-13,From diary description about cherry blossom viewing party,GONIJO-MOROMICHIKI,Aono and Omoto (1994)
+1089,NA,NA,NA,NA,NA,NA,NA
+1090,6,NA,105,1090-04-15,From diary description about cherry blossom viewing party,GONIJO-MOROMICHIKI,Aono and Omoto (1994)
+1091,NA,NA,NA,NA,NA,NA,NA
+1092,NA,NA,NA,NA,NA,NA,NA
+1093,6,NA,105,1093-04-15,From diary description about cherry blossom viewing party,GONIJO-MOROMICHIKI,Aono and Omoto (1994)
+1094,NA,NA,NA,NA,NA,NA,NA
+1095,7.4,NA,100,1095-04-10,Title in Japanese poetry,CHUYUKI,Aono and Saito (2010)
+1096,8.6,NA,96,1096-04-05,From diary description about cherry blossom viewing party,GONIJO-MOROMICHIKI,Aono and Omoto (1994)
+1097,NA,NA,NA,NA,NA,NA,NA
+1098,7.4,NA,100,1098-04-10,From diary description about cherry blossom viewing party,CHUYUKI,Aono and Kazui (2008)
+1099,6.6,NA,103,1099-04-13,From diary description about full bloom,GONIJO-MOROMICHIKI,Aono and Omoto (1994)
+1100,NA,NA,NA,NA,NA,NA,NA
+1101,NA,NA,NA,NA,NA,NA,NA
+1102,6.3,NA,104,1102-04-14,From diary description about presents of cherry twigs from party participants,CHUYUKI,Aono and Kazui (2008)
+1103,NA,NA,NA,NA,NA,NA,NA
+1104,5.2,NA,108,1104-04-17,From diary description about cherry blossom viewing party,DENRYAKU,Aono and Kazui (2008)
+1105,3.5,NA,114,1105-04-24,From diary description about cherry blossom viewing party,CHUYUKI,Taguchi (1939)
+1106,NA,NA,NA,NA,NA,NA,NA
+1107,6,NA,105,1107-04-15,From diary description about cherry blossom viewing party,CHUYUKI,Aono and Omoto (1994)
+1108,NA,NA,NA,NA,NA,NA,NA
+1109,NA,NA,NA,NA,NA,NA,NA
+1110,NA,NA,NA,NA,NA,NA,NA
+1111,3.8,NA,113,1111-04-23,From diary description about cherry blossom viewing party,EISHOKI,Aono and Omoto (1994)
+1112,6.3,NA,104,1112-04-13,From diary description about full bloom,CHUYUKI,Aono and Saito (2010)
+1113,NA,NA,NA,NA,NA,NA,NA
+1114,7.4,NA,100,1114-04-10,From diary description about cherry blossom viewing party,DENRYAKU,Aono and Kazui (2008)
+1115,NA,NA,NA,NA,NA,NA,NA
+1116,NA,NA,NA,NA,NA,NA,NA
+1117,4.9,NA,109,1117-04-19,From diary description about cherry blossom viewing party,DENRYAKU,Aono and Kazui (2008)
+1118,6.9,NA,102,1118-04-12,From diary description about cherry blossom viewing party,MISSHU-KETSUMYAKUSHO,Aono and Omoto (1994)
+1119,NA,NA,NA,NA,NA,NA,NA
+1120,6.3,NA,104,1120-04-13,From diary description about cherry blossom viewing party,DAIGO-ZOJIKI,Aono and Omoto (1994)
+1121,NA,NA,NA,NA,NA,NA,NA
+1122,NA,NA,NA,NA,NA,NA,NA
+1123,4.1,NA,112,1123-04-22,From diary description about cherry blossom viewing party,DAIGO-ZOJIKI,Aono and Omoto (1994)
+1124,8,NA,98,1124-04-07,From diary description about cherry blossom viewing party,DAIGO-ZOJIKI,Aono and Omoto (1994)
+1125,4.3,NA,111,1125-04-21,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1126,5.2,NA,108,1126-04-18,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1127,5.4,NA,107,1127-04-17,From diary description about cherry blossom viewing party,DAIGO-ZOJIKI,Aono and Omoto (1994)
+1128,4.3,NA,111,1128-04-20,From diary description about cherry blossom viewing party,DAIGO-ZOJIKI,Aono and Omoto (1994)
+1129,5.7,NA,106,1129-04-16,From diary description about cherry blossom viewing party,DAIGO-ZOJIKI,Aono and Omoto (1994)
+1130,6.6,NA,103,1130-04-13,From diary description about cherry blossom viewing party,DAIGO-ZOJIKI,Aono and Omoto (1994)
+1131,6.6,NA,103,1131-04-13,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1132,NA,NA,NA,NA,NA,NA,NA
+1133,NA,NA,NA,NA,NA,NA,NA
+1134,5.7,NA,106,1134-04-16,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1135,NA,NA,NA,NA,NA,NA,NA
+1136,NA,NA,NA,NA,NA,NA,NA
+1137,NA,NA,NA,NA,NA,NA,NA
+1138,NA,NA,NA,NA,NA,NA,NA
+1139,3.8,NA,113,1139-04-23,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1140,6.6,NA,103,1140-04-12,From diary description about cherry blossom viewing party,DAIGO-ZOJIKI,Aono and Omoto (1994)
+1141,4.3,NA,111,1141-04-21,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1142,NA,NA,NA,NA,NA,NA,NA
+1143,4.6,NA,110,1143-04-20,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1144,NA,NA,NA,NA,NA,NA,NA
+1145,5.4,NA,107,1145-04-17,From diary description about cherry blossom viewing party,TAIKI,Aono and Saito (2010)
+1146,NA,NA,NA,NA,NA,NA,NA
+1147,NA,NA,NA,NA,NA,NA,NA
+1148,NA,NA,NA,NA,NA,NA,NA
+1149,NA,NA,NA,NA,NA,NA,NA
+1150,NA,NA,NA,NA,NA,NA,NA
+1151,4.9,NA,109,1151-04-19,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(HONCHO-SEIKI),Aono (2012)
+1152,NA,NA,NA,NA,NA,NA,NA
+1153,NA,NA,NA,NA,NA,NA,NA
+1154,8.6,NA,96,1154-04-06,From diary description about cherry blossom viewing party,TAIKI,Aono and Saito (2010)
+1155,NA,NA,NA,NA,NA,NA,NA
+1156,10.5,NA,90,1156-03-30,From diary description about cherry blossom viewing party,NA,Sekiguchi (1969)
+1157,NA,NA,NA,NA,NA,NA,NA
+1158,NA,NA,NA,NA,NA,NA,NA
+1159,6.6,NA,103,1159-04-13,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1160,NA,NA,NA,NA,NA,NA,NA
+1161,4.1,NA,112,1161-04-22,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1162,NA,NA,NA,NA,NA,NA,NA
+1163,4.1,NA,112,1163-04-22,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1164,7.4,NA,100,1164-04-09,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1165,5.7,NA,106,1165-04-16,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1166,8.9,NA,95,1166-04-05,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1167,4.3,NA,111,1167-04-21,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1168,NA,NA,NA,NA,NA,NA,NA
+1169,4.1,NA,112,1169-04-22,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1170,3.8,NA,113,1170-04-23,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1171,NA,NA,NA,NA,NA,NA,NA
+1172,6.6,NA,103,1172-04-12,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1173,2.7,NA,117,1173-04-27,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1174,4.1,NA,112,1174-04-22,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1175,3.8,NA,113,1175-04-23,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1176,3.8,NA,113,1176-04-22,From diary description about cherry blossom viewing party,TAKAKURAIN-ANGEN-ONGAKI,Aono and Omoto (1994)
+1177,NA,NA,NA,NA,NA,NA,NA
+1178,NA,NA,NA,NA,NA,NA,NA
+1179,6.6,NA,103,1179-04-13,From diary description about cherry blossom viewing party,SANKAIKI,Taguchi (1939)
+1180,8,NA,98,1180-04-07,From diary description about full bloom,MEIGETSUKI,Aono and Saito (2010)
+1181,NA,NA,NA,NA,NA,NA,NA
+1182,6.3,NA,104,1182-04-14,Title in Japanese poetry,TSUKIMOUDE-WAKASHU(PART-3),Aono (2011)
+1183,7.2,NA,101,1183-04-11,From diary description about cherry blossom viewing party,DAIGOJI-ZATSUYO,Aono and Kazui (2008)
+1184,3.2,NA,115,1184-04-24,From diary description about full bloom,GYOKUYO,Aono and Saito (2010)
+1185,3.2,NA,115,1185-04-25,From diary description about cherry blossom viewing party,DAIGO-ZOJIKI,Aono and Omoto (1994)
+1186,NA,NA,NA,NA,NA,NA,NA
+1187,6.3,NA,104,1187-04-14,From diary description about cherry blossom viewing party,SAKURAE-RUIJU,Aono and Kazui (2008)
+1188,5.4,NA,107,1188-04-16,From diary description about cherry blossom viewing party,SAKURAE-RUIJU,Aono and Omoto (1994)
+1189,NA,NA,NA,NA,NA,NA,NA
+1190,4.1,NA,112,1190-04-22,Title in Japanese poetry,SHUGYOKU-SHU,Aono and Saito (2010)
+1191,5.7,NA,106,1191-04-16,From diary description about cherry blossom viewing party,GYOKUYO,Aono and Omoto (1994)
+1192,NA,NA,NA,NA,NA,NA,NA
+1193,NA,NA,NA,NA,NA,NA,NA
+1194,2.2,NA,119,1194-04-29,From diary description about cherry blossom viewing party,NAKASUKEOKI,Aono and Kazui (2008)
+1195,NA,NA,NA,NA,NA,NA,NA
+1196,NA,NA,NA,NA,NA,NA,NA
+1197,NA,NA,NA,NA,NA,NA,NA
+1198,NA,NA,NA,NA,NA,NA,NA
+1199,4.9,NA,109,1199-04-19,From diary description about full bloom,INOKUMA-KAMPAKUKI,Aono and Kazui (2008)
+1200,6.3,NA,104,1200-04-13,From diary description about full bloom,INOKUMA-KAMPAKUKI,Aono and Kazui (2008)
+1201,8.6,NA,96,1201-04-06,Title in Japanese poetry,INOKUMA-KAMPAKUKI,Aono and Saito (2010)
+1202,5.7,NA,106,1202-04-16,From diary description about full bloom,MEIGETSUKI,Aono and Saito (2010)
+1203,6,NA,105,1203-04-15,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1204,4.6,NA,110,1204-04-19,From diary description about cherry blossom viewing party,MEIGETSUKI,Aono and Saito (2010)
+1205,6,NA,105,1205-04-15,From diary description about cherry blossom viewing party,MEIGETSUKI,Aono and Saito (2010)
+1206,NA,NA,NA,NA,NA,NA,NA
+1207,6.3,NA,104,1207-04-14,From diary description about cherry blossom viewing party,MEIGETSUKI,Aono and Saito (2010)
+1208,NA,NA,NA,NA,NA,NA,NA
+1209,NA,NA,NA,NA,NA,NA,NA
+1210,4.1,NA,112,1210-04-22,From diary description about cherry blossom viewing party,ASUKAI-SHU,Aono and Omoto (1994)
+1211,NA,NA,NA,NA,NA,NA,NA
+1212,8,NA,98,1212-04-07,From diary description about cherry blossom viewing party,GYOKUSOU,Aono and Saito (2010)
+1213,5.4,NA,107,1213-04-17,From diary description about cherry blossom viewing party,SHIKIN-WAKASO,Aono and Omoto (1994)
+1214,6.9,NA,102,1214-04-12,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1215,5.2,NA,108,1215-04-18,From diary description about cherry blossom viewing party,MICHIIEKO-MARINIKKI,Aono and Saito (2010)
+1216,7.2,NA,101,1216-04-10,Title in Japanese poetry,JUNTOKUIN-GYOSHU,Aono and Saito (2010)
+1217,NA,NA,NA,NA,NA,NA,NA
+1218,NA,NA,NA,NA,NA,NA,NA
+1219,7.2,NA,101,1219-04-11,Title in Japanese poetry,JUNTOKUIN-GYOSHU,Aono and Saito (2010)
+1220,4.9,NA,109,1220-04-18,Deduced from Japanese kerria phenology -- Aono (2011),EST-from-KJ(NORIMUNE-SHU),Aono (2012)
+1221,7.7,NA,99,1221-04-09,Title in Japanese poetry,SHUI-GUSO,Aono and Saito (2010)
+1222,NA,NA,NA,NA,NA,NA,NA
+1223,3,NA,116,1223-04-26,Title in Japanese poetry,MITSUTSUNE-SHU,Aono and Saito (2010)
+1224,NA,NA,NA,NA,NA,NA,NA
+1225,6,NA,105,1225-04-15,From diary description about full bloom,MEIGETSUKI,Aono and Saito (2010)
+1226,5.7,NA,106,1226-04-16,From diary description about cherry blossom viewing party,MEIGETSUKI,Aono and Saito (2010)
+1227,4.3,NA,111,1227-04-21,From diary description about cherry blossom viewing party,MEIGETSUKI,Aono and Saito (2010)
+1228,NA,NA,NA,NA,NA,NA,NA
+1229,8.3,NA,97,1229-04-07,From diary description about cherry blossom viewing party,MEIGETSUKI,Aono and Saito (2010)
+1230,6.9,NA,102,1230-04-12,From diary description about full bloom,MEIGETSUKI,Taguchi (1939)
+1231,7.2,NA,101,1231-04-11,From diary description about full bloom,MINKEIKI,Aono and Kazui (2008)
+1232,9.9,NA,92,1232-04-01,From diary description about full bloom,MINKEIKI,Aono and Saito (2010)
+1233,6,NA,105,1233-04-15,From diary description about cherry blossom viewing party,MEIGETSUKI,Aono and Saito (2010)
+1234,NA,NA,NA,NA,NA,NA,NA
+1235,4.6,NA,110,1235-04-20,From diary description about full bloom,MEIGETSUKI,Aono and Saito (2010)
+1236,11.5,NA,87,1236-03-27,Title in Japanese poetry,SHIIBA-WAKASHU,Aono (2012)
+1237,NA,NA,NA,NA,NA,NA,NA
+1238,NA,NA,NA,NA,NA,NA,NA
+1239,NA,NA,NA,NA,NA,NA,NA
+1240,5.7,NA,106,1240-04-15,From diary description about cherry blossom viewing party,SAMPOIN-MONJO,Aono and Saito (2010)
+1241,NA,NA,NA,NA,NA,NA,NA
+1242,NA,NA,NA,NA,NA,NA,NA
+1243,NA,NA,NA,NA,NA,NA,NA
+1244,5.2,NA,108,1244-04-17,From diary description about cherry blossom viewing party,HEIKOKI,Aono and Kazui (2008)
+1245,5.2,NA,108,1245-04-18,From diary description about cherry blossom viewing party,HEIKOKI,Aono and Kazui (2008)
+1246,8,NA,98,1246-04-08,From diary description about full bloom,MASUKAGAMI,Aono and Saito (2010)
+1247,5.7,NA,106,1247-04-16,From diary description about cherry blossom viewing party,ZOKU-HONCHOTSUKAN,Taguchi (1939)
+1248,NA,NA,NA,NA,NA,NA,NA
+1249,5.2,NA,108,1249-04-18,From diary description about cherry blossom viewing party,BENN-NO-NAISHI-NIKKI,Aono and Omoto (1994)
+1250,3,NA,116,1250-04-26,From diary description about full bloom,BENN-NO-NAISHI-NIKKI,Aono and Omoto (1994)
+1251,7.4,NA,100,1251-04-10,From diary description about full bloom,BENN-NO-NAISHI-NIKKI,Aono and Omoto (1994)
+1252,NA,NA,NA,NA,NA,NA,NA
+1253,NA,NA,NA,NA,NA,NA,NA
+1254,4.6,NA,110,1254-04-20,From diary description about cherry blossom viewing party,SAKURAE-RUIJU,Aono and Kazui (2008)
+1255,NA,NA,NA,NA,NA,NA,NA
+1256,NA,NA,NA,NA,NA,NA,NA
+1257,9.3,NA,94,1257-04-04,From diary description about cherry blossom viewing party,TSUNETOSHI-KYOKI,Aono and Omoto (1994)
+1258,NA,NA,NA,NA,NA,NA,NA
+1259,8.6,NA,96,1259-04-06,From diary description about full bloom,MASUKAGAMI,Aono and Omoto (1994)
+1260,NA,NA,NA,NA,NA,NA,NA
+1261,NA,NA,NA,NA,NA,NA,NA
+1262,8.3,NA,97,1262-04-07,Deduced from Japanese kerria phenology -- Aono (2011),EST-from-KJ(KUJOKE-REKISEI-KIROKU),Aono (2012)
+1263,2,NA,120,1263-04-30,From diary description about cherry blossom viewing party,ZOKU-HONCHOTSUKAN,Taguchi (1939)
+1264,6.6,NA,103,1264-04-12,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Aono and Saito (2010)
+1265,8,NA,98,1265-04-08,Title in Japanese poetry,TAMEIE-SHU,Aono (2011)
+1266,NA,NA,NA,NA,NA,NA,NA
+1267,6,NA,105,1267-04-15,From diary description about cherry blossom viewing party,MISININ-KAMPAKUKI,Aono and Kazui (2008)
+1268,6.6,NA,103,1268-04-12,Title in Japanese poetry,TAMEIE-SHU,Aono (2011)
+1269,7.4,NA,100,1269-04-10,Title in Japanese poetry,ZOKU-SHIGUSHO,Aono and Omoto (1994)
+1270,NA,NA,NA,NA,NA,NA,NA
+1271,7.4,NA,100,1271-04-10,Title in Japanese poetry,DAINAGON-TAMEIE-SHU,Aono and Saito (2010)
+1272,NA,NA,NA,NA,NA,NA,NA
+1273,NA,NA,NA,NA,NA,NA,NA
+1274,NA,NA,NA,NA,NA,NA,NA
+1275,5.4,NA,107,1275-04-17,From diary description about presents of cherry twigs from party participants,TOWAZUGATARI,Aono (2012)
+1276,NA,NA,NA,NA,NA,NA,NA
+1277,NA,NA,NA,NA,NA,NA,NA
+1278,3.8,NA,113,1278-04-23,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO(DAIGO),Taguchi (1939)
+1279,7.2,NA,101,1279-04-11,From diary description about cherry blossom viewing party,KANCHUKI,Aono and Omoto (1994)
+1280,6.9,NA,102,1280-04-11,From diary description about cherry blossom viewing party,HARUNO-MIYAMAJI,Aono and Saito (2010)
+1281,NA,NA,NA,NA,NA,NA,NA
+1282,NA,NA,NA,NA,NA,NA,NA
+1283,6.6,NA,103,1283-04-13,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1284,6.9,NA,102,1284-04-11,From diary description about full bloom,NAKANOTSUKASA-NIKKI,Aono and Omoto (1994)
+1285,6,NA,105,1285-04-15,From diary description about cherry blossom viewing party,ZOKU-HONCHOTSUKAN,Taguchi (1939)
+1286,4.1,NA,112,1286-04-22,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Taguchi (1939)
+1287,4.6,NA,110,1287-04-20,From diary description about cherry blossom viewing party,SANEMI-KYOKI,Aono and Omoto (1994)
+1288,5.2,NA,108,1288-04-17,From diary description about cherry blossom viewing party,NAKANOTSUKASA-NIKKI,Aono and Omoto (1994)
+1289,5.4,NA,107,1289-04-17,Title in Japanese poetry,NAKANOTSUKASA-NIKKI,Aono and Omoto (1994)
+1290,NA,NA,NA,NA,NA,NA,NA
+1291,NA,NA,NA,NA,NA,NA,NA
+1292,5.4,NA,107,1292-04-16,From diary description about cherry blossom viewing party,SANEMI-KYOKI,Aono and Kazui (2008)
+1293,NA,NA,NA,NA,NA,NA,NA
+1294,7.2,NA,101,1294-04-11,From diary description about cherry blossom viewing party,KANCHUKI,Aono and Omoto (1994)
+1295,6.9,NA,102,1295-04-12,From diary description about cherry blossom viewing party,(DAINIHON-SHIRYO),Aono and Kazui (2008)
+1296,NA,NA,NA,NA,NA,NA,NA
+1297,NA,NA,NA,NA,NA,NA,NA
+1298,NA,NA,NA,NA,NA,NA,NA
+1299,NA,NA,NA,NA,NA,NA,NA
+1300,NA,NA,NA,NA,NA,NA,NA
+1301,8.9,NA,95,1301-04-05,Title in Japanese poetry,SANEMI-KYOKI,Aono and Kazui (2008)
+1302,8.6,NA,96,1302-04-06,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Taguchi (1939)
+1303,NA,NA,NA,NA,NA,NA,NA
+1304,NA,NA,NA,NA,NA,NA,NA
+1305,NA,NA,NA,NA,NA,NA,NA
+1306,NA,NA,NA,NA,NA,NA,NA
+1307,6.3,NA,104,1307-04-14,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Taguchi (1939)
+1308,NA,NA,NA,NA,NA,NA,NA
+1309,NA,NA,NA,NA,NA,NA,NA
+1310,NA,NA,NA,NA,NA,NA,NA
+1311,9.3,NA,94,1311-04-04,From diary description about cherry blossom viewing party,ENTAIRYAKU,Aono and Omoto (1994)
+1312,7.4,NA,100,1312-04-09,From diary description about cherry blossom viewing party,HANAZONOTENNO-SHINKI,Aono and Omoto (1994)
+1313,NA,NA,NA,NA,NA,NA,NA
+1314,7.2,NA,101,1314-04-11,From diary description about cherry blossom viewing party,HANAZONOTENNO-SHINKI,Aono and Omoto (1994)
+1315,4.3,NA,111,1315-04-21,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Aono and Omoto (1994)
+1316,6.6,NA,103,1316-04-12,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Taguchi (1939)
+1317,6.9,NA,102,1317-04-12,From diary description about cherry blossom viewing party,HANAZONOTENNO-SHINKI,Sekiguchi (1969)
+1318,NA,NA,NA,NA,NA,NA,NA
+1319,3,NA,116,1319-04-26,From diary description about cherry blossom viewing party,HANAZONOTENNO-SHINKI,Aono and Omoto (1994)
+1320,NA,NA,NA,NA,NA,NA,NA
+1321,6.9,NA,102,1321-04-12,From diary description about cherry blossom viewing party,HANAZONOTENNO-SHINKI,Aono and Omoto (1994)
+1322,5.7,NA,106,1322-04-16,From diary description about cherry blossom viewing party,HANAZONOTENNO-SHINKI,Taguchi (1939)
+1323,1,NA,124,1323-05-04,From diary description about cherry blossom viewing party,HANAZONOTENNO-SHINKI,Taguchi (1939)
+1324,8,NA,98,1324-04-07,Title in Japanese poetry,HANAZONOTENNO-SHINKI,Aono and Saito (2010)
+1325,NA,NA,NA,NA,NA,NA,NA
+1326,5.4,NA,107,1326-04-17,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Taguchi (1939)
+1327,NA,NA,NA,NA,NA,NA,NA
+1328,NA,NA,NA,NA,NA,NA,NA
+1329,4.1,NA,112,1329-04-22,Deduced from Japanese kerria phenology -- Aono (2011),EST-from-KJ(SHOKA-WAKASHU),Aono (2012)
+1330,5.2,NA,108,1330-04-18,Title in Japanese poetry,RINEI-WAKASHU,Aono (2012)
+1331,4.1,NA,112,1331-04-22,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Taguchi (1939)
+1332,3.2,NA,115,1332-04-24,From diary description about cherry blossom viewing party,ZOKU-HONCHOTSUKAN,Taguchi (1939)
+1333,NA,NA,NA,NA,NA,NA,NA
+1334,NA,NA,NA,NA,NA,NA,NA
+1335,NA,NA,NA,NA,NA,NA,NA
+1336,NA,NA,NA,NA,NA,NA,NA
+1337,NA,NA,NA,NA,NA,NA,NA
+1338,NA,NA,NA,NA,NA,NA,NA
+1339,NA,NA,NA,NA,NA,NA,NA
+1340,NA,NA,NA,NA,NA,NA,NA
+1341,NA,NA,NA,NA,NA,NA,NA
+1342,4.6,NA,110,1342-04-20,From diary description about cherry blossom viewing party,MICHIFUYU-KYOKI,Aono and Omoto (1994)
+1343,NA,NA,NA,NA,NA,NA,NA
+1344,6.9,NA,102,1344-04-11,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Taguchi (1939)
+1345,NA,NA,NA,NA,NA,NA,NA
+1346,5.4,NA,107,1346-04-17,From diary description about cherry blossom viewing party,ENTAIRYAKU,Taguchi (1939)
+1347,4.9,NA,109,1347-04-19,From diary description about cherry blossom viewing party,MOROMORIKI,Taguchi (1939)
+1348,NA,NA,NA,NA,NA,NA,NA
+1349,4.1,NA,112,1349-04-22,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Aono and Omoto (1994)
+1350,7.2,NA,101,1350-04-11,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1351,3.2,NA,115,1351-04-25,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1352,NA,NA,NA,NA,NA,NA,NA
+1353,NA,NA,NA,NA,NA,NA,NA
+1354,NA,NA,NA,NA,NA,NA,NA
+1355,NA,NA,NA,NA,NA,NA,NA
+1356,2.7,NA,117,1356-04-26,From diary description about cherry blossom viewing party,MOROMORIKI,Aono and Omoto (1994)
+1357,5.4,NA,107,1357-04-17,From diary description about cherry blossom viewing party,ENTAIRYAKU,Sekiguchi (1969)
+1358,4.6,NA,110,1358-04-20,From diary description about cherry blossom viewing party,GUKANKI,Aono and Omoto (1994)
+1359,6,NA,105,1359-04-15,From diary description about cherry blossom viewing party,GUKANKI,Aono and Omoto (1994)
+1360,7.2,NA,101,1360-04-10,From diary description about cherry blossom viewing party,GUKANKI,Aono and Omoto (1994)
+1361,5.2,NA,108,1361-04-18,From diary description about cherry blossom viewing party,GUKANKI,Aono and Omoto (1994)
+1362,NA,NA,NA,NA,NA,NA,NA
+1363,5.4,NA,107,1363-04-17,From diary description about cherry blossom viewing party,MOROMORIKI,Aono and Omoto (1994)
+1364,4.6,NA,110,1364-04-19,From diary description about cherry blossom viewing party,MOROMORIKI,Aono and Omoto (1994)
+1365,NA,NA,NA,NA,NA,NA,NA
+1366,4.1,NA,112,1366-04-22,From diary description about cherry blossom viewing party,ZOKU-HONCHOTSUKAN,Sekiguchi (1969)
+1367,8.3,NA,97,1367-04-07,From diary description about cherry blossom viewing party,GUKANKI,Aono and Omoto (1994)
+1368,11.2,NA,88,1368-03-28,From diary description about full bloom,GUKANKI,Aono and Omoto (1994)
+1369,9.3,NA,94,1369-04-04,From diary description about cherry blossom viewing party,GOGUMAISHO,Aono and Omoto (1994)
+1370,4.9,NA,109,1370-04-19,From diary description about cherry blossom viewing party,GOGUMAISHO,Aono and Omoto (1994)
+1371,NA,NA,NA,NA,NA,NA,NA
+1372,6.9,NA,102,1372-04-11,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(GUKANKI),Aono (2012)
+1373,4.6,NA,110,1373-04-20,From diary description about cherry blossom viewing party,GUKANKI,Aono and Omoto (1994)
+1374,NA,NA,NA,NA,NA,NA,NA
+1375,6.6,NA,103,1375-04-13,From diary description about cherry blossom viewing party,GUKANKI,Aono and Omoto (1994)
+1376,7.7,NA,99,1376-04-08,From diary description about cherry blossom viewing party,GUKANKI,Aono and Omoto (1994)
+1377,6,NA,105,1377-04-15,From diary description about full bloom,KUJO-TADAMOTO-NIKKI,Aono and Saito (2010)
+1378,6.3,NA,104,1378-04-14,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1379,6.6,NA,103,1379-04-13,From diary description about full bloom,GUKANKI,Aono and Omoto (1994)
+1380,6.9,NA,102,1380-04-11,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(ZOKU-SHIGUSHO),Aono (2012)
+1381,5.2,NA,108,1381-04-18,From diary description about cherry blossom viewing party,EITOKU-GANNEN-GYOKO-SHIIKA,Aono and Omoto (1994)
+1382,6,NA,105,1382-04-15,From diary description about cherry blossom viewing party,KUGE-NICHIYO-KUFU-RYAKUSHU,Aono and Omoto (1994)
+1383,6.9,NA,102,1383-04-12,From diary description about full bloom,KUGE-NICHIYO-KUFU-RYAKUSHU,Aono and Omoto (1994)
+1384,8,NA,98,1384-04-07,From diary description about cherry blossom viewing party,KUGE-NICHIYO-KUFU-RYAKUSHU,Aono and Omoto (1994)
+1385,7.7,NA,99,1385-04-09,From diary description about cherry blossom viewing party,ATOKAGAMI,Aono and Omoto (1994)
+1386,6,NA,105,1386-04-15,From diary description about cherry blossom viewing party,ATOKAGAMI,Aono and Omoto (1994)
+1387,7.4,NA,100,1387-04-10,From diary description about cherry blossom viewing party,SANEFUYU-KOKI,Aono and Omoto (1994)
+1388,7.7,NA,99,1388-04-08,From diary description about full bloom,KANENOBU-KOKI,Aono and Omoto (1994)
+1389,NA,NA,NA,NA,NA,NA,NA
+1390,NA,NA,NA,NA,NA,NA,NA
+1391,NA,NA,NA,NA,NA,NA,NA
+1392,NA,NA,NA,NA,NA,NA,NA
+1393,NA,NA,NA,NA,NA,NA,NA
+1394,NA,NA,NA,NA,NA,NA,NA
+1395,NA,NA,NA,NA,NA,NA,NA
+1396,NA,NA,NA,NA,NA,NA,NA
+1397,NA,NA,NA,NA,NA,NA,NA
+1398,5.7,NA,106,1398-04-16,From diary description about cherry blossom viewing party,GEIYOKI,Aono and Kazui (2008)
+1399,NA,NA,NA,NA,NA,NA,NA
+1400,NA,NA,NA,NA,NA,NA,NA
+1401,7.2,NA,101,1401-04-11,From diary description about cherry blossom viewing party,ATOKAGAMI,Aono and Omoto (1994)
+1402,6.6,NA,103,1402-04-13,From diary description about cherry blossom viewing party,YOSHIDAKE-HINAMIKI,Aono and Omoto (1994)
+1403,6.3,NA,104,1403-04-14,From diary description about cherry blossom viewing party,YOSHIDAKE-HINAMIKI,Aono and Kazui (2008)
+1404,NA,NA,NA,NA,NA,NA,NA
+1405,NA,NA,NA,NA,NA,NA,NA
+1406,6.9,NA,102,1406-04-12,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1407,7.2,NA,101,1407-04-11,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1408,4.3,NA,111,1408-04-20,From diary description about cherry blossom viewing party,ZOKU-HONCHOTSUKAN,Aono and Omoto (1994)
+1409,11.8,NA,86,1409-03-27,From diary description about cherry blossom viewing party,(DAINIHON-SHIRYO),Aono and Kazui (2008)
+1410,6.9,NA,102,1410-04-12,From diary description about cherry blossom viewing party,NORITOKI-KYOKI,Aono and Kazui (2008)
+1411,NA,NA,NA,NA,NA,NA,NA
+1412,9.6,NA,93,1412-04-02,From diary description about cherry blossom viewing party,(DAINIHON-SHIRYO),Aono and Kazui (2008)
+1413,10.2,NA,91,1413-04-01,From diary description about cherry blossom viewing party,ATOKAGAMI,Aono and Kazui (2008)
+1414,NA,NA,NA,NA,NA,NA,NA
+1415,6,NA,105,1415-04-15,From diary description about cherry blossom viewing party,(DAINIHON-SHIRYO),Aono and Kazui (2008)
+1416,7.2,NA,101,1416-04-10,From diary description about full bloom,KANMON-GYOKI(FUSHIMI),Aono and Omoto (1994)
+1417,4.9,NA,109,1417-04-19,From diary description about cherry blossom viewing party,(DAINIHON-SHIRYO),Aono and Kazui (2008)
+1418,8,NA,98,1418-04-08,From diary description about cherry blossom viewing party,KANMON-GYOKI,Aono and Omoto (1994)
+1419,7.4,NA,100,1419-04-10,From diary description about cherry blossom viewing party,KANMON-GYOKI(FUSHIMI),Aono and Omoto (1994)
+1420,4.1,NA,112,1420-04-21,From diary description about cherry blossom viewing party,KANMON-GYOKI(FUSHIMI),Aono and Omoto (1994)
+1421,7.7,NA,99,1421-04-09,From diary description about full bloom,KANMON-GYOKI(FUSHIMI),Aono and Omoto (1994)
+1422,4.9,NA,109,1422-04-19,From diary description about cherry blossom viewing party,YASUTOMIKI,Taguchi (1939)
+1423,8.6,NA,96,1423-04-06,From diary description about full bloom,KANMON-GYOKI(FUSHIMI),Aono and Omoto (1994)
+1424,6.6,NA,103,1424-04-12,From diary description about cherry blossom viewing party,KANMON-GYOKI(FUSHIMI),Aono and Omoto (1994)
+1425,8,NA,98,1425-04-08,From diary description about full bloom,KANMON-GYOKI(FUSHIMI),Aono and Omoto (1994)
+1426,7.7,NA,99,1426-04-09,From diary description about cherry blossom viewing party,MANZAIJUNGO-NIKKI(DAIGO),Taguchi (1939)
+1427,6.9,NA,102,1427-04-12,From diary description about full bloom,MANZAIJUNGO-NIKKI(DAIGO),Aono and Kazui (2008)
+1428,NA,NA,NA,NA,NA,NA,NA
+1429,8,NA,98,1429-04-08,From diary description about full bloom,MANZAIJUNGO-NIKKI(DAIGO),Aono and Omoto (1994)
+1430,5.2,NA,108,1430-04-18,From diary description about cherry blossom viewing party,MANZAIJUNGO-NIKKI(DAIGO),Taguchi (1939)
+1431,6.9,NA,102,1431-04-12,From diary description about cherry blossom viewing party,MANZAIJUNGO-NIKKI(DAIGO),Aono and Omoto (1994)
+1432,6.3,NA,104,1432-04-13,From diary description about cherry blossom viewing party,MANZAIJUNGO-NIKKI(DAIGO),Taguchi (1939)
+1433,8,NA,98,1433-04-08,From diary description about cherry blossom viewing party,MANZAIJUNGO-NIKKI(DAIGO),Aono and Omoto (1994)
+1434,3.8,NA,113,1434-04-23,From diary description about full bloom,MANZAIJUNGO-NIKKI(DAIGO),Aono and Omoto (1994)
+1435,8.9,NA,95,1435-04-05,From diary description about full bloom,KANMON-GYOKI(FUSHIMI),Aono and Omoto (1994)
+1436,7.2,NA,101,1436-04-10,From diary description about cherry blossom viewing party,KANMON-GYOKI(FUSHIMI),Aono and Omoto (1994)
+1437,6.6,NA,103,1437-04-13,From diary description about full bloom,KANMON-GYOKI,Aono and Omoto (1994)
+1438,7.7,NA,99,1438-04-09,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Aono and Omoto (1994)
+1439,7.2,NA,101,1439-04-11,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Aono and Omoto (1994)
+1440,8,NA,98,1440-04-07,From diary description about cherry blossom viewing party,MOROSATOKI,Aono and Kazui (2008)
+1441,6,NA,105,1441-04-15,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Aono and Omoto (1994)
+1442,NA,NA,NA,NA,NA,NA,NA
+1443,5.4,NA,107,1443-04-17,From diary description about cherry blossom viewing party,KANMON-GYOKI,Taguchi (1939)
+1444,4.9,NA,109,1444-04-18,From diary description about cherry blossom viewing party,YASUTOMIKI,Aono and Omoto (1994)
+1445,NA,NA,NA,NA,NA,NA,NA
+1446,5.2,NA,108,1446-04-18,From diary description about cherry blossom viewing party,GYOUKO-HOIN-NIKKI,Aono and Omoto (1994)
+1447,4.3,NA,111,1447-04-21,Title in Japanese poetry,SOKONSHU,Aono and Omoto (1994)
+1448,8.6,NA,96,1448-04-05,From diary description about cherry blossom viewing party,YASUTOMIKI,Aono and Omoto (1994)
+1449,8.9,NA,95,1449-04-05,From diary description about cherry blossom viewing party,ZOKU-HONCHOTSUKAN,Aono and Omoto (1994)
+1450,7.4,NA,100,1450-04-10,From diary description about full bloom,YASUTOMIKI,Sekiguchi (1969)
+1451,6.6,NA,103,1451-04-13,From diary description about full bloom,YASUTOMIKI,Sekiguchi (1969)
+1452,9.9,NA,92,1452-04-01,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Taguchi (1939)
+1453,5.4,NA,107,1453-04-17,Title in Japanese poetry,SOKONSHU,Aono and Omoto (1994)
+1454,6,NA,105,1454-04-15,Title in Japanese poetry,SOKONSHU,Aono and Omoto (1994)
+1455,8.6,NA,96,1455-04-06,From diary description about full bloom,GAUN-NIKKENROKU-BATSUYU,Aono and Omoto (1994)
+1456,5.7,NA,106,1456-04-15,From diary description about cherry blossom viewing party,MOROSATOKI,Taguchi (1939)
+1457,6,NA,105,1457-04-15,From diary description about cherry blossom viewing party,ZOKU-HONCHOTSUKAN,Taguchi (1939)
+1458,4.1,NA,112,1458-04-22,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Taguchi (1939)
+1459,3.8,NA,113,1459-04-23,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Taguchi (1939)
+1460,4.3,NA,111,1460-04-20,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Taguchi (1939)
+1461,5.7,NA,106,1461-04-16,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Aono and Omoto (1994)
+1462,5.7,NA,106,1462-04-16,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Taguchi (1939)
+1463,7.2,NA,101,1463-04-11,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Aono and Omoto (1994)
+1464,6.3,NA,104,1464-04-13,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Taguchi (1939)
+1465,8,NA,98,1465-04-08,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Taguchi (1939)
+1466,6,NA,105,1466-04-15,From diary description about cherry blossom viewing party,INRYOGEN-NICHIROKU,Taguchi (1939)
+1467,7.2,NA,101,1467-04-11,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(GOHOKOINKI),Aono (2012)
+1468,7.2,NA,101,1468-04-10,From diary description about full bloom,HEKIZAN-NICHIROKU,Taguchi (1939)
+1469,NA,NA,NA,NA,NA,NA,NA
+1470,NA,NA,NA,NA,NA,NA,NA
+1471,NA,NA,NA,NA,NA,NA,NA
+1472,3.5,NA,114,1472-04-23,From diary description about cherry blossom viewing party,CHIKANAGA-KYOKI,Aono and Omoto (1994)
+1473,NA,NA,NA,NA,NA,NA,NA
+1474,8,NA,98,1474-04-08,Title in Japanese poetry,ENROKUCHOKASHU,Aono and Omoto (1994)
+1475,NA,NA,NA,NA,NA,NA,NA
+1476,7.4,NA,100,1476-04-09,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Aono and Omoto (1994)
+1477,4.6,NA,110,1477-04-20,From diary description about full bloom,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1478,3.2,NA,115,1478-04-25,From diary description about full bloom,SANETAKA-KOKI,Aono and Omoto (1994)
+1479,4.6,NA,110,1479-04-20,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Aono and Omoto (1994)
+1480,6.3,NA,104,1480-04-13,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1481,5.7,NA,106,1481-04-16,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1482,5.2,NA,108,1482-04-18,From diary description about full bloom,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1483,7.2,NA,101,1483-04-11,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1484,8.3,NA,97,1484-04-06,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Taguchi (1939)
+1485,9.3,NA,94,1485-04-04,From diary description about full bloom,OYUDONONO-UENO-NIKKI,Taguchi (1939)
+1486,7.7,NA,99,1486-04-09,From diary description about full bloom,OYUDONONO-UENO-NIKKI,Taguchi (1939)
+1487,9.6,NA,93,1487-04-03,From diary description about full bloom,SANETAKA-KOKI,Taguchi (1939)
+1488,6.6,NA,103,1488-04-12,From diary description about full bloom,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1489,7.4,NA,100,1489-04-10,From diary description about cherry blossom viewing party,(SHIRYO-SHORAN),Aono and Omoto (1994)
+1490,8.3,NA,97,1490-04-07,From diary description about full bloom,INRYOGEN-NICHIROKU,Aono and Omoto (1994)
+1491,5.4,NA,107,1491-04-17,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Aono and Omoto (1994)
+1492,5.2,NA,108,1492-04-17,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1493,7.4,NA,100,1493-04-10,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1494,5.7,NA,106,1494-04-16,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1495,9.3,NA,94,1495-04-04,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Taguchi (1939)
+1496,8.3,NA,97,1496-04-06,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1497,5.2,NA,108,1497-04-18,From diary description about cherry blossom viewing party,CHIKANAGA-KYOKI,Aono and Omoto (1994)
+1498,8.3,NA,97,1498-04-07,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Taguchi (1939)
+1499,4.3,NA,111,1499-04-21,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Taguchi (1939)
+1500,8.3,NA,97,1500-04-07,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Taguchi (1939)
+1501,6.6,NA,103,1501-04-13,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1502,3.2,NA,115,1502-04-25,From diary description about full bloom,NOBUTANE-KYOKI,Aono and Omoto (1994)
+1503,5.2,NA,108,1503-04-18,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Aono and Omoto (1994)
+1504,3.5,NA,114,1504-04-23,From diary description about full bloom,SANETAKA-KOKI,Aono and Omoto (1994)
+1505,5.7,NA,106,1505-04-16,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1506,5.7,NA,106,1506-04-16,From diary description about full bloom,MOTONAGA-KYOKI,Taguchi (1939)
+1507,5.2,NA,108,1507-04-18,From diary description about cherry blossom viewing party,MOTONAGA-KYOKI,Taguchi (1939)
+1508,4.3,NA,111,1508-04-20,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1509,6.9,NA,102,1509-04-12,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1510,4.6,NA,110,1510-04-20,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1511,4.3,NA,111,1511-04-21,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1512,4.9,NA,109,1512-04-18,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1513,4.6,NA,110,1513-04-20,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1514,6,NA,105,1514-04-15,From diary description about cherry blossom viewing party,MORIMITSU-KOKI,Sekiguchi (1969)
+1515,4.3,NA,111,1515-04-21,From diary description about cherry blossom viewing party,SAISHOSO,Aono and Omoto (1994)
+1516,6.3,NA,104,1516-04-13,From diary description about cherry blossom viewing party,SAISHOSO,Aono and Omoto (1994)
+1517,5.7,NA,106,1517-04-16,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1518,3.2,NA,115,1518-04-25,From diary description about full bloom,NISUIKI,Taguchi (1939)
+1519,4.3,NA,111,1519-04-21,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1520,6,NA,105,1520-04-14,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1521,5.4,NA,107,1521-04-17,From diary description about full bloom,NISUIKI,Taguchi (1939)
+1522,6.6,NA,103,1522-04-13,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1523,4.9,NA,109,1523-04-19,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Aono and Omoto (1994)
+1524,4.9,NA,109,1524-04-18,From diary description about full bloom,SANETAKA-KOKI,Taguchi (1939)
+1525,6.3,NA,104,1525-04-14,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1526,3.8,NA,113,1526-04-23,From diary description about cherry blossom viewing party,NISUIKI,Aono (2012)
+1527,6,NA,105,1527-04-15,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1528,5.7,NA,106,1528-04-15,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1529,5.4,NA,107,1529-04-17,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1530,5.4,NA,107,1530-04-17,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1531,6.6,NA,103,1531-04-13,From diary description about cherry blossom viewing party,NISUIKI,Taguchi (1939)
+1532,5.2,NA,108,1532-04-17,From diary description about cherry blossom viewing party,SANETAKA-KOKI,Taguchi (1939)
+1533,4.3,NA,111,1533-04-21,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Omoto (1994)
+1534,5.2,NA,108,1534-04-18,Title in Japanese poetry,GONARAIN-GYOSEI-BASSHO,Aono and Omoto (1994)
+1535,8.9,NA,95,1535-04-05,From diary description about full bloom,GONARAIN-SHINNKI,Aono and Omoto (1994)
+1536,5.2,NA,108,1536-04-17,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1537,5.2,NA,108,1537-04-18,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1538,4.1,NA,112,1538-04-22,From diary description about cherry blossom viewing party,NINAGAWA-CHIKATOSHI-NIKKI,Aono and Omoto (1994)
+1539,2,NA,120,1539-04-30,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1540,1.5,NA,122,1540-05-01,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Omoto (1994)
+1541,4.9,NA,109,1541-04-19,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Omoto (1994)
+1542,6.9,NA,102,1542-04-12,From diary description about full bloom,TOKITSUGU-KYOKI,Aono and Omoto (1994)
+1543,2.2,NA,119,1543-04-29,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Omoto (1994)
+1544,5.4,NA,107,1544-04-16,From diary description about cherry blossom viewing party,TOKITSUGU-KYOKI,Sekiguchi (1969)
+1545,8.3,NA,97,1545-04-07,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1546,4.1,NA,112,1546-04-22,From diary description about cherry blossom viewing party,TOKITSUGU-KYOKI,Aono and Omoto (1994)
+1547,6.3,NA,104,1547-04-14,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1548,2.5,NA,118,1548-04-27,From diary description about cherry blossom viewing party,TOKITSUGU-KYOKI,Aono and Omoto (1994)
+1549,2.7,NA,117,1549-04-27,From diary description about presents of cherry twigs from party participants,(SHIRYO-SORAN),Aono and Kazui (2008)
+1550,4.3,NA,111,1550-04-21,From diary description about cherry blossom viewing party,TOKITSUGU-KYOKI,Aono and Omoto (1994)
+1551,4.9,NA,109,1551-04-19,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1552,6.3,NA,104,1552-04-13,From diary description about cherry blossom viewing party,TOKITSUGU-KYOKI,Aono and Omoto (1994)
+1553,2.2,NA,119,1553-04-29,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1554,NA,NA,NA,NA,NA,NA,NA
+1555,7.2,NA,101,1555-04-11,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1556,2,NA,120,1556-04-29,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1557,9.6,NA,93,1557-04-03,From diary description about cherry blossom viewing party,TOKITSUGU-KYOKI,Aono and Omoto (1994)
+1558,4.3,NA,111,1558-04-21,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1559,8.6,NA,96,1559-04-06,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1560,7.4,NA,100,1560-04-09,From diary description about cherry blossom viewing party,DAINIHON-SHIRYO,Sekiguchi (1969)
+1561,6.9,NA,102,1561-04-12,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1562,7.7,NA,99,1562-04-09,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI [EDA],Aono and Omoto (1994)
+1563,7.7,NA,99,1563-04-09,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Kazui (2008)
+1564,4.9,NA,109,1564-04-18,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1565,3.5,NA,114,1565-04-24,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Sekiguchi (1969)
+1566,8.3,NA,97,1566-04-07,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Sekiguchi (1969)
+1567,5.2,NA,108,1567-04-18,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1568,5.7,NA,106,1568-04-15,From diary description about cherry blossom viewing party,ATOKAGAMI,Aono and Omoto (1994)
+1569,NA,NA,NA,NA,NA,NA,NA
+1570,4.1,NA,112,1570-04-22,From diary description about full bloom,TOKITSUGU-KYOKI,Aono and Omoto (1994)
+1571,5.2,NA,108,1571-04-18,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1572,5.4,NA,107,1572-04-16,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1573,NA,NA,NA,NA,NA,NA,NA
+1574,8,NA,98,1574-04-08,Deduced from wisteria phenology -- Aono and Saito (2010),EST-from-WF(MASAATSUKYO-EISO),Aono (2012)
+1575,NA,NA,NA,NA,NA,NA,NA
+1576,4.9,NA,109,1576-04-18,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Omoto (1994)
+1577,7.4,NA,100,1577-04-10,From diary description about full bloom,SHINCHO-KOKI,Aono and Omoto (1994)
+1578,NA,NA,NA,NA,NA,NA,NA
+1579,6.9,NA,102,1579-04-12,From diary description about cherry blossom viewing party,DAINIHON-SHIRYO,Sekiguchi (1969)
+1580,8.3,NA,97,1580-04-06,From diary description about cherry blossom viewing party,DAINIHON-SHIRYO,Sekiguchi (1969)
+1581,6,NA,105,1581-04-15,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Kazui (2008)
+1582,NA,NA,NA,NA,NA,NA,NA
+1583,5.2,NA,108,1583-04-18,From diary description about full bloom,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1584,5.7,NA,106,1584-04-15,From diary description about cherry blossom viewing party,SHUNKYUKI(DAIGO),Aono and Omoto (1994)
+1585,6,NA,105,1585-04-15,From diary description about cherry blossom viewing party,UNONOMONDOKI,Taguchi (1939)
+1586,5.7,NA,106,1586-04-16,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1587,6,NA,105,1587-04-15,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1588,5.7,NA,106,1588-04-15,From diary description about cherry blossom viewing party,NA,Sekiguchi (1969)
+1589,6,NA,105,1589-04-15,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1590,6.9,NA,102,1590-04-12,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Kazui (2008)
+1591,9.3,NA,94,1591-04-04,From diary description about cherry blossom viewing party,HARETOYOKI,Aono and Kazui (2008)
+1592,8,NA,98,1592-04-07,Title in Japanese poetry,TOKITSUNE-KYOKI,Aono and Kazui (2008)
+1593,3.8,NA,113,1593-04-23,From diary description about cherry blossom viewing party,TOKITSUNE-KYOKI(DAIGO),Aono and Kazui (2008)
+1594,9.6,NA,93,1594-04-03,From diary description about cherry blossom viewing party,(DAINIHON-SHIRYO(FUSHIMI)),Aono and Kazui (2008)
+1595,4.3,NA,111,1595-04-21,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1596,6.3,NA,104,1596-04-13,From diary description about cherry blossom viewing party,GIENJUNKO-NIKKI(DAIGO),Aono and Omoto (1994)
+1597,3.5,NA,114,1597-04-24,From diary description about cherry blossom viewing party,GIENJUNKO-NIKKI(DAIGO),Taguchi (1939)
+1598,4.6,NA,110,1598-04-20,From diary description about cherry blossom viewing party,GIENJUNKO-NIKKI(DAIGO),Aono and Omoto (1994)
+1599,6.6,NA,103,1599-04-13,From diary description about cherry blossom viewing party,GIENJUNKO-NIKKI(DAIGO),Aono and Omoto (1994)
+1600,7.2,NA,101,1600-04-10,From diary description about cherry blossom viewing party,GIENJUNKO-NIKKI(DAIGO),Aono and Omoto (1994)
+1601,9.6,NA,93,1601-04-03,From diary description about full bloom,GIENJUNKO-NIKKI(DAIGO),Aono and Omoto (1994)
+1602,5.4,NA,107,1602-04-17,From diary description about full bloom,GIENJUNKO-NIKKI(DAIGO),Aono and Omoto (1994)
+1603,7.7,NA,99,1603-04-09,From diary description about full bloom,GIENJUNKO-NIKKI(DAIGO),Aono and Omoto (1994)
+1604,8.9,NA,95,1604-04-04,From diary description about full bloom,GIENJUNKO-NIKKI(DAIGO),Aono and Omoto (1994)
+1605,6,NA,105,1605-04-15,From diary description about full bloom,TOKIYOSHI-KYOKI,Taguchi (1939)
+1606,5.7,NA,106,1606-04-16,From diary description about cherry blossom viewing party,TOKIYOSHI-KYOKI,Taguchi (1939)
+1607,4.6,NA,110,1607-04-20,From diary description about cherry blossom viewing party,SHUNKYUKI(DAIGO),Aono and Omoto (1994)
+1608,NA,NA,NA,NA,NA,NA,NA
+1609,5.2,NA,108,1609-04-18,From diary description about cherry blossom viewing party,TOKIYOSHI-KYOKI,Taguchi (1939)
+1610,4.6,NA,110,1610-04-20,From diary description about cherry blossom viewing party,KEICHO-NIKKENROKU,Aono and Omoto (1994)
+1611,NA,NA,NA,NA,NA,NA,NA
+1612,11.5,NA,87,1612-03-27,From diary description about full bloom,GIENJUNKO-NIKKI(DAIGO),Taguchi (1939)
+1613,5.7,NA,106,1613-04-16,From diary description about cherry blossom viewing party,TOKIYOSHI-KYOKI,Taguchi (1939)
+1614,6.6,NA,103,1614-04-13,From diary description about full bloom,TOKIYOSHI-KYOKI,Aono and Omoto (1994)
+1615,4.6,NA,110,1615-04-20,From diary description about cherry blossom viewing party,YASUSHIGE-KYOKI,Aono and Kazui (2008)
+1616,1.5,NA,122,1616-05-01,From diary description about cherry blossom viewing party,YASUSHIGE-KYOKI,Aono and Kazui (2008)
+1617,5.4,NA,107,1617-04-17,From diary description about cherry blossom viewing party,YASUSHIGE-KYOKI,Aono and Kazui (2008)
+1618,6.9,NA,102,1618-04-12,From diary description about full bloom,TOKIYOSHI-KYOKI,Aono and Omoto (1994)
+1619,9.6,NA,93,1619-04-03,From diary description about cherry blossom viewing party,(DAINIHON-SHIRYO),Aono and Omoto (1994)
+1620,NA,NA,NA,NA,NA,NA,NA
+1621,4.9,NA,109,1621-04-19,From diary description about cherry blossom viewing party,(DAINIHON-SHIRYO),Aono and Kazui (2008)
+1622,5.7,NA,106,1622-04-16,From diary description about cherry blossom viewing party,RYOGEN-IN-KI,Taguchi (1939)
+1623,3.8,NA,113,1623-04-23,From diary description about cherry blossom viewing party,YASUSHIGE-KYOKI,Aono and Kazui (2008)
+1624,4.1,NA,112,1624-04-21,From diary description about full bloom,YASUSHIGE-KYOKI,Aono and Kazui (2008)
+1625,8.9,NA,95,1625-04-05,From diary description about cherry blossom viewing party,OYUDONONO-UENO-NIKKI,Aono and Omoto (1994)
+1626,7.4,NA,100,1626-04-10,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1627,NA,NA,NA,NA,NA,NA,NA
+1628,6.3,NA,104,1628-04-13,From diary description about full bloom,ROKUON-NICHIROKU,Aono and Omoto (1994)
+1629,4.1,NA,112,1629-04-22,From diary description about full bloom,YASUSHIGE-KYOKI,Aono and Kazui (2008)
+1630,NA,NA,NA,NA,NA,NA,NA
+1631,NA,NA,NA,NA,NA,NA,NA
+1632,6.3,NA,104,1632-04-13,From diary description about full bloom,TOKIYOSHI-KYOKI,Aono and Omoto (1994)
+1633,8,NA,98,1633-04-08,From diary description about cherry blossom viewing party,OUCHI-NIKKI,Taguchi (1939)
+1634,8.6,NA,96,1634-04-06,From diary description about cherry blossom viewing party,MICHIFUSA-KOKI,Aono and Kazui (2008)
+1635,8.3,NA,97,1635-04-07,From diary description about cherry blossom viewing party,(SHIRYO-SORAN),Aono and Omoto (1994)
+1636,NA,NA,NA,NA,NA,NA,NA
+1637,6,NA,105,1637-04-15,From diary description about cherry blossom viewing party,TOKIYOSHI-KYOKI,Aono and Omoto (1994)
+1638,6,NA,105,1638-04-15,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1639,5.2,NA,108,1639-04-18,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1640,6.6,NA,103,1640-04-12,Title in Japanese poetry,KYOHAKUSHU,Aono and Omoto (1994)
+1641,2.7,NA,117,1641-04-27,From diary description about cherry blossom viewing party,HIRAMATSUKE-HINAMI-SHIKI,Aono and Kazui (2008)
+1642,3.5,NA,114,1642-04-24,From diary description about cherry blossom viewing party,HIRAMATSUKE-HINAMI-SHIKI,Aono and Kazui (2008)
+1643,3.5,NA,114,1643-04-24,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1644,6,NA,105,1644-04-14,From diary description about cherry blossom viewing party,HIRAMATSU-TOKIMORIKI,Aono and Kazui (2008)
+1645,7.7,NA,99,1645-04-09,From diary description about cherry blossom viewing party,HIRAMATSU-TOKIMORIKI,Aono and Kazui (2008)
+1646,11.5,NA,87,1646-03-28,From diary description about cherry blossom viewing party,SHOHO-2-NEN-IKO-NIKKI,Aono and Kazui (2008)
+1647,4.1,NA,112,1647-04-22,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1648,NA,NA,NA,NA,NA,NA,NA
+1649,6.3,NA,104,1649-04-14,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Kazui (2008)
+1650,6.9,NA,102,1650-04-12,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1651,5.4,NA,107,1651-04-17,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Taguchi (1939)
+1652,5.4,NA,107,1652-04-16,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1653,4.1,NA,112,1653-04-22,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1654,6.3,NA,104,1654-04-14,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1655,6.3,NA,104,1655-04-14,From diary description about cherry blossom viewing party,ISHIKAWA-NIKKI,Aono and Omoto (1994)
+1656,6.6,NA,103,1656-04-12,From diary description about full bloom,ISHIKAWA-NIKKI,Aono and Omoto (1994)
+1657,NA,NA,NA,NA,NA,NA,NA
+1658,5.2,NA,108,1658-04-18,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Kazui (2008)
+1659,NA,NA,NA,NA,NA,NA,NA
+1660,4.3,NA,111,1660-04-20,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1661,9.6,NA,93,1661-04-03,Title in Japanese poetry,BURUI-GENYO-WAKASHU,Aono (2012)
+1662,4.6,NA,110,1662-04-20,From diary description about full bloom,KAKUMEIKI,Aono and Kazui (2008)
+1663,6,NA,105,1663-04-15,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1664,6,NA,105,1664-04-14,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1665,4.1,NA,112,1665-04-22,From diary description about cherry blossom viewing party,KAKUMEIKI,Aono and Omoto (1994)
+1666,5.2,NA,108,1666-04-18,From diary description about cherry blossom viewing party,KIMITOSHI-KYOKI,Aono and Kazui (2008)
+1667,4.1,NA,112,1667-04-22,From diary description about cherry blossom viewing party,HAMURO-YORINARI-KI,Aono (2012)
+1668,4.6,NA,110,1668-04-19,From diary description about cherry blossom viewing party,GYOJO-HOSSINNO-NIKKI [TOYOKUNI],Aono and Omoto (1994)
+1669,6.3,NA,104,1669-04-14,From diary description about cherry blossom viewing party,HAMURO-YORINARI-KI,Aono (2012)
+1670,6.9,NA,102,1670-04-12,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI,Aono and Omoto (1994)
+1671,3,NA,116,1671-04-26,From diary description about cherry blossom viewing party,GYOJO-HOSSINNO-NIKKI [KINDAI],Aono and Omoto (1994)
+1672,4.1,NA,112,1672-04-21,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI [SEIRYODEN],Aono and Omoto (1994)
+1673,6,NA,105,1673-04-15,From diary description about full bloom,MUJOHOINDONO-GONIKKI,Aono (2011)
+1674,3.2,NA,115,1674-04-25,From diary description about cherry blossom viewing party,GYOJO-HOSSINNO-NIKKI,Aono and Omoto (1994)
+1675,4.3,NA,111,1675-04-21,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI [TOJI],Aono and Omoto (1994)
+1676,6.6,NA,103,1676-04-12,From diary description about cherry blossom viewing party,GYOJO-HOSSINNO-NIKKI,Aono and Omoto (1994)
+1677,8.6,NA,96,1677-04-06,From diary description about full bloom,MUJOHOINDONO-GONIKKI,Aono (2012)
+1678,4.9,NA,109,1678-04-19,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI [HIGASHI-IWAKURA],Aono and Omoto (1994)
+1679,3.5,NA,114,1679-04-24,From diary description about cherry blossom viewing party,MUJOHOINDONO-GONIKKI,Aono (2012)
+1680,4.9,NA,109,1680-04-18,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI [KIYOMIZU-CHIONIN],Aono and Omoto (1994)
+1681,4.6,NA,110,1681-04-20,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Omoto (1994)
+1682,6.3,NA,104,1682-04-14,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI [HIGASHIYAMA],Aono and Omoto (1994)
+1683,5.2,NA,108,1683-04-18,From diary description about cherry blossom viewing party,ITO-JINSAI-NIKKI,Aono and Omoto (1994)
+1684,2.5,NA,118,1684-04-27,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI [HIGASHIYAMA],Aono and Omoto (1994)
+1685,5.7,NA,106,1685-04-16,From diary description about presents of cherry twigs from party participants,OYUDONONO-UENO-NIKKI [EDA],Aono and Omoto (1994)
+1686,6.3,NA,104,1686-04-14,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI,Aono and Omoto (1994)
+1687,6.3,NA,104,1687-04-14,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI [HIGASHIYAMA],Aono and Omoto (1994)
+1688,3.5,NA,114,1688-04-23,From diary description about cherry blossom viewing party,GYOJO-HOSSINNO-NIKKI,Aono and Omoto (1994)
+1689,8.3,NA,97,1689-04-07,From diary description about full bloom,GYOJO-HOSSINNO-NIKKI [KOSAKATEI],Aono and Omoto (1994)
+1690,9.6,NA,93,1690-04-03,From diary description about cherry blossom viewing party,GYOJO-HOSSINNO-NIKKI [KOSAKATEI],Aono and Omoto (1994)
+1691,6.6,NA,103,1691-04-13,From diary description about cherry blossom viewing party,GYOJO-HOSSINNO-NIKKI [HIGASHIYAMA],Aono and Omoto (1994)
+1692,4.9,NA,109,1692-04-18,From diary description about cherry blossom viewing party,GYOJO-HOSSINNO-NIKKI [CHIONIN],Aono and Omoto (1994)
+1693,5.4,NA,107,1693-04-17,From diary description about cherry blossom viewing party,GYOJO-HOSSINNO-NIKKI [HIGASHIYAMA],Aono and Omoto (1994)
+1694,4.9,NA,109,1694-04-19,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1695,2,NA,120,1695-04-30,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1696,3.5,NA,114,1696-04-23,From diary description about full bloom,MOTOKAZU-KYOKI,Aono and Kazui (2008)
+1697,4.3,NA,111,1697-04-21,From diary description about cherry blossom viewing party,SADAMOTO-KYOKI,Aono and Kazui (2008)
+1698,7.2,NA,101,1698-04-11,From diary description about cherry blossom viewing party,MOTOKAZU-KYOKI,Aono and Kazui (2008)
+1699,8.3,NA,97,1699-04-07,From diary description about cherry blossom viewing party,MOTOHIRO-KOKI,Aono and Kazui (2008)
+1700,3,NA,116,1700-04-26,From diary description about cherry blossom viewing party,CHIONIN-NICHIKAGAMI,Aono and Omoto (1994)
+1701,4.1,NA,112,1701-04-22,From diary description about cherry blossom viewing party,MOTOKAZU-KYOKI,Aono and Kazui (2008)
+1702,3,NA,116,1702-04-26,From diary description about cherry blossom viewing party,MOTOHIRO-KOKI,Aono and Kazui (2008)
+1703,6.6,NA,103,1703-04-13,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1704,3.8,NA,113,1704-04-22,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1705,4.9,NA,109,1705-04-19,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1706,3.2,NA,115,1706-04-25,From diary description about full bloom,KANEKA-KYOKI,Aono and Kazui (2008)
+1707,4.3,NA,111,1707-04-21,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1708,6.6,NA,103,1708-04-12,From diary description about full bloom,MOTOHIRO-KOKI,Aono and Kazui (2008)
+1709,5.7,NA,106,1709-04-16,From diary description about cherry blossom viewing party,MOTOHIRO-KOKI,Aono and Kazui (2008)
+1710,NA,NA,NA,NA,NA,NA,NA
+1711,NA,NA,NA,NA,NA,NA,NA
+1712,NA,NA,NA,NA,NA,NA,NA
+1713,6.3,NA,104,1713-04-14,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1714,5.2,NA,108,1714-04-18,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1715,5.4,NA,107,1715-04-17,From diary description about cherry blossom viewing party,CHIONIN-NICHIKAGAMI,Aono and Omoto (1994)
+1716,4.6,NA,110,1716-04-19,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1717,8,NA,98,1717-04-08,From diary description about full bloom,MOTOHIRO-KOKI,Aono and Kazui (2008)
+1718,6.9,NA,102,1718-04-12,From diary description about full bloom,MOTOHIRO-KOKI,Aono and Kazui (2008)
+1719,6.9,NA,102,1719-04-12,From diary description about full bloom,MOTOHIRO-KOKI,Aono and Kazui (2008)
+1720,3.5,NA,114,1720-04-23,From diary description about full bloom,NAKANOIN-MICHIEDAKI,Aono and Kazui (2008)
+1721,8.9,NA,95,1721-04-05,From diary description about full bloom,MOTOHIRO-KOKI,Aono and Kazui (2008)
+1722,7.4,NA,100,1722-04-10,From diary description about full bloom,MOTOHIRO-KOKI,Aono and Kazui (2008)
+1723,6.3,NA,104,1723-04-14,From diary description about full bloom,KIMIAKI-KYOKI,Aono and Kazui (2008)
+1724,7.7,NA,99,1724-04-08,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1725,5.7,NA,106,1725-04-16,From diary description about cherry blossom viewing party,MOTONAGA-KYOKI,Aono and Kazui (2008)
+1726,3,NA,116,1726-04-26,From diary description about cherry blossom viewing party,KAIKI,Aono and Omoto (1994)
+1727,4.1,NA,112,1727-04-22,From diary description about cherry blossom viewing party,KAIKI,Aono and Omoto (1994)
+1728,6.3,NA,104,1728-04-13,From diary description about cherry blossom viewing party,KAIKI,Aono and Omoto (1994)
+1729,6,NA,105,1729-04-15,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1730,NA,NA,NA,NA,NA,NA,NA
+1731,6.3,NA,104,1731-04-14,From diary description about cherry blossom viewing party,MITSUTSUNA-KYOKI,Aono and Kazui (2008)
+1732,5.2,NA,108,1732-04-17,From diary description about cherry blossom viewing party,GYOKYO-HOSSINNO-NIKKI,Aono and Omoto (1994)
+1733,5.4,NA,107,1733-04-17,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1734,6.9,NA,102,1734-04-12,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI [ARASHIYAMA],Aono and Omoto (1994)
+1735,7.2,NA,101,1735-04-11,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1736,5.7,NA,106,1736-04-15,From diary description about full bloom,MICHIE-KOKI,Aono and Kazui (2008)
+1737,9.6,NA,93,1737-04-03,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Omoto (1994)
+1738,7.2,NA,101,1738-04-11,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1739,4.6,NA,110,1739-04-20,From diary description about cherry blossom viewing party,MICHIE-KOKI,Aono and Kazui (2008)
+1740,3.2,NA,115,1740-04-24,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1741,4.9,NA,109,1741-04-19,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1742,4.9,NA,109,1742-04-19,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1743,5.2,NA,108,1743-04-18,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1744,8,NA,98,1744-04-07,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1745,6,NA,105,1745-04-15,From diary description about full bloom,MICHIE-KOKI,Aono and Kazui (2008)
+1746,4.6,NA,110,1746-04-20,From diary description about cherry blossom viewing party,MICHIE-KOKI,Aono and Kazui (2008)
+1747,7.2,NA,101,1747-04-11,From diary description about full bloom,MICHIE-KOKI,Aono and Kazui (2008)
+1748,8.6,NA,96,1748-04-05,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1749,7.4,NA,100,1749-04-10,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1750,4.6,NA,110,1750-04-20,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1751,6.6,NA,103,1751-04-13,From diary description about cherry blossom viewing party,NAKANOIN-MICHIEDAKI,Aono and Kazui (2008)
+1752,4.6,NA,110,1752-04-19,From diary description about full bloom,NAKANOIN-MICHIEDAKI,Aono and Kazui (2008)
+1753,8.6,NA,96,1753-04-06,From diary description about full bloom,NAKANOIN-MICHIEDAKI,Aono and Kazui (2008)
+1754,3.2,NA,115,1754-04-25,From diary description about cherry blossom viewing party,SADAYUKI-KYOKI,Aono and Kazui (2008)
+1755,2,NA,120,1755-04-30,From diary description about full bloom,SADAYUKI-KYOKI,Aono and Kazui (2008)
+1756,4.9,NA,109,1756-04-18,From diary description about full bloom,NORINAGA-ZAIKYO-NIKKI,Aono and Omoto (1994)
+1757,4.1,NA,112,1757-04-22,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1758,7.2,NA,101,1758-04-11,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1759,4.9,NA,109,1759-04-19,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1760,6.6,NA,103,1760-04-12,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1761,10.8,NA,89,1761-03-30,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1762,5.7,NA,106,1762-04-16,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1763,4.1,NA,112,1763-04-22,From diary description about full bloom,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1764,8,NA,98,1764-04-07,From diary description about cherry blossom viewing party,GOSAKURAMACHI-TENNNOU-SHINKI,Aono and Kazui (2008)
+1765,5.7,NA,106,1765-04-16,From diary description about cherry blossom viewing party,GOSAKURAMACHI-TENNNOU-SHINKI,Aono and Kazui (2008)
+1766,3.8,NA,113,1766-04-23,From diary description about cherry blossom viewing party,GOSAKURAMACHI-TENNNOU-SHINKI,Aono and Kazui (2008)
+1767,7.2,NA,101,1767-04-11,From diary description about cherry blossom viewing party,GOSAKURAMACHI-TENNNOU-SHINKI,Aono and Kazui (2008)
+1768,2.7,NA,117,1768-04-26,From diary description about full bloom,SADAHARU-KYOKI,Aono and Kazui (2008)
+1769,6,NA,105,1769-04-15,From diary description about cherry blossom viewing party,YANAGIHARA-KOREMITSU-NIKKI,Aono (2011)
+1770,6,NA,105,1770-04-15,From diary description about cherry blossom viewing party,(SHIRYO-KOHON),Aono and Kazui (2008)
+1771,6.3,NA,104,1771-04-14,From diary description about cherry blossom viewing party,(SHIRYO-KOHON),Aono and Kazui (2008)
+1772,5.7,NA,106,1772-04-15,From diary description about cherry blossom viewing party,GOSAKURAMACHI-TENNNOU-SHINKI,Aono and Kazui (2008)
+1773,7.4,NA,100,1773-04-10,From diary description about cherry blossom viewing party,ZOKU-SHIGUSHO,Aono and Omoto (1994)
+1774,4.6,NA,110,1774-04-20,From diary description about cherry blossom viewing party,GOSAKURAMACHI-TENNNOU-SHINKI,Aono and Kazui (2008)
+1775,7.7,NA,99,1775-04-09,From diary description about cherry blossom viewing party,GOMOMOZONO-TENNNOU-SHINKI,Aono and Kazui (2008)
+1776,5.2,NA,108,1776-04-17,From diary description about cherry blossom viewing party,TERUYOSHI-KOKI,Aono and Kazui (2008)
+1777,6.3,NA,104,1777-04-14,From diary description about full bloom,MORIYAMA-TAKAMORI-NIKKI,Aono and Omoto (1994)
+1778,4.3,NA,111,1778-04-21,From diary description about presents of cherry twigs from party participants,TERUYOSHI-KOKI,Aono and Kazui (2008)
+1779,8.6,NA,96,1779-04-06,From diary description about cherry blossom viewing party,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1780,4.9,NA,109,1780-04-18,From diary description about cherry blossom viewing party,TERUYOSHI-KOKI,Aono and Kazui (2008)
+1781,10.2,NA,91,1781-04-01,From diary description about presents of cherry twigs from party participants,MYOHOIN-HINAMIKI,Aono and Kazui (2008)
+1782,4.9,NA,109,1782-04-19,From diary description about cherry blossom viewing party,TERUYOSHI-KOKI,Aono and Kazui (2008)
+1783,6.6,NA,103,1783-04-13,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1784,6,NA,105,1784-04-14,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1785,5.2,NA,108,1785-04-18,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1786,5.7,NA,106,1786-04-16,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1787,6,NA,105,1787-04-15,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1788,4.9,NA,109,1788-04-18,From diary description about full bloom,TERUYOSHI-KOKI,Aono and Kazui (2008)
+1789,5.7,NA,106,1789-04-16,From diary description about full bloom,KOUKANSIYU-NIKKI,Aono and Kazui (2008)
+1790,2.2,NA,119,1790-04-29,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Kazui (2008)
+1791,7.7,NA,99,1791-04-09,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1792,7.2,NA,101,1792-04-10,From diary description about full bloom,TERUYOSHI-KOKI,Aono and Kazui (2008)
+1793,5.7,NA,106,1793-04-16,From diary description about cherry blossom viewing party,TERUYOSHI-KOKI,Aono and Kazui (2008)
+1794,6.3,NA,104,1794-04-14,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1795,3.8,NA,113,1795-04-23,From diary description about full bloom,TERUYOSHI-KOKI,Aono and Kazui (2008)
+1796,6.6,NA,103,1796-04-12,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Kazui (2008)
+1797,8.3,NA,97,1797-04-07,From diary description about cherry blossom viewing party,TADAYOSHI-KOKI,Aono and Kazui (2008)
+1798,4.6,NA,110,1798-04-20,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1799,6.6,NA,103,1799-04-13,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1800,6.6,NA,103,1800-04-13,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1801,6,NA,105,1801-04-15,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1802,8.6,NA,96,1802-04-06,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Kazui (2008)
+1803,4.6,NA,110,1803-04-20,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1804,6.3,NA,104,1804-04-13,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1805,9.6,NA,93,1805-04-03,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1806,3.5,NA,114,1806-04-24,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1807,3,NA,116,1807-04-26,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1808,8,NA,98,1808-04-07,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1809,5.4,NA,107,1809-04-17,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1810,7.4,NA,100,1810-04-10,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1811,4.6,NA,110,1811-04-20,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1812,2,NA,120,1812-04-29,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1813,5.4,NA,107,1813-04-17,From diary description about cherry blossom viewing party,SANEHISA-KYOKI,Aono and Kazui (2008)
+1814,3.8,NA,113,1814-04-23,From diary description about full bloom,RAI-SANYO-NIPPU,Aono and Omoto (1994)
+1815,4.3,NA,111,1815-04-21,From diary description about full bloom,SADANAKA-KYOKI,Aono and Kazui (2008)
+1816,6.6,NA,103,1816-04-12,From diary description about full bloom,HARU-NO-NISHIKI,Aono and Kazui (2008)
+1817,4.6,NA,110,1817-04-20,From diary description about full bloom,SADANAKA-KYOKI,Aono and Kazui (2008)
+1818,5.7,NA,106,1818-04-16,From diary description about full bloom,HIRAMATSUKE-NIKKI,Aono and Kazui (2008)
+1819,5.7,NA,106,1819-04-16,From diary description about full bloom,RAI-BAISHI-NIKKI,Aono and Omoto (1994)
+1820,8.9,NA,95,1820-04-04,From diary description about cherry blossom viewing party,RAI-SANYO-NIPPU,Aono and Omoto (1994)
+1821,4.9,NA,109,1821-04-19,From diary description about cherry blossom viewing party,SANEHISA-KYOKI,Aono and Kazui (2008)
+1822,6.9,NA,102,1822-04-12,From diary description about cherry blossom viewing party,RAI-SANYO-NIPPU,Aono and Omoto (1994)
+1823,5.7,NA,106,1823-04-16,From diary description about cherry blossom viewing party,RAI-SANYO-NIPPU,Aono and Omoto (1994)
+1824,5.2,NA,108,1824-04-17,From diary description about full bloom,RAI-BAISHI-NIKKI,Aono and Omoto (1994)
+1825,3.5,NA,114,1825-04-24,From diary description about cherry blossom viewing party,SANEHISA-KYOKI,Aono and Kazui (2008)
+1826,4.9,NA,109,1826-04-19,From diary description about cherry blossom viewing party,RAI-SANYO-NIPPU,Aono and Omoto (1994)
+1827,7.4,NA,100,1827-04-10,From diary description about cherry blossom viewing party,RAI-BAISHI-NIKKI,Aono and Omoto (1994)
+1828,3.8,NA,113,1828-04-22,From diary description about cherry blossom viewing party,RAI-SANYO-NIPPU,Aono and Omoto (1994)
+1829,4.1,NA,112,1829-04-22,From diary description about full bloom,RAI-BAISHI-NIKKI,Aono and Omoto (1994)
+1830,6,NA,105,1830-04-15,From diary description about cherry blossom viewing party,RAI-SANYO-NIPPU,Aono and Omoto (1994)
+1831,3.5,NA,114,1831-04-24,From diary description about cherry blossom viewing party,RAI-SANYO-NIPPU,Aono and Omoto (1994)
+1832,3.8,NA,113,1832-04-22,From diary description about full bloom,GAKUSUI-NIKKI,Aono and Omoto (1994)
+1833,5.4,NA,107,1833-04-17,From diary description about cherry blossom viewing party,GAKUSUI-NIKKI,Aono and Omoto (1994)
+1834,4.3,NA,111,1834-04-21,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1835,4.1,NA,112,1835-04-22,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1836,4.1,NA,112,1836-04-21,From diary description about full bloom,FUDEMAKASE,Aono and Kazui (2008)
+1837,4.3,NA,111,1837-04-21,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1838,4.9,NA,109,1838-04-19,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1839,2,NA,120,1839-04-30,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1840,6,NA,105,1840-04-14,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1841,5.4,NA,107,1841-04-17,From diary description about cherry blossom viewing party,KYOJIN-HOSSINNO-NIKKI,Aono and Omoto (1994)
+1842,8.6,NA,96,1842-04-06,From diary description about cherry blossom viewing party,KYOJIN-HOSSINNO-NIKKI,Aono and Omoto (1994)
+1843,5.7,NA,106,1843-04-16,From diary description about full bloom,SANEAKIRA-KYOKI,Aono and Kazui (2008)
+1844,5.7,NA,106,1844-04-15,From diary description about cherry blossom viewing party,SANEAKIRA-KYOKI,Aono and Kazui (2008)
+1845,6.9,NA,102,1845-04-12,From diary description about cherry blossom viewing party,SANEAKIRA-KYOKI,Aono and Kazui (2008)
+1846,8,NA,98,1846-04-08,Title in Japanese poetry,TEIEN-EISO,Aono and Kazui (2008)
+1847,5.4,NA,107,1847-04-17,From diary description about full bloom,MADENOKOJI-NIKKI,Taguchi (1939)
+1848,6.9,NA,102,1848-04-11,From diary description about cherry blossom viewing party,MIAKE-SHONOSUKE-NIKKI,Aono and Omoto (1994)
+1849,7.4,NA,100,1849-04-10,From diary description about full bloom,SANEAKIRA-KYOKI,Aono and Kazui (2008)
+1850,4.9,NA,109,1850-04-19,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1851,6.9,NA,102,1851-04-12,From diary description about cherry blossom viewing party,MADENOKOJI-NIKKI,Taguchi (1939)
+1852,3.8,NA,113,1852-04-22,From diary description about full bloom,SADANAKA-KYOKI,Aono and Kazui (2008)
+1853,6.9,NA,102,1853-04-12,From diary description about full bloom,MADENOKOJI-NIKKI,Taguchi (1939)
+1854,6.9,NA,102,1854-04-12,From diary description about cherry blossom viewing party,TAKOYAKUSHI-MACHINIKKI,Aono and Omoto (1994)
+1855,7.2,NA,101,1855-04-11,From diary description about full bloom,SADANAKA-KYOKI,Aono and Kazui (2008)
+1856,4.3,NA,111,1856-04-20,From diary description about full bloom,TAKAGI-ZAICHU-NIKKI,Aono (2012)
+1857,5.2,NA,108,1857-04-18,From diary description about full bloom,HANA-NO-SHITABUSHI,Aono and Kazui (2008)
+1858,6.3,NA,104,1858-04-14,From diary description about full bloom,TAKAGI-ZAICHU-NIKKI,Aono (2012)
+1859,4.6,NA,110,1859-04-20,From diary description about cherry blossom viewing party,NAKAYAMAISAKO-NIKKI,Aono and Omoto (1994)
+1860,3.8,NA,113,1860-04-22,From diary description about cherry blossom viewing party,TAKAGI-ZAICHU-NIKKI,Aono (2012)
+1861,7.4,NA,100,1861-04-10,From diary description about full bloom,TAKAGI-ZAICHU-NIKKI,Aono (2012)
+1862,2.7,NA,117,1862-04-27,From diary description about cherry blossom viewing party,KOMEI-TENNOKI,Aono and Omoto (1994)
+1863,2.5,NA,118,1863-04-28,Title in Japanese poetry,YATAKA-SHU,Aono and Kazui (2008)
+1864,6,NA,105,1864-04-14,From diary description about full bloom,MADENOKOJI-NIKKI,Taguchi (1939)
+1865,8.3,NA,97,1865-04-07,From diary description about full bloom,TAKAGI-ZAICHU-NIKKI,Aono (2012)
+1866,6.9,NA,102,1866-04-12,From diary description about cherry blossom viewing party,KOMEI-TENNOKI,Aono and Omoto (1994)
+1867,7.2,NA,101,1867-04-11,From diary description about cherry blossom viewing party,OZAKITADAMASA-NIKKI,Aono and Kazui (2008)
+1868,6.3,NA,104,1868-04-13,From diary description about cherry blossom viewing party,GAKKAI-NICHIROKU,Aono (2012)
+1869,6,NA,105,1869-04-15,From diary description about cherry blossom viewing party,TAKAGI-ZAICHU-NIKKI,Aono (2012)
+1870,7.7,NA,99,1870-04-09,From diary description about full bloom,TAKAGI-ZAICHU-NIKKI,Aono (2012)
+1871,6.3,NA,104,1871-04-14,From diary description about full bloom,TAKAGI-ZAICHU-NIKKI,Aono (2012)
+1872,NA,NA,NA,NA,NA,NA,NA
+1873,6.3,NA,104,1873-04-14,From diary description about cherry blossom viewing party,HAYAMIKE-NIKKI,Aono (2012)
+1874,5.4,NA,107,1874-04-17,From diary description about cherry blossom viewing party,HAYAMIKE-NIKKI,Aono (2012)
+1875,6.6,NA,103,1875-04-13,From diary description about cherry blossom viewing party,HAYAMIKE-NIKKI,Aono (2012)
+1876,4.3,NA,111,1876-04-20,From diary description about cherry blossom viewing party,HAYAMIKE-NIKKI,Aono (2012)
+1877,6.3,NA,104,1877-04-14,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1878,7.2,NA,101,1878-04-11,From diary description about cherry blossom viewing party,HAYAMIKE-NIKKI,Aono (2012)
+1879,6.9,NA,102,1879-04-12,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1880,4.6,NA,110,1880-04-19,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1881,4.1,4.7,112,1881-04-22,From diary description about full bloom,UEKI-SHISEI-NIKKI,Aono and Omoto (1994)
+1882,8.3,5.5,97,1882-04-07,From diary description about full bloom,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1883,5.4,5.6,107,1883-04-17,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1884,4.9,5.7,109,1884-04-18,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1885,3.8,3.7,113,1885-04-23,From diary description about cherry blossom viewing party,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1886,5.2,7.1,108,1886-04-18,From diary description about cherry blossom viewing party,SUGIURAKE-NIKKI,Aono and Omoto (1994)
+1887,4.9,5.3,109,1887-04-19,From diary description about cherry blossom viewing party,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1888,5.4,7.5,107,1888-04-16,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1889,4.9,6.6,109,1889-04-19,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1890,8,8.6,98,1890-04-08,From modern times,UEKI-SHISEI-NIKKI,Aono and Kazui (2008)
+1891,7.7,7.8,99,1891-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1892,3.2,4.7,115,1892-04-24,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1893,4.9,5,109,1893-04-19,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1894,8,7.5,98,1894-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1895,NA,6.8,NA,NA,NA,NA,NA
+1896,5.7,4.6,106,1896-04-15,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1897,5.7,6.2,106,1897-04-16,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1898,5.2,5.4,108,1898-04-18,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1899,7.7,7.1,99,1899-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1900,6.9,5.2,102,1900-04-12,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1901,6.9,5.2,102,1901-04-12,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1902,8,7.8,98,1902-04-08,From modern times,KYOTO-TETUDO-KANRIKYOKU ADV(ARASHIYAMA),Aono and Kazui (2008)
+1903,7.7,8.5,99,1903-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1904,5.2,6.3,108,1904-04-17,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1905,6,6.4,105,1905-04-15,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1906,6,6.6,105,1906-04-15,From modern times,KYOTO-TETUDO-KANRIKYOKU ADV(ARASHIYAMA),Aono and Kazui (2008)
+1907,6.6,5.4,103,1907-04-13,From modern times,KYOTO-TETUDO-KANRIKYOKU ADV(ARASHIYAMA),Aono and Kazui (2008)
+1908,6.9,6.2,102,1908-04-11,From modern times,TETUDOUIN AVD(ARASHIYAMA),Aono and Kazui (2008)
+1909,5.2,5.6,108,1909-04-18,From modern times,TETUDOUIN AVD(ARASHIYAMA),Aono and Kazui (2008)
+1910,6.3,4.7,104,1910-04-14,From modern times,TETUDOUIN AVD(ARASHIYAMA),Aono and Kazui (2008)
+1911,8,7.7,98,1911-04-08,From modern times,ARASHIYAMA-TETSUDO ADV(ARASHIYAMA),Aono and Kazui (2008)
+1912,6,7,105,1912-04-14,From modern times,TETUDOUIN AVD(ARASHIYAMA),Aono and Kazui (2008)
+1913,6.6,4.6,103,1913-04-13,From modern times,SEIBU-TETSUDO-KANRIKYOKU ADV(ARASHIYAMA),Aono and Kazui (2008)
+1914,6.9,9,102,1914-04-12,From modern times,KOBE-TETSUDO-KANRIKYOKU ADV(ARASHIYAMA),Aono and Kazui (2008)
+1915,6.9,5.6,102,1915-04-12,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1916,4.1,4.9,112,1916-04-21,From modern times,SEIBU-TETSUDO-KANRIKYOKU ADV(ARASHIYAMA),Aono and Kazui (2008)
+1917,6.6,6.1,103,1917-04-13,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1918,6.3,6.5,104,1918-04-14,From modern times,SEKI-HAJIME-NIKKI,Aono and Kazui (2008)
+1919,NA,7.5,NA,NA,NA,NA,NA
+1920,6.3,7.2,104,1920-04-13,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1921,NA,5.3,NA,NA,NA,NA,NA
+1922,7.2,5.8,101,1922-04-11,From modern times,KAJII-MOTOJIRO-SHOKAN,Aono and Kazui (2008)
+1923,8.3,8.1,97,1923-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1924,4.3,4,111,1924-04-20,From modern times,MITAMURA-ENGYO-NIKKI(ARASHIYAMA),Aono and Kazui (2008)
+1925,5.2,5.3,108,1925-04-18,From modern times,KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1926,5.2,5.4,108,1926-04-18,From modern times,KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1927,5.4,6.1,107,1927-04-17,From modern times,KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1928,5.4,6.4,107,1928-04-16,From modern times,KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1929,6.6,5.9,103,1929-04-13,From modern times,SHIN-KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1930,8.9,8.3,95,1930-04-05,From modern times,SHIN-KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1931,6,6.7,105,1931-04-15,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1932,6,5.8,105,1932-04-14,From modern times,KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1933,5.7,5.2,106,1933-04-16,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1934,6.3,5.5,104,1934-04-14,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1935,6.9,6.8,102,1935-04-12,From modern times,NHK(ARASHIYAMA),Aono and Omoto (1994)
+1936,4.3,4.5,111,1936-04-20,From modern times,NHK(ARASHIYAMA),Aono and Omoto (1994)
+1937,7.4,7.3,100,1937-04-10,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1938,8,9,98,1938-04-08,From modern times,KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1939,6.3,6.8,104,1939-04-14,From modern times,KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1940,4.6,6.3,110,1940-04-19,From modern times,KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1941,7.4,7.7,100,1941-04-10,From modern times,KEIHAN RAILWAY ADV(ARASHIYAMA),Aono and Kazui (2008)
+1942,8.6,9.9,96,1942-04-06,From modern times,ASADA-TAKASHI-NIKKI,Aono (2012)
+1943,7.2,6.1,101,1943-04-11,From modern times,ASADA-TAKASHI-NIKKI,Aono (2012)
+1944,7.4,5.7,100,1944-04-09,From modern times,ASADA-TAKASHI-NIKKI,Aono (2012)
+1945,NA,6.6,NA,NA,NA,NA,NA
+1946,8.3,6.1,97,1946-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1947,5.4,5.4,107,1947-04-17,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1948,6.9,6.4,102,1948-04-11,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1949,5.4,5.5,107,1949-04-17,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1950,7.7,6.8,99,1950-04-09,From modern times,NEWS-PAPET(DAIGO-JI),Aono and Kazui (2008)
+1951,8,7.4,98,1951-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1952,6,6.8,105,1952-04-14,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1953,7.2,8.6,101,1953-04-11,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1954,8,7.6,98,1954-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1955,8.3,8.9,97,1955-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1956,7.7,8.3,99,1956-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1957,6.6,5.2,103,1957-04-13,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1958,7.7,7.5,99,1958-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1959,9.9,9,92,1959-04-02,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1960,8.9,8.9,95,1960-04-04,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1961,7.7,8,99,1961-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1962,6.9,7.3,102,1962-04-12,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1963,7.2,7,101,1963-04-11,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1964,7.7,6.6,99,1964-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1965,4.6,5.5,110,1965-04-20,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1966,8.3,8.5,97,1966-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1967,8.3,7.7,97,1967-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1968,7.7,8,99,1968-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1969,7.2,6.9,101,1969-04-11,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1970,5.4,5,107,1970-04-17,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1971,8,7.4,98,1971-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1972,7.7,8.8,99,1972-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1973,8.3,7.8,97,1973-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1974,7.7,7,99,1974-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1975,7.4,7.4,100,1975-04-10,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1976,7.7,7.9,99,1976-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1977,9.6,8.7,93,1977-04-03,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1978,6.3,7.6,104,1978-04-14,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1979,8.3,8,97,1979-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1980,6.9,7.3,102,1980-04-11,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1981,7.7,8.3,99,1981-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1982,9.6,8.6,93,1982-04-03,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1983,7.7,7.8,99,1983-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1984,4.9,5.1,109,1984-04-18,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1985,7.7,8.5,99,1985-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1986,6.9,7.6,102,1986-04-12,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1987,8.9,8.2,95,1987-04-05,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1988,5.7,7.3,106,1988-04-15,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1989,9.6,8.2,93,1989-04-03,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1990,11.2,9.3,88,1990-03-29,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Omoto (1994)
+1991,8.3,9.4,97,1991-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1992,9.3,9.7,94,1992-04-03,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1993,8.3,7.6,97,1993-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1994,7.7,7.1,99,1994-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1995,7.7,8.6,99,1995-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1996,6.6,7.7,103,1996-04-12,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1997,8.3,9.3,97,1997-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1998,10.2,9.7,91,1998-04-01,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+1999,9.3,9.9,94,1999-04-04,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+2000,7.4,7.5,100,2000-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+2001,8.6,8.6,96,2001-04-06,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+2002,10.2,10.3,91,2002-04-01,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+2003,8,7.3,98,2003-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+2004,9.9,9.1,92,2004-04-01,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+2005,7.7,7.7,99,2005-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Kazui (2008)
+2006,8,7.5,98,2006-04-08,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Saito (2010)
+2007,8.3,8.6,97,2007-04-07,From modern times,NEWS-PAPER(ARASHIYAMA),Aono and Saito (2010)
+2008,8.9,9.6,95,2008-04-04,From modern times,NEWS-PAPER(ARASHIYAMA),Aono (2011)
+2009,8.9,8.8,95,2009-04-05,From modern times,NEWS-PAPER(ARASHIYAMA),Aono (2011)
+2010,8.9,8.5,95,2010-04-05,From modern times,NEWS-PAPER(ARASHIYAMA),Aono (2012)
+2011,NA,NA,99,2011-04-09,From modern times,NEWS-PAPER(ARASHIYAMA),Found after publication of latest articles
+2012,NA,NA,101,2012-04-10,From modern times,NEWS-PAPER(ARASHIYAMA),Found after publication of latest articles
+2013,NA,NA,93,2013-04-03,From modern times,NEWS-PAPER(ARASHIYAMA),Found after publication of latest articles
+2014,NA,NA,94,2014-04-04,From modern times,NEWS-PAPER(ARASHIYAMA),Found after publication of latest articles
+2015,NA,NA,93,2015-04-03,From modern times,NEWS-PAPER(ARASHIYAMA),Found after publication of latest articles

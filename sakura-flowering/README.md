@@ -30,7 +30,7 @@ The study is also listed on the National Centers for Environmental Information (
 
 # Data Dictionary
 
-### `sakura.csv`
+### `sakura-historical.csv`
 
 | variable           | class     | description                                                  |
 | :----------------- | :-------- | :----------------------------------------------------------- |
@@ -39,6 +39,22 @@ The study is also listed on the National Centers for Environmental Information (
 | temp_c_obs         | double    | Mean March temperature (°C) in Kyoto, observed (first non-missing record is in 1881) |
 | flower_doy         | double    | Date of full flowering, in days since beginning of year (Gregorian calendar) |
 | flower_date        | date      | Date of full flowering (Gregorian calendar)                  |
-| source             | character | Source of phenological data (paper/study)                    |
 | flower_source      | character | Type of data source for flowering date                       |
 | flower_source_name | character | Name of data source for flowering date                       |
+| study_source       | character | Source of phenological data (paper/study)                    |
+
+
+
+### `sakura-modern.csv`
+
+| variable | class | description |
+| :------- | :---- | :---------- |
+|          |       |             |
+|          |       |             |
+|          |       |             |
+|          |       |             |
+|          |       |             |
+|          |       |             |
+|          |       |             |
+|          |       |             |
+

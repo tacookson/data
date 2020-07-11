@@ -14,17 +14,6 @@ temp_759 <- read_xls(paste0(base_dir, "759Temp7.xls"),
                      col_names = c("year", "temp_c_recon", "temp_c_obs"),
                      guess_max = 2000)
 
-temp_reconstructed <- read_xls(paste0(base_dir, "TempReconst7Final.xls"),
-                     skip = 17,
-                     na = "-50",
-                     col_names = c("year",
-                                   "temp_c_estimated",
-                                   "temp_c_lower",
-                                   "temp_c_upper",
-                                   "temp_c_obs",
-                                   "urban_bias_hikone",
-                                   "urban_bias_kameoka"))
-
 kyoto_flower <- read_xls(paste0(base_dir, "KyotoFullFlower7.xls"),
                          skip = 26,
                          na = "-",
@@ -64,7 +53,8 @@ sakura <- kyoto_flower %>%
                                         sep = "-"))) %>%
   left_join(temp_759, by = "year") %>%
   filter(year >= 812) %>%
-  select(year, temp_c_recon, temp_c_obs, flower_doy:flower_source_name)
+  rename(study_source = source) %>%
+  select(year, temp_c_recon, temp_c_obs, flower_doy, flower_date, flower_source, flower_source_name, study_source)
 
 ### Write to CSV
-write_csv(sakura, "./sakura-flowering/sakura.csv")
+write_csv(sakura, "./sakura-flowering/sakura-historical.csv")
