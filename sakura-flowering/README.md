@@ -4,6 +4,8 @@
 
 
 
+#### Historical Sakura Flowering
+
 Newspapers have recorded the dates of full flowering in Kyoto since the late 19th century, but researchers have estimated flowering dates as far back as 812 CE using historical records like diary entries about *hanami* parties. These dates have been used in [paleoclimatology](https://en.wikipedia.org/wiki/Paleoclimatology) studies to estimate March temperatures in Kyoto since the 9th century. (There is a relationship between the temperatures in March and when sakura trees flower.)
 
 
@@ -12,7 +14,7 @@ Publications like *The Economist* have [featured this data](https://www.economis
 
 
 
-Data is from Prof. Yasuyuki Aono's [website](http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/) and used in the following publications:
+`sakura-historical` data is from Prof. Yasuyuki Aono's [website](http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/) and used in the following publications:
 
 > Aono and Saito (2010; International Journal of Biometeorology, 54, 211-219)
 
@@ -22,11 +24,20 @@ The study is also listed on the National Centers for Environmental Information (
 
 
 
+#### Modern Sakura Flowering
+
+Since at least 1953, the [Japan Meteorological Agency](https://en.wikipedia.org/wiki/Japan_Meteorological_Agency) has recorded the flowering of sakura trees across the country. The *sakura zensen* ("cherry blossom front") generally moves from Kyushu -- Japan's southernmost main island -- in March, to Hokkaido -- the northernmost main island -- in May.
+
+`sakura-modern` flowering data is from the Japan Meteorological Agency's page on [phenological observation data](http://www.data.jma.go.jp/sakura/data/). Station data is from the agency's [page on WIGOS stations](https://www.jma.go.jp/jma/kishou/books/station/station.html).
+
+
+
 <p align="center">
 <img height="500px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Chiyoda_Ooku_Hanami.jpg/1920px-Chiyoda_Ooku_Hanami.jpg">
 </p>
 
-### 
+
+
 
 # Data Dictionary
 
@@ -47,14 +58,13 @@ The study is also listed on the National Centers for Environmental Information (
 
 ### `sakura-modern.csv`
 
-| variable | class | description |
-| :------- | :---- | :---------- |
-|          |       |             |
-|          |       |             |
-|          |       |             |
-|          |       |             |
-|          |       |             |
-|          |       |             |
-|          |       |             |
-|          |       |             |
+| variable     | class     | description                                                 |
+| :----------- | :-------- | :---------------------------------------------------------- |
+| station_id   | double    | Station identifier (from World Meteorological Organization) |
+| station_name | character | Location name (usually a city)                              |
+| latitude     | double    | Decimal latitude coordinate                                 |
+| longitude    | double    | Decimal longitude coordinate                                |
+| year         | double    | Year                                                        |
+| flower_date  | date      | Date of full flowering                                      |
+| flower_doy   | double    | Day of year of full flowering                               |
 
