@@ -26,7 +26,7 @@ The study is also listed on the National Centers for Environmental Information (
 
 #### Modern Sakura Flowering
 
-Since at least 1953, the [Japan Meteorological Agency](https://en.wikipedia.org/wiki/Japan_Meteorological_Agency) has recorded the flowering of sakura trees across the country. The *sakura zensen* ("cherry blossom front") generally moves from Kyushu -- Japan's southernmost main island -- in March, to Hokkaido -- the northernmost main island -- in May.
+Since at least 1953, the [Japan Meteorological Agency](https://en.wikipedia.org/wiki/Japan_Meteorological_Agency) has recorded the flowering of sakura trees across the country. The [*sakura zensen*](https://en.wikipedia.org/wiki/Cherry_blossom_front) ("cherry blossom front") generally moves from Kyushu (Japan's southernmost main island) in March, to Hokkaido (the northernmost main island) in May.
 
 `sakura-modern` flowering data is from the Japan Meteorological Agency's page on [phenological observation data](http://www.data.jma.go.jp/sakura/data/). Station data is from the agency's [page on WIGOS stations](https://www.jma.go.jp/jma/kishou/books/station/station.html).
 
