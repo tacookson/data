@@ -58,13 +58,15 @@ Since at least 1953, the [Japan Meteorological Agency](https://en.wikipedia.org/
 
 ### `sakura-modern.csv`
 
-| variable     | class     | description                                                 |
-| :----------- | :-------- | :---------------------------------------------------------- |
-| station_id   | double    | Station identifier (from World Meteorological Organization) |
-| station_name | character | Location name (usually a city)                              |
-| latitude     | double    | Decimal latitude coordinate                                 |
-| longitude    | double    | Decimal longitude coordinate                                |
-| year         | double    | Year                                                        |
-| flower_date  | date      | Date of full flowering                                      |
-| flower_doy   | double    | Day of year of full flowering                               |
+| variable        | class     | description                                                 |
+| :-------------- | :-------- | :---------------------------------------------------------- |
+| station_id      | double    | Station identifier (from World Meteorological Organization) |
+| station_name    | character | Location name (usually a city)                              |
+| latitude        | double    | Decimal latitude coordinate                                 |
+| longitude       | double    | Decimal longitude coordinate                                |
+| year            | double    | Year                                                        |
+| flower_date     | date      | Date of flowering                                           |
+| flower_doy      | double    | Day of year of flowering                                    |
+| full_bloom_date | date      | Date of full bloom                                          |
+| full_bloom_doy  | double    | Day of year of full bloom                                   |
 
