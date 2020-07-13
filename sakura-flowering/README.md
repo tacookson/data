@@ -6,7 +6,9 @@
 
 #### Historical Sakura Flowering
 
-Newspapers have recorded the dates of full flowering in Kyoto since the late 19th century, but researchers have estimated flowering dates as far back as 812 CE using historical records like diary entries about *hanami* parties. These dates have been used in [paleoclimatology](https://en.wikipedia.org/wiki/Paleoclimatology) studies to estimate March temperatures in Kyoto since the 9th century. (There is a relationship between the temperatures in March and when sakura trees flower.)
+##### (812-2015, Kyoto only)
+
+Newspapers have recorded the dates of full flowering in Kyoto since the late 19th century, but researchers have estimated flowering dates as far back as 812 CE using historical records like diary entries about *hanami* parties. These dates have been used in [paleoclimatology](https://en.wikipedia.org/wiki/Paleoclimatology) studies to estimate March temperatures in Kyoto since the 9th century. (There is a relationship between the temperatures in March and when sakura trees flower in Kyoto.)
 
 
 
@@ -26,17 +28,17 @@ The study is also listed on the National Centers for Environmental Information (
 
 #### Modern Sakura Flowering
 
-Since at least 1953, the [Japan Meteorological Agency](https://en.wikipedia.org/wiki/Japan_Meteorological_Agency) has recorded the flowering of sakura trees across the country. The [*sakura zensen*](https://en.wikipedia.org/wiki/Cherry_blossom_front) ("cherry blossom front") generally moves from Kyushu (Japan's southernmost main island) in March, to Hokkaido (the northernmost main island) in May.
+##### (1953-2019, Japan-wide)
 
-`sakura-modern` flowering data is from the Japan Meteorological Agency's page on [phenological observation data](http://www.data.jma.go.jp/sakura/data/). Station data is from the agency's [page on WIGOS stations](https://www.jma.go.jp/jma/kishou/books/station/station.html).
+Since at least 1953, the [Japan Meteorological Agency](https://en.wikipedia.org/wiki/Japan_Meteorological_Agency) (JMA) has recorded the flowering of sakura trees across the country. The [*sakura zensen*](https://en.wikipedia.org/wiki/Cherry_blossom_front) ("cherry blossom front") generally moves from Kyushu (Japan's southernmost main island) in March, to Hokkaido (the northernmost main island) in May.
+
+`sakura-modern` flowering data is from the Japan Meteorological Agency's page on [phenological observation data](http://www.data.jma.go.jp/sakura/data/). Temperature data is from the JMA's [tables of monthly climate statistics (air temperature)](https://www.data.jma.go.jp/obd/stats/data/en/smp/index.html) Station data is from the agency's [page on WIGOS stations](https://www.jma.go.jp/jma/kishou/books/station/station.html).
 
 
 
 <p align="center">
 <img height="500px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Chiyoda_Ooku_Hanami.jpg/1920px-Chiyoda_Ooku_Hanami.jpg">
 </p>
-
-
 
 
 # Data Dictionary
@@ -69,4 +71,17 @@ Since at least 1953, the [Japan Meteorological Agency](https://en.wikipedia.org/
 | flower_doy      | double    | Day of year of flowering                                    |
 | full_bloom_date | date      | Date of full bloom                                          |
 | full_bloom_doy  | double    | Day of year of full bloom                                   |
+
+
+
+### `temperatures-modern.csv`
+
+| variable     | class     | description                                                  |
+| :----------- | :-------- | :----------------------------------------------------------- |
+| station_id   | double    | Station identifier (from World Meteorological Organization)  |
+| station_name | character | Location name (usually a city)                               |
+| year         | double    | Year of measurement                                          |
+| month        | character | Month of measurement                                         |
+| month_date   | date      | Date-formatted month of measurement (note: measurement is for the entire month, not just the 1st day) |
+| mean_temp_c  | double    | Monthly mean air temperature (°C)                            |
 
