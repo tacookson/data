@@ -36,4 +36,4 @@ geocodes <- geocodes_raw %>%
 
 
 ### Write to CSV ----------------------------------------------------------------------------------
-write_csv(geocodes, "./britain-bombing-ww2/geocodes.csv")
+write_csv(geocodes, "./britain-bombing-ww2/ref/geocodes.csv")
