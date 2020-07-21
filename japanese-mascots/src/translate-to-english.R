@@ -7,7 +7,7 @@ library(googleLanguageR)
 ### Authenticate with Google Cloud ----------------------------------------------------------------
 # Use your own Google Cloud credentials if you'd like to run this yourself
 # Note: this costs money!
-gl_auth("./japanese-mascots/src/keys/japanese-mascots-translation-service-account.json")
+gl_auth("./japanese-mascots/ref/keys/japanese-mascots-translation-service-account.json")
 
 
 ### Function definitions --------------------------------------------------------------------------
