@@ -30,6 +30,7 @@ Each dataset has its own folder with the following structure. **Bold** text sign
 
 | Folder                                                     | Description                                                  |       Status       |
 | ---------------------------------------------------------- | ------------------------------------------------------------ | :----------------: |
+| [britain-bombing-ww2](./britain-bombing-ww2)               | *In progress*. Location, timing, and casualties from German air raids on the United Kingdom during World War II. Approximately 32,000 records. | :heavy_minus_sign: |
 | [`broadway-grosses`](./broadway-grosses)                   | Weekly box office grosses from Broadway shows from 1985-2020. Includes weekly grosses, seats sold, and average and top ticket prices for over 1,000 shows. (Featured in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-28/readme.md)) | :heavy_check_mark: |
 | [`childrens-book-ratings`](./childrens-book-ratings)       | Ratings (1-5) for over 9,000 children's books, as well as title, author, and publishing details. | :heavy_check_mark: |
 | [`caribou-location-tracking`](./caribou-location-tracking) | Time-stamped location tracking of 260 individual caribou from herds in northern British Columbia, Canada, from 1988-2016. Great practice for mapping or animation with `gganimate`. (Featured in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-06-23/readme.md)) | :heavy_check_mark: |
