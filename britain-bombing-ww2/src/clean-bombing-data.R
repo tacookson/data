@@ -48,7 +48,10 @@ interim %>%
   select(-first_row, -no_aggregation_noted)
 
 # Test mapping
-interim %>%
+library(gganimate)
+library(lubridate)
+
+p <- interim %>%
   filter(lon > -25,
          !is.na(start_date),
          start_date >= "1940-01-01") %>%
@@ -56,4 +59,11 @@ interim %>%
   borders(region = "uk") +
   geom_point(shape = ".") +
   coord_map() +
-  facet_wrap(~ lubridate::year(start_date))
+  theme_void() +
+  transition_events(start = start_date,
+                    end = end_date,
+                    enter_length = as_date(1),
+                    exit_length = as_date(1)) +
+  ggtitle("Date: {frame_time}")
+
+anim <- animate(p, nframes = 1000, start_pause = 20, end_pause = 20)
