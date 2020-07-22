@@ -32,23 +32,25 @@ Data is separated into two tables. `bombings` describes individual bombing incid
 
 | variable             | class     | description                                                  |
 | :------------------- | :-------- | :----------------------------------------------------------- |
-| bombing_id |       |             |
-|            |       |             |
-|            |       |             |
-|            |       |             |
-|            |       |             |
-|            |       |             |
-|            |       |             |
-|            |       |             |
-|            |       |             |
+| bombing_id | double | Unique identifier |
+| civil_defence_region | character | Civil Defence Region (U.K. was divided into 13 regions, including Northern Ireland) |
+| country | character | Country |
+| location | character | Location (ranges from very general to very specific) |
+| lon | double | Longitude coordinate (decimal) |
+| lat | double | Latitude coordinate (decimal) |
+| start_date | date | Start date of bombing |
+| end_date | date | End date of bombing |
+| time | character | Time of day of bombing (Day = 6am-6pm \| Night = 6pm-6am) |
+| additional_notes | character | Additional notes on the bombing (e.g., bomb type, aggregation of casualty figures) |
+| casualty_group | double | Linked to `casualties` data. Records in `bombings` with the same `casualty_group` number represented aggregated casualty data, but specific bombing location data. |
 
 
 
 ### `casualties.csv`
 
-| variable         | class | description |
-| :--------------- | :---- | :---------- |
-| casualty_group   |       |             |
-| killed           |       |             |
-| injured          |       |             |
-| total_casualties |       |             |
+| variable         | class  | description                                                  |
+| :--------------- | :----- | :----------------------------------------------------------- |
+| casualty_group   | double | Linked to `bombings` data. Records in `bombings` with the same `casualty_group` number represented aggregated casualty data, but specific bombing location data. |
+| killed           | double | Number of people killed                                      |
+| injured          | double | Number of people injured                                     |
+| total_casualties | double | Number of killed plus injured                                |

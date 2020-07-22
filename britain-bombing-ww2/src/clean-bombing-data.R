@@ -58,7 +58,7 @@ bombings <- bombings_geocoded %>%
 
 casualties <- bombings_geocoded %>%
   distinct(casualty_group, killed, injured, total_casualties) %>%
-  select(casualty_group,)
+  select(casualty_group, everything())
 
 
 ### Write to CSV ----------------------------------------------------------------------------------
