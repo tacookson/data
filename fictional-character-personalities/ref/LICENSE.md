@@ -1,0 +1,1 @@
+Based on the [quiz website](https://openpsychometrics.org/tests/characters/), this data is covered by a [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) license, which allows for **sharing** and **adapting**, so long as attribution is given, the material isn't used for commercial purposes, and any adaptations are distributed under the same license.
