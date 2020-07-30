@@ -1,19 +1,21 @@
 # Fictional Character Personalities
 
-This data contains crowd-sourced personality traits of 800 fictional characters from numerous fictional works. Each character is scored on each of 264 adjective-pair spectrums, such as "trusting / suspicious" or "luddite / technophile".
+This data contains crowd-sourced personality traits of 800 fictional characters from numerous fictional works. Each character is scored on 264 adjective-pair spectrums, such as "trusting / suspicious" or "luddite / technophile".
 
-For example, let's look at two of my favourite fictional characters: **Michael Scott** from *The Office* and **Worf** from *Star Trek*. Let's look at the "playful / serious" spectrum.
+To illustrate, let's look at two of my favourite fictional characters: Michael Scott from *The Office* and Worf from *Star Trek*. We'll look at where they are on the "playful / serious" spectrum.
 
-- **Michael Scott** has a mean score of 8.3 (out of 100) on this spectrum (low score = very playful)
-- **Worf** has a mean score of 93.2 (out of 100) on this spectrum (high score = very serious)
+- **Michael Scott** has a mean score of 8.3 (out of 100), a **low score** indicating he is **very playful**. (After all, he is a friend first, boss second, and entertainer third!)
+- **Worf** has a mean score of 93.2 (out of 100), a **high score** indicating he is **very serious**. (Worf himself states that he "is not a merry man".)
 
 
 
 #### Data Source
 
-The data comes from the [Open-Source Psychometrics Project](https://openpsychometrics.org/)'s online ["Which Character" personality quiz](https://openpsychometrics.org/tests/characters/). According to the project's website, the goal is to:
+The data comes from the [Open-Source Psychometrics Project](https://openpsychometrics.org/)'s online ["Which Character" personality quiz](https://openpsychometrics.org/tests/characters/). According to the quiz website:
 
-> [provide] a collection of interactive personality tests with detailed results that can be taken for personal entertainment or to learn more about personality assessment. These tests range from very serious and widely used scientific instruments popular psychology to self produced quizzes. A special focus is given to the strengths, weaknesses and validity of the various systems.
+> This test is provided for educational and entertainment use only. It should not be used as psychological advice of any kind and comes without any guarantee of accuracy or fitness for any particular purpose.
+
+In other words, don't take it too seriously. :tada: ​It's just a bit of fun! :tada:
 
 
 
