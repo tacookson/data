@@ -69,5 +69,39 @@ personalities <- personalities_raw %>%
          spectrum, spectrum_low, spectrum_high,
          mean, ratings, sd)
 
+
+### Aggregated duplicated spectrums ---------------------------------------------------------------
+# Spectrum BAP98 and BAP183 have the same adjective-pair (hard / soft)
+# We'll de-duplicate by creating a separate tibble with aggregated values collapsed into BAP98
+# (i.e., BAP183 will be eliminated)
+
+# Aggregate BAP98 and BAP183 into BAP98
+bap98 <- personalities %>%
+  filter(spectrum %in% c("BAP98", "BAP183")) %>%
+         # Collapse BAP98 and BAP183 (hard / soft) into BAP98
+  mutate(spectrum = "BAP98",
+         # We need total variance to aggregate standard deviation
+         total_var = (sd ^ 2) * ratings) %>%
+  group_by(character_code, spectrum) %>%
+  summarise(mean = weighted.mean(mean, w = ratings),
+            ratings = sum(ratings),
+            # Aggregated standard deviation is the square root of the mean variance
+            sd = sqrt(sum(total_var) / ratings)) %>%
+  ungroup()
+
+# Create de-duplicated tibble
+personalities_deduped <- personalities %>%
+  # Get rid of BAP183 because we've collapsed it already
+  filter(spectrum != "BAP183") %>%
+  # Join aggregated measures for BAP98
+  left_join(bap98, by = c("character_code", "spectrum")) %>%
+  # Use the existing value for everything but BAP98 (the only spectrum in the joined table)
+  mutate(mean = coalesce(mean.y, mean.x),
+         ratings = coalesce(ratings.y, ratings.x),
+         sd = coalesce(sd.y, sd.x)) %>%
+  # Get rid of extra columns created by the join
+  select(-ends_with(".x"), -ends_with(".y"))
+
+
 ### Write to TXT ----------------------------------------------------------------------------------
-write_tsv(personalities, "./fictional-character-personalities/personalities.txt")
+write_tsv(personalities_deduped, "./fictional-character-personalities/personalities.txt")
