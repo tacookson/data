@@ -38,5 +38,6 @@ Thank you [dbaranger](https://github.com/dbaranger) for finding the data and sub
 | mean           | double    | Mean rating                                                  |
 | ratings        | double    | Number of ratings                                            |
 | sd             | double    | Standard deviation of ratings                                |
+| is_emoji       | logical   | Indicates if `spectrum_low` or `spectrum_high` uses emojis   |
 
 

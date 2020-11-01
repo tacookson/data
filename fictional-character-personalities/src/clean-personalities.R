@@ -4,6 +4,7 @@ library(tidyverse)
 library(readODS)
 library(janitor)
 library(rvest)
+library(stringi)
 
 
 ### Download and unzip raw data -------------------------------------------------------------------
@@ -100,7 +101,9 @@ personalities_deduped <- personalities %>%
          ratings = coalesce(ratings.y, ratings.x),
          sd = coalesce(sd.y, sd.x)) %>%
   # Get rid of extra columns created by the join
-  select(-ends_with(".x"), -ends_with(".y"))
+  select(-ends_with(".x"), -ends_with(".y")) %>%
+  # Add indicator column for spectrums with emojis
+  mutate(is_emoji = !stri_enc_isascii(spectrum_low) | !stri_enc_isascii(spectrum_high))
 
 
 ### Write to TXT ----------------------------------------------------------------------------------
