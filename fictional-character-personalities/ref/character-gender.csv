@@ -1,801 +1,801 @@
-character_code,fictional_work,character_name,gender
-A/1,Alien,Dallas,M
-A/2,Alien,Ellen Ripley,F
-A/3,Alien,Lambert,F
-A/4,Alien,Ash,M
-A/5,Alien,the Alien,
-A/6,Alien,Parker,M
-AD/1,Arrested Development,Michael Bluth,M
-AD/10,Arrested Development,Lucille Bluth,F
-AD/2,Arrested Development,Lindsay Bluth Funke,F
-AD/3,Arrested Development,George Oscar 'Gob' Bluth,M
-AD/4,Arrested Development,George Michael Bluth,M
-AD/5,Arrested Development,Maeby Funke,F
-AD/6,Arrested Development,Buster Bluth,M
-AD/7,Arrested Development,Tobias Funke,M
-AD/8,Arrested Development,"George Bluth, Sr.",M
-AD/9,Arrested Development,Oscar Bluth,M
-AK/1,Anna Karenina,Princess Anna Karenina,F
-AK/10,Anna Karenina,Countess Lidia Ivanovna,F
-AK/2,Anna Karenina,Count Alexei Karenin,M
-AK/3,Anna Karenina,Count Alexei Vronsky,M
-AK/4,Anna Karenina,Princess Darya 'Dolly' Oblonskaya,F
-AK/5,Anna Karenina,Prince Stepan 'Stiva' Oblonsky,M
-AK/6,Anna Karenina,Konstantin 'Kostya' Levin,M
-AK/7,Anna Karenina,Princess Elizaveta 'Betsy' Tverskaya,F
-AK/8,Anna Karenina,Princess Ekaterina 'Kitty' Shcherbatskaya,F
-AK/9,Anna Karenina,Countess Vronskaya,F
-ALA/1,Avatar: The Last Airbender,Aang,M
-ALA/10,Avatar: The Last Airbender,Hakoda,M
-ALA/2,Avatar: The Last Airbender,Zuko,M
-ALA/3,Avatar: The Last Airbender,Katara,F
-ALA/4,Avatar: The Last Airbender,Toph Beifong,F
-ALA/5,Avatar: The Last Airbender,Sokka,M
-ALA/6,Avatar: The Last Airbender,Azula,F
-ALA/7,Avatar: The Last Airbender,Iroh,M
-ALA/8,Avatar: The Last Airbender,Firelord Ozai,M
-ALA/9,Avatar: The Last Airbender,Ty Lee,F
-AS/1,Atlas Shrugged,Dagny Taggart,F
-AS/2,Atlas Shrugged,Henry Rearden,M
-AS/3,Atlas Shrugged,James Taggart,M
-AS/4,Atlas Shrugged,John Galt,M
-AS/5,Atlas Shrugged,Ellis Wyatt,M
-AS/6,Atlas Shrugged,Francisco d'Anconia,M
-B99/1,Brooklyn Nine-Nine,Jake Peralta,M
-B99/2,Brooklyn Nine-Nine,Rosa Diaz,F
-B99/3,Brooklyn Nine-Nine,Terry Jeffords,M
-B99/4,Brooklyn Nine-Nine,Amy Santiago,F
-B99/5,Brooklyn Nine-Nine,Charles Boyle,M
-B99/6,Brooklyn Nine-Nine,Raymond Holt,M
-BB/1,Breaking Bad,Walter White,M
-BB/10,Breaking Bad,Jane Margolis,F
-BB/2,Breaking Bad,Skyler White,F
-BB/3,Breaking Bad,Jesse Pinkman,M
-BB/4,Breaking Bad,Hank Schrader,M
-BB/5,Breaking Bad,Marie Schrader,F
-BB/6,Breaking Bad,Flynn White,M
-BB/7,Breaking Bad,Jimmy McGill,M
-BB/8,Breaking Bad,Gus Fring,M
-BB/9,Breaking Bad,Mike Ehrmantraut,M
-BBT/1,The Big Bang Theory,Leonard Hofstadter,M
-BBT/10,The Big Bang Theory,Mary Cooper,F
-BBT/2,The Big Bang Theory,Sheldon Cooper,M
-BBT/3,The Big Bang Theory,Penny,F
-BBT/4,The Big Bang Theory,Howard Wolowitz,M
-BBT/5,The Big Bang Theory,Raj Koothrappali,M
-BBT/6,The Big Bang Theory,Leslie Winkle,F
-BBT/7,The Big Bang Theory,Bernadette Rostenkowski,F
-BBT/8,The Big Bang Theory,Amy Farrah Fowler,F
-BBT/9,The Big Bang Theory,Stuart Bloom,M
-BSG/1,Battlestar Galactica,William Adama,M
-BSG/10,Battlestar Galactica,Karl 'Helo' Agathon,M
-BSG/11,Battlestar Galactica,Felix Gaeta,M
-BSG/12,Battlestar Galactica,Anastasia Dualla,F
-BSG/13,Battlestar Galactica,Billy Keikeya,M
-BSG/14,Battlestar Galactica,Cally Henderson,F
-BSG/15,Battlestar Galactica,Samuel 'Longshot' Anders,M
-BSG/2,Battlestar Galactica,Laura Roslin,F
-BSG/3,Battlestar Galactica,Kara 'Starbuck' Thrace,F
-BSG/4,Battlestar Galactica,Lee 'Apollo' Adama,M
-BSG/5,Battlestar Galactica,Gaius Baltar,M
-BSG/6,Battlestar Galactica,Number Six,F
-BSG/7,Battlestar Galactica,Sharon 'Boomer' Valerii,F
-BSG/8,Battlestar Galactica,Saul Tigh,M
-BSG/9,Battlestar Galactica,Galen Tyrol,M
-BVS/1,Buffy the Vampire Slayer,Buffy Summers,F
-BVS/2,Buffy the Vampire Slayer,Xander Harris,M
-BVS/3,Buffy the Vampire Slayer,Willow Rosenberg,F
-BVS/4,Buffy the Vampire Slayer,Cordelia Chase,F
-BVS/5,Buffy the Vampire Slayer,Rupert Giles,M
-BVS/6,Buffy the Vampire Slayer,Angel,M
-C/1,Community,Jeff Winger,M
-C/10,Community,Ian Duncan,M
-C/2,Community,Britta Perry,F
-C/3,Community,Abed Nadir,M
-C/4,Community,Troy Barnes,M
-C/5,Community,Annie Edison,F
-C/6,Community,Shirley Bennett,F
-C/7,Community,Pierce Hawthorne,M
-C/8,Community,Craig Pelton,M
-C/9,Community,Ben Chang,M
-CAS/1,Chilling Adventures of Sabrina,Sabrina Spellman,F
-CAS/10,Chilling Adventures of Sabrina,Zelda Spellman,F
-CAS/2,Chilling Adventures of Sabrina,Harvey Kinkle,M
-CAS/3,Chilling Adventures of Sabrina,Hilda Spellman,F
-CAS/4,Chilling Adventures of Sabrina,Ambrose Spellman,M
-CAS/5,Chilling Adventures of Sabrina,Mary Wardwell,F
-CAS/6,Chilling Adventures of Sabrina,Rosalind Walker,F
-CAS/7,Chilling Adventures of Sabrina,Prudence Night,F
-CAS/8,Chilling Adventures of Sabrina,Agatha,F
-CAS/9,Chilling Adventures of Sabrina,Father Faustus Blackwood,M
-CB/1,Casablanca,Rick Blaine,M
-CB/2,Casablanca,Ilsa Lund,F
-CB/3,Casablanca,Victor Laszlo,M
-CBP/1,Cowboy Bebop,Spike Spiegel,M
-CBP/2,Cowboy Bebop,Jet Black,M
-CBP/3,Cowboy Bebop,Faye Valentine,F
-CBP/4,Cowboy Bebop,Ed,F
-CBP/5,Cowboy Bebop,Vicious,M
-CBP/6,Cowboy Bebop,Julia,F
-CRA/1,Crazy Rich Asians,Rachel Chu,F
-CRA/2,Crazy Rich Asians,Nick Young,M
-CRA/3,Crazy Rich Asians,Eleanor Sung-Young,F
-CRA/4,Crazy Rich Asians,Goh Peik Lin,F
-CRA/5,Crazy Rich Asians,Astrid Leong-Teo,F
-CRA/6,Crazy Rich Asians,Colin Khoo,M
-D/1,Dexter,Dexter Morgan,M
-D/10,Dexter,Joey Quinn,M
-D/2,Dexter,Rita Bennett,F
-D/3,Dexter,Debra Morgan,F
-D/4,Dexter,James Doakes,M
-D/5,Dexter,Maria LaGuerta,F
-D/6,Dexter,Angel Batista,M
-D/7,Dexter,Harry Morgan,M
-D/8,Dexter,Vince Masuka,M
-D/9,Dexter,Thomas Matthews,M
-DA/1,Downton Abbey,"Robert Crawley, 7th Earl of Grantham",M
-DA/10,Downton Abbey,William Mason,M
-DA/11,Downton Abbey,Thomas Barrow,M
-DA/12,Downton Abbey,"Cora Crawley, Countess of Grantham",F
-DA/13,Downton Abbey,Daisy Mason,F
-DA/14,Downton Abbey,Beryl Patmore,F
-DA/15,Downton Abbey,"Violet Crawley, Dowager Countess of Grantham",F
-DA/2,Downton Abbey,Lady Sybil Crawley,F
-DA/3,Downton Abbey,Lady Edith Crawley,F
-DA/4,Downton Abbey,Charlie Carson,M
-DA/5,Downton Abbey,John Bates,M
-DA/6,Downton Abbey,Lady Mary Crawley,F
-DA/7,Downton Abbey,Sarah O'Brien,F
-DA/8,Downton Abbey,Anna Bates,F
-DA/9,Downton Abbey,Elsie Carson,F
-DH/1,Desperate Housewives,Susan Mayer,F
-DH/10,Desperate Housewives,Tom Scavo,M
-DH/2,Desperate Housewives,Lynette Scavo,F
-DH/3,Desperate Housewives,Bree Van de Kamp,F
-DH/4,Desperate Housewives,Gabrielle Solis,F
-DH/5,Desperate Housewives,Edie Britt,F
-DH/6,Desperate Housewives,Carlos Solis,M
-DH/7,Desperate Housewives,Julie Mayer,F
-DH/8,Desperate Housewives,Mary Alice Young,F
-DH/9,Desperate Housewives,Mike Delfino,M
-DK/1,The Dark Knight,Bruce Wayne,M
-DK/10,The Dark Knight,Sal Maroni,M
-DK/2,The Dark Knight,Alfred Pennyworth,M
-DK/3,The Dark Knight,The Joker,M
-DK/4,The Dark Knight,James Gordon,M
-DK/5,The Dark Knight,Harvey Dent,M
-DK/6,The Dark Knight,Rachel Dawes,F
-DK/7,The Dark Knight,Lucius Fox,M
-DK/8,The Dark Knight,Anthony Garcia,M
-DK/9,The Dark Knight,Lau,M
-DS9/1,Star Trek: Deep Space Nine,Jadzia Dax,F
-DS9/10,Star Trek: Deep Space Nine,Dukat,M
-DS9/11,Star Trek: Deep Space Nine,Rom,M
-DS9/12,Star Trek: Deep Space Nine,Miles O'Brien,M
-DS9/13,Star Trek: Deep Space Nine,Jake Sisko,M
-DS9/14,Star Trek: Deep Space Nine,Winn Adami,F
-DS9/15,Star Trek: Deep Space Nine,Kasidy Yates,F
-DS9/2,Star Trek: Deep Space Nine,Odo,M
-DS9/3,Star Trek: Deep Space Nine,Worf,M
-DS9/4,Star Trek: Deep Space Nine,Nog,M
-DS9/5,Star Trek: Deep Space Nine,Quark,M
-DS9/6,Star Trek: Deep Space Nine,Benjamin Sisko,M
-DS9/7,Star Trek: Deep Space Nine,Elim Garak,M
-DS9/8,Star Trek: Deep Space Nine,Kira Nerys,F
-DS9/9,Star Trek: Deep Space Nine,Julian Bashir,M
-DUNE/1,Dune,Paul Atreides,M
-DUNE/2,Dune,Lady Jessica,F
-DUNE/3,Dune,Duke Leto Atreides,M
-DUNE/4,Dune,Baron Vladimir Harkonnen,M
-DUNE/5,Dune,Thufir Hawat,M
-DUNE/6,Dune,Chani,F
-F/1,Friends,Rachel Green,F
-F/2,Friends,Monica Geller,F
-F/3,Friends,Phoebe Buffay,F
-F/4,Friends,Joey Tribbiani,M
-F/5,Friends,Chandler Bing,M
-F/6,Friends,Ross Geller,M
-FC/1,Fight Club,Tyler Durden,M
-FC/2,Fight Club,The Narrator,M
-FC/3,Fight Club,Marla Singer,F
-FG/1,Forrest Gump,Forrest Gump,M
-FG/2,Forrest Gump,Jenny Curran,F
-FG/3,Forrest Gump,Dan Taylor,M
-FNL/1,Friday Night Lights,Eric Taylor,M
-FNL/10,Friday Night Lights,Julie Taylor,F
-FNL/2,Friday Night Lights,Tami Taylor,F
-FNL/3,Friday Night Lights,Smash Williams,M
-FNL/4,Friday Night Lights,Matt Saracen,M
-FNL/5,Friday Night Lights,Lyla Garrity,F
-FNL/6,Friday Night Lights,Tim Riggins,M
-FNL/7,Friday Night Lights,Tyra Collette,F
-FNL/8,Friday Night Lights,Landry Clarke,M
-FNL/9,Friday Night Lights,Jason Street,M
-FS/1,Firefly + Serenity,Malcolm Reynolds,M
-FS/10,Firefly + Serenity,The Operative,M
-FS/2,Firefly + Serenity,River Tam,F
-FS/3,Firefly + Serenity,Inara Serra,F
-FS/4,Firefly + Serenity,Kaylee Frye,F
-FS/5,Firefly + Serenity,Zoe Washburne,F
-FS/6,Firefly + Serenity,Hoban Washburne,M
-FS/7,Firefly + Serenity,Jayne Cobb,M
-FS/8,Firefly + Serenity,Derrial Book,M
-FS/9,Firefly + Serenity,Simon Tam,M
-G/1,Girls,Hannah Horvath,F
-G/2,Girls,Marnie Michaels,F
-G/3,Girls,Jessa Johansson,F
-G/4,Girls,Shoshanna Shapiro,F
-G/5,Girls,Adam Sackler,M
-G/6,Girls,Ray Ploshansky,M
-GA/1,Grey's Anatomy,Meredith Grey,F
-GA/10,Grey's Anatomy,Addison Montgomery,F
-GA/2,Grey's Anatomy,Cristina Yang,F
-GA/3,Grey's Anatomy,Izzie Stevens,F
-GA/4,Grey's Anatomy,Alex Karev,M
-GA/5,Grey's Anatomy,George O'Malley,M
-GA/6,Grey's Anatomy,Miranda Bailey,F
-GA/7,Grey's Anatomy,Richard Webber,M
-GA/8,Grey's Anatomy,Preston Burke,M
-GA/9,Grey's Anatomy,Derek Shepherd,M
-GBU/1,"The Good, the Bad, and the Ugly",Blondie,M
-GBU/2,"The Good, the Bad, and the Ugly",Angel Eyes,M
-GBU/3,"The Good, the Bad, and the Ugly",Tuco,M
-GG/1,The Great Gatsby,Jay Gatsby,M
-GG/2,The Great Gatsby,Nick Carraway,M
-GG/3,The Great Gatsby,Daisy Buchanan,F
-GG/4,The Great Gatsby,Tom Buchanan,M
-GG/5,The Great Gatsby,Myrtle Wilson,F
-GG/6,The Great Gatsby,Jordan Baker,M
-GLEE/1,Glee,Kurt Hummel,M
-GLEE/10,Glee,Brittany Pierce,F
-GLEE/2,Glee,Sue Sylvester,F
-GLEE/3,Glee,Rachel Berry,F
-GLEE/4,Glee,Will Schuester,M
-GLEE/5,Glee,Artie Abrams,M
-GLEE/6,Glee,Santana Lopez,F
-GLEE/7,Glee,Tina Cohen-Chang,F
-GLEE/8,Glee,Mercedes Jones,F
-GLEE/9,Glee,Noah Puckerman,M
-GOT/1,Game of Thrones,Jon Snow,M
-GOT/10,Game of Thrones,Petyr Baelish,M
-GOT/11,Game of Thrones,Davos Seaworth,M
-GOT/12,Game of Thrones,Eddard Stark,M
-GOT/13,Game of Thrones,Brandon Stark,M
-GOT/14,Game of Thrones,Brienne of Tarth,F
-GOT/15,Game of Thrones,Sandor Clegane,M
-GOT/16,Game of Thrones,Varys,M
-GOT/17,Game of Thrones,Catelyn Stark,F
-GOT/18,Game of Thrones,Tywin Lannister,M
-GOT/19,Game of Thrones,Margaery Tyrell,F
-GOT/2,Game of Thrones,Tyrion Lannister,M
-GOT/20,Game of Thrones,Robb Stark,M
-GOT/21,Game of Thrones,Bronn,M
-GOT/22,Game of Thrones,Stannis Baratheon,M
-GOT/23,Game of Thrones,Joffrey Baratheon,M
-GOT/24,Game of Thrones,Melisandre,F
-GOT/25,Game of Thrones,Olenna Tyrell,F
-GOT/26,Game of Thrones,Ygritte,F
-GOT/27,Game of Thrones,Cersei Lannister,F
-GOT/28,Game of Thrones,Shae,F
-GOT/29,Game of Thrones,Oberyn Martell,M
-GOT/3,Game of Thrones,Daenerys Targaryen,F
-GOT/30,Game of Thrones,Asha Greyjoy,F
-GOT/4,Game of Thrones,Sansa Stark,F
-GOT/5,Game of Thrones,Arya Stark,F
-GOT/6,Game of Thrones,Jaime Lannister,M
-GOT/7,Game of Thrones,Samwell Tarly,M
-GOT/8,Game of Thrones,Jorah Mormont,M
-GOT/9,Game of Thrones,Theon Greyjoy,M
-GP/1,The Good Place,Eleanor Shellstrop,F
-GP/2,The Good Place,Chidi Anagonye,M
-GP/3,The Good Place,Tahani Al-Jamil,F
-GP/4,The Good Place,Janet,F
-GP/5,The Good Place,Jason Mendoza,M
-GP/6,The Good Place,Michael,M
-H/1,"House, M.D.",Dr. Gregory House,M
-H/2,"House, M.D.",Dr. Lisa Cuddy,F
-H/3,"House, M.D.",Dr. James Wilson,M
-H/4,"House, M.D.",Dr. Eric Foreman,M
-H/5,"House, M.D.",Dr. Robert Chase,M
-H/6,"House, M.D.",Dr. Allison Cameron,F
-HG/1,The Hunger Games,Katniss Everdeen,F
-HG/2,The Hunger Games,Peeta Mellark,M
-HG/3,The Hunger Games,Haymitch Abernathy,M
-HG/4,The Hunger Games,Effie Trinket,F
-HG/5,The Hunger Games,Coriolanus Snow,M
-HG/6,The Hunger Games,Gale Hawthorne,M
-HGAWM/1,How To Get Away With Murder,Annalise Keating,F
-HGAWM/10,How To Get Away With Murder,Wes Gibbins,M
-HGAWM/2,How To Get Away With Murder,Nate Lahey,M
-HGAWM/3,How To Get Away With Murder,Connor Walsh,M
-HGAWM/4,How To Get Away With Murder,Michaela Pratt,F
-HGAWM/5,How To Get Away With Murder,Asher Millstone,M
-HGAWM/6,How To Get Away With Murder,Frank Delfino,M
-HGAWM/7,How To Get Away With Murder,Bonnie Winterbottom,F
-HGAWM/8,How To Get Away With Murder,Oliver Hampton,M
-HGAWM/9,How To Get Away With Murder,Laurel Castillo,F
-HP/1,Harry Potter,Ron Weasley,M
-HP/10,Harry Potter,Draco Malfoy,M
-HP/11,Harry Potter,Molly Weasley,F
-HP/12,Harry Potter,Lord Voldemort,M
-HP/13,Harry Potter,Cho Chang,F
-HP/14,Harry Potter,Fleur Delacour,F
-HP/15,Harry Potter,Viktor Krum,M
-HP/16,Harry Potter,Filius Flitwick,M
-HP/17,Harry Potter,Horace Slughorn,M
-HP/18,Harry Potter,George Weasley,M
-HP/19,Harry Potter,Alastor Moody,M
-HP/2,Harry Potter,Harry Potter,M
-HP/20,Harry Potter,Remus Lupin,M
-HP/21,Harry Potter,Arthur Weasley,M
-HP/22,Harry Potter,Cornelius Fudge,M
-HP/23,Harry Potter,Dolores Umbridge,F
-HP/24,Harry Potter,Petunia Dursley,F
-HP/25,Harry Potter,Moaning Myrtle,F
-HP/26,Harry Potter,Rita Skeeter,F
-HP/27,Harry Potter,Dobby,M
-HP/28,Harry Potter,Bellatrix Lestrange,F
-HP/29,Harry Potter,Nymphadora Tonks,F
-HP/3,Harry Potter,Hermione Granger,F
-HP/30,Harry Potter,Sirius Black,M
-HP/4,Harry Potter,Rubeus Hagrid,M
-HP/5,Harry Potter,Albus Dumbledore,M
-HP/6,Harry Potter,Minerva McGonagall,F
-HP/7,Harry Potter,Severus Snape,M
-HP/8,Harry Potter,Ginny Weasley,F
-HP/9,Harry Potter,Luna Lovegood,F
-I/1,Inception,Dom Cobb,M
-I/2,Inception,Arthur,M
-I/3,Inception,Ariadne,F
-I/4,Inception,Mal Cobb,F
-I/5,Inception,Mr. Saito,M
-I/6,Inception,Robert Fischer,M
-JP/1,Jurassic Park,Dr. Alan Grant,M
-JP/2,Jurassic Park,Dr. Ellie Sattler,F
-JP/3,Jurassic Park,Dr. Ian Malcolm,M
-JP/4,Jurassic Park,John Hammond,M
-JP/5,Jurassic Park,Ray Arnold,M
-JP/6,Jurassic Park,Dennis Nedry,M
-L/1,LOST,Sayid Jarrah,M
-L/10,LOST,Desmond Hume,M
-L/11,LOST,Sun-Hwa Kwon,F
-L/12,LOST,Kate Austen,F
-L/13,LOST,Charlie Pace,M
-L/14,LOST,John Locke,M
-L/15,LOST,Juliet Burke,F
-L/2,LOST,Claire Littleton,F
-L/3,LOST,Jack Shephard,M
-L/4,LOST,Hugo 'Hurley' Reyes,M
-L/5,LOST,Shannon Rutherford,F
-L/6,LOST,James 'Sawyer' Ford,M
-L/7,LOST,Benjamin Linus,M
-L/8,LOST,Jin-Soo Kwon,M
-L/9,LOST,Michael Dawson,M
-LK/1,The Lion King,Simba,M
-LK/2,The Lion King,Nala,F
-LK/3,The Lion King,Timon,M
-LK/4,The Lion King,Pumbaa,M
-LK/5,The Lion King,Scar,M
-LK/6,The Lion King,Mufasa,M
-LOTR/1,Lord of the Rings,Frodo Baggins,M
-LOTR/10,Lord of the Rings,Gollum,M
-LOTR/2,Lord of the Rings,Aragorn,M
-LOTR/3,Lord of the Rings,Boromir,M
-LOTR/4,Lord of the Rings,Merry Brandybuck,M
-LOTR/5,Lord of the Rings,Samwise Gamgee,M
-LOTR/6,Lord of the Rings,Gandalf,M
-LOTR/7,Lord of the Rings,Gimli,M
-LOTR/8,Lord of the Rings,Legolas,M
-LOTR/9,Lord of the Rings,Pippin Took,M
-LW/1,Little Women,Jo March,F
-LW/2,Little Women,Meg March,F
-LW/3,Little Women,Amy March,F
-LW/4,Little Women,Beth March,F
-LW/5,Little Women,Marmee March,F
-LW/6,Little Women,Theodore Laurence,M
-M/1,The Matrix,Neo,M
-M/2,The Matrix,Morpheus,M
-M/3,The Matrix,Trinity,F
-M/4,The Matrix,Agent Smith,M
-M/5,The Matrix,Cypher,M
-M/6,The Matrix,The Oracle,F
-MASH/1,M*A*S*H,Benjamin 'Hawkeye' Pierce,M
-MASH/2,M*A*S*H,Margaret 'Hot Lips' Houlihan,F
-MASH/3,M*A*S*H,Maxwell Klinger,M
-MASH/4,M*A*S*H,Francis Mulcahy,M
-MASH/5,M*A*S*H,Frank Burns,M
-MASH/6,M*A*S*H,Walter 'Radar' O'Reilly,M
-MCU/1,Marvel Cinematic Universe,Tony Stark,M
-MCU/10,Marvel Cinematic Universe,Gamora,F
-MCU/11,Marvel Cinematic Universe,Thanos,M
-MCU/12,Marvel Cinematic Universe,Peggy Carter,F
-MCU/13,Marvel Cinematic Universe,Loki,M
-MCU/14,Marvel Cinematic Universe,Hawkeye,M
-MCU/15,Marvel Cinematic Universe,Peter Jason Quill,M
-MCU/2,Marvel Cinematic Universe,Captain America,M
-MCU/3,Marvel Cinematic Universe,Black Widow,F
-MCU/4,Marvel Cinematic Universe,Bruce Banner,M
-MCU/5,Marvel Cinematic Universe,Captain Marvel,F
-MCU/6,Marvel Cinematic Universe,Thor,M
-MCU/7,Marvel Cinematic Universe,Nick Fury,M
-MCU/8,Marvel Cinematic Universe,Dr. Strange,M
-MCU/9,Marvel Cinematic Universe,Black Panther,M
-MG/1,Mean Girls,Cady Heron,F
-MG/10,Mean Girls,Betsy Heron,F
-MG/2,Mean Girls,Regina George,F
-MG/3,Mean Girls,Gretchen Wieners,F
-MG/4,Mean Girls,Karen Smith,F
-MG/5,Mean Girls,Janis Ian,F
-MG/6,Mean Girls,Damian Leigh,M
-MG/7,Mean Girls,Aaron Samuels,M
-MG/8,Mean Girls,Ms. Sharon Norbury,F
-MG/9,Mean Girls,June George,F
-MM/1,Mad Men,Don Draper,M
-MM/10,Mad Men,Rachel Menken,F
-MM/11,Mad Men,Roger Sterling,M
-MM/12,Mad Men,Bert Cooper,M
-MM/13,Mad Men,Henry Francis,M
-MM/14,Mad Men,Lane Pryce,M
-MM/15,Mad Men,Stan Rizzo,M
-MM/2,Mad Men,Peggy Olson,F
-MM/3,Mad Men,Pete Campbell,M
-MM/4,Mad Men,Betty Draper,F
-MM/5,Mad Men,Joan Holloway,F
-MM/6,Mad Men,Salvatore Romano,M
-MM/7,Mad Men,Paul Kinsey,M
-MM/8,Mad Men,Ken Cosgrove,M
-MM/9,Mad Men,Harry Crane,M
-MNT/1,The Mentalist,Patrick Jane,M
-MNT/2,The Mentalist,Teresa Lisbon,F
-MNT/3,The Mentalist,Kimball Cho,M
-MNT/4,The Mentalist,Wayne Rigsby,M
-MNT/5,The Mentalist,Grace Van Pelt,F
-MNT/6,The Mentalist,Red John,M
-NCIS/1,NCIS,Leroy Jethro Gibbs,M
-NCIS/2,NCIS,Anthony DiNozzo,M
-NCIS/3,NCIS,Abby Sciuto,F
-NCIS/4,NCIS,Donald Mallard,M
-NCIS/5,NCIS,Timothy McGee,M
-NCIS/6,NCIS,Jimmy Palmer,M
-O/1,Ozark,Marty Byrde,M
-O/10,Ozark,Wyatt Langmore,M
-O/2,Ozark,Wendy Byrde,F
-O/3,Ozark,Charlotte Byrde,F
-O/4,Ozark,Jonah Byrde,M
-O/5,Ozark,Ruth Langmore,F
-O/6,Ozark,Rachel Garrison,F
-O/7,Ozark,Roy Petty,M
-O/8,Ozark,Jacob Snell,M
-O/9,Ozark,Darlene Snell,F
-OFOCN/1,One Flew Over the Cuckoo's Nest,Randle Patrick McMurphy,M
-OFOCN/2,One Flew Over the Cuckoo's Nest,Nurse Mildred Ratched,F
-OFOCN/3,One Flew Over the Cuckoo's Nest,'Chief' Bromden,M
-OFOCN/4,One Flew Over the Cuckoo's Nest,Dale Harding,M
-OFOCN/5,One Flew Over the Cuckoo's Nest,Billy Bibbit,M
-OFOCN/6,One Flew Over the Cuckoo's Nest,Charlie Cheswick,M
-ONB/1,Orange is the New Black,Piper Chapman,F
-ONB/10,Orange is the New Black,Flaca Gonzales,F
-ONB/2,Orange is the New Black,Alex Vause,F
-ONB/3,Orange is the New Black,Sam Healy,M
-ONB/4,Orange is the New Black,Red Reznikov,F
-ONB/5,Orange is the New Black,Crazy Eyes,F
-ONB/6,Orange is the New Black,Taystee Jefferson,F
-ONB/7,Orange is the New Black,Nicky Nichols,F
-ONB/8,Orange is the New Black,Pennsatucky Doggett,F
-ONB/9,Orange is the New Black,Lorna Morello,F
-PB/1,Prison Break,Lincoln Burrows,M
-PB/10,Prison Break,John Abruzzi,M
-PB/2,Prison Break,Michael Scofield,M
-PB/3,Prison Break,Veronica Donovan,F
-PB/4,Prison Break,Fernando Sucre,M
-PB/5,Prison Break,"Lincoln 'L.J.' Burrows, Jr.",M
-PB/6,Prison Break,Brad Bellick,M
-PB/7,Prison Break,Theodore 'T-Bag' Bagwell,M
-PB/8,Prison Break,Sara Tancredi,F
-PB/9,Prison Break,Benjamin Miles 'C-Note' Franklin,M
-PC/1,Pirates of the Caribbean,Jack Sparrow,M
-PC/2,Pirates of the Caribbean,Hector Barbossa,M
-PC/3,Pirates of the Caribbean,Joshamee Gibbs,M
-PC/4,Pirates of the Caribbean,Will Turner,M
-PC/5,Pirates of the Caribbean,Elizabeth Swann,F
-PC/6,Pirates of the Caribbean,James Norrington,M
-PF/1,Pulp Fiction,Vincent Vega,M
-PF/2,Pulp Fiction,Jules Winnfield,M
-PF/3,Pulp Fiction,Mia Wallace,F
-PF/4,Pulp Fiction,Ringo,M
-PF/5,Pulp Fiction,Marsellus Wallace,M
-PF/6,Pulp Fiction,Butch Coolidge,M
-PP/1,Pride and Prejudice,Mr. Darcy,M
-PP/10,Pride and Prejudice,Lady Catherine de Bourgh,F
-PP/2,Pride and Prejudice,Elizabeth Bennet,F
-PP/3,Pride and Prejudice,Mr. William Collins,M
-PP/4,Pride and Prejudice,George Wickham,M
-PP/5,Pride and Prejudice,Charles Bingley,M
-PP/6,Pride and Prejudice,Georgiana Darcy,F
-PP/7,Pride and Prejudice,Lydia Bennet,F
-PP/8,Pride and Prejudice,Jane Bennet,F
-PP/9,Pride and Prejudice,Mrs. Bennet,F
-PR/1,Parks and Recreation,Leslie Knope,F
-PR/2,Parks and Recreation,Ann Perkins,F
-PR/3,Parks and Recreation,Mark Brendanawicz,M
-PR/4,Parks and Recreation,Tom Haverford,M
-PR/5,Parks and Recreation,Ron Swanson,M
-PR/6,Parks and Recreation,April Ludgate,F
-R/1,The Room,Johnny,M
-R/2,The Room,Lisa,F
-R/3,The Room,Mark,M
-R/4,The Room,Denny,M
-R/5,The Room,Peter,M
-R/6,The Room,Michelle,F
-RH/1,Robin Hood,Robin Hood,M
-RH/2,Robin Hood,Maid Marian,F
-RH/3,Robin Hood,Little John,M
-RH/4,Robin Hood,Friar Tuck,M
-RH/5,Robin Hood,Prince John,M
-RH/6,Robin Hood,Sheriff of Nottingham,M
-RJ/1,Romeo and Juliet,Romeo Montague,M
-RJ/2,Romeo and Juliet,Juliet Capulet,F
-RJ/3,Romeo and Juliet,Friar Laurence,M
-RJ/4,Romeo and Juliet,Mercutio,M
-RJ/5,Romeo and Juliet,The Nurse,F
-RJ/6,Romeo and Juliet,Benvolio,M
-RLA/1,Raiders of the Lost Ark,Indiana Jones,M
-RLA/2,Raiders of the Lost Ark,Marion Ravenwood,F
-RLA/3,Raiders of the Lost Ark,Dr. Rene Belloq,M
-RLA/4,Raiders of the Lost Ark,Major Arnold Toht,M
-RLA/5,Raiders of the Lost Ark,Sallah,M
-RLA/6,Raiders of the Lost Ark,Dr. Marcus Brody,M
-S/1,The Simpsons,Homer Simpson,M
-S/10,The Simpsons,Nelson Muntz,M
-S/11,The Simpsons,Krusty the Clown,M
-S/12,The Simpsons,Edna Krabappel,F
-S/13,The Simpsons,Waylon Smithers,M
-S/14,The Simpsons,Barney Gumble,M
-S/15,The Simpsons,Principal Skinner,M
-S/2,The Simpsons,Bart Simpson,M
-S/3,The Simpsons,Marge Simpson,F
-S/4,The Simpsons,Lisa Simpson,F
-S/5,The Simpsons,Apu Nahasapeemapetilon,M
-S/6,The Simpsons,Mr. Burns,M
-S/7,The Simpsons,Ned Flanders,M
-S/8,The Simpsons,Milhouse Van Houten,M
-S/9,The Simpsons,Moe Szyslak,M
-SB/1,Superbad,Seth,M
-SB/2,Superbad,Evan,M
-SB/3,Superbad,Fogell (McLovin),M
-SB/4,Superbad,Jules,F
-SB/5,Superbad,Becca,F
-SB/6,Superbad,Officer Slater,M
-SC/1,Sex and the City,Carrie Bradshaw,F
-SC/2,Sex and the City,Charlotte York,F
-SC/3,Sex and the City,Miranda Hobbes,F
-SC/4,Sex and the City,Samantha Jones,F
-SC/5,Sex and the City,Mr. Big,M
-SC/6,Sex and the City,Steve Brady,M
-SCDL/1,Scandal,Olivia Pope,F
-SCDL/10,Scandal,Rowan Pope,M
-SCDL/2,Scandal,Abby Whelan,F
-SCDL/3,Scandal,Quinn Perkins,F
-SCDL/4,Scandal,Huck,M
-SCDL/5,Scandal,Cyrus Beene,M
-SCDL/6,Scandal,David Rosen,M
-SCDL/7,Scandal,Mellie Grant,F
-SCDL/8,Scandal,Fitzgerald Grant,M
-SCDL/9,Scandal,Jake Ballard,M
-SCRUBS/1,Scrubs,John Michael Dorian,M
-SCRUBS/2,Scrubs,Elliot Reid,F
-SCRUBS/3,Scrubs,Christopher Turk,M
-SCRUBS/4,Scrubs,Bob Kelso,M
-SCRUBS/5,Scrubs,Perry Cox,M
-SCRUBS/6,Scrubs,Carla Espinosa,F
-SF/1,Seinfeld,Jerry Seinfeld,M
-SF/2,Seinfeld,George Costanza,M
-SF/3,Seinfeld,Elaine Benes,F
-SF/4,Seinfeld,Cosmo Kramer,M
-SF/5,Seinfeld,Morty Seinfeld,M
-SF/6,Seinfeld,Helen Seinfeld,F
-SG1/1,Stargate SG-1,Jack O'Neill,M
-SG1/2,Stargate SG-1,Daniel Jackson,M
-SG1/3,Stargate SG-1,Samantha Carter,F
-SG1/4,Stargate SG-1,Teal'c,M
-SG1/5,Stargate SG-1,George S. Hammond,M
-SG1/6,Stargate SG-1,Janet Fraiser,F
-SL/1,Sherlock,Sherlock Holmes,M
-SL/2,Sherlock,Dr. John Watson,M
-SL/3,Sherlock,D.I. Greg Lestrade,M
-SL/4,Sherlock,Mrs. Hudson,F
-SL/5,Sherlock,Mycroft Holmes,M
-SL/6,Sherlock,Molly Hooper,F
-SsC/1,Schitt's Creek,Johnny Rose,M
-SsC/2,Schitt's Creek,Moira Rose,F
-SsC/3,Schitt's Creek,David Rose,M
-SsC/4,Schitt's Creek,Alexis Rose,F
-SsC/5,Schitt's Creek,Stevie Budd,F
-SsC/6,Schitt's Creek,Ted Mullens,M
-SV/1,Silicon Valley,Richard Hendricks,M
-SV/10,Silicon Valley,Jian-Yang,M
-SV/2,Silicon Valley,Erlich Bachman,M
-SV/3,Silicon Valley,Nelson Bighetti,M
-SV/4,Silicon Valley,Bertram Gilfoyle,M
-SV/5,Silicon Valley,Dinesh Chugtai,M
-SV/6,Silicon Valley,Peter Gregory,M
-SV/7,Silicon Valley,Monica Hall,F
-SV/8,Silicon Valley,Jared Dunn,M
-SV/9,Silicon Valley,Gavin Belson,M
-SVU/1,Law & Order: SVU,Olivia Benson,F
-SVU/2,Law & Order: SVU,John Munch,M
-SVU/3,Law & Order: SVU,Donald Cragen,M
-SVU/4,Law & Order: SVU,Elliot Stabler,M
-SVU/5,Law & Order: SVU,Odafin Tutuola,M
-SVU/6,Law & Order: SVU,Melinda Warner,F
-SW/1,Star Wars,Luke Skywalker,M
-SW/2,Star Wars,Princess Leia,F
-SW/3,Star Wars,Han Solo,M
-SW/4,Star Wars,Darth Vader,M
-SW/5,Star Wars,Obi-Wan Kenobi,M
-SW/6,Star Wars,C-3PO,M
-T/1,Twilight,Bella Swan,F
-T/10,Twilight,Jasper Hale,M
-T/2,Twilight,Edward Cullen,M
-T/3,Twilight,Jacob Black,M
-T/4,Twilight,Charlie Swan,M
-T/5,Twilight,Carlisle Cullen,M
-T/6,Twilight,Esme Cullen,F
-T/7,Twilight,Alice Cullen,F
-T/8,Twilight,Emmett Cullen,M
-T/9,Twilight,Rosalie Hale,F
-T100/1,The 100,Clarke Griffin,F
-T100/2,The 100,Bellamy Blake,M
-T100/3,The 100,Octavia Blake,F
-T100/4,The 100,Raven Reyes,F
-T100/5,The 100,Dr. Abigail Griffin,F
-T100/6,The 100,John Murphy,M
-T7S/1,That 70's Show,Eric Forman,M
-T7S/10,That 70's Show,Bob Pinciotti,M
-T7S/2,That 70's Show,Jackie Burkhart,F
-T7S/3,That 70's Show,Michael Kelso,M
-T7S/4,That 70's Show,Steven Hyde,M
-T7S/5,That 70's Show,Donna Pinciotti,F
-T7S/6,That 70's Show,Fez,M
-T7S/7,That 70's Show,Kitty Forman,F
-T7S/8,That 70's Show,Red Forman,M
-T7S/9,That 70's Show,Midge Pinciotti,F
-TD/1,True Detective,Rust Cohle,M
-TD/2,True Detective,Marty Hart,M
-TD/3,True Detective,Maggie Hart,F
-THM/1,Two and Half Men,Charlie Harper,M
-THM/2,Two and Half Men,Alan Harper,M
-THM/3,Two and Half Men,Jake Harper,M
-THM/4,Two and Half Men,Berta,F
-THM/5,Two and Half Men,Evelyn Harper,F
-THM/6,Two and Half Men,Judith Harper-Melnick,F
-TIU/1,This Is Us,Jack Pearson,M
-TIU/10,This Is Us,Sophie,F
-TIU/2,This Is Us,Rebecca Pearson,F
-TIU/3,This Is Us,Randall Pearson,M
-TIU/4,This Is Us,Kate Pearson,F
-TIU/5,This Is Us,Kevin Pearson,M
-TIU/6,This Is Us,Beth Pearson,F
-TIU/7,This Is Us,Toby Damon,M
-TIU/8,This Is Us,William H. 'Shakespeare' Hill,M
-TIU/9,This Is Us,Miguel Rivas,M
-TNG/1,Star Trek: The Next Generation,Jean-Luc Picard,M
-TNG/10,Star Trek: The Next Generation,Guinan,F
-TNG/2,Star Trek: The Next Generation,William Riker,M
-TNG/3,Star Trek: The Next Generation,Geordi La Forge,M
-TNG/4,Star Trek: The Next Generation,Tasha Yar,F
-TNG/5,Star Trek: The Next Generation,Worf,M
-TNG/6,Star Trek: The Next Generation,Beverly Crusher,F
-TNG/7,Star Trek: The Next Generation,Deanna Troi,F
-TNG/8,Star Trek: The Next Generation,Wesley Crusher,M
-TNG/9,Star Trek: The Next Generation,Data,M
-TO/1,The Office,Michael Scott,M
-TO/10,The Office,Meredith Palmer,F
-TO/11,The Office,Angela Martin,F
-TO/12,The Office,Phyllis Lapin,F
-TO/13,The Office,Kelly Kapoor,F
-TO/14,The Office,Kelly Erin Hannon,F
-TO/15,The Office,Robert California,M
-TO/2,The Office,Dwight Schrute,M
-TO/3,The Office,Jim Halpert,M
-TO/4,The Office,Pam Beesly,F
-TO/5,The Office,Ryan Howard,M
-TO/6,The Office,Andy Bernard,M
-TO/7,The Office,Jan Levinson,F
-TO/8,The Office,Stanley Hudson,M
-TO/9,The Office,Kevin Malone,M
-TP/1,Twin Peaks,Dale Cooper,M
-TP/10,Twin Peaks,Pete Martell,M
-TP/11,Twin Peaks,Leland Palmer,F
-TP/12,Twin Peaks,Josie Packard,F
-TP/13,Twin Peaks,Catherine Martell,F
-TP/14,Twin Peaks,Lucy Moran,F
-TP/15,Twin Peaks,Donna Hayward,F
-TP/2,Twin Peaks,Sheriff Truman,M
-TP/3,Twin Peaks,Shelly Johnson,F
-TP/4,Twin Peaks,Bobby Briggs,M
-TP/5,Twin Peaks,Benjamin Horne,M
-TP/6,Twin Peaks,Audrey Horne,F
-TP/7,Twin Peaks,Norma Jennings,F
-TP/8,Twin Peaks,James Hurley,M
-TP/9,Twin Peaks,Ed Hurley,M
-TS/1,Toy Story,Woody,M
-TS/2,Toy Story,Buzz Lightyear,M
-TS/3,Toy Story,Mr. Potato Head,M
-TS/4,Toy Story,Rex,M
-TS/5,Toy Story,Bo Peep,F
-TS/6,Toy Story,Sid Phillips,M
-TW/1,The Wire,Cedric Daniels,M
-TW/10,The Wire,Roland 'Prez' Pryzbylewski,M
-TW/11,The Wire,Rhonda Pearlman,F
-TW/12,The Wire,Omar Little,M
-TW/13,The Wire,Ervin Burrell,M
-TW/14,The Wire,Preston 'Bodie' Broadus,M
-TW/15,The Wire,Russell 'Stringer' Bell,M
-TW/16,The Wire,Tommy Carcetti,M
-TW/17,The Wire,Avon Barksdale,M
-TW/18,The Wire,Chris Partlow,M
-TW/19,The Wire,Norman Wilson,M
-TW/2,The Wire,Jimmy McNulty,M
-TW/20,The Wire,Michael Lee,M
-TW/21,The Wire,Maurice Levy,M
-TW/22,The Wire,Beatrice 'Beadie' Russell,F
-TW/23,The Wire,Dennis 'Cutty' Wise,M
-TW/24,The Wire,D'Angelo Barksdale,M
-TW/25,The Wire,Clay Davis,M
-TW/26,The Wire,Clarence Royce,M
-TW/27,The Wire,Spiros 'Vondas' Vondopoulos,M
-TW/28,The Wire,Frank Sobotka,M
-TW/29,The Wire,Ziggy Sobotka,M
-TW/3,The Wire,Kima Greggs,F
-TW/30,The Wire,Nick Sobotka,M
-TW/4,The Wire,Lester Freamon,M
-TW/5,The Wire,Bunk Moreland,M
-TW/6,The Wire,Thomas 'Herc' Hauk,M
-TW/7,The Wire,Ellis Carver,M
-TW/8,The Wire,Reginald 'Bubbles' Cousins,M
-TW/9,The Wire,William Rawls,M
-WD/1,The Walking Dead,Rick Grimes,M
-WD/10,The Walking Dead,Merle Dixon,M
-WD/2,The Walking Dead,Shane Walsh,M
-WD/3,The Walking Dead,Lori Grimes,F
-WD/4,The Walking Dead,Andrea,F
-WD/5,The Walking Dead,Dale Horvath,M
-WD/6,The Walking Dead,Glenn Rhee,M
-WD/7,The Walking Dead,Carl Grimes,M
-WD/8,The Walking Dead,Daryl Dixon,M
-WD/9,The Walking Dead,Carol Peletier,F
-WO/1,The Wizard of Oz,Dorothy Gale,F
-WO/2,The Wizard of Oz,The Wizard of Oz,M
-WO/3,The Wizard of Oz,The Scarecrow,M
-WO/4,The Wizard of Oz,The Tin Man,M
-WO/5,The Wizard of Oz,The Cowardly Lion,M
-WO/6,The Wizard of Oz,The Wicked Witch of the West,F
-WSW/1,Westworld,Dolores Abernathy,F
-WSW/10,Westworld,Theresa Cullen,F
-WSW/11,Westworld,Charlotte Hale,F
-WSW/12,Westworld,Akecheta,M
-WSW/13,Westworld,Clementine Pennyfeather,F
-WSW/14,Westworld,Logan Delos,M
-WSW/15,Westworld,Felix Lutz,M
-WSW/2,Westworld,Maeve Millay,F
-WSW/3,Westworld,Bernard Lowe,M
-WSW/4,Westworld,Teddy Flood,M
-WSW/5,Westworld,Ashley Stubbs,M
-WSW/6,Westworld,Lee Sizemore,M
-WSW/7,Westworld,Elsie Hughes,F
-WSW/8,Westworld,Man in Black,M
-WSW/9,Westworld,Robert Ford,M
-WW/1,The West Wing,Josiah Bartlet,M
-WW/10,The West Wing,Joey Lucas,F
-WW/2,The West Wing,Leo McGarry,M
-WW/3,The West Wing,Josh Lyman,M
-WW/4,The West Wing,Toby Ziegler,M
-WW/5,The West Wing,Sam Seaborn,M
-WW/6,The West Wing,C. J. Cregg,F
-WW/7,The West Wing,Charlie Young,M
-WW/8,The West Wing,Donna Moss,F
-WW/9,The West Wing,Abbey Bartlet,F
-XF/1,The X-Files,Fox Mulder,M
-XF/2,The X-Files,Dana Scully,F
-XF/3,The X-Files,Walter Skinner,M
+character_code,gender
+A/1,male
+A/2,female
+A/3,female
+A/4,male
+A/5,
+A/6,male
+AD/1,male
+AD/10,female
+AD/2,female
+AD/3,male
+AD/4,male
+AD/5,female
+AD/6,male
+AD/7,male
+AD/8,male
+AD/9,male
+AK/1,female
+AK/10,female
+AK/2,male
+AK/3,male
+AK/4,female
+AK/5,male
+AK/6,male
+AK/7,female
+AK/8,female
+AK/9,female
+ALA/1,male
+ALA/10,male
+ALA/2,male
+ALA/3,female
+ALA/4,female
+ALA/5,male
+ALA/6,female
+ALA/7,male
+ALA/8,male
+ALA/9,female
+AS/1,female
+AS/2,male
+AS/3,male
+AS/4,male
+AS/5,male
+AS/6,male
+B99/1,male
+B99/2,female
+B99/3,male
+B99/4,female
+B99/5,male
+B99/6,male
+BB/1,male
+BB/10,female
+BB/2,female
+BB/3,male
+BB/4,male
+BB/5,female
+BB/6,male
+BB/7,male
+BB/8,male
+BB/9,male
+BBT/1,male
+BBT/10,female
+BBT/2,male
+BBT/3,female
+BBT/4,male
+BBT/5,male
+BBT/6,female
+BBT/7,female
+BBT/8,female
+BBT/9,male
+BSG/1,male
+BSG/10,male
+BSG/11,male
+BSG/12,female
+BSG/13,male
+BSG/14,female
+BSG/15,male
+BSG/2,female
+BSG/3,female
+BSG/4,male
+BSG/5,male
+BSG/6,female
+BSG/7,female
+BSG/8,male
+BSG/9,male
+BVS/1,female
+BVS/2,male
+BVS/3,female
+BVS/4,female
+BVS/5,male
+BVS/6,male
+C/1,male
+C/10,male
+C/2,female
+C/3,male
+C/4,male
+C/5,female
+C/6,female
+C/7,male
+C/8,male
+C/9,male
+CAS/1,female
+CAS/10,female
+CAS/2,male
+CAS/3,female
+CAS/4,male
+CAS/5,female
+CAS/6,female
+CAS/7,female
+CAS/8,female
+CAS/9,male
+CB/1,male
+CB/2,female
+CB/3,male
+CBP/1,male
+CBP/2,male
+CBP/3,female
+CBP/4,female
+CBP/5,male
+CBP/6,female
+CRA/1,female
+CRA/2,male
+CRA/3,female
+CRA/4,female
+CRA/5,female
+CRA/6,male
+D/1,male
+D/10,male
+D/2,female
+D/3,female
+D/4,male
+D/5,female
+D/6,male
+D/7,male
+D/8,male
+D/9,male
+DA/1,male
+DA/10,male
+DA/11,male
+DA/12,female
+DA/13,female
+DA/14,female
+DA/15,female
+DA/2,female
+DA/3,female
+DA/4,male
+DA/5,male
+DA/6,female
+DA/7,female
+DA/8,female
+DA/9,female
+DH/1,female
+DH/10,male
+DH/2,female
+DH/3,female
+DH/4,female
+DH/5,female
+DH/6,male
+DH/7,female
+DH/8,female
+DH/9,male
+DK/1,male
+DK/10,male
+DK/2,male
+DK/3,male
+DK/4,male
+DK/5,male
+DK/6,female
+DK/7,male
+DK/8,male
+DK/9,male
+DS9/1,female
+DS9/10,male
+DS9/11,male
+DS9/12,male
+DS9/13,male
+DS9/14,female
+DS9/15,female
+DS9/2,male
+DS9/3,male
+DS9/4,male
+DS9/5,male
+DS9/6,male
+DS9/7,male
+DS9/8,female
+DS9/9,male
+DUNE/1,male
+DUNE/2,female
+DUNE/3,male
+DUNE/4,male
+DUNE/5,male
+DUNE/6,female
+F/1,female
+F/2,female
+F/3,female
+F/4,male
+F/5,male
+F/6,male
+FC/1,male
+FC/2,male
+FC/3,female
+FG/1,male
+FG/2,female
+FG/3,male
+FNL/1,male
+FNL/10,female
+FNL/2,female
+FNL/3,male
+FNL/4,male
+FNL/5,female
+FNL/6,male
+FNL/7,female
+FNL/8,male
+FNL/9,male
+FS/1,male
+FS/10,male
+FS/2,female
+FS/3,female
+FS/4,female
+FS/5,female
+FS/6,male
+FS/7,male
+FS/8,male
+FS/9,male
+G/1,female
+G/2,female
+G/3,female
+G/4,female
+G/5,male
+G/6,male
+GA/1,female
+GA/10,female
+GA/2,female
+GA/3,female
+GA/4,male
+GA/5,male
+GA/6,female
+GA/7,male
+GA/8,male
+GA/9,male
+GBU/1,male
+GBU/2,male
+GBU/3,male
+GG/1,male
+GG/2,male
+GG/3,female
+GG/4,male
+GG/5,female
+GG/6,male
+GLEE/1,male
+GLEE/10,female
+GLEE/2,female
+GLEE/3,female
+GLEE/4,male
+GLEE/5,male
+GLEE/6,female
+GLEE/7,female
+GLEE/8,female
+GLEE/9,male
+GOT/1,male
+GOT/10,male
+GOT/11,male
+GOT/12,male
+GOT/13,male
+GOT/14,female
+GOT/15,male
+GOT/16,male
+GOT/17,female
+GOT/18,male
+GOT/19,female
+GOT/2,male
+GOT/20,male
+GOT/21,male
+GOT/22,male
+GOT/23,male
+GOT/24,female
+GOT/25,female
+GOT/26,female
+GOT/27,female
+GOT/28,female
+GOT/29,male
+GOT/3,female
+GOT/30,female
+GOT/4,female
+GOT/5,female
+GOT/6,male
+GOT/7,male
+GOT/8,male
+GOT/9,male
+GP/1,female
+GP/2,male
+GP/3,female
+GP/4,female
+GP/5,male
+GP/6,male
+H/1,male
+H/2,female
+H/3,male
+H/4,male
+H/5,male
+H/6,female
+HG/1,female
+HG/2,male
+HG/3,male
+HG/4,female
+HG/5,male
+HG/6,male
+HGAWM/1,female
+HGAWM/10,male
+HGAWM/2,male
+HGAWM/3,male
+HGAWM/4,female
+HGAWM/5,male
+HGAWM/6,male
+HGAWM/7,female
+HGAWM/8,male
+HGAWM/9,female
+HP/1,male
+HP/10,male
+HP/11,female
+HP/12,male
+HP/13,female
+HP/14,female
+HP/15,male
+HP/16,male
+HP/17,male
+HP/18,male
+HP/19,male
+HP/2,male
+HP/20,male
+HP/21,male
+HP/22,male
+HP/23,female
+HP/24,female
+HP/25,female
+HP/26,female
+HP/27,male
+HP/28,female
+HP/29,female
+HP/3,female
+HP/30,male
+HP/4,male
+HP/5,male
+HP/6,female
+HP/7,male
+HP/8,female
+HP/9,female
+I/1,male
+I/2,male
+I/3,female
+I/4,female
+I/5,male
+I/6,male
+JP/1,male
+JP/2,female
+JP/3,male
+JP/4,male
+JP/5,male
+JP/6,male
+L/1,male
+L/10,male
+L/11,female
+L/12,female
+L/13,male
+L/14,male
+L/15,female
+L/2,female
+L/3,male
+L/4,male
+L/5,female
+L/6,male
+L/7,male
+L/8,male
+L/9,male
+LK/1,male
+LK/2,female
+LK/3,male
+LK/4,male
+LK/5,male
+LK/6,male
+LOTR/1,male
+LOTR/10,male
+LOTR/2,male
+LOTR/3,male
+LOTR/4,male
+LOTR/5,male
+LOTR/6,male
+LOTR/7,male
+LOTR/8,male
+LOTR/9,male
+LW/1,female
+LW/2,female
+LW/3,female
+LW/4,female
+LW/5,female
+LW/6,male
+M/1,male
+M/2,male
+M/3,female
+M/4,male
+M/5,male
+M/6,female
+MASH/1,male
+MASH/2,female
+MASH/3,male
+MASH/4,male
+MASH/5,male
+MASH/6,male
+MCU/1,male
+MCU/10,female
+MCU/11,male
+MCU/12,female
+MCU/13,male
+MCU/14,male
+MCU/15,male
+MCU/2,male
+MCU/3,female
+MCU/4,male
+MCU/5,female
+MCU/6,male
+MCU/7,male
+MCU/8,male
+MCU/9,male
+MG/1,female
+MG/10,female
+MG/2,female
+MG/3,female
+MG/4,female
+MG/5,female
+MG/6,male
+MG/7,male
+MG/8,female
+MG/9,female
+MM/1,male
+MM/10,female
+MM/11,male
+MM/12,male
+MM/13,male
+MM/14,male
+MM/15,male
+MM/2,female
+MM/3,male
+MM/4,female
+MM/5,female
+MM/6,male
+MM/7,male
+MM/8,male
+MM/9,male
+MNT/1,male
+MNT/2,female
+MNT/3,male
+MNT/4,male
+MNT/5,female
+MNT/6,male
+NCIS/1,male
+NCIS/2,male
+NCIS/3,female
+NCIS/4,male
+NCIS/5,male
+NCIS/6,male
+O/1,male
+O/10,male
+O/2,female
+O/3,female
+O/4,male
+O/5,female
+O/6,female
+O/7,male
+O/8,male
+O/9,female
+OFOCN/1,male
+OFOCN/2,female
+OFOCN/3,male
+OFOCN/4,male
+OFOCN/5,male
+OFOCN/6,male
+ONB/1,female
+ONB/10,female
+ONB/2,female
+ONB/3,male
+ONB/4,female
+ONB/5,female
+ONB/6,female
+ONB/7,female
+ONB/8,female
+ONB/9,female
+PB/1,male
+PB/10,male
+PB/2,male
+PB/3,female
+PB/4,male
+PB/5,male
+PB/6,male
+PB/7,male
+PB/8,female
+PB/9,male
+PC/1,male
+PC/2,male
+PC/3,male
+PC/4,male
+PC/5,female
+PC/6,male
+PF/1,male
+PF/2,male
+PF/3,female
+PF/4,male
+PF/5,male
+PF/6,male
+PP/1,male
+PP/10,female
+PP/2,female
+PP/3,male
+PP/4,male
+PP/5,male
+PP/6,female
+PP/7,female
+PP/8,female
+PP/9,female
+PR/1,female
+PR/2,female
+PR/3,male
+PR/4,male
+PR/5,male
+PR/6,female
+R/1,male
+R/2,female
+R/3,male
+R/4,male
+R/5,male
+R/6,female
+RH/1,male
+RH/2,female
+RH/3,male
+RH/4,male
+RH/5,male
+RH/6,male
+RJ/1,male
+RJ/2,female
+RJ/3,male
+RJ/4,male
+RJ/5,female
+RJ/6,male
+RLA/1,male
+RLA/2,female
+RLA/3,male
+RLA/4,male
+RLA/5,male
+RLA/6,male
+S/1,male
+S/10,male
+S/11,male
+S/12,female
+S/13,male
+S/14,male
+S/15,male
+S/2,male
+S/3,female
+S/4,female
+S/5,male
+S/6,male
+S/7,male
+S/8,male
+S/9,male
+SB/1,male
+SB/2,male
+SB/3,male
+SB/4,female
+SB/5,female
+SB/6,male
+SC/1,female
+SC/2,female
+SC/3,female
+SC/4,female
+SC/5,male
+SC/6,male
+SCDL/1,female
+SCDL/10,male
+SCDL/2,female
+SCDL/3,female
+SCDL/4,male
+SCDL/5,male
+SCDL/6,male
+SCDL/7,female
+SCDL/8,male
+SCDL/9,male
+SCRUBS/1,male
+SCRUBS/2,female
+SCRUBS/3,male
+SCRUBS/4,male
+SCRUBS/5,male
+SCRUBS/6,female
+SF/1,male
+SF/2,male
+SF/3,female
+SF/4,male
+SF/5,male
+SF/6,female
+SG1/1,male
+SG1/2,male
+SG1/3,female
+SG1/4,male
+SG1/5,male
+SG1/6,female
+SL/1,male
+SL/2,male
+SL/3,male
+SL/4,female
+SL/5,male
+SL/6,female
+SsC/1,male
+SsC/2,female
+SsC/3,male
+SsC/4,female
+SsC/5,female
+SsC/6,male
+SV/1,male
+SV/10,male
+SV/2,male
+SV/3,male
+SV/4,male
+SV/5,male
+SV/6,male
+SV/7,female
+SV/8,male
+SV/9,male
+SVU/1,female
+SVU/2,male
+SVU/3,male
+SVU/4,male
+SVU/5,male
+SVU/6,female
+SW/1,male
+SW/2,female
+SW/3,male
+SW/4,male
+SW/5,male
+SW/6,male
+T/1,female
+T/10,male
+T/2,male
+T/3,male
+T/4,male
+T/5,male
+T/6,female
+T/7,female
+T/8,male
+T/9,female
+T100/1,female
+T100/2,male
+T100/3,female
+T100/4,female
+T100/5,female
+T100/6,male
+T7S/1,male
+T7S/10,male
+T7S/2,female
+T7S/3,male
+T7S/4,male
+T7S/5,female
+T7S/6,male
+T7S/7,female
+T7S/8,male
+T7S/9,female
+TD/1,male
+TD/2,male
+TD/3,female
+THM/1,male
+THM/2,male
+THM/3,male
+THM/4,female
+THM/5,female
+THM/6,female
+TIU/1,male
+TIU/10,female
+TIU/2,female
+TIU/3,male
+TIU/4,female
+TIU/5,male
+TIU/6,female
+TIU/7,male
+TIU/8,male
+TIU/9,male
+TNG/1,male
+TNG/10,female
+TNG/2,male
+TNG/3,male
+TNG/4,female
+TNG/5,male
+TNG/6,female
+TNG/7,female
+TNG/8,male
+TNG/9,male
+TO/1,male
+TO/10,female
+TO/11,female
+TO/12,female
+TO/13,female
+TO/14,female
+TO/15,male
+TO/2,male
+TO/3,male
+TO/4,female
+TO/5,male
+TO/6,male
+TO/7,female
+TO/8,male
+TO/9,male
+TP/1,male
+TP/10,male
+TP/11,female
+TP/12,female
+TP/13,female
+TP/14,female
+TP/15,female
+TP/2,male
+TP/3,female
+TP/4,male
+TP/5,male
+TP/6,female
+TP/7,female
+TP/8,male
+TP/9,male
+TS/1,male
+TS/2,male
+TS/3,male
+TS/4,male
+TS/5,female
+TS/6,male
+TW/1,male
+TW/10,male
+TW/11,female
+TW/12,male
+TW/13,male
+TW/14,male
+TW/15,male
+TW/16,male
+TW/17,male
+TW/18,male
+TW/19,male
+TW/2,male
+TW/20,male
+TW/21,male
+TW/22,female
+TW/23,male
+TW/24,male
+TW/25,male
+TW/26,male
+TW/27,male
+TW/28,male
+TW/29,male
+TW/3,female
+TW/30,male
+TW/4,male
+TW/5,male
+TW/6,male
+TW/7,male
+TW/8,male
+TW/9,male
+WD/1,male
+WD/10,male
+WD/2,male
+WD/3,female
+WD/4,female
+WD/5,male
+WD/6,male
+WD/7,male
+WD/8,male
+WD/9,female
+WO/1,female
+WO/2,male
+WO/3,male
+WO/4,male
+WO/5,male
+WO/6,female
+WSW/1,female
+WSW/10,female
+WSW/11,female
+WSW/12,male
+WSW/13,female
+WSW/14,male
+WSW/15,male
+WSW/2,female
+WSW/3,male
+WSW/4,male
+WSW/5,male
+WSW/6,male
+WSW/7,female
+WSW/8,male
+WSW/9,male
+WW/1,male
+WW/10,female
+WW/2,male
+WW/3,male
+WW/4,male
+WW/5,male
+WW/6,female
+WW/7,male
+WW/8,female
+WW/9,female
+XF/1,male
+XF/2,female
+XF/3,male
