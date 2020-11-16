@@ -66,12 +66,14 @@ spectrum_codes <- as_tibble(codebook_tables[[2]]) %>%
 personalities <- personalities_raw %>%
   left_join(character_codes, by = "character_code") %>%
   left_join(spectrum_codes, by = "spectrum") %>%
+  # Convert mean from [0 to 100] scale to [-50 to +50] scale
+  mutate(mean = mean - 50) %>%
   select(character_code, fictional_work, character_name,
          spectrum, spectrum_low, spectrum_high,
          mean, ratings, sd)
 
 
-### Aggregated duplicated spectrums ---------------------------------------------------------------
+### Aggregate duplicated spectrums ----------------------------------------------------------------
 # Spectrum BAP98 and BAP183 have the same adjective-pair (hard / soft)
 # We'll de-duplicate by creating a separate tibble with aggregated values collapsed into BAP98
 # (i.e., BAP183 will be eliminated)
