@@ -103,7 +103,9 @@ personalities_deduped <- personalities %>%
   # Get rid of extra columns created by the join
   select(-ends_with(".x"), -ends_with(".y")) %>%
   # Add indicator column for spectrums with emojis
-  mutate(is_emoji = !stri_enc_isascii(spectrum_low) | !stri_enc_isascii(spectrum_high))
+  mutate(is_emoji = !stri_enc_isascii(spectrum_low) | !stri_enc_isascii(spectrum_high)) %>%
+  # Order alphabetically by fictional work, then character name
+  arrange(fictional_work, character_name)
 
 
 ### Write to TXT ----------------------------------------------------------------------------------
