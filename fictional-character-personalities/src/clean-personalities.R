@@ -92,7 +92,8 @@ bap98 <- personalities %>%
             sd = sqrt(sum(total_var) / ratings)) %>%
   ungroup()
 
-# Create de-duplicated tibble
+
+### Create de-duplicated tibble -------------------------------------------------------------------
 personalities_deduped <- personalities %>%
   # Get rid of BAP183 because we've collapsed it already
   filter(spectrum != "BAP183") %>%
@@ -110,5 +111,20 @@ personalities_deduped <- personalities %>%
   arrange(fictional_work, character_name)
 
 
+### Add in manually-coded genders
+# NOTE: THIS IS NOT IN THE ORIGINAL DATASET
+
+# Read in CSV with character genders
+genders <- read_csv("./fictional-character-personalities/ref/character-gender.csv")
+
+personalities_with_gender <- personalities_deduped %>%
+  left_join(genders, by = "character_code") %>%
+  # Re-order fields to make more sense
+  select(character_code:character_name,
+         gender,
+         spectrum:spectrum_high,
+         is_emoji,
+         mean:sd)
+
 ### Write to TXT ----------------------------------------------------------------------------------
-write_tsv(personalities_deduped, "./fictional-character-personalities/personalities.txt")
+write_tsv(personalities_with_gender, "./fictional-character-personalities/personalities.txt")
