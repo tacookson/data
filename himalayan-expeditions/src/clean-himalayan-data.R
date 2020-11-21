@@ -21,7 +21,9 @@ peaks <- read_csv("./himalayan-expeditions/raw/peaks.csv") %>%
       climbing_status == 1 ~ "Unclimbed",
       climbing_status == 2 ~ "Climbed"
     )
-  )
+  ) %>%
+  # Fix data entry error for first_ascent_year for Sharpu II (SPH2)
+  mutate(first_ascent_year = ifelse(peak_id == "SPH2", 2018, first_ascent_year))
 
 # Create small dataframe of peak names to join to other dataframes
 peak_names <- peaks %>%
