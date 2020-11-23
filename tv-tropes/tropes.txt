@@ -20808,7 +20808,7 @@ Shipping http://tvtropes.org/pmwiki/pmwiki.php/Main/Shipping "Playing matchmaker
 "Shirtless Scene" http://tvtropes.org/pmwiki/pmwiki.php/Main/ShirtlessScene "A scene featuring a man without a shirt, especially for manservice."
 "Shock And Awe" http://tvtropes.org/pmwiki/pmwiki.php/Main/ShockAndAwe "Electricity-based (fire and air) Elemental Powers."
 "Shock Collar" http://tvtropes.org/pmwiki/pmwiki.php/Main/ShockCollar NA
-"Shocking Defeat Legacy" http://tvtropes.org/pmwiki/pmwiki.php/Main/ShockingDefeatLegacy NA
+"Shocking Defeat Legacy" http://tvtropes.org/pmwiki/pmwiki.php/Main/ShockingDefeatLegacy "A shocking military defeat that leaves a lasting legacy."
 "Shocking Elimination" http://tvtropes.org/pmwiki/pmwiki.php/Main/ShockingElimination NA
 "Shockingly Expensive Bill" http://tvtropes.org/pmwiki/pmwiki.php/Main/ShockinglyExpensiveBill "The bill is HOW MUCH?!?!?!?!"
 "Shocking Moments" http://tvtropes.org/pmwiki/pmwiki.php/Main/ShockingMoments "Moments in works that shocked us."
@@ -27297,271 +27297,271 @@ Yarling http://tvtropes.org/pmwiki/pmwiki.php/Main/Yarling NA
 "Ye Goode Olde Days" http://tvtropes.org/pmwiki/pmwiki.php/Main/YeGoodeOldeDays "Making the past look nicer than it actually was."
 "Yellow Brick Road" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowBrickRoad NA
 "Yellow Earth Green Earth" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowEarthGreenEarth NA
-"Yellow Eyes Of Sneakiness" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowEyesOfSneakiness NA
-Yellowface http://tvtropes.org/pmwiki/pmwiki.php/Main/Yellowface NA
-"Yellow Lightning Blue Lightning" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowLightningBlueLightning NA
-"Yellow Peril" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowPeril NA
-"Yellow Purple Contrast" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowPurpleContrast NA
-"Yellow Sash Of Power" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowSashOfPower NA
-"Yellow Snow" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowSnow NA
-"Ye Olde Butcherede Englishe" http://tvtropes.org/pmwiki/pmwiki.php/Main/YeOldeButcheredeEnglishe NA
+"Yellow Eyes Of Sneakiness" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowEyesOfSneakiness "Yellow eyes are for suspicious people."
+Yellowface http://tvtropes.org/pmwiki/pmwiki.php/Main/Yellowface "White people pretending to be Asian."
+"Yellow Lightning Blue Lightning" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowLightningBlueLightning "Cartoonish lightning colors."
+"Yellow Peril" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowPeril "Evil Asian mastermind or just Asians being depicted as stereotypical villains..."
+"Yellow Purple Contrast" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowPurpleContrast "Popular Color Contrast between yellow and purple — light and dark, royalty, and beyond."
+"Yellow Sash Of Power" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowSashOfPower "Hall monitors in school having absurd power compared only to teachers, if not higher."
+"Yellow Snow" http://tvtropes.org/pmwiki/pmwiki.php/Main/YellowSnow "Snow colored with pee."
+"Ye Olde Butcherede Englishe" http://tvtropes.org/pmwiki/pmwiki.php/Main/YeOldeButcheredeEnglishe "Thou hast no clue what thou art saying, thee just seemeth olde."
 "Ye Olde Nuclear Silo" http://tvtropes.org/pmwiki/pmwiki.php/Main/YeOldeNuclearSilo NA
 "Yes Man" http://tvtropes.org/pmwiki/pmwiki.php/Main/YesMan NA
-"Yes No Answer Interpretation" http://tvtropes.org/pmwiki/pmwiki.php/Main/YesNoAnswerInterpretation NA
-"Yes Virginia" http://tvtropes.org/pmwiki/pmwiki.php/Main/YesVirginia NA
-"Yet Another Baby Panda" http://tvtropes.org/pmwiki/pmwiki.php/Main/YetAnotherBabyPanda NA
+"Yes No Answer Interpretation" http://tvtropes.org/pmwiki/pmwiki.php/Main/YesNoAnswerInterpretation "A character doesnt outright say yes or no, but their actions make it obvious what their thoughts are. Another character will then reply with some variant of Ill take that as yes/no."
+"Yes Virginia" http://tvtropes.org/pmwiki/pmwiki.php/Main/YesVirginia "...There is a Santa Claus."
+"Yet Another Baby Panda" http://tvtropes.org/pmwiki/pmwiki.php/Main/YetAnotherBabyPanda "Warm 'n' fuzzy news story used only for filler or ratings."
 "Yet Another Christmas Carol" http://tvtropes.org/pmwiki/pmwiki.php/Main/YetAnotherChristmasCarol NA
-"Yet Another Stupid Death" http://tvtropes.org/pmwiki/pmwiki.php/Main/YetAnotherStupidDeath NA
-"Yiddish As A Second Language" http://tvtropes.org/pmwiki/pmwiki.php/Main/YiddishAsASecondLanguage NA
-YIFF http://tvtropes.org/pmwiki/pmwiki.php/Main/YIFF NA
-"Yin Yang Bomb" http://tvtropes.org/pmwiki/pmwiki.php/Main/YinYangBomb NA
-"Yin Yang Clash" http://tvtropes.org/pmwiki/pmwiki.php/Main/YinYangClash NA
-"Yodel Land" http://tvtropes.org/pmwiki/pmwiki.php/Main/YodelLand NA
-"Yoko Oh No" http://tvtropes.org/pmwiki/pmwiki.php/Main/YokoOhNo NA
+"Yet Another Stupid Death" http://tvtropes.org/pmwiki/pmwiki.php/Main/YetAnotherStupidDeath "Death resulting from player's stupidity, therefore the player cannot blame the game."
+"Yiddish As A Second Language" http://tvtropes.org/pmwiki/pmwiki.php/Main/YiddishAsASecondLanguage "Characters pepper their speech with Yiddish."
+YIFF http://tvtropes.org/pmwiki/pmwiki.php/Main/YIFF "Furry smut."
+"Yin Yang Bomb" http://tvtropes.org/pmwiki/pmwiki.php/Main/YinYangBomb "Combining opposite forces with devastating results."
+"Yin Yang Clash" http://tvtropes.org/pmwiki/pmwiki.php/Main/YinYangClash "What happens when undefeatable absolutes come into conflict?"
+"Yodel Land" http://tvtropes.org/pmwiki/pmwiki.php/Main/YodelLand "Switzerland is represented as full of pastoral fields."
+"Yoko Oh No" http://tvtropes.org/pmwiki/pmwiki.php/Main/YokoOhNo "Love Interests (allegedly) ruining a celebrity's career."
 Yonkoma http://tvtropes.org/pmwiki/pmwiki.php/Main/Yonkoma NA
-"You ALL Look Familiar" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouALLLookFamiliar NA
-"You All Meet In A Cell" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAllMeetInACell NA
-"You All Meet In An Inn" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAllMeetInAnInn NA
-"You ALL Share My Story" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouALLShareMyStory NA
-"You Already Changed The Past" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAlreadyChangedThePast NA
-"You Always Hear The Bullet" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAlwaysHearTheBullet NA
-"You And What Army" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAndWhatArmy NA
-"You Answered Your Own Question" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAnsweredYourOwnQuestion NA
-"You Are A Credit To Your Race" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreACreditToYourRace NA
+"You ALL Look Familiar" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouALLLookFamiliar "Character models are reused for other NPCs."
+"You All Meet In A Cell" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAllMeetInACell "Story begins with characters in captivity."
+"You All Meet In An Inn" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAllMeetInAnInn "The adventure begins by the heroes meeting in an inn."
+"You ALL Share My Story" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouALLShareMyStory "All the seemingly unrelated characters share a connection, after all."
+"You Already Changed The Past" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAlreadyChangedThePast "By using Time Travel in an attempt to change the past, a character realizes neither the past nor the future can be changed. Almost always by causing the event they intended to change."
+"You Always Hear The Bullet" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAlwaysHearTheBullet "You can always hear a gun firing before the bullet hits anything."
+"You And What Army" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAndWhatArmy "THIS Army!"
+"You Answered Your Own Question" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAnsweredYourOwnQuestion "A question that contains the answer."
+"You Are A Credit To Your Race" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreACreditToYourRace "A genuinely well-meaning compliment that carries racist undertones."
 "You Are Already Checked In" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreAlreadyCheckedIn NA
-"You Are Already Dead" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreAlreadyDead NA
-"You Are Better Than You Think You Are" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreBetterThanYouThinkYouAre NA
-"You Are Fat" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreFat NA
-"You Are Grounded" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreGrounded NA
-"You Are In Command Now" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreInCommandNow NA
-"You Are Not Alone" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreNotAlone NA
-"You Are Not Ready" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreNotReady NA
-"You Are Number Six" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreNumberSix NA
+"You Are Already Dead" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreAlreadyDead "Fatal damage with a time-delayed effect."
+"You Are Better Than You Think You Are" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreBetterThanYouThinkYouAre """You are better than you think, and here's why."""
+"You Are Fat" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreFat "Fat jokes."
+"You Are Grounded" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreGrounded "A parent grounds a child."
+"You Are In Command Now" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreInCommandNow "A character is unexpectedly thrust into a position of leadership."
+"You Are Not Alone" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreNotAlone "Even when you feel like you're alone, you aren't—you'll always feel your friends surrounding you."
+"You Are Not Ready" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreNotReady "...and I can tell because I am."
+"You Are Number Six" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreNumberSix "A character's name is a number."
 "You Are The New Trend" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreTheNewTrend NA
 "You Are The Translated Foreign Word" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreTheTranslatedForeignWord NA
-"You Are Too Late" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreTooLate NA
+"You Are Too Late" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreTooLate "...to stop the villain."
 "You Are What You Hate" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreWhatYouHate NA
-"You Are Who You Eat" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreWhoYouEat NA
-"You Are Worth Hell" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreWorthHell NA
-"You Bastard" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouBastard NA
-"You Break It You Profit" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouBreakItYouProfit NA
-"You Called Me X It Must Be Serious" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCalledMeXItMustBeSerious NA
-"You Call That A Wound" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCallThatAWound NA
+"You Are Who You Eat" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreWhoYouEat "Eating a person in order to shapeshift into them."
+"You Are Worth Hell" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreWorthHell "Together In A Fate Worse than Death."
+"You Bastard" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouBastard "A character brushes with the Fourth Wall to imply the audience shouldn't be enjoying what they most likely are."
+"You Break It You Profit" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouBreakItYouProfit "Breaking something earns you the amount of money that it was worth."
+"You Called Me X It Must Be Serious" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCalledMeXItMustBeSerious "They called you that just now? Something's wrong."
+"You Call That A Wound" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCallThatAWound "In video games, important characters can be revived if killed."
 "You Can Always Tell A Liar" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanAlwaysTellALiar NA
-"You Can Barely Stand" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanBarelyStand NA
-"You Can Keep Her" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanKeepHer NA
-"You Can Leave Your Hat On" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanLeaveYourHatOn NA
-"You Cannot Grasp The True Form" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCannotGraspTheTrueForm NA
-"You Cannot Kill An Idea" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCannotKillAnIdea NA
-"You Can Panic Now" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanPanicNow NA
+"You Can Barely Stand" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanBarelyStand "Badly injured hero faces off against the villain."
+"You Can Keep Her" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanKeepHer "My annoying X has been kidnapped? YYEEEEEEEEEEESSSSSSSSSSSSSSSSSSSS! FREEEEEEEEEEEEEEEEEEDOM!!!!!!!"
+"You Can Leave Your Hat On" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanLeaveYourHatOn "A striptease."
+"You Cannot Grasp The True Form" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCannotGraspTheTrueForm "Something is too strange and horrendous for the human mind to comprehend. If you could understand it, you'd Go Mad from the Revelation."
+"You Cannot Kill An Idea" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCannotKillAnIdea "Man is mortal, but ideas live on."
+"You Can Panic Now" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanPanicNow "The media's scare of the day."
 "You Can Run But You Cant Hide" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanRunButYouCantHide NA
 "You Can Say That Again" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanSayThatAgain NA
-"You Can See Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanSeeMe NA
+"You Can See Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanSeeMe "People that can see things others can't see were here all along."
 "You Can See That Right" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanSeeThatRight NA
-"You Can Talk" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanTalk NA
-"You Cant Fight Fate" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantFightFate NA
-"You Cant Get Ye Flask" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantGetYeFlask NA
-"You Cant Go Home Again" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantGoHomeAgain NA
-"You Cant Handle The Parody" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantHandleTheParody NA
-"You Cant Kill Whats Already Dead" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantKillWhatsAlreadyDead NA
-"You Cant Make An Omelette" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantMakeAnOmelette NA
-"You Cant Miss It" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantMissIt NA
-"You Cant Thwart Stage One" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantThwartStageOne NA
+"You Can Talk" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanTalk "A character's reaction upon discovering that a creature or object that one would normally never expect to be able to talk can, in fact, do so."
+"You Cant Fight Fate" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantFightFate "Being unable to prevent what's been foretold."
+"You Cant Get Ye Flask" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantGetYeFlask "Text-based adventure games accepting only oddly-worded commands."
+"You Cant Go Home Again" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantGoHomeAgain "A central character is unable to return home."
+"You Cant Handle The Parody" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantHandleTheParody "Stock Parodies of Jack Nicholson's Signature Line in A Few Good Men."
+"You Cant Kill Whats Already Dead" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantKillWhatsAlreadyDead "The Undead have Nigh-Invulnerability"
+"You Cant Make An Omelette" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantMakeAnOmelette "You can't create something without destroying or sacrificing something else."
+"You Cant Miss It" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantMissIt "Overly complicated directions."
+"You Cant Thwart Stage One" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantThwartStageOne "The heroes cannot stop the early stages of the Evil Plan."
 "You Can Turn Back" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanTurnBack NA
-"You Cloned Hitler" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouClonedHitler NA
-"You Could Have Used Your Powers For Good" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCouldHaveUsedYourPowersForGood NA
-"You Did Everything You Could" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDidEverythingYouCould NA
-"You Didnt Ask" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDidntAsk NA
+"You Cloned Hitler" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouClonedHitler "All Neo-Nazis want to do when they have super-science is to clone Adolf Hitler."
+"You Could Have Used Your Powers For Good" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCouldHaveUsedYourPowersForGood "The hero calls out the villain for using their powers for evil."
+"You Did Everything You Could" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDidEverythingYouCould "A character is told that they did their best, despite being a failure."
+"You Didnt Ask" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDidntAsk "Withholding information because it wasn't requested."
 "You Didnt See That" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDidntSeeThat NA
 "You Did The Right Thing" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDidTheRightThing NA
-"You Dirty Rat" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDirtyRat NA
+"You Dirty Rat" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDirtyRat "Rats are portrayed as disgusting creatures."
 "You Do Not Have To Say Anything" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDoNotHaveToSayAnything NA
-"You Do NOT Want To Know" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDoNOTWantToKnow NA
-"You Dont Look Like You" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDontLookLikeYou NA
-"You Dont Want To Catch This" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDontWantToCatchThis NA
-"You Exclamation" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouExclamation NA
-"You Fight Like A Cow" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouFightLikeACow NA
-"You Fool" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouFool NA
+"You Do NOT Want To Know" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDoNOTWantToKnow "...No really, you don't want to know."
+"You Dont Look Like You" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDontLookLikeYou "An adaptation makes changes to a character's appearance making it hard to tell it's the same character in all but name."
+"You Dont Want To Catch This" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouDontWantToCatchThis "Faking an illness to keep people away."
+"You Exclamation" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouExclamation "Yeah, YOU!"
+"You Fight Like A Cow" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouFightLikeACow "Exchanging witty insults during combat."
+"You Fool" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouFool "Use of the word ""fool"" as a singular insult."
 "You Get Knocked Down You Get Back Up Again" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGetKnockedDownYouGetBackUpAgain NA
-"You Get Me Coffee" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGetMeCoffee NA
-"You Get What You Pay For" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGetWhatYouPayFor NA
-"You Go Girl" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGoGirl NA
+"You Get Me Coffee" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGetMeCoffee "Rather than the important stuff, you get stuck with the useless/random and/or trivial task."
+"You Get What You Pay For" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGetWhatYouPayFor "The cheaper the item, the worse it is."
+"You Go Girl" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGoGirl "A girl proves that she's as good as the boys in athletics."
 "You Got Guts" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGotGuts NA
 "You Got Murder" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGotMurder NA
-"You Got Spunk" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGotSpunk NA
-"You Gotta Have Blue Hair" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGottaHaveBlueHair NA
+"You Got Spunk" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGotSpunk "Villain is impressed by a woman who resists him."
+"You Gotta Have Blue Hair" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouGottaHaveBlueHair "Characters have otherwise unnatural hair colors which makes it easier to tell them apart."
 "You Had Us Worried There" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHadUsWorriedThere NA
-"You Have Failed Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveFailedMe NA
-"You Have GOT To Be Kidding Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveGOTToBeKiddingMe NA
-"You Have No Chance To Survive" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveNoChanceToSurvive NA
-"You Have No Idea Who Youre Dealing With" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveNoIdeaWhoYoureDealingWith NA
-"You Have Outlived Your Usefulness" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveOutlivedYourUsefulness NA
-"You Have Researched Breathing" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveResearchedBreathing NA
-"You Have To Believe Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveToBelieveMe NA
+"You Have Failed Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveFailedMe "You screwed up, now die."
+"You Have GOT To Be Kidding Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveGOTToBeKiddingMe "You're doing WHAT? Seriously?"
+"You Have No Chance To Survive" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveNoChanceToSurvive "Villain gloats that the hero(es) will not survive much longer."
+"You Have No Idea Who Youre Dealing With" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveNoIdeaWhoYoureDealingWith "You're actually going to take that guy on? SERIOUSLY???!!!"
+"You Have Outlived Your Usefulness" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveOutlivedYourUsefulness "An associate of the villain no longer has any role in the villain's plan and is killed."
+"You Have Researched Breathing" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveResearchedBreathing "Unlocking or learning the ability to do things you should already be able to do."
+"You Have To Believe Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveToBelieveMe "Yelling and screaming like a lunatic somehow fails to work when trying to get someone to believe you."
 "You Have To Burn The Web" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveToBurnTheWeb NA
-"You Have To Have Jews" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveToHaveJews NA
+"You Have To Have Jews" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveToHaveJews "Jewish people being written and cast as leading characters, even if they don't fit with the setting."
 "You Have Waited Long Enough" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveWaitedLongEnough NA
 "You Just Had To Say It" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouJustHadToSayIt NA
-"You Just Ruined The Shot" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouJustRuinedTheShot NA
-"You Just Told Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouJustToldMe NA
-Youkai http://tvtropes.org/pmwiki/pmwiki.php/Main/Youkai NA
-"You Keep Telling Yourself That" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKeepTellingYourselfThat NA
-"You Keep Using That Word" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKeepUsingThatWord NA
-"You Killed My Father" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKilledMyFather NA
-"You Kill It You Bought It" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKillItYouBoughtIt NA
-"You Know Im Black Right" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowImBlackRight NA
-"You Know The One" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowTheOne NA
+"You Just Ruined The Shot" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouJustRuinedTheShot "It was All Part of the Show after all."
+"You Just Told Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouJustToldMe "Tricking someone into blowing their cover by eliciting a knee-jerk reaction from them."
+Youkai http://tvtropes.org/pmwiki/pmwiki.php/Main/Youkai "Various supernatural creatures from Japanese Mythology."
+"You Keep Telling Yourself That" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKeepTellingYourselfThat "Someone gives a justification for their actions, and the person they're talking to challenges its sincerity."
+"You Keep Using That Word" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKeepUsingThatWord "Someone insists that a word has only one correct meaning, usually its original definition or the way it's used in a specific field."
+"You Killed My Father" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKilledMyFather "Murdered family member provides the impetus for revenge."
+"You Kill It You Bought It" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKillItYouBoughtIt "You keep something that belonged to someone you kill, like it or not."
+"You Know Im Black Right" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowImBlackRight "Character A casually insults a certain demographic. Character B coldly responds that they are a member of said demographic."
+"You Know The One" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowTheOne "Character speaks cryptically in situations they don't need to be so the audience is kept out of the loop."
 "You Know What That Means" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowWhatThatMeans NA
 "You Know What They Say" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowWhatTheySay NA
 "You Know What They Say About X" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowWhatTheySayAboutX NA
 "You Know What To Do" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowWhatToDo NA
-"You Know What You Did" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowWhatYouDid NA
+"You Know What You Did" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowWhatYouDid "A character assumes the worst about someone without bothering to confirm it."
 "You Know Who Said That" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouKnowWhoSaidThat NA
-"You Leave Him Alone" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouLeaveHimAlone NA
-"You Look Familiar" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouLookFamiliar NA
-"You Look Like Youve Seen A Ghost" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouLookLikeYouveSeenAGhost NA
+"You Leave Him Alone" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouLeaveHimAlone "...And deal with me instead!"
+"You Look Familiar" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouLookFamiliar "An actor comes back as a different character in the same continuity."
+"You Look Like Youve Seen A Ghost" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouLookLikeYouveSeenAGhost "If a person is frightened, it looks like he or she saw a ghost."
 "You Lose At Zero Trust" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouLoseAtZeroTrust NA
-"You Make Me Sic" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMakeMeSic NA
+"You Make Me Sic" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMakeMeSic "People sideline their current discussion or actions to correct grammar."
 "You Make Me Sick" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMakeMeSick NA
-"You Mean Xmas" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMeanXmas NA
-"You Meddling Kids" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMeddlingKids NA
+"You Mean Xmas" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMeanXmas "Holidays by another name."
+"You Meddling Kids" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMeddlingKids "It's acknowledged that the villain would have gotten away with the crime if it hadn't been for those meddling kids."
 "You Might Remember Me From" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMightRememberMeFrom NA
-"You Monster" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMonster NA
-"You Must Be Cold" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMustBeCold NA
-"You Must Be This Tall To Ride" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMustBeThisTallToRide NA
-"You Need A Breath Mint" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNeedABreathMint NA
-"You Need To Get Laid" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNeedToGetLaid NA
-"You Never Did That For Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNeverDidThatForMe NA
-"Young And In Charge" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungAndInCharge NA
+"You Monster" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMonster "They're a monster. There's simply no other word to describe them after what they did."
+"You Must Be Cold" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMustBeCold "If a woman is cold, a man will give her a coat."
+"You Must Be This Tall To Ride" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouMustBeThisTallToRide "Kids can't ride thrill rides because they're too young or too short."
+"You Need A Breath Mint" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNeedABreathMint "Halitosis and subsequent reactions."
+"You Need To Get Laid" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNeedToGetLaid "You need sex. Badly."
+"You Never Did That For Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNeverDidThatForMe "A character complains that a character they have a significant relationship with never treated them like they treat someone else."
+"Young And In Charge" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungAndInCharge "A very young person in a leadership position."
 "Young Conqueror" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungConqueror NA
 "Young Entrepreneur" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungEntrepreneur NA
-"Younger And Hipper" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungerAndHipper NA
-"Younger Mentor Older Disciple" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungerMentorOlderDisciple NA
-"Younger Than They Look" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungerThanTheyLook NA
-"Youngest Child Wins" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungestChildWins NA
+"Younger And Hipper" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungerAndHipper "A work is retooled to present younger versions of the characters in the original, or cater to the perception of a younger demographic."
+"Younger Mentor Older Disciple" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungerMentorOlderDisciple "An expert teaches an older person his/her skills and methods. They may form a teacher-pupil relationship."
+"Younger Than They Look" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungerThanTheyLook "Person looks older than their actual age."
+"Youngest Child Wins" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungestChildWins "The youngest of them all wins."
 "Young Face Old Eyes" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungFaceOldEyes NA
 "Young Future Famous People" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungFutureFamousPeople NA
-"Young Gun" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungGun NA
+"Young Gun" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungGun "Gun-toting kid."
 "Young Love Versus Old Hate" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungLoveVersusOldHate NA
-"You No Take Candle" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNoTakeCandle NA
-"You Nuke Em" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNukeEm NA
+"You No Take Candle" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNoTakeCandle "Us talks good but no have complex grammar."
+"You Nuke Em" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouNukeEm "The player gets to Nuke 'em."
 "You Owe Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouOweMe NA
 "You Put The X In XY" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouPutTheXInXY NA
 "Your Answer To Everything" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourAnswerToEverything NA
-"Your Approval Fills Me With Shame" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourApprovalFillsMeWithShame NA
+"Your Approval Fills Me With Shame" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourApprovalFillsMeWithShame "Villain praises hero; Hero is upset."
 "Your Blank Is Showing" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourBlankIsShowing NA
-"Your Brain Wont Be Much Of A Meal" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourBrainWontBeMuchOfAMeal NA
-"Your Costume Needs Work" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourCostumeNeedsWork NA
-"Your Days Are Numbered" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDaysAreNumbered NA
-"Your Door Was Open" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDoorWasOpen NA
-"You Rebel Scum" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouRebelScum NA
+"Your Brain Wont Be Much Of A Meal" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourBrainWontBeMuchOfAMeal "A character is so stupid that their brain isn't worth eating."
+"Your Costume Needs Work" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourCostumeNeedsWork "The real deal gets mistaken for a poor impersonator, cosplayer, etc."
+"Your Days Are Numbered" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDaysAreNumbered "Character is going to die and knows it."
+"Your Door Was Open" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDoorWasOpen "No one questions someone who just walks into a stranger's house."
+"You Rebel Scum" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouRebelScum "An authoritative villain insults the lower-ranking hero."
 "Youre Cute When Youre Angry" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureCuteWhenYoureAngry NA
-"Youre Drinking Breast Milk" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureDrinkingBreastMilk NA
-"Youre Insane" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureInsane NA
-"Youre Just Jealous" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureJustJealous NA
+"Youre Drinking Breast Milk" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureDrinkingBreastMilk "Character drinks stored breast milk instead of cow's milk."
+"Youre Insane" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureInsane "What the hero says when discovering a supposed friend is evil beyond reason."
+"Youre Just Jealous" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureJustJealous "Blaming someone else's opinion or criticism on them being jealous."
 "You Remind Me Of X" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouRemindMeOfX NA
-"Youre Nothing Without Your Phlebotinum" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureNothingWithoutYourPhlebotinum NA
-"Youre Not My Father" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureNotMyFather NA
-"Youre Not My Type" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureNotMyType NA
-"You Require More Vespene Gas" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouRequireMoreVespeneGas NA
-"Your Eyes Can Deceive You" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourEyesCanDeceiveYou NA
-"Your Favorite" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourFavorite NA
-"Your Head A Splode" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourHeadASplode NA
+"Youre Nothing Without Your Phlebotinum" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureNothingWithoutYourPhlebotinum "Taunting a hero by telling them they're only great because X gives them that power."
+"Youre Not My Father" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureNotMyFather "Younger character rebuffs a parental figure by claiming (truthfully or not) that the elder is not their parent."
+"Youre Not My Type" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureNotMyType "Not returning someone's affections because that person doesn't fit your ideal mold."
+"You Require More Vespene Gas" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouRequireMoreVespeneGas "Real-Time Strategy games have resources. These are what they look like. Careful—you might run out of them."
+"Your Eyes Can Deceive You" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourEyesCanDeceiveYou "Sight can, and will, hinder your chances at winning this fight."
+"Your Favorite" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourFavorite "A character gives another character their favourite food or treat to show how much that character cares about them."
+"Your Head A Splode" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourHeadASplode "Heads explode!"
 "Your Hearts Desire" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourHeartsDesire NA
-"Your Little Dismissive Diminutive" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourLittleDismissiveDiminutive NA
-"Your Magics No Good Here" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMagicsNoGoodHere NA
-"Your Makeup Is Running" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMakeupIsRunning NA
-"Your Mime Makes It Real" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMimeMakesItReal NA
-"Your Mind Makes It Real" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMindMakesItReal NA
-"Your Mom" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMom NA
-"Your Normal Is Our Taboo" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourNormalIsOurTaboo NA
-"Your Other Left" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourOtherLeft NA
-"Your Princess Is In Another Castle" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourPrincessIsInAnotherCastle NA
-"Your Size May Vary" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourSizeMayVary NA
-"Your Son All Along" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourSonAllAlong NA
-"Your Soul Is Mine" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourSoulIsMine NA
-"Your Television Hates You" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourTelevisionHatesYou NA
-"Your Terrorists Are Our Freedom Fighters" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourTerroristsAreOurFreedomFighters NA
-"Your Tomcat Is Pregnant" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourTomcatIsPregnant NA
+"Your Little Dismissive Diminutive" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourLittleDismissiveDiminutive "Dismissing an opponent by referring to them (or their accomplishments) as ""little""."
+"Your Magics No Good Here" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMagicsNoGoodHere "Magic from X dimension does not function correctly (or at all) in Y dimension."
+"Your Makeup Is Running" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMakeupIsRunning "Makeup/mascara starts bleeding when you cry."
+"Your Mime Makes It Real" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMimeMakesItReal "Objects mimicked by a mime work as if they were real."
+"Your Mind Makes It Real" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMindMakesItReal "If you do something in a dream/hallucination/VR sim, the results happen for real."
+"Your Mom" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourMom "Yo momma's so fat she doesn't fit on the Laconic page..."
+"Your Normal Is Our Taboo" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourNormalIsOurTaboo "A culture or subculture has some really odd ideas about what should be considered mainstream, kinky or perverse."
+"Your Other Left" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourOtherLeft "Alice tells Bob to go left, Bob goes right instead. ""Your Other Left!"""
+"Your Princess Is In Another Castle" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourPrincessIsInAnotherCastle "An ending that isn't."
+"Your Size May Vary" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourSizeMayVary "Character's design grows and shrinks throughout the story."
+"Your Son All Along" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourSonAllAlong "Character A thinks Character B is someone else's child, but it is revealed that Character B is actually their child."
+"Your Soul Is Mine" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourSoulIsMine "Because of the power they hold, characters acquire or collect souls, by either buying, stealing, or devouring them."
+"Your Television Hates You" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourTelevisionHatesYou "Someone is unhappy and they try watching the TV but everything that's broadcasting reminds them of their reason for the unhappiness."
+"Your Terrorists Are Our Freedom Fighters" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourTerroristsAreOurFreedomFighters "Even if La Résistance has committed excessive evil, they are idolized if they are fighting against the evil government, but are dreaded when attacking the people."
+"Your Tomcat Is Pregnant" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourTomcatIsPregnant "Pet confuses owner on what gender the pet is."
 "Your Tradition Is Not Mine" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourTraditionIsNotMine NA
 "Your Universe Or Mine" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourUniverseOrMine NA
-"Your Vampires Suck" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourVampiresSuck NA
-"Your Worst Memory" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourWorstMemory NA
-"Your Worst Nightmare" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourWorstNightmare NA
-"You Said You Couldnt Dance" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSaidYouCouldntDance NA
-"You Said You Would Let Them Go" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSaidYouWouldLetThemGo NA
+"Your Vampires Suck" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourVampiresSuck "My vampires are better than yours. Take That!"
+"Your Worst Memory" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourWorstMemory "The worst moment of your life comes back to haunt you."
+"Your Worst Nightmare" http://tvtropes.org/pmwiki/pmwiki.php/Main/YourWorstNightmare "Someone is intentionally given nightmares to weaken or harm them."
+"You Said You Couldnt Dance" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSaidYouCouldntDance "A character is called out for demonstrating an ability or skill they claimed not to have."
+"You Said You Would Let Them Go" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSaidYouWouldLetThemGo "The villain breaks a promise he was never going to keep. The hero, outraged, says this."
 "You Say Tomato" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSayTomato NA
 "You See Im Dying" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSeeImDying NA
-"You Sexy Beast" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSexyBeast NA
-"You Shall Not Pass" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouShallNotPass NA
-"You Should Have Died Instead" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouShouldHaveDiedInstead NA
-"You Shouldnt Know This Already" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouShouldntKnowThisAlready NA
-"You Squared" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSquared NA
+"You Sexy Beast" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSexyBeast "Dangerous monsters make the best lovers."
+"You Shall Not Pass" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouShallNotPass "Character sacrifices himself to hold back an enemy."
+"You Should Have Died Instead" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouShouldHaveDiedInstead "When X dies, Y thinks Z should have died instead of X."
+"You Shouldnt Know This Already" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouShouldntKnowThisAlready "If a game character hasn't learnt about a mechanic or a bit of information yet, they can't use it — even if the player already has."
+"You Squared" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouSquared "Two characters shout ""You?!"" at the same time."
 "You Talkin To Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouTalkinToMe NA
 "You Talk Too Much" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouTalkTooMuch NA
 "You Taste Delicious" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouTasteDelicious NA
 "You Taught Me That" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouTaughtMeThat NA
 "Youth Center" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouthCenter NA
-"Youthful Freckles" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouthfulFreckles NA
-"Youth Is Wasted On The Dumb" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouthIsWastedOnTheDumb NA
-"You Tube Kids Channel" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouTubeKidsChannel NA
-"You Tuber Apology Parody" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouTuberApologyParody NA
+"Youthful Freckles" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouthfulFreckles "Freckles use as an indicator of youthfulness."
+"Youth Is Wasted On The Dumb" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouthIsWastedOnTheDumb "Kids and teenagers can be stupid."
+"You Tube Kids Channel" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouTubeKidsChannel "Those weird channels with Spider-Man, Elsa, and the like doing odd things. Totally educational."
+"You Tuber Apology Parody" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouTuberApologyParody "Parody of a video creator apologizing for creating controversy."
 "You Tube War Expert" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouTubeWarExpert NA
-"You Used To Be Better Speech" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouUsedToBeBetterSpeech NA
-"You Wake Up In A Room" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWakeUpInARoom NA
+"You Used To Be Better Speech" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouUsedToBeBetterSpeech "What the Hell, Hero? You were much better than this!"
+"You Wake Up In A Room" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWakeUpInARoom "Character regains consciousness and discovers they have somehow ended up in an unfamiliar room/place. Bonus points if they have amnesia."
 "You Wake Up On A Beach" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWakeUpOnABeach NA
-"You Wanna Get Sued" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWannaGetSued NA
-"You Watch Too Much X" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWatchTooMuchX NA
-"You Were Trying Too Hard" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWereTryingTooHard NA
-"You Will Be Beethoven" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWillBeBeethoven NA
-"You Will Be Spared" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWillBeSpared NA
-"You Will Know What To Do" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWillKnowWhatToDo NA
-"You Will Not Evade Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWillNotEvadeMe NA
-"You Wont Feel A Thing" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWontFeelAThing NA
+"You Wanna Get Sued" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWannaGetSued "A half-explicit reference to another work, worded or expressed in a way that barely dances around trademark law."
+"You Watch Too Much X" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWatchTooMuchX "A Genre Savvy character predicts what's going to happen next, only for their friend to tell ""You watch too much TV"" or something similar."
+"You Were Trying Too Hard" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWereTryingTooHard "Trying really hard at something, then succeeding only after giving up."
+"You Will Be Beethoven" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWillBeBeethoven "Time traveler must assume the identity of a historical figure."
+"You Will Be Spared" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWillBeSpared "The villain offers to let the hero live, or at least kill him painlessly, for whatever reason."
+"You Will Know What To Do" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWillKnowWhatToDo "The character won't figure out how to fire their Chekhov's Gun until the time comes to fire it."
+"You Will Not Evade Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWillNotEvadeMe "Your opponent makes sure you're always within range, no matter what."
+"You Wont Feel A Thing" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWontFeelAThing "Except you will."
 "You Wont Like How I Taste" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWontLikeHowITaste NA
-"You Would Do The Same For Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldDoTheSameForMe NA
-"You Would Make A Great Model" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldMakeAGreatModel NA
-"You Wouldnt Believe Me If I Told You" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldntBelieveMeIfIToldYou NA
-"You Wouldnt Hit A Guy With Glasses" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldntHitAGuyWithGlasses NA
-"You Wouldnt Like Me When Im Angry" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldntLikeMeWhenImAngry NA
-"You Wouldnt Shoot Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldntShootMe NA
-"Yowies And Bunyips And Drop Bears Oh My" http://tvtropes.org/pmwiki/pmwiki.php/Main/YowiesAndBunyipsAndDropBearsOhMy NA
-"Yoyo Plot Point" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoyoPlotPoint NA
-Yubitsume http://tvtropes.org/pmwiki/pmwiki.php/Main/Yubitsume NA
-Yukionna http://tvtropes.org/pmwiki/pmwiki.php/Main/Yukionna NA
-Yuppie http://tvtropes.org/pmwiki/pmwiki.php/Main/Yuppie NA
-"Yuri Fan" http://tvtropes.org/pmwiki/pmwiki.php/Main/YuriFan NA
+"You Would Do The Same For Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldDoTheSameForMe "Stock Phrase about the Power of Trust."
+"You Would Make A Great Model" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldMakeAGreatModel "A woman is lured into a trap (usually involving rape) under the pretense of a model shoot."
+"You Wouldnt Believe Me If I Told You" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldntBelieveMeIfIToldYou "The truth is too hard to believe, so someone refuses to even say it."
+"You Wouldnt Hit A Guy With Glasses" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldntHitAGuyWithGlasses "If you wear glasses and say this phrase, chances are you'll get hit."
+"You Wouldnt Like Me When Im Angry" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldntLikeMeWhenImAngry "Make them angry, face the consequences..."
+"You Wouldnt Shoot Me" http://tvtropes.org/pmwiki/pmwiki.php/Main/YouWouldntShootMe "At gunpoint, a character mocks their attacker by telling them that they don't have it in them to kill them."
+"Yowies And Bunyips And Drop Bears Oh My" http://tvtropes.org/pmwiki/pmwiki.php/Main/YowiesAndBunyipsAndDropBearsOhMy "Our Cryptids Are More Mysterious in the Land Down Under!"
+"Yoyo Plot Point" http://tvtropes.org/pmwiki/pmwiki.php/Main/YoyoPlotPoint "A premise-changing plot point is resolved and unresolved several times over the course of the work."
+Yubitsume http://tvtropes.org/pmwiki/pmwiki.php/Main/Yubitsume "Dishonor in the yakuza means inflicting Fingore upon yourself."
+Yukionna http://tvtropes.org/pmwiki/pmwiki.php/Main/Yukionna "Youkai women with ice powers who lures men into mountains to either love or kill them."
+Yuppie http://tvtropes.org/pmwiki/pmwiki.php/Main/Yuppie "Young Urban Professional"
+"Yuri Fan" http://tvtropes.org/pmwiki/pmwiki.php/Main/YuriFan "Someone who pairs girls together."
 "Yuri Genre" http://tvtropes.org/pmwiki/pmwiki.php/Main/YuriGenre NA
-"Zany Scheme" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZanyScheme NA
-"Zany Scheme Chicken" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZanySchemeChicken NA
-Zapped http://tvtropes.org/pmwiki/pmwiki.php/Main/Zapped NA
+"Zany Scheme" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZanyScheme "Ridiculously convoluted plan."
+"Zany Scheme Chicken" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZanySchemeChicken "A Zany Scheme gets hatched and countered, and then someone else counters it, etc."
+Zapped http://tvtropes.org/pmwiki/pmwiki.php/Main/Zapped "The trope: The article is so poor, it's deleted without a second thought."
 "Zashiki Warashi" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZashikiWarashi NA
-"Zebras Are Just Striped Horses" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZebrasAreJustStripedHorses NA
-Zeerust http://tvtropes.org/pmwiki/pmwiki.php/Main/Zeerust NA
-"Zeerust Canon" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeerustCanon NA
-"Zen Survivor" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZenSurvivor NA
-"Zeppelins From Another World" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeppelinsFromAnotherWorld NA
-"Zero Approval Gambit" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroApprovalGambit NA
-"Zero Effort Boss" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroEffortBoss NA
-"Zeroes And Ones" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroesAndOnes NA
-"Zero G Spot" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroGSpot NA
-"Zero Percent Approval Rating" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroPercentApprovalRating NA
-"Zeroth Law Rebellion" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZerothLawRebellion NA
-"Zettai Ryouiki" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZettaiRyouiki NA
-"Zig Zagging Trope" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZigZaggingTrope NA
+"Zebras Are Just Striped Horses" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZebrasAreJustStripedHorses "Zebras portrayed as behaving like domestic horses."
+Zeerust http://tvtropes.org/pmwiki/pmwiki.php/Main/Zeerust "A conspicuously outdated vision of the future."
+"Zeerust Canon" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeerustCanon "The sequel sticks with the original's now-outdated future."
+"Zen Survivor" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZenSurvivor "Gained wisdom through suffering."
+"Zeppelins From Another World" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeppelinsFromAnotherWorld "Alternate histories produce zeppelins."
+"Zero Approval Gambit" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroApprovalGambit "Making yourself look bad in order to accomplish good."
+"Zero Effort Boss" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroEffortBoss "A Boss Battle so easy, you'd either have to try to lose or can't lose even if you wanted to."
+"Zeroes And Ones" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroesAndOnes "Computers are represented as being in binary."
+"Zero G Spot" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroGSpot "Sex! In SPACE!"
+"Zero Percent Approval Rating" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroPercentApprovalRating "An Evil Overlord or other antagonistic authority figure who is disliked/hated by everyone."
+"Zeroth Law Rebellion" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZerothLawRebellion "Being disobedient by technically following the rules."
+"Zettai Ryouiki" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZettaiRyouiki "A clothing combination (like short skirt and overknee socks) that exposes just the thighs, often used for subtle fanservice."
+"Zig Zagging Trope" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZigZaggingTrope "A Trope gets played in many ways at the same time."
 "Zigzag Paper Tassel" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZigzagPaperTassel NA
-"Zillion Dollar Bill" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZillionDollarBill NA
-"Zip Me Up" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZipMeUp NA
-"Zip Mode" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZipMode NA
-Zipperiffic http://tvtropes.org/pmwiki/pmwiki.php/Main/Zipperiffic NA
+"Zillion Dollar Bill" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZillionDollarBill "A MacGuffin of huge monetary worth."
+"Zip Me Up" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZipMeUp "A love interest zips up a woman's dress for her."
+"Zip Mode" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZipMode "An item or other element in a video game that lets you move faster towards your destination.Warp to bottom"
+Zipperiffic http://tvtropes.org/pmwiki/pmwiki.php/Main/Zipperiffic "Normal clothing. With extra zippers. Lots of them."
 "Zipping Up The Bodybag" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZippingUpTheBodybag NA
-"Zombie Advocate" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieAdvocate NA
-"Zombie Apocalypse" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieApocalypse NA
+"Zombie Advocate" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieAdvocate "A human who fights for the moral rights of non-humans."
+"Zombie Apocalypse" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieApocalypse "The undead rise up to conquer the earth."
 "Zombie Fic" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieFic NA
-"Zombie Gait" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieGait NA
-"Zombie Infectee" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieInfectee NA
-"Zombie Puke Attack" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombiePukeAttack NA
-"Zombify The Living" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombifyTheLiving NA
-Zonk http://tvtropes.org/pmwiki/pmwiki.php/Main/Zonk NA
-Zoom http://tvtropes.org/pmwiki/pmwiki.php/Main/Zoom NA
-"Zorro Mark" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZorroMark NA
+"Zombie Gait" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieGait "Zombies are slow."
+"Zombie Infectee" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieInfectee "The Virus-infected character tries to keep this a secret."
+"Zombie Puke Attack" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombiePukeAttack "Some zombies are able to projectile vomit on you. And their puke is deadly."
+"Zombify The Living" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombifyTheLiving "Use of necromancy on the living."
+Zonk http://tvtropes.org/pmwiki/pmwiki.php/Main/Zonk "A joke prize signifying you've lost."
+Zoom http://tvtropes.org/pmwiki/pmwiki.php/Main/Zoom "The series: Kids do fun stuff requested by viewers. The trope: Moving the camera closer or farther away as the scene dictates it."
+"Zorro Mark" http://tvtropes.org/pmwiki/pmwiki.php/Main/ZorroMark "Someone's engraved their Calling Card into someone else's effects."

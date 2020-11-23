@@ -88,6 +88,12 @@ trope_list <- tibble(url = paste0("https://tvtropes.org/pmwiki/pagelist_having_p
          description = str_replace(description, "^$", NA_character_)) %>%
   select(-url)
 
+
+
+
+
+
+
 ### APPENDIX
 
 ### Scrape trope index ----------------------------------------------------------------------------
