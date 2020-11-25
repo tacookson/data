@@ -1,10 +1,22 @@
 # TV Tropes
 
-*Work in progress*
+According to the website [TV Tropes](https://tvtropes.org/)...
+
+> A [trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/Trope) is a storytelling device or convention, a shortcut for describing situations the storyteller can reasonably assume the audience will recognize. Tropes are the means by which a story is told by anyone who has a story to tell.
 
 
 
-Data is from [TV Tropes](https://tvtropes.org/)
+Some interesting examples of tropes include:
+
+- [Running Gag](https://tvtropes.org/pmwiki/pmwiki.php/Main/RunningGag), like Dean Pelton's dean-related puns in *Community* (there is even a sub-trope called [Overused Running Gag](https://tvtropes.org/pmwiki/pmwiki.php/Main/OverusedRunningGag))
+- [Air Vent Passageway](https://tvtropes.org/pmwiki/pmwiki.php/Main/AirVentPassageway), when people are trapped in a room and escape through the air vents, like in *Die Hard* or many episode of *Star Trek* (Jefferies Tube)
+- [Wham Episode](https://tvtropes.org/pmwiki/pmwiki.php/Main/WhamEpisode), an episode in a series "where the story takes a sudden dramatic turn. Things will never be quite the same again." A lot of episodes of *Game of Thrones* are wham episodes, but a notable example is when Ned Stark is executed,
+
+
+
+#### Data Source
+
+The data, needless to say, is from [TV Tropes](https://tvtropes.org/). This data includes all individual tropes, but because of how extensive the site is, only includes shows and related tropes for American television series.
 
 
 
