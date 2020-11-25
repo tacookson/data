@@ -1,4 +1,4 @@
-show_id	show_name	tag
+show_id	show	tag
 1	US of A.	ImageSource/Maps
 1	US of A.	Major World Cities
 1	US of A.	Indexed States of America
