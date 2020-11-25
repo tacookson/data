@@ -73,14 +73,33 @@ get_tv_shows <- function(url) {
 get_related_tropes <- function(url) {
   message(glue("Currently scraping ... {url}"))
   
-  df <- read_html(url) %>%
+  # Get links on main series page
+  main_page <- read_html(url) %>%
     html_nodes(".twikilink") %>%
     html_attr("href")
+  
+  # Get links to trope sub-pages
+  sub_pages <- main_page %>%
+    subset(str_detect(., "Tropes[A-Z]")) %>%
+    paste0("https://tvtropes.org/", .)
+  
+  # Get links to tropes on sub-pages
+  sub_page_links <- sub_pages %>%
+    as_tibble_col(column_name = "sub_page_url") %>%
+    mutate(tropes = map(sub_page_url,
+                        ~ read_html(.) %>%
+                          html_nodes(".twikilink") %>%
+                          html_attr("href"))) %>%
+    unnest(tropes) %>%
+    pull(tropes)
+  
+  # Concatenate main-page tropes and sub-page tropes
+  full_tropes <- c(main_page, sub_page_links)
   
   # 2s delay for "polite" scraping
   Sys.sleep(2)
   
-  return(df)
+  return(full_tropes)
 }
 
 # Scrape index tags on a media page -----------------------------------------------------
@@ -118,15 +137,18 @@ show_list <- get_tv_shows("https://tvtropes.org/pmwiki/pmwiki.php/Main/AmericanS
   mutate(show_id = row_number())
 
 # Related tropes in shows ---------------------------------------------------------------
-shows <- show_list %>%
+shows_raw <- show_list %>%
   mutate(trope_url = map(show_url, possibly(get_related_tropes, NULL))) %>%
   unnest(trope_url) %>%
-  mutate(trope_url = paste0("http://tvtropes.org", trope_url)) %>%
+  mutate(trope_url = paste0("http://tvtropes.org", trope_url))
+
+shows <- shows_raw %>%
   # We scraped all hyperlinks, so an inner_join will filter out non-trope links
   # (semi_join would probably work better, but I had already run this code)
   inner_join(tropes %>% select(-description), by = "trope_url") %>%
-  distinct(show_id, trope_name, .keep_all = TRUE) %>%
-  select(show_id, show_name, trope_name)
+  distinct(show_id, trope, .keep_all = TRUE) %>%
+  select(show_id, show_name, trope) %>%
+  rename(show = show_name)
 
 # Index tags of shows -------------------------------------------------------------------
 tags <- show_list %>%
@@ -140,6 +162,11 @@ tags <- show_list %>%
 
 
 ### Write to TXT file -----------------------------------------------------------------------------
+# Quick renaming of some trope field for ease of typing (trope_name --> trope)
+tropes <- tropes %>%
+  rename(trope = trope_name) %>%
+  select(trope, description, trope_url)
+
 write_tsv(tropes, "./tv-tropes/tropes.txt")
 
 write_tsv(shows, "./tv-tropes/shows.txt")

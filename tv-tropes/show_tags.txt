@@ -1,11 +1,14 @@
 show_id	show_name	tag
+1	US of A.	ImageSource/Maps
 1	US of A.	Major World Cities
 1	US of A.	Indexed States of America
 1	US of A.	UsefulNotes/North America
 2	$#*! My Dad Says	American Series
+2	$#*! My Dad Says	QuoteSource/Live-Action TV
 2	$#*! My Dad Says	Short-Runners
 2	$#*! My Dad Says	Creator/Warner Bros.
 2	$#*! My Dad Says	Web First
+2	$#*! My Dad Says	ImageSource/Live-Action TV
 3	The $1,000,000 Chance of a Lifetime	Game Show
 3	The $1,000,000 Chance of a Lifetime	American Series
 4	The 100	American Series
@@ -13,6 +16,7 @@ show_id	show_name	tag
 4	The 100	Creator/The CW
 4	The 100	Creator/Warner Bros.
 4	The 100	Series of the 2010s
+4	The 100	ImageSource/Live-Action TV
 4	The 100	Series of the 2020s
 4	The 100	Queer Media
 5	100 Things to Do Before High School	Creator/ABC Me
@@ -48,6 +52,7 @@ show_id	show_name	tag
 11	2 Broke Girls	Creator/CBS
 11	2 Broke Girls	Work Com
 11	2 Broke Girls	American Series
+11	2 Broke Girls	QuoteSource/Live-Action TV
 11	2 Broke Girls	Creator/Warner Bros.
 11	2 Broke Girls	UsefulNotes/Emmy Award
 11	2 Broke Girls	Series of the 2010s
@@ -63,6 +68,7 @@ show_id	show_name	tag
 13	21 Jump Street	Series of the 1980s
 13	21 Jump Street	Creator/Fox
 13	21 Jump Street	American Series
+13	21 Jump Street	QuoteSource/Live-Action TV
 13	21 Jump Street	Series of the 1990s
 14	227	Black Sitcom
 14	227	Series of the 1980s
@@ -82,6 +88,7 @@ show_id	show_name	tag
 15	24	Creator/Zoic Studios
 15	24	Action Series
 15	24	Creator/Fox
+15	24	VideoSource/Live-Action TV
 15	24	JustForFun/Trope Overdosed Franchises
 15	24	Government Procedural
 15	24	Conspiracy Thriller
@@ -91,6 +98,7 @@ show_id	show_name	tag
 15	24	Series of the 2010s
 15	24	JustForFun/Trope Overdosed
 15	24	Creator/20th Century Studios
+15	24	ImageSource/Live-Action TV
 15	24	Time Immemorial Index
 15	24	Short Titles
 15	24	Spy Fiction
@@ -107,14 +115,17 @@ show_id	show_name	tag
 17	30 Rock	Work Com
 17	30 Rock	Creator/Universal
 17	30 Rock	American Series
+17	30 Rock	QuoteSource/Live-Action TV
 17	30 Rock	Series of the 2000s
 17	30 Rock	Series of the 2010s
 17	30 Rock	JustForFun/Trope Kilowicked
+17	30 Rock	ImageSource/Live-Action TV
 18	3rd Rock from the Sun	Creator/Mill Creek Entertainment
 18	3rd Rock from the Sun	Creator/Carsey Werner
 18	3rd Rock from the Sun	Dom Com
 18	3rd Rock from the Sun	Creator/NBC
 18	3rd Rock from the Sun	American Series
+18	3rd Rock from the Sun	QuoteSource/Live-Action TV
 18	3rd Rock from the Sun	Series of the 1990s
 18	3rd Rock from the Sun	Series of the 2000s
 18	3rd Rock from the Sun	Fantastic Comedy
@@ -131,6 +142,7 @@ show_id	show_name	tag
 20	The 4400	Mini Series
 20	The 4400	Series of the 2000s
 20	The 4400	Creator/Paramount
+20	The 4400	ImageSource/Live-Action TV
 21	666 Park Avenue	Creator/ABC
 21	666 Park Avenue	American Series
 21	666 Park Avenue	Creator/Warner Bros.
@@ -141,6 +153,7 @@ show_id	show_name	tag
 22	7th Heaven	Creator/Aaron Spelling
 22	7th Heaven	Creator/The WB
 22	7th Heaven	American Series
+22	7th Heaven	QuoteSource/Live-Action TV
 22	7th Heaven	Series of the 1990s
 22	7th Heaven	Series of the 2000s
 22	7th Heaven	Creator/The CW
@@ -175,6 +188,7 @@ show_id	show_name	tag
 26	The A-Team	American Series
 26	The A-Team	Time Immemorial Index
 26	The A-Team	JustForFun/Trope Kilowicked
+26	The A-Team	ImageSource/Live-Action TV
 26	The A-Team	Creator/Universal
 27	Aaron Stone	Creator/Disney XD
 27	Aaron Stone	Creator/Disney Channel
@@ -192,10 +206,12 @@ show_id	show_name	tag
 28	ABC World News Tonight	Long-Runners
 28	ABC World News Tonight	Series of the 2010s
 28	ABC World News Tonight	Series of the 2020s
+28	ABC World News Tonight	Administrivia/Pages Needing Images
 29	About a Boy	Dom Com
 29	About a Boy	Creator/NBC
 29	About a Boy	American Series
 30	ABC Afterschool Special	American Series
+30	ABC Afterschool Special	ImageSource/Live-Action TV
 31	Accidentally On Purpose	Comedy Series
 31	Accidentally On Purpose	American Series
 31	Accidentally On Purpose	Series of the 2000s
@@ -233,6 +249,7 @@ show_id	show_name	tag
 36	Adam Ruins Everything	Edutainment Show
 36	Adam Ruins Everything	Website/CollegeHumor
 36	Adam Ruins Everything	American Series
+36	Adam Ruins Everything	ImageSource/Live-Action TV
 37	Adam-12	Creator/Shout! Factory
 37	Adam-12	Cop Show
 37	Adam-12	Crime and Punishment Series
@@ -256,8 +273,10 @@ show_id	show_name	tag
 38	The Addams Family	Metroidvania
 38	The Addams Family	Creator/ABC
 38	The Addams Family	American Series
+38	The Addams Family	QuoteSource/Live-Action TV
 38	The Addams Family	Series of the 1990s
 38	The Addams Family	Creator/YTV
+38	The Addams Family	ImageSource/Live-Action TV
 38	The Addams Family	Horror Comedy
 39	Adventures in Wonderland	Creator/Disney Channel
 39	Adventures in Wonderland	Franchise/Alice in Wonderland
@@ -322,8 +341,10 @@ show_id	show_name	tag
 49	Agent Carter	Creator/ABC
 49	Agent Carter	Conspiracy Thriller
 49	Agent Carter	American Series
+49	Agent Carter	QuoteSource/Live-Action TV
 49	Agent Carter	Spy Fiction
 49	Agent Carter	Series of the 2010s
+49	Agent Carter	ImageSource/Live-Action TV
 49	Agent Carter	Franchise/Marvel Cinematic Universe
 49	Agent Carter	Superhero
 50	Agent X	Creator/TNT
@@ -344,10 +365,12 @@ show_id	show_name	tag
 51	Agents of S.H.I.E.L.D.	Conspiracy Thriller
 51	Agents of S.H.I.E.L.D.	Superhero
 51	Agents of S.H.I.E.L.D.	American Series
+51	Agents of S.H.I.E.L.D.	QuoteSource/Live-Action TV
 51	Agents of S.H.I.E.L.D.	Series of the 2010s
 51	Agents of S.H.I.E.L.D.	Series of the 2020s
 51	Agents of S.H.I.E.L.D.	JustForFun/Trope Overdosed
 51	Agents of S.H.I.E.L.D.	Franchise/Marvel Cinematic Universe
+51	Agents of S.H.I.E.L.D.	ImageSource/Live-Action TV
 51	Agents of S.H.I.E.L.D.	Spy Fiction
 52	The Agency	American Series
 52	The Agency	Series of the 2000s
@@ -394,6 +417,7 @@ show_id	show_name	tag
 57	ALF	Creator/The Ocean Group
 57	ALF	Series of the 1990s
 57	ALF	Creator/Warner Bros.
+57	ALF	ImageSource/Live-Action TV
 57	ALF	Creator/Lionsgate
 57	ALF	Creator/DiC Entertainment
 57	ALF	Short Titles
@@ -429,13 +453,16 @@ show_id	show_name	tag
 62	Alias	Creator/J. J. Abrams
 62	Alias	Crime and Punishment Series
 62	Alias	Creator/Moving Picture Company
+62	Alias	VideoSource/Live-Action TV
 62	Alias	Action Adventure Series
 62	Alias	UsefulNotes/Saturn Award
 62	Alias	Creator/ABC
 62	Alias	Speculative Fiction Series
 62	Alias	American Series
+62	Alias	QuoteSource/Live-Action TV
 62	Alias	Series of the 2000s
 62	Alias	Spy Fiction
+62	Alias	ImageSource/Live-Action TV
 63	Alias Smith and Jones	Western Series
 63	Alias Smith and Jones	Creator/ABC
 63	Alias Smith and Jones	American Series
@@ -474,6 +501,7 @@ show_id	show_name	tag
 68	All My Children	Series of the 1980s
 68	All My Children	Creator/ABC
 68	All My Children	American Series
+68	All My Children	QuoteSource/Live-Action TV
 68	All My Children	Soap Opera
 68	All My Children	Series of the 1990s
 68	All My Children	Series of the 2000s
@@ -493,6 +521,7 @@ show_id	show_name	tag
 70	All That	Sketch Comedy
 70	All That	JustForFun/Trope Kilowicked Franchises
 70	All That	American Series
+70	All That	QuoteSource/Live-Action TV
 70	All That	Series of the 1990s
 70	All That	Series of the 2010s
 70	All That	Creator/Nickelodeon
@@ -503,6 +532,7 @@ show_id	show_name	tag
 72	Ally McBeal	Crime and Punishment Series
 72	Ally McBeal	Creator/Fox
 72	Ally McBeal	Law Procedural
+72	Ally McBeal	VideoSource/Live-Action TV
 72	Ally McBeal	Work Com
 72	Ally McBeal	Creator/Disney
 72	Ally McBeal	American Series
@@ -512,6 +542,7 @@ show_id	show_name	tag
 72	Ally McBeal	Creator/Method Studios
 72	Ally McBeal	Creator/20th Century Studios
 72	Ally McBeal	Dramedy
+72	Ally McBeal	ImageSource/Live-Action TV
 73	Almost Human	Cop Show
 73	Almost Human	Crime and Punishment Series
 73	Almost Human	Police Procedural
@@ -535,11 +566,13 @@ show_id	show_name	tag
 76	Altered Carbon	Science Fiction Series
 76	Altered Carbon	Series of the 2010s
 76	Altered Carbon	Creator/Netflix
+76	Altered Carbon	ImageSource/Live-Action TV
 76	Altered Carbon	Series of the 2020s
 77	The Amanda Show	Series/Nick Verse
 77	The Amanda Show	Creator/TeenNick
 77	The Amanda Show	Sketch Comedy
 77	The Amanda Show	American Series
+77	The Amanda Show	QuoteSource/Live-Action TV
 77	The Amanda Show	Series of the 1990s
 77	The Amanda Show	Creator/Nickelodeon
 78	The Amazing Race	Multi-National Shows
@@ -547,6 +580,7 @@ show_id	show_name	tag
 78	The Amazing Race	Creator/CTV
 78	The Amazing Race	Creator/CBS
 78	The Amazing Race	American Series
+78	The Amazing Race	QuoteSource/Live-Action TV
 78	The Amazing Race	Series of the 2000s
 78	The Amazing Race	Series of the 2020s
 78	The Amazing Race	Long-Runners
@@ -583,6 +617,7 @@ show_id	show_name	tag
 82	American Crime Story	The '90s
 82	American Crime Story	Creator/Disney
 82	American Crime Story	American Series
+82	American Crime Story	QuoteSource/Live-Action TV
 82	American Crime Story	Docudrama
 82	American Crime Story	Series of the 2010s
 83	The People v. O.J. Simpson	Series/American Crime Story
@@ -595,6 +630,7 @@ show_id	show_name	tag
 83	The People v. O.J. Simpson	UsefulNotes/Emmy Award
 83	The People v. O.J. Simpson	African-American Media
 83	The People v. O.J. Simpson	Series of the 2010s
+83	The People v. O.J. Simpson	ImageSource/Live-Action TV
 84	The Assassination of Gianni Versace	Law Procedural
 84	The Assassination of Gianni Versace	Creator/FX Networks
 84	The Assassination of Gianni Versace	The '90s
@@ -619,8 +655,10 @@ show_id	show_name	tag
 86	American Gladiators	Series of the 1990s
 86	American Gladiators	Creator/Metro-Goldwyn-Mayer
 87	American Gods (2017)	Creator/Starz
+87	American Gods (2017)	VideoSource/Live-Action TV
 87	American Gods (2017)	UsefulNotes/The Viking Age
 87	American Gods (2017)	American Series
+87	American Gods (2017)	QuoteSource/Live-Action TV
 87	American Gods (2017)	Series of the 2010s
 87	American Gods (2017)	Urban Fantasy
 87	American Gods (2017)	Queer Media
@@ -689,8 +727,10 @@ show_id	show_name	tag
 95	American Horror Story: Freak Show	The Great Depression
 95	American Horror Story: Freak Show	The '60s
 95	American Horror Story: Freak Show	Creator/FX Networks
+95	American Horror Story: Freak Show	VideoSource/Live-Action TV
 95	American Horror Story: Freak Show	Horror Series
 95	American Horror Story: Freak Show	American Series
+95	American Horror Story: Freak Show	QuoteSource/Live-Action TV
 95	American Horror Story: Freak Show	Series of the 2010s
 95	American Horror Story: Freak Show	Creator/20th Century Studios
 96	American Horror Story: Hotel	Series/American Horror Story
@@ -699,6 +739,7 @@ show_id	show_name	tag
 96	American Horror Story: Hotel	American Series
 96	American Horror Story: Hotel	Series of the 2010s
 96	American Horror Story: Hotel	Creator/20th Century Studios
+96	American Horror Story: Hotel	ImageSource/Live-Action TV
 97	American Horror Story: Roanoke	Series/American Horror Story
 97	American Horror Story: Roanoke	Creator/FX Networks
 97	American Horror Story: Roanoke	Horror Series
@@ -731,10 +772,12 @@ show_id	show_name	tag
 101	American Idol	Non-Fiction Series
 101	American Idol	Creator/ABC
 101	American Idol	American Series
+101	American Idol	QuoteSource/Live-Action TV
 101	American Idol	Series of the 2000s
 101	American Idol	Long-Runners
 101	American Idol	UsefulNotes/Emmy Award
 101	American Idol	Series of the 2010s
+101	American Idol	ImageSource/Live-Action TV
 102	American Ninja Warrior	Game Show
 102	American Ninja Warrior	Reality TV
 102	American Ninja Warrior	Creator/G4TV
@@ -759,6 +802,7 @@ show_id	show_name	tag
 105	The Americans	Spy Fiction
 105	The Americans	Series of the 2010s
 105	The Americans	Creator/20th Century Studios
+105	The Americans	ImageSource/Live-Action TV
 106	American Vandal	Teen Drama
 106	American Vandal	American Series
 106	American Vandal	Creator/Netflix
@@ -779,10 +823,12 @@ show_id	show_name	tag
 108	Americas Game The Super Bowl Champions	American Series
 109	America's Got Talent	Creator/American Forces Network
 109	America's Got Talent	Reality TV
+109	America's Got Talent	VideoSource/Live-Action TV
 109	America's Got Talent	Creator/NBC
 109	America's Got Talent	American Series
 109	America's Got Talent	Series of the 2000s
 109	America's Got Talent	Series of the 2010s
+109	America's Got Talent	ImageSource/Live-Action TV
 109	America's Got Talent	Series of the 2020s
 110	America's Most Wanted	True Crime
 110	America's Most Wanted	Creator/Fox
@@ -801,11 +847,14 @@ show_id	show_name	tag
 111	America's Next Top Model	Long-Runners
 111	America's Next Top Model	African-American Media
 111	America's Next Top Model	Series of the 2010s
+111	America's Next Top Model	ImageSource/Live-Action TV
 111	America's Next Top Model	Queer Media
 112	America's Test Kitchen	UsefulNotes/Nintendo DS
 112	America's Test Kitchen	American Series
 112	America's Test Kitchen	Cooking Show
+112	America's Test Kitchen	Administrivia/Works Needing Tropes
 113	Andromeda	Creator/American Forces Network
+113	Andromeda	ImageSource/Live-Action TV
 113	Andromeda	First-Run Syndication
 113	Andromeda	Creator/Syfy
 113	Andromeda	Creator/Rainmaker Entertainment
@@ -818,6 +867,7 @@ show_id	show_name	tag
 114	The Andy Griffith Show	Creator/MeTV
 114	The Andy Griffith Show	American Series
 114	The Andy Griffith Show	Creator/Paramount
+114	The Andy Griffith Show	ImageSource/Live-Action TV
 115	Andy Richter Controls the Universe	Creator/Fox
 115	Andy Richter Controls the Universe	Work Com
 115	Andy Richter Controls the Universe	American Series
@@ -839,6 +889,7 @@ show_id	show_name	tag
 116	Angel	Creator/Disney
 116	Angel	American Series
 116	Angel	Urban Fantasy
+116	Angel	QuoteSource/Live-Action TV
 116	Angel	Series of the 1990s
 116	Angel	Series of the 2000s
 116	Angel	JustForFun/Trope Overdosed
@@ -924,6 +975,7 @@ show_id	show_name	tag
 132	Are You Afraid of the Dark?	Horror Series
 132	Are You Afraid of the Dark?	Creator/Cookie Jar Entertainment
 132	Are You Afraid of the Dark?	American Series
+132	Are You Afraid of the Dark?	QuoteSource/Live-Action TV
 132	Are You Afraid of the Dark?	Creator/CITV
 132	Are You Afraid of the Dark?	Series of the 1990s
 132	Are You Afraid of the Dark?	Creator/Nickelodeon
@@ -968,12 +1020,14 @@ show_id	show_name	tag
 138	Arrested Development	JustForFun/Trope Kilowicked Franchises
 138	Arrested Development	Creator/Disney
 138	Arrested Development	American Series
+138	Arrested Development	QuoteSource/Live-Action TV
 138	Arrested Development	Series of the 2000s
 138	Arrested Development	Creator/20th Century Studios
 138	Arrested Development	UsefulNotes/Emmy Award
 138	Arrested Development	JustForFun/Trope Kilowicked
 138	Arrested Development	Series of the 2010s
 138	Arrested Development	Creator/Netflix
+138	Arrested Development	ImageSource/Live-Action TV
 139	Arrow	Supernatural Soap Opera
 139	Arrow	Creator/Greg Berlanti
 139	Arrow	Creator/American Forces Network
@@ -987,11 +1041,13 @@ show_id	show_name	tag
 139	Arrow	JustForFun/Trope Overdosed Franchises
 139	Arrow	Conspiracy Thriller
 139	Arrow	American Series
+139	Arrow	QuoteSource/Live-Action TV
 139	Arrow	Creator/The CW
 139	Arrow	JustForFun/Trope Overdosed
 139	Arrow	Creator/Warner Bros.
 139	Arrow	Series/Arrowverse
 139	Arrow	Series of the 2010s
+139	Arrow	ImageSource/Live-Action TV
 139	Arrow	Series of the 2020s
 139	Arrow	Superhero
 140	The Arsenio Hall Show	American Series
@@ -1065,15 +1121,18 @@ show_id	show_name	tag
 154	Babylon 5	Science Fiction Tabletop Games
 154	Babylon 5	Military and Warfare Television
 154	Babylon 5	UsefulNotes/Hugo Award
+154	Babylon 5	VideoSource/Live-Action TV
 154	Babylon 5	The Epic
 154	Babylon 5	JustForFun/Trope Overdosed Franchises
 154	Babylon 5	Military Science Fiction
 154	Babylon 5	Government Procedural
 154	Babylon 5	American Series
 154	Babylon 5	Science Fiction Series
+154	Babylon 5	QuoteSource/Live-Action TV
 154	Babylon 5	Series of the 1990s
 154	Babylon 5	Creator/Warner Bros.
 154	Babylon 5	Spy Fiction
+154	Babylon 5	ImageSource/Live-Action TV
 155	Baby Songs	American Series
 156	The Bachelor/The Bachelorette	Teen Rating
 156	The Bachelor/The Bachelorette	Reality TV
@@ -1091,6 +1150,7 @@ show_id	show_name	tag
 157	Backstrom	American Series
 157	Backstrom	Series of the 2010s
 158	Bad Samaritans	American Series
+158	Bad Samaritans	Administrivia/Needs a Better Description
 158	Bad Samaritans	Series of the 2010s
 158	Bad Samaritans	Creator/Netflix
 159	Bait Car	Reality TV
@@ -1106,6 +1166,7 @@ show_id	show_name	tag
 161	Band of Brothers	Military and Warfare Television
 161	Band of Brothers	Creator/Moving Picture Company
 161	Band of Brothers	Historical Series
+161	Band of Brothers	VideoSource/Live-Action TV
 161	Band of Brothers	Epic Movie
 161	Band of Brothers	Creator/Steven Spielberg
 161	Band of Brothers	Works Set in World War II
@@ -1136,6 +1197,7 @@ show_id	show_name	tag
 165	Barefoot Contessa	Series of the 2000s
 165	Barefoot Contessa	Cooking Show
 165	Barefoot Contessa	Series of the 2010s
+165	Barefoot Contessa	Administrivia/Works Needing Tropes
 165	Barefoot Contessa	Series of the 2020s
 166	Baretta	Series of the 1970s
 166	Baretta	Creator/ABC
@@ -1158,6 +1220,7 @@ show_id	show_name	tag
 169	Barney & Friends	Creator/Disney Channel
 169	Barney & Friends	Creator/9 Story Media Group
 169	Barney & Friends	Edutainment Show
+169	Barney & Friends	ImageSource/Puppet Shows
 169	Barney & Friends	Creator/Universal Kids
 169	Barney & Friends	Creator/Treehouse TV
 169	Barney & Friends	Creator/Sprout
@@ -1165,9 +1228,12 @@ show_id	show_name	tag
 169	Barney & Friends	Dinosaur Media
 169	Barney & Friends	Creator/PBS Kids
 169	Barney & Friends	American Series
+169	Barney & Friends	QuoteSource/Live-Action TV
 169	Barney & Friends	Series of the 1990s
+169	Barney & Friends	Administrivia/Pages Needing Transparent Images
 169	Barney & Friends	Preschool Show
 169	Barney & Friends	Long-Runners
+169	Barney & Friends	ImageSource/Tabletop Games
 170	Barney Miller	Creator/Shout! Factory
 170	Barney Miller	Crime and Punishment Series
 170	Barney Miller	Police Procedural
@@ -1205,14 +1271,17 @@ show_id	show_name	tag
 174	Batman	Superhero
 174	Batman	Creator/Disney
 174	Batman	American Series
+174	Batman	QuoteSource/Live-Action TV
 174	Batman	JustForFun/Trope Kilowicked
 174	Batman	Creator/20th Century Studios
+174	Batman	ImageSource/Live-Action TV
 175	BattleBots	Creator/Discovery Channel
 175	BattleBots	Creator/American Forces Network
 175	BattleBots	Creator/Comedy Central
 175	BattleBots	Creator/ABC
 175	BattleBots	American Series
 175	BattleBots	Series of the 2000s
+175	BattleBots	ImageSource/Live-Action TV
 176	Battlestar Galactica	Literature/Unwoven Literary Universe
 176	Battlestar Galactica	Franchise/Battlestar Galactica
 176	Battlestar Galactica	Series of the 1970s
@@ -1221,6 +1290,7 @@ show_id	show_name	tag
 176	Battlestar Galactica	Creator/ABC
 176	Battlestar Galactica	American Series
 176	Battlestar Galactica	Science Fiction Series
+176	Battlestar Galactica	ImageSource/Live-Action TV
 176	Battlestar Galactica	Creator/Universal
 177	Baywatch	Creator/Modern Video Film
 177	Baywatch	Rescue
@@ -1231,6 +1301,7 @@ show_id	show_name	tag
 177	Baywatch	Series of the 1990s
 177	Baywatch	Series of the 2000s
 177	Baywatch	Long-Runners
+177	Baywatch	ImageSource/Live-Action TV
 178	Beakman's World	Creator/American Forces Network
 178	Beakman's World	Creator/Sony Pictures Television
 178	Beakman's World	Creator/The WB
@@ -1256,6 +1327,7 @@ show_id	show_name	tag
 180	Beauty and the Beast (1987)	American Series
 180	Beauty and the Beast (1987)	Urban Fantasy
 180	Beauty and the Beast (1987)	Series of the 1990s
+180	Beauty and the Beast (1987)	ImageSource/Live-Action TV
 181	Beauty and the Beast (2012)	Creator/American Forces Network
 181	Beauty and the Beast (2012)	Franchise/Beauty and the Beast
 181	Beauty and the Beast (2012)	American Series
@@ -1279,6 +1351,7 @@ show_id	show_name	tag
 183	Beetleborgs	Animal Title Index
 184	Behind the Music	TV Documentary
 184	Behind the Music	American Series
+184	Behind the Music	Administrivia/Needs Wiki Magic Love
 185	Being Human (US)	Creator/Tracy Spiridakos
 185	Being Human (US)	Supernatural Soap Opera
 185	Being Human (US)	Fantasy Series
@@ -1350,6 +1423,7 @@ show_id	show_name	tag
 196	Between the Lions	UsefulNotes/Adobe Flash
 196	Between the Lions	Recap/Defunctland
 196	Between the Lions	American Series
+196	Between the Lions	QuoteSource/Live-Action TV
 196	Between the Lions	Series of the 2000s
 196	Between the Lions	Long-Runners
 196	Between the Lions	Animal Title Index
@@ -1372,6 +1446,7 @@ show_id	show_name	tag
 198	Beverly Hills, 90210	Series of the 2000s
 198	Beverly Hills, 90210	Series of the 2010s
 198	Beverly Hills, 90210	Creator/The CW
+198	Beverly Hills, 90210	ImageSource/Live-Action TV
 199	Bewitched	Creator/Mill Creek Entertainment
 199	Bewitched	Creator/TV Asahi
 199	Bewitched	Series of the 1960s
@@ -1384,6 +1459,7 @@ show_id	show_name	tag
 199	Bewitched	Witch Works
 199	Bewitched	Creator/ABC
 199	Bewitched	American Series
+199	Bewitched	ImageSource/Live-Action TV
 199	Bewitched	Creator/Columbia Pictures
 200	Beyond	Creator/Freeform
 200	Beyond	American Series
@@ -1399,6 +1475,7 @@ show_id	show_name	tag
 202	The Bible (2013)	American Series
 202	The Bible (2013)	Mini Series
 202	The Bible (2013)	Series of the 2010s
+202	The Bible (2013)	Administrivia/Needs Wiki Magic Love
 203	Bibleman	Religious Edutainment
 203	Bibleman	Christian Fiction
 203	Bibleman	Superhero
@@ -1418,12 +1495,14 @@ show_id	show_name	tag
 204	The Big Bang Theory	Work Com
 204	The Big Bang Theory	JustForFun/Trope Overdosed Franchises
 204	The Big Bang Theory	American Series
+204	The Big Bang Theory	QuoteSource/Live-Action TV
 204	The Big Bang Theory	Series of the 2000s
 204	The Big Bang Theory	Series of the 2010s
 204	The Big Bang Theory	JustForFun/Trope Overdosed
 204	The Big Bang Theory	Names to Know in Anime
 204	The Big Bang Theory	Long-Runners
 204	The Big Bang Theory	Creator/Warner Bros.
+204	The Big Bang Theory	ImageSource/Live-Action TV
 204	The Big Bang Theory	Autism in Media
 205	The Big C	UsefulNotes/Emmy Award
 205	The Big C	Creator/Sony Pictures Television
@@ -1503,6 +1582,7 @@ show_id	show_name	tag
 217	Bizarre Foods with Andrew Zimmern	American Series
 217	Bizarre Foods with Andrew Zimmern	Series of the 2000s
 217	Bizarre Foods with Andrew Zimmern	Series of the 2010s
+217	Bizarre Foods with Andrew Zimmern	Administrivia/Needs Wiki Magic Love
 218	B.J. and the Bear	Series of the 1970s
 218	B.J. and the Bear	Creator/NBC
 218	B.J. and the Bear	American Series
@@ -1525,6 +1605,7 @@ show_id	show_name	tag
 221	Black Jesus	American Series
 221	Black Jesus	Series of the 2010s
 221	Black Jesus	African-American Media
+221	Black Jesus	Administrivia/Needs Wiki Magic Love
 221	Black Jesus	Creator/[adult swim]
 222	Black Lightning	Supernatural Soap Opera
 222	Black Lightning	Creator/Greg Berlanti
@@ -1562,6 +1643,7 @@ show_id	show_name	tag
 227	Black Summer	Zombie Stories
 227	Black Summer	Series of the 2010s
 227	Black Summer	Creator/Netflix
+227	Black Summer	ImageSource/Live-Action TV
 228	The Blacklist	Creator/Sony Pictures Television
 228	The Blacklist	CrimeAndPunishmentSeries/Detective Drama
 228	The Blacklist	Creator/NBC
@@ -1574,6 +1656,7 @@ show_id	show_name	tag
 229	The Blacklist: Redemption	American Series
 229	The Blacklist: Redemption	Spy Fiction
 229	The Blacklist: Redemption	Series of the 2010s
+229	The Blacklist: Redemption	ImageSource/Live-Action TV
 229	The Blacklist: Redemption	Creator/NBC
 229	The Blacklist: Redemption	Conspiracy Thriller
 230	Blade: The Series	Franchise/Blade
@@ -1596,6 +1679,7 @@ show_id	show_name	tag
 232	Blindspot	Creator/Warner Bros.
 232	Blindspot	Spy Fiction
 232	Blindspot	Series of the 2010s
+232	Blindspot	ImageSource/Live-Action TV
 232	Blindspot	Series of the 2020s
 232	Blindspot	Creator/NBC
 232	Blindspot	Conspiracy Thriller
@@ -1623,6 +1707,7 @@ show_id	show_name	tag
 238	Blue Bloods	Creator/CBS
 238	Blue Bloods	Conspiracy Thriller
 238	Blue Bloods	American Series
+238	Blue Bloods	QuoteSource/Live-Action TV
 238	Blue Bloods	Series of the 2010s
 238	Blue Bloods	Series of the 2020s
 238	Blue Bloods	Long-Runners
@@ -1648,6 +1733,7 @@ show_id	show_name	tag
 242	Boardwalk Empire	Criminal Procedural
 242	Boardwalk Empire	The Roaring '20s
 242	Boardwalk Empire	American Series
+242	Boardwalk Empire	QuoteSource/Live-Action TV
 242	Boardwalk Empire	Works Set In World War I
 242	Boardwalk Empire	Creator/HBO
 242	Boardwalk Empire	UsefulNotes/Emmy Award
@@ -1657,6 +1743,7 @@ show_id	show_name	tag
 243	Bob	Series of the 1990s
 243	Bob	Short Titles
 243	Bob	Short-Runners
+244	Bob Hearts Abishola	VideoSource/Live-Action TV
 244	Bob Hearts Abishola	Creator/CBS
 244	Bob Hearts Abishola	American Series
 244	Bob Hearts Abishola	Series of the 2010s
@@ -1683,6 +1770,7 @@ show_id	show_name	tag
 248	Bold Venture	Action Adventure Series
 248	Bold Venture	American Series
 248	Bold Venture	The '50s
+248	Bold Venture	Administrivia/Works Needing Tropes
 248	Bold Venture	American Media
 248	Bold Venture	Radio
 249	Bonanza	Series of the 1960s
@@ -1691,6 +1779,7 @@ show_id	show_name	tag
 249	Bonanza	Creator/NBC
 249	Bonanza	Creator/MeTV
 249	Bonanza	American Series
+249	Bonanza	QuoteSource/Live-Action TV
 249	Bonanza	Long-Runners
 249	Bonanza	The '50s
 249	Bonanza	Creator/Universal
@@ -1701,11 +1790,13 @@ show_id	show_name	tag
 250	Bones	Creator/Fox
 250	Bones	JustForFun/Trope Overdosed Franchises
 250	Bones	American Series
+250	Bones	QuoteSource/Live-Action TV
 250	Bones	Series of the 2000s
 250	Bones	Series of the 2010s
 250	Bones	JustForFun/Trope Kilowicked
 250	Bones	Long-Runners
 250	Bones	Creator/20th Century Studios
+250	Bones	Administrivia/Needs Wiki Magic Love
 250	Bones	Dramedy
 251	BOOM!	Game Show
 251	BOOM!	American Series
@@ -1713,6 +1804,7 @@ show_id	show_name	tag
 252	Boomtown	Cop Show
 252	Boomtown	Creator/NBC
 252	Boomtown	American Series
+252	Boomtown	QuoteSource/Live-Action TV
 252	Boomtown	Series of the 2000s
 253	Bored to Death	Comedy Series
 253	Bored to Death	Film Noir
@@ -1733,6 +1825,7 @@ show_id	show_name	tag
 255	Bosom Buddies	Creator/ABC
 255	Bosom Buddies	American Series
 255	Bosom Buddies	Creator/Paramount
+255	Bosom Buddies	ImageSource/Live-Action TV
 256	Boss	Creator/Starz
 256	Boss	American Series
 256	Boss	Series of the 2010s
@@ -1744,11 +1837,13 @@ show_id	show_name	tag
 257	Boston Legal	Series of the 2000s
 257	Boston Legal	Creator/20th Century Studios
 257	Boston Legal	Dramedy
+257	Boston Legal	ImageSource/Live-Action TV
 257	Boston Legal	Autism in Media
 258	Boston Public	Creator/Fox
 258	Boston Public	American Series
 258	Boston Public	Series of the 2000s
 258	Boston Public	African-American Media
+258	Boston Public	Administrivia/Works Needing Tropes
 259	Boy Meets World	Kid Com
 259	Boy Meets World	Dom Com
 259	Boy Meets World	Comedy Series
@@ -1756,6 +1851,7 @@ show_id	show_name	tag
 259	Boy Meets World	JustForFun/Trope Kilowicked Franchises
 259	Boy Meets World	Creator/ABC
 259	Boy Meets World	American Series
+259	Boy Meets World	QuoteSource/Live-Action TV
 259	Boy Meets World	Series of the 1990s
 259	Boy Meets World	Fantastic Comedy
 259	Boy Meets World	Dramedy
@@ -1769,6 +1865,7 @@ show_id	show_name	tag
 260	The Bozo Show	Series of the 1990s
 260	The Bozo Show	Series of the 2000s
 260	The Bozo Show	Long-Runners
+260	The Bozo Show	ImageSource/Live-Action TV
 261	The Brady Bunch	Series of the 1960s
 261	The Brady Bunch	Kid Com
 261	The Brady Bunch	Series of the 1970s
@@ -1777,6 +1874,7 @@ show_id	show_name	tag
 261	The Brady Bunch	Creator/Geffen Records
 261	The Brady Bunch	JustForFun/Trope Kilowicked Franchises
 261	The Brady Bunch	The Roaring '20s
+261	The Brady Bunch	ImageSource/Live-Action TV
 261	The Brady Bunch	Creator/MeTV
 261	The Brady Bunch	Creator/ABC
 261	The Brady Bunch	American Series
@@ -1804,25 +1902,30 @@ show_id	show_name	tag
 265	Breaking Bad	Creator/Zoic Studios
 265	Breaking Bad	Criminal Procedural
 265	Breaking Bad	UsefulNotes/BAFTA
+265	Breaking Bad	VideoSource/Live-Action TV
 265	Breaking Bad	UsefulNotes/Saturn Award
 265	Breaking Bad	JustForFun/Trope Overdosed Franchises
 265	Breaking Bad	American Series
 265	Breaking Bad	Creator/AMC
+265	Breaking Bad	QuoteSource/Live-Action TV
 265	Breaking Bad	Series of the 2000s
 265	Breaking Bad	JustForFun/Trope Overdosed
 265	Breaking Bad	UsefulNotes/Emmy Award
 265	Breaking Bad	Series of the 2010s
+265	Breaking Bad	ImageSource/Live-Action TV
 266	Better Call Saul	Franchise/Breaking Bad
 266	Better Call Saul	Crime and Punishment Series
 266	Better Call Saul	Creator/Sony Pictures Television
 266	Better Call Saul	Law Procedural
 266	Better Call Saul	Turn of the Millennium
+266	Better Call Saul	VideoSource/Live-Action TV
 266	Better Call Saul	UsefulNotes/Saturn Award
 266	Better Call Saul	American Series
 266	Better Call Saul	Creator/AMC
 266	Better Call Saul	Series of the 2010s
 266	Better Call Saul	Creator/Netflix
 266	Better Call Saul	Dramedy
+266	Better Call Saul	Administrivia/Needs Wiki Magic Love
 266	Better Call Saul	Series of the 2020s
 267	Breaking In	Creator/Sony Pictures Television
 267	Breaking In	American Series
@@ -1851,6 +1954,7 @@ show_id	show_name	tag
 271	The Bridge (US)	Series of the 2010s
 272	Brimstone	Horror Series
 272	Brimstone	American Series
+272	Brimstone	QuoteSource/Live-Action TV
 272	Brimstone	Series of the 1990s
 272	Brimstone	Short-Runners
 273	Bring 'Em Back Alive	Series of the 1980s
@@ -1859,6 +1963,7 @@ show_id	show_name	tag
 273	Bring 'Em Back Alive	American Series
 273	Bring 'Em Back Alive	Adventure
 273	Bring 'Em Back Alive	Short-Runners
+273	Bring 'Em Back Alive	Administrivia/Works Needing Tropes
 274	The Brink	American Series
 274	The Brink	Series of the 2010s
 274	The Brink	Creator/HBO
@@ -1876,11 +1981,14 @@ show_id	show_name	tag
 277	Brooklyn Nine-Nine	Notable Quotables
 277	Brooklyn Nine-Nine	Latino-American Media
 277	Brooklyn Nine-Nine	JustForFun/Trope Kilowicked Franchises
+277	Brooklyn Nine-Nine	VideoSource/Live-Action TV
 277	Brooklyn Nine-Nine	Dramedy
 277	Brooklyn Nine-Nine	Creator/NBC
 277	Brooklyn Nine-Nine	Work Com
+277	Brooklyn Nine-Nine	ImageSource/Live-Action TV
 277	Brooklyn Nine-Nine	Creator/Universal
 277	Brooklyn Nine-Nine	American Series
+277	Brooklyn Nine-Nine	QuoteSource/Live-Action TV
 277	Brooklyn Nine-Nine	Queer Media
 277	Brooklyn Nine-Nine	Series of the 2010s
 277	Brooklyn Nine-Nine	Series of the 2020s
@@ -1910,6 +2018,7 @@ show_id	show_name	tag
 282	Buck Rogers in the 25th Century	Creator/MeTV
 282	Buck Rogers in the 25th Century	American Series
 282	Buck Rogers in the 25th Century	Science Fiction Series
+282	Buck Rogers in the 25th Century	ImageSource/Live-Action TV
 282	Buck Rogers in the 25th Century	Creator/Universal
 283	Buffy the Vampire Slayer	ImageLinks/Complete Monster
 283	Buffy the Vampire Slayer	UsefulNotes/Nebula Award
@@ -1929,6 +2038,7 @@ show_id	show_name	tag
 283	Buffy the Vampire Slayer	Fantasy Series
 283	Buffy the Vampire Slayer	Notable Quotables
 283	Buffy the Vampire Slayer	Vampire Fiction
+283	Buffy the Vampire Slayer	VideoSource/Live-Action TV
 283	Buffy the Vampire Slayer	The Epic
 283	Buffy the Vampire Slayer	Series/The 100 Greatest Scary Moments
 283	Buffy the Vampire Slayer	JustForFun/Trope Overdosed Franchises
@@ -1938,6 +2048,7 @@ show_id	show_name	tag
 283	Buffy the Vampire Slayer	Creator/Disney
 283	Buffy the Vampire Slayer	American Series
 283	Buffy the Vampire Slayer	Urban Fantasy
+283	Buffy the Vampire Slayer	QuoteSource/Live-Action TV
 283	Buffy the Vampire Slayer	Queer Media
 284	The Bugaloos	Puppet Shows
 284	The Bugaloos	Creator/Rhino Records
@@ -1955,6 +2066,7 @@ show_id	show_name	tag
 286	Bullet in the Face	Creator/Shout! Factory
 286	Bullet in the Face	Creator/IFC
 286	Bullet in the Face	American Series
+286	Bullet in the Face	QuoteSource/Live-Action TV
 286	Bullet in the Face	Series of the 2010s
 287	Bullseye	Creator/Jack Barry
 287	Bullseye	Creator/Greggo
@@ -1977,14 +2089,17 @@ show_id	show_name	tag
 289	Burke's Law	Creator/ABC
 289	Burke's Law	American Series
 289	Burke's Law	Spy Fiction
+289	Burke's Law	ImageSource/Live-Action TV
 290	Burn Notice	Creator/Ric Reitz
 290	Burn Notice	Crime and Punishment Series
 290	Burn Notice	JustForFun/Tropes Examined by the MythBusters
 290	Burn Notice	Notable Quotables
 290	Burn Notice	JustForFun/Trope Kilowicked Franchises
+290	Burn Notice	VideoSource/Live-Action TV
 290	Burn Notice	Spy Fiction
 290	Burn Notice	Creator/Disney
 290	Burn Notice	American Series
+290	Burn Notice	QuoteSource/Live-Action TV
 290	Burn Notice	Series of the 2000s
 290	Burn Notice	Series of the 2010s
 290	Burn Notice	JustForFun/Trope Kilowicked
@@ -2001,6 +2116,7 @@ show_id	show_name	tag
 292	Café Americain	Work Com
 292	Café Americain	American Series
 292	Café Americain	Series of the 1990s
+292	Café Americain	Administrivia/Works Needing Tropes
 292	Café Americain	Creator/NBC
 293	Caitlin's Way	Teen Drama
 293	Caitlin's Way	American Series
@@ -2100,6 +2216,7 @@ show_id	show_name	tag
 309	The Carol Burnett Show	Creator/MeTV
 309	The Carol Burnett Show	American Series
 309	The Carol Burnett Show	Long-Runners
+309	The Carol Burnett Show	ImageSource/Live-Action TV
 310	Caroline in the City	Creator/CBS
 310	Caroline in the City	Creator/NBC
 310	Caroline in the City	American Series
@@ -2129,10 +2246,12 @@ show_id	show_name	tag
 314	Castle	Film Noir
 314	Castle	Creator/ABC
 314	Castle	American Series
+314	Castle	QuoteSource/Live-Action TV
 314	Castle	Series of the 2000s
 314	Castle	Series of the 2010s
 314	Castle	JustForFun/Trope Kilowicked
 314	Castle	Dramedy
+314	Castle	ImageSource/Live-Action TV
 315	Casual	Creator/Jason Reitman
 315	Casual	American Series
 315	Casual	Series of the 2010s
@@ -2188,12 +2307,15 @@ show_id	show_name	tag
 325	Chappelle's Show	Sketch Comedy
 325	Chappelle's Show	Creator/Comedy Central
 325	Chappelle's Show	American Series
+325	Chappelle's Show	QuoteSource/Live-Action TV
 325	Chappelle's Show	Series of the 2000s
 325	Chappelle's Show	African-American Media
+325	Chappelle's Show	ImageSource/Live-Action TV
 326	Charles in Charge	Creator/David Cowgill
 326	Charles in Charge	Kid Com
 326	Charles in Charge	Series of the 1980s
 326	Charles in Charge	Creator/CBS
+326	Charles in Charge	ImageSource/Live-Action TV
 326	Charles in Charge	First-Run Syndication
 326	Charles in Charge	Creator/Universal
 326	Charles in Charge	American Series
@@ -2208,6 +2330,7 @@ show_id	show_name	tag
 327	Charlie's Angels	Creator/ABC
 327	Charlie's Angels	American Series
 327	Charlie's Angels	Series of the 2010s
+327	Charlie's Angels	ImageSource/Live-Action TV
 327	Charlie's Angels	Short-Runners
 328	Charmed (1998)	Supernatural Soap Opera
 328	Charmed (1998)	Creator/Aaron Spelling
@@ -2227,6 +2350,7 @@ show_id	show_name	tag
 328	Charmed (1998)	Urban Fantasy
 328	Charmed (1998)	Creator/Method Studios
 328	Charmed (1998)	Creator/Paramount
+328	Charmed (1998)	ImageSource/Live-Action TV
 329	Charmed (2018)	Creator/American Forces Network
 329	Charmed (2018)	Fantasy Series
 329	Charmed (2018)	Witch Works
@@ -2266,10 +2390,12 @@ show_id	show_name	tag
 335	Cheers	Work Com
 335	Cheers	JustForFun/Trope Overdosed Franchises
 335	Cheers	American Series
+335	Cheers	QuoteSource/Live-Action TV
 335	Cheers	Series of the 1990s
 335	Cheers	JustForFun/Trope Kilowicked
 335	Cheers	Long-Runners
 335	Cheers	Creator/Paramount
+335	Cheers	ImageSource/Live-Action TV
 336	The Chicago Code	Crime and Punishment Series
 336	The Chicago Code	Police Procedural
 336	The Chicago Code	American Series
@@ -2303,6 +2429,7 @@ show_id	show_name	tag
 340	Chicago P.D.	Creator/NBC
 340	Chicago P.D.	American Series
 340	Chicago P.D.	Series of the 2010s
+340	Chicago P.D.	ImageSource/Live-Action TV
 340	Chicago P.D.	Series of the 2020s
 340	Chicago P.D.	Creator/Universal
 341	Chicago Hope	Creator/Imaginary Forces
@@ -2316,6 +2443,7 @@ show_id	show_name	tag
 342	Chico and the Man	Comedy Series
 342	Chico and the Man	American Series
 342	Chico and the Man	Latino-American Media
+342	Chico and the Man	ImageSource/Live-Action TV
 342	Chico and the Man	Creator/NBC
 343	Chiefs	American Series
 344	Childhood's End	Creator/Universal Content Productions
@@ -2333,6 +2461,7 @@ show_id	show_name	tag
 346	Child's Play	Game Show
 346	Child's Play	American Series
 346	Child's Play	Short-Runners
+346	Child's Play	Administrivia/Pages Needing Images
 347	Chilling Adventures of Sabrina	Creator/Greg Berlanti
 347	Chilling Adventures of Sabrina	Franchise/Archie Comics
 347	Chilling Adventures of Sabrina	Franchise/Sabrina the Teenage Witch
@@ -2363,10 +2492,12 @@ show_id	show_name	tag
 350	Chopped	Creator/Food Network
 350	Chopped	Non-Fiction Series
 350	Chopped	American Series
+350	Chopped	QuoteSource/Live-Action TV
 351	The Chris Rock Show	American Series
 351	The Chris Rock Show	Series of the 1990s
 351	The Chris Rock Show	African-American Media
 351	The Chris Rock Show	Creator/HBO
+351	The Chris Rock Show	Administrivia/Needs Wiki Magic Love
 352	The Chronicle	Creator/Syfy
 352	The Chronicle	Speculative Fiction Series
 352	The Chronicle	American Series
@@ -2376,6 +2507,7 @@ show_id	show_name	tag
 353	Chuck	Creator/Modern Video Film
 353	Chuck	Creator/Zoic Studios
 353	Chuck	JustForFun/Trope Kilowicked Franchises
+353	Chuck	VideoSource/Live-Action TV
 353	Chuck	Creator/NBC
 353	Chuck	American Series
 353	Chuck	Series of the 2000s
@@ -2383,6 +2515,7 @@ show_id	show_name	tag
 353	Chuck	JustForFun/Trope Kilowicked
 353	Chuck	Creator/Warner Bros.
 353	Chuck	Dramedy
+353	Chuck	ImageSource/Live-Action TV
 354	Cimarron Strip	Series of the 1960s
 354	Cimarron Strip	Western Series
 354	Cimarron Strip	American Series
@@ -2399,6 +2532,7 @@ show_id	show_name	tag
 358	Clarissa Explains It All	American Series
 358	Clarissa Explains It All	Series of the 1990s
 358	Clarissa Explains It All	Creator/Nickelodeon
+358	Clarissa Explains It All	ImageSource/Live-Action TV
 359	Clash of the Dinosaurs	Creator/Discovery Channel
 359	Clash of the Dinosaurs	Dinosaur Media
 359	Clash of the Dinosaurs	American Series
@@ -2409,6 +2543,7 @@ show_id	show_name	tag
 360	Cleopatra 2525	American Series
 360	Cleopatra 2525	Science Fiction Series
 360	Cleopatra 2525	Series of the 2000s
+360	Cleopatra 2525	ImageSource/Live-Action TV
 360	Cleopatra 2525	Short-Runners
 361	Cleverman	Australian Series
 361	Cleverman	International Coproduction
@@ -2428,8 +2563,10 @@ show_id	show_name	tag
 363	Clueless	Creator/TeenNick
 363	Clueless	UsefulNotes/Philips CD-i
 363	Clueless	American Series
+363	Clueless	VideoSource/Live-Action Films
 363	Clueless	Films of 19951999
 363	Clueless	AmericanFilms/A to C
+363	Clueless	QuoteSource/Live-Action Films
 363	Clueless	Literature/1001 Movies You Must See Before You Die
 363	Clueless	Creator/Paramount
 364	Cobra Kai	Franchise/The Karate Kid
@@ -2458,8 +2595,10 @@ show_id	show_name	tag
 367	The Colbert Report	Non-Fiction Series
 367	The Colbert Report	Christmas Special
 367	The Colbert Report	American Series
+367	The Colbert Report	QuoteSource/Live-Action TV
 367	The Colbert Report	Series of the 2000s
 367	The Colbert Report	Series of the 2010s
+367	The Colbert Report	ImageSource/Live-Action TV
 367	The Colbert Report	UsefulNotes/Emmy Award
 368	Cold Case	Series/CSI Verse
 368	Cold Case	Crime and Punishment Series
@@ -2469,6 +2608,7 @@ show_id	show_name	tag
 368	Cold Case	Series of the 2000s
 368	Cold Case	Creator/Warner Bros.
 368	Cold Case	Series of the 2010s
+368	Cold Case	ImageSource/Live-Action TV
 368	Cold Case	Creator/CBS
 369	Colgate Comedy Hour	Variety Show
 369	Colgate Comedy Hour	Series of the 1950s
@@ -2486,6 +2626,8 @@ show_id	show_name	tag
 371	Columbo	Creator/MeTV
 371	Columbo	Creator/Universal
 371	Columbo	American Series
+371	Columbo	QuoteSource/Live-Action TV
+371	Columbo	ImageSource/Live-Action TV
 372	Condor	Creator/Skydance Media
 372	Condor	Action Series
 372	Condor	Conspiracy Thriller
@@ -2498,6 +2640,7 @@ show_id	show_name	tag
 373	The Cool Kids	Creator/FX Networks
 373	The Cool Kids	American Series
 373	The Cool Kids	Short-Runners
+373	The Cool Kids	Administrivia/Needs a Better Description
 373	The Cool Kids	Queer Media
 373	The Cool Kids	Series of the 2010s
 374	Cooper Barrett's Guide to Surviving Life	American Series
@@ -2537,15 +2680,18 @@ show_id	show_name	tag
 382	Community	Half Hour Comedy
 382	Community	UsefulNotes/Hugo Award
 382	Community	Notable Quotables
+382	Community	VideoSource/Live-Action TV
 382	Community	Creator/NBC
 382	Community	Work Com
 382	Community	School Club Stories
 382	Community	JustForFun/Trope Overdosed Franchises
 382	Community	Creator/Universal
 382	Community	American Series
+382	Community	QuoteSource/Live-Action TV
 382	Community	Series of the 2000s
 382	Community	Series of the 2010s
 382	Community	JustForFun/Trope Overdosed
+382	Community	ImageSource/Live-Action TV
 382	Community	The '50s
 383	Complications	Creator/USA Network
 383	Complications	American Series
@@ -2555,6 +2701,7 @@ show_id	show_name	tag
 384	Conan	Creator/TBS
 384	Conan	Talk Show
 384	Conan	Non-Fiction Series
+384	Conan	VideoSource/Live-Action TV
 384	Conan	American Series
 385	Conan the Adventurer	Fantasy Series
 385	Conan the Adventurer	Franchise/Conan the Barbarian
@@ -2608,6 +2755,7 @@ show_id	show_name	tag
 393	Copper	Cop Show
 393	Copper	Creator/The BBC
 393	Copper	American Series
+393	Copper	QuoteSource/Live-Action TV
 393	Copper	Historical Fiction
 394	Cop Rock	The Musical
 394	Cop Rock	Creator/ABC
@@ -2646,9 +2794,11 @@ show_id	show_name	tag
 397	The Cosby Show	Series of the 1990s
 397	The Cosby Show	UsefulNotes/Emmy Award
 397	The Cosby Show	African-American Media
+397	The Cosby Show	ImageSource/Live-Action TV
 398	Cougar Town	Creator/TBS
 398	Cougar Town	Animal Title Index
 398	Cougar Town	American Series
+398	Cougar Town	QuoteSource/Live-Action TV
 398	Cougar Town	Series of the 2000s
 398	Cougar Town	Series of the 2010s
 399	Countdown with Keith Olbermann	Talk Show
@@ -2685,10 +2835,12 @@ show_id	show_name	tag
 405	Crazy Ex-Girlfriend	The Musical
 405	Crazy Ex-Girlfriend	Comedy Series
 405	Crazy Ex-Girlfriend	American Series
+405	Crazy Ex-Girlfriend	QuoteSource/Live-Action TV
 405	Crazy Ex-Girlfriend	Series of the 2010s
 405	Crazy Ex-Girlfriend	Creator/The CW
 405	Crazy Ex-Girlfriend	Creator/Netflix
 405	Crazy Ex-Girlfriend	Dramedy
+405	Crazy Ex-Girlfriend	ImageSource/Live-Action TV
 406	Crazy Like a Fox	CrimeAndPunishmentSeries/Detective Drama
 406	Crazy Like a Fox	Series of the 1980s
 406	Crazy Like a Fox	Creator/CBS
@@ -2717,6 +2869,7 @@ show_id	show_name	tag
 408	Criminal Minds	Series of the 2020s
 408	Criminal Minds	JustForFun/Trope Overdosed
 408	Criminal Minds	Long-Runners
+408	Criminal Minds	ImageSource/Live-Action TV
 408	Criminal Minds	Autism in Media
 409	Criminal Minds: Beyond Borders	Cop Show
 409	Criminal Minds: Beyond Borders	Crime and Punishment Series
@@ -2780,6 +2933,7 @@ show_id	show_name	tag
 417	CSI	Short Titles
 417	CSI	Series of the 2010s
 417	CSI	Creator/Method Studios
+417	CSI	ImageSource/Live-Action TV
 418	CSI: Cyber	Series/CSI Verse
 418	CSI: Cyber	Crime and Punishment Series
 418	CSI: Cyber	Creator/CTV
@@ -2795,6 +2949,7 @@ show_id	show_name	tag
 419	CSI: Miami	Creator/CTV
 419	CSI: Miami	JustForFun/Trope Kilowicked Franchises
 419	CSI: Miami	American Series
+419	CSI: Miami	QuoteSource/Live-Action TV
 419	CSI: Miami	Series of the 2000s
 419	CSI: Miami	Long-Runners
 419	CSI: Miami	JustForFun/Trope Kilowicked
@@ -2809,6 +2964,7 @@ show_id	show_name	tag
 420	CSI: NY	Series of the 2000s
 420	CSI: NY	Series of the 2010s
 420	CSI: NY	JustForFun/Trope Kilowicked
+420	CSI: NY	ImageSource/Live-Action TV
 421	Cult	American Series
 421	Cult	Creator/The CW
 421	Cult	Series of the 2010s
@@ -2820,6 +2976,7 @@ show_id	show_name	tag
 423	Curb Your Enthusiasm	Series of the 2000s
 423	Curb Your Enthusiasm	Series of the 2010s
 423	Curb Your Enthusiasm	Creator/HBO
+423	Curb Your Enthusiasm	ImageSource/Live-Action TV
 423	Curb Your Enthusiasm	Series of the 2020s
 424	The Curious Creations of Christine McConnell	American Series
 425	Cutthroat Kitchen	Reality TV
@@ -2843,6 +3000,7 @@ show_id	show_name	tag
 428	The Daily Show	Non-Fiction Series
 428	The Daily Show	JustForFun/Trope Overdosed Franchises
 428	The Daily Show	American Series
+428	The Daily Show	QuoteSource/Live-Action TV
 428	The Daily Show	Series of the 1990s
 428	The Daily Show	Series of the 2000s
 428	The Daily Show	Long-Runners
@@ -2856,11 +3014,13 @@ show_id	show_name	tag
 429	The Daily Show with Jon Stewart	Series of the 1990s
 429	The Daily Show with Jon Stewart	Series of the 2000s
 429	The Daily Show with Jon Stewart	Series of the 2010s
+429	The Daily Show with Jon Stewart	ImageSource/Live-Action TV
 429	The Daily Show with Jon Stewart	Political Programmes
 430	The Daily Show with Trevor Noah	Political Programmes
 430	The Daily Show with Trevor Noah	Talk Show
 430	The Daily Show with Trevor Noah	Creator/Comedy Central
 430	The Daily Show with Trevor Noah	Non-Fiction Series
+430	The Daily Show with Trevor Noah	VideoSource/Live-Action TV
 430	The Daily Show with Trevor Noah	American Series
 430	The Daily Show with Trevor Noah	Series of the 2020s
 430	The Daily Show with Trevor Noah	Series of the 2010s
@@ -2935,10 +3095,12 @@ show_id	show_name	tag
 442	Daredevil	The '90s
 442	Daredevil	UsefulNotes/Saturn Award
 442	Daredevil	American Series
+442	Daredevil	QuoteSource/Live-Action TV
 442	Daredevil	JustForFun/Trope Kilowicked
 442	Daredevil	Series of the 2010s
 442	Daredevil	Creator/Netflix
 442	Daredevil	ComicBook/The Punisher
+442	Daredevil	ImageSource/Live-Action TV
 442	Daredevil	Franchise/Marvel Cinematic Universe
 442	Daredevil	Superhero
 443	Dark Angel	The New '20s
@@ -3008,6 +3170,7 @@ show_id	show_name	tag
 452	Dawson's Creek	Series of the 1990s
 452	Dawson's Creek	Series of the 2000s
 452	Dawson's Creek	Creator/Columbia Pictures
+452	Dawson's Creek	ImageSource/Live-Action TV
 453	Day Break (2006)	Crime and Punishment Series
 453	Day Break (2006)	American Series
 453	Day Break (2006)	Short-Runners
@@ -3155,12 +3318,15 @@ show_id	show_name	tag
 477	Desperate Housewives	Creator/Modern Video Film
 477	Desperate Housewives	Prime Time Soap
 477	Desperate Housewives	Creator/CTV
+477	Desperate Housewives	VideoSource/Live-Action TV
 477	Desperate Housewives	Creator/ABC
 477	Desperate Housewives	American Series
+477	Desperate Housewives	QuoteSource/Live-Action TV
 477	Desperate Housewives	Series of the 2000s
 477	Desperate Housewives	UsefulNotes/Emmy Award
 477	Desperate Housewives	Series of the 2010s
 477	Desperate Housewives	Dramedy
+477	Desperate Housewives	ImageSource/Live-Action TV
 478	Destination Truth	Reality TV
 478	Destination Truth	Non-Fiction Series
 478	Destination Truth	Creator/Syfy
@@ -3170,6 +3336,7 @@ show_id	show_name	tag
 480	The Detour	Creator/TBS
 480	The Detour	American Series
 480	The Detour	Series of the 2010s
+480	The Detour	Administrivia/Needs Wiki Magic Love
 481	The Deuce	The '70s
 481	The Deuce	Creator/HBO
 481	The Deuce	The '80s
@@ -3193,10 +3360,12 @@ show_id	show_name	tag
 484	Dexter	UsefulNotes/Saturn Award
 484	Dexter	Horror Series
 484	Dexter	American Series
+484	Dexter	QuoteSource/Live-Action TV
 484	Dexter	Series of the 2000s
 484	Dexter	UsefulNotes/Emmy Award
 484	Dexter	JustForFun/Trope Kilowicked
 484	Dexter	Series of the 2010s
+484	Dexter	ImageSource/Live-Action TV
 485	Dharma & Greg	Creator/Method Studios
 485	Dharma & Greg	Screwball Comedy
 485	Dharma & Greg	American Series
@@ -3216,6 +3385,7 @@ show_id	show_name	tag
 487	The Dick Van Dyke Show	Creator/MeTV
 487	The Dick Van Dyke Show	American Series
 487	The Dick Van Dyke Show	UsefulNotes/Emmy Award
+487	The Dick Van Dyke Show	ImageSource/Live-Action TV
 488	A Different World	Creator/Carsey Werner
 488	A Different World	Black Sitcom
 488	A Different World	Series of the 1980s
@@ -3264,9 +3434,11 @@ show_id	show_name	tag
 495	Dinosaurs	Creator/Jim Henson's Creature Shop
 495	Dinosaurs	Puppet Shows
 495	Dinosaurs	Dom Com
+495	Dinosaurs	ImageSource/Puppet Shows
 495	Dinosaurs	Dinosaur Media
 495	Dinosaurs	Creator/ABC
 495	Dinosaurs	American Series
+495	Dinosaurs	QuoteSource/Live-Action TV
 495	Dinosaurs	Animal Title Index
 496	Dirk Gently's Holistic Detective Agency	Creator/The BBC
 496	Dirk Gently's Holistic Detective Agency	American Series
@@ -3333,6 +3505,7 @@ show_id	show_name	tag
 507	Doctor Who	International Coproduction
 507	Doctor Who	The Kiddie Ride
 507	Doctor Who	UsefulNotes/BAFTA
+507	Doctor Who	VideoSource/Live-Action TV
 507	Doctor Who	Edutainment Show
 507	Doctor Who	The Roaring '20s
 507	Doctor Who	The Epic
@@ -3366,6 +3539,7 @@ show_id	show_name	tag
 513	Dollhouse	JustForFun/Trope Kilowicked Franchises
 513	Dollhouse	American Series
 513	Dollhouse	Science Fiction Series
+513	Dollhouse	QuoteSource/Live-Action TV
 513	Dollhouse	The New '10s
 513	Dollhouse	Series of the 2000s
 513	Dollhouse	Series of the 2010s
@@ -3374,6 +3548,7 @@ show_id	show_name	tag
 513	Dollhouse	Creator/20th Century Studios
 514	Donny!	Creator/USA Network
 514	Donny!	American Series
+515	Don't Trust the B---- in Apartment 23	ImageSource/Live-Action TV
 515	Don't Trust the B---- in Apartment 23	Creator/ABC
 515	Don't Trust the B---- in Apartment 23	American Series
 515	Don't Trust the B---- in Apartment 23	Series of the 2010s
@@ -3389,6 +3564,7 @@ show_id	show_name	tag
 516	Doogie Howser, M.D.	Series of the 1990s
 516	Doogie Howser, M.D.	Creator/20th Century Studios
 516	Doogie Howser, M.D.	Dramedy
+516	Doogie Howser, M.D.	ImageSource/Live-Action TV
 516	Doogie Howser, M.D.	Creator/Disney+
 517	Double Dare	Game Show
 517	Double Dare	American Series
@@ -3414,6 +3590,7 @@ show_id	show_name	tag
 519	Dragnet	Creator/NBC
 519	Dragnet	Creator/Universal
 519	Dragnet	American Series
+519	Dragnet	QuoteSource/Live-Action TV
 519	Dragnet	Franchise Index
 519	Dragnet	The '50s
 520	Dragons: A Fantasy Made Real	International Coproduction
@@ -3430,8 +3607,10 @@ show_id	show_name	tag
 522	Drake & Josh	Kid Com
 522	Drake & Josh	Dom Com
 522	Drake & Josh	American Series
+522	Drake & Josh	QuoteSource/Live-Action TV
 522	Drake & Josh	Series of the 2000s
 522	Drake & Josh	Creator/Nickelodeon
+522	Drake & Josh	ImageSource/Live-Action TV
 523	Dramaworld	American Series
 523	Dramaworld	Series of the 2010s
 524	Dream Corp LLC	Creator/Jim Henson's Creature Shop
@@ -3455,10 +3634,12 @@ show_id	show_name	tag
 528	The Drew Carey Show	Work Com
 528	The Drew Carey Show	Creator/ABC
 528	The Drew Carey Show	American Series
+528	The Drew Carey Show	QuoteSource/Live-Action TV
 528	The Drew Carey Show	Series of the 1990s
 528	The Drew Carey Show	Creator/Warner Bros.
 528	The Drew Carey Show	WesternAnimation/Daffy Duck
 528	The Drew Carey Show	Creator/Method Studios
+528	The Drew Carey Show	ImageSource/Live-Action TV
 529	Drew Carey's Improv-A-Ganza	Creator/GSN
 529	Drew Carey's Improv-A-Ganza	Sketch Comedy
 529	Drew Carey's Improv-A-Ganza	American Series
@@ -3477,8 +3658,10 @@ show_id	show_name	tag
 533	Dr. Quinn, Medicine Woman	Western Series
 533	Dr. Quinn, Medicine Woman	Historical Series
 533	Dr. Quinn, Medicine Woman	American Series
+533	Dr. Quinn, Medicine Woman	QuoteSource/Live-Action TV
 533	Dr. Quinn, Medicine Woman	Medical Drama
 533	Dr. Quinn, Medicine Woman	Series of the 1990s
+533	Dr. Quinn, Medicine Woman	ImageSource/Live-Action TV
 533	Dr. Quinn, Medicine Woman	Creator/CBS
 534	Duck Dynasty	Creator/A&E
 534	Duck Dynasty	Reality TV
@@ -3488,6 +3671,7 @@ show_id	show_name	tag
 534	Duck Dynasty	Series of the 2010s
 535	Dude, What Would Happen?	American Series
 535	Dude, What Would Happen?	Edutainment Show
+535	Dude, What Would Happen?	Administrivia/Needs Wiki Magic Love
 536	The Dukes of Hazzard	Driving Game
 536	The Dukes of Hazzard	Action Series
 536	The Dukes of Hazzard	Series of the 1970s
@@ -3501,6 +3685,7 @@ show_id	show_name	tag
 536	The Dukes of Hazzard	American Series
 536	The Dukes of Hazzard	Creator/Warner Bros.
 536	The Dukes of Hazzard	Films of 20052009
+536	The Dukes of Hazzard	ImageSource/Live-Action TV
 537	Dusty's Trail	Western Series
 537	Dusty's Trail	Series of the 1970s
 537	Dusty's Trail	American Series
@@ -3512,11 +3697,13 @@ show_id	show_name	tag
 538	Dynasty	American Series
 538	Dynasty	Creator/Method Studios
 538	Dynasty	Creator/20th Century Studios
+538	Dynasty	ImageSource/Live-Action TV
 539	Dynasty	Prime Time Soap
 539	Dynasty	American Series
 539	Dynasty	Creator/The CW
 539	Dynasty	Series of the 2010s
 539	Dynasty	Creator/Netflix
+539	Dynasty	ImageSource/Live-Action TV
 539	Dynasty	Series of the 2020s
 540	Eagleheart	American Series
 540	Eagleheart	Creator/[adult swim]
@@ -3624,6 +3811,7 @@ show_id	show_name	tag
 559	Empire	Prime Time Soap
 559	Empire	Creator/Fox
 559	Empire	Turn of the Millennium
+559	Empire	ImageSource/Live-Action TV
 559	Empire	The '90s
 559	Empire	Creator/Disney
 559	Empire	American Series
@@ -3700,6 +3888,7 @@ show_id	show_name	tag
 569	Eureka	Science Fiction Series
 569	Eureka	Series of the 2000s
 569	Eureka	Series of the 2010s
+569	Eureka	ImageSource/Live-Action TV
 569	Eureka	Autism in Media
 570	Even Stevens	Creator/One Saturday Morning
 570	Even Stevens	Creator/American Forces Network
@@ -3708,6 +3897,7 @@ show_id	show_name	tag
 570	Even Stevens	Creator/Disney XD
 570	Even Stevens	Kid Com
 570	Even Stevens	Creator/Disney Channel
+570	Even Stevens	ImageSource/Live-Action TV
 570	Even Stevens	American Series
 570	Even Stevens	Series of the 2000s
 571	The Event	Creator/NBC
@@ -3725,6 +3915,7 @@ show_id	show_name	tag
 573	Everybody Hates Chris	Dom Com
 573	Everybody Hates Chris	The '80s
 573	Everybody Hates Chris	American Series
+573	Everybody Hates Chris	QuoteSource/Live-Action TV
 573	Everybody Hates Chris	Series of the 2000s
 573	Everybody Hates Chris	Creator/The CW
 573	Everybody Hates Chris	African-American Media
@@ -3766,6 +3957,7 @@ show_id	show_name	tag
 581	The Expanse	Government Procedural
 581	The Expanse	American Series
 581	The Expanse	Science Fiction Series
+581	The Expanse	QuoteSource/Live-Action TV
 581	The Expanse	Sci-Fi Horror
 581	The Expanse	Creator/Prime Video
 581	The Expanse	Series of the 2010s
@@ -3783,6 +3975,7 @@ show_id	show_name	tag
 583	Extreme Makeover: Home Edition	Creator/ABC
 583	Extreme Makeover: Home Edition	American Series
 583	Extreme Makeover: Home Edition	Series of the 2000s
+583	Extreme Makeover: Home Edition	ImageSource/Live-Action TV
 584	Eye Candy	Creator/Blumhouse Productions
 584	Eye Candy	American Series
 584	Eye Candy	Series of the 2010s
@@ -3807,6 +4000,7 @@ show_id	show_name	tag
 587	The Facts of Life	Creator/Antenna TV
 587	The Facts of Life	Creator/NBC
 587	The Facts of Life	American Series
+587	The Facts of Life	ImageSource/Live-Action TV
 588	Faerie Tale Theatre	Series of the 1980s
 588	Faerie Tale Theatre	Creator/Showtime
 588	Faerie Tale Theatre	Fairy Tale
@@ -3814,6 +4008,7 @@ show_id	show_name	tag
 588	Faerie Tale Theatre	American Series
 589	Fairly Legal	Creator/USA Network
 589	Fairly Legal	Law Procedural
+589	Fairly Legal	VideoSource/Live-Action TV
 589	Fairly Legal	American Series
 589	Fairly Legal	Series of the 2010s
 589	Fairly Legal	Dramedy
@@ -3874,9 +4069,11 @@ show_id	show_name	tag
 599	Family Matters	Creator/CBS
 599	Family Matters	Creator/ABC
 599	Family Matters	American Series
+599	Family Matters	QuoteSource/Live-Action TV
 599	Family Matters	Series of the 1990s
 599	Family Matters	Creator/Warner Bros.
 599	Family Matters	African-American Media
+599	Family Matters	ImageSource/Live-Action TV
 599	Family Matters	Fantastic Comedy
 600	Family Ties	Kid Com
 600	Family Ties	Series of the 1980s
@@ -3897,6 +4094,7 @@ show_id	show_name	tag
 602	Fantasy Island	Creator/Aaron Spelling
 602	Fantasy Island	Series of the 1970s
 602	Fantasy Island	Series of the 1980s
+602	Fantasy Island	VideoSource/Live-Action TV
 602	Fantasy Island	Creator/ABC
 602	Fantasy Island	American Series
 602	Fantasy Island	Works Set In World War I
@@ -3908,6 +4106,7 @@ show_id	show_name	tag
 603	Fargo	Creator/Metro-Goldwyn-Mayer
 603	Fargo	UsefulNotes/Emmy Award
 603	Fargo	Series of the 2010s
+603	Fargo	ImageSource/Live-Action TV
 603	Fargo	Series of the 2020s
 604	Far Out Space Nuts	Puppet Shows
 604	Far Out Space Nuts	Creator/Rhino Records
@@ -3921,14 +4120,17 @@ show_id	show_name	tag
 605	Farscape	Australian Series
 605	Farscape	Trope Overdosed
 605	Farscape	International Coproduction
+605	Farscape	VideoSource/Live-Action TV
 605	Farscape	UsefulNotes/Saturn Award
 605	Farscape	Creator/Syfy
 605	Farscape	JustForFun/Trope Overdosed Franchises
 605	Farscape	American Series
 605	Farscape	Science Fiction Series
+605	Farscape	QuoteSource/Live-Action TV
 605	Farscape	Series of the 1990s
 605	Farscape	Series of the 2000s
 605	Farscape	JustForFun/Trope Overdosed
+605	Farscape	ImageSource/Live-Action TV
 606	Fastlane	Crime and Punishment Series
 606	Fastlane	American Series
 606	Fastlane	Series of the 2000s
@@ -3936,6 +4138,7 @@ show_id	show_name	tag
 607	Fat Guy Stuck in Internet	American Series
 607	Fat Guy Stuck in Internet	Science Fiction Series
 607	Fat Guy Stuck in Internet	Series of the 2000s
+607	Fat Guy Stuck in Internet	Administrivia/Needs a Better Description
 607	Fat Guy Stuck in Internet	Fantastic Comedy
 607	Fat Guy Stuck in Internet	Creator/[adult swim]
 607	Fat Guy Stuck in Internet	Short-Runners
@@ -3946,6 +4149,7 @@ show_id	show_name	tag
 608	FBI	Series of the 2020s
 608	FBI	Short Titles
 608	FBI	Series of the 2010s
+608	FBI	Administrivia/Works Needing Tropes
 609	FBI: Most Wanted	Crime and Punishment Series
 609	FBI: Most Wanted	Police Procedural
 609	FBI: Most Wanted	American Series
@@ -3978,6 +4182,7 @@ show_id	show_name	tag
 614	Felicity	American Series
 614	Felicity	Series of the 1990s
 614	Felicity	Series of the 2000s
+614	Felicity	Administrivia/Pages Needing Example Context
 615	Fernwood Tonight	Creator/Sony Pictures Television
 615	Fernwood Tonight	Series of the 1970s
 615	Fernwood Tonight	First-Run Syndication
@@ -3990,6 +4195,7 @@ show_id	show_name	tag
 616	Feud	Series of the 2010s
 617	The Finder	American Series
 617	The Finder	Dramedy
+617	The Finder	ImageSource/Live-Action TV
 618	Finding Carter	Creator/MTV
 618	Finding Carter	American Series
 619	Finding Prince Charming	Creator/LOGO
@@ -4018,12 +4224,15 @@ show_id	show_name	tag
 622	Firefly	Creator/Disney
 622	Firefly	American Series
 622	Firefly	Science Fiction Series
+622	Firefly	QuoteSource/Live-Action TV
 622	Firefly	Series of the 2000s
 622	Firefly	JustForFun/Trope Overdosed
 622	Firefly	Short-Runners
 622	Firefly	Animal Title Index
 622	Firefly	Creator/Method Studios
 622	Firefly	Creator/20th Century Studios
+622	Firefly	ImageSource/Comic Books
+622	Firefly	ImageSource/Live-Action TV
 623	Firing Line	American Series
 623	Firing Line	Creator/PBS
 623	Firing Line	Political Programmes
@@ -4061,12 +4270,14 @@ show_id	show_name	tag
 630	The Flash (2014)	Creator/Zoic Studios
 630	The Flash (2014)	Creator/CTV
 630	The Flash (2014)	Turn of the Millennium
+630	The Flash (2014)	VideoSource/Live-Action TV
 630	The Flash (2014)	The Epic
 630	The Flash (2014)	UsefulNotes/Saturn Award
 630	The Flash (2014)	JustForFun/Trope Overdosed Franchises
 630	The Flash (2014)	Conspiracy Thriller
 630	The Flash (2014)	Superhero
 630	The Flash (2014)	American Series
+630	The Flash (2014)	QuoteSource/Live-Action TV
 630	The Flash (2014)	The New '10s
 630	The Flash (2014)	Series/Arrowverse
 630	The Flash (2014)	Series of the 2010s
@@ -4075,6 +4286,7 @@ show_id	show_name	tag
 630	The Flash (2014)	JustForFun/Trope Overdosed
 630	The Flash (2014)	Creator/Warner Bros.
 630	The Flash (2014)	Dramedy
+630	The Flash (2014)	ImageSource/Live-Action TV
 631	Flash Forward (1996)	Creator/Disney Channel
 631	Flash Forward (1996)	American Series
 631	Flash Forward (1996)	Series of the 1990s
@@ -4108,6 +4320,7 @@ show_id	show_name	tag
 636	Flipper	American Series
 636	Flipper	Creator/Nickelodeon
 636	Flipper	Creator/Metro-Goldwyn-Mayer
+636	Flipper	Administrivia/Needs Wiki Magic Love
 637	The Flying Nun	Creator/Mill Creek Entertainment
 637	The Flying Nun	Series of the 1960s
 637	The Flying Nun	Creator/Antenna TV
@@ -4151,6 +4364,7 @@ show_id	show_name	tag
 644	Fortune Hunter	American Series
 644	Fortune Hunter	Series of the 1990s
 644	Fortune Hunter	Spy Fiction
+644	Fortune Hunter	Administrivia/Works Needing Tropes
 644	Fortune Hunter	Short-Runners
 645	Fraggle Rock	Multi-National Shows
 645	Fraggle Rock	Creator/Kate Leth
@@ -4177,14 +4391,17 @@ show_id	show_name	tag
 646	Franklin & Bash	Dramedy
 647	Frasier	Trope Overdosed
 647	Frasier	Dom Com
+647	Frasier	VideoSource/Live-Action TV
 647	Frasier	JustForFun/Trope Overdosed Franchises
 647	Frasier	American Series
+647	Frasier	QuoteSource/Live-Action TV
 647	Frasier	Series of the 1990s
 647	Frasier	Series of the 2000s
 647	Frasier	JustForFun/Trope Overdosed
 647	Frasier	Long-Runners
 647	Frasier	UsefulNotes/Emmy Award
 647	Frasier	Creator/Paramount
+647	Frasier	ImageSource/Live-Action TV
 647	Frasier	Creator/NBC
 648	Freaks and Geeks	Creator/Judd Apatow
 648	Freaks and Geeks	Creator/Shout! Factory
@@ -4202,6 +4419,7 @@ show_id	show_name	tag
 649	Freak Show	Prime Time Cartoon
 649	Freak Show	American Series
 649	Freak Show	Western Animation of the 2000s
+649	Freak Show	Administrivia/Works Needing Tropes
 649	Freak Show	Western Animation
 649	Freak Show	Short-Runners
 650	FreakyLinks	Creator/Fox
@@ -4242,11 +4460,13 @@ show_id	show_name	tag
 654	The Fresh Prince of Bel-Air	Creator/NBC
 654	The Fresh Prince of Bel-Air	Creator/Universal
 654	The Fresh Prince of Bel-Air	American Series
+654	The Fresh Prince of Bel-Air	QuoteSource/Live-Action TV
 654	The Fresh Prince of Bel-Air	Series of the 1990s
 654	The Fresh Prince of Bel-Air	JustForFun/Trope Kilowicked
 654	The Fresh Prince of Bel-Air	Creator/Warner Bros.
 654	The Fresh Prince of Bel-Air	African-American Media
 654	The Fresh Prince of Bel-Air	Dramedy
+654	The Fresh Prince of Bel-Air	ImageSource/Live-Action TV
 655	Fresno	Series of the 1980s
 655	Fresno	American Series
 655	Fresno	Mini Series
@@ -4269,15 +4489,18 @@ show_id	show_name	tag
 658	Friends	Trope Overdosed
 658	Friends	Comedy
 658	Friends	Franchise/LEGO
+658	Friends	VideoSource/Live-Action TV
 658	Friends	Creator/NBC
 658	Friends	JustForFun/Trope Overdosed Franchises
 658	Friends	American Series
+658	Friends	QuoteSource/Live-Action TV
 658	Friends	Series of the 1990s
 658	Friends	Series of the 2000s
 658	Friends	JustForFun/Trope Overdosed
 658	Friends	Long-Runners
 658	Friends	Creator/Warner Bros.
 658	Friends	Dramedy
+658	Friends	ImageSource/Live-Action TV
 659	Friends from College	American Series
 659	Friends from College	Series of the 2010s
 659	Friends from College	Creator/Netflix
@@ -4296,11 +4519,13 @@ show_id	show_name	tag
 661	Fringe	Horror Series
 661	Fringe	American Series
 661	Fringe	Science Fiction Series
+661	Fringe	QuoteSource/Live-Action TV
 661	Fringe	Series of the 2000s
 661	Fringe	Series of the 2010s
 661	Fringe	Creator/Warner Bros.
 661	Fringe	Diesel Punk
 661	Fringe	JustForFun/Trope Kilowicked
+661	Fringe	ImageSource/Live-Action TV
 662	From Dusk Till Dawn	Latino-American Media
 662	From Dusk Till Dawn	Creator/Miramax Films
 662	From Dusk Till Dawn	Vampire Fiction
@@ -4343,6 +4568,7 @@ show_id	show_name	tag
 668	Full House	JustForFun/Trope Kilowicked Franchises
 668	Full House	Creator/ABC
 668	Full House	American Series
+668	Full House	QuoteSource/Live-Action TV
 668	Full House	Series of the 1990s
 668	Full House	Creator/Nickelodeon
 668	Full House	Creator/Warner Bros.
@@ -4388,6 +4614,7 @@ show_id	show_name	tag
 675	Galavant	The Musical
 675	Galavant	Creator/ABC
 675	Galavant	American Series
+675	Galavant	QuoteSource/Live-Action TV
 675	Galavant	Series of the 2010s
 676	Game of Thrones	Creator/Pixomondo
 676	Game of Thrones	Creator/Image Engine
@@ -4410,10 +4637,12 @@ show_id	show_name	tag
 676	Game of Thrones	Government Procedural
 676	Game of Thrones	Dragon Works
 676	Game of Thrones	American Series
+676	Game of Thrones	QuoteSource/Live-Action TV
 676	Game of Thrones	Series of the 2010s
 676	Game of Thrones	JustForFun/Trope Overdosed
 676	Game of Thrones	Names to Know in Anime
 676	Game of Thrones	Creator/Warner Bros.
+676	Game of Thrones	ImageSource/Live-Action TV
 677	Gamer's Guide to Pretty Much Everything	Creator/American Forces Network
 677	Gamer's Guide to Pretty Much Everything	Creator/Disney XD
 677	Gamer's Guide to Pretty Much Everything	Kid Com
@@ -4473,6 +4702,7 @@ show_id	show_name	tag
 686	General Hospital	Series of the 2000s
 686	General Hospital	Long-Runners
 686	General Hospital	UsefulNotes/Emmy Award
+686	General Hospital	ImageSource/Live-Action TV
 686	General Hospital	Series of the 2010s
 687	Generation Kill	Military and Warfare Television
 687	Generation Kill	Literature of the 2000s
@@ -4510,6 +4740,7 @@ show_id	show_name	tag
 692	Get Smart	Creator/MeTV
 692	Get Smart	American Series
 692	Get Smart	UsefulNotes/Emmy Award
+692	Get Smart	ImageSource/Live-Action TV
 693	Getting By	Black Sitcom
 693	Getting By	Dom Com
 693	Getting By	Creator/ABC
@@ -4587,11 +4818,14 @@ show_id	show_name	tag
 703	Gilligan's Island	Western Animation of the 1980s
 703	Gilligan's Island	American Series
 703	Gilligan's Island	Science Fiction Western Animation
+703	Gilligan's Island	QuoteSource/Live-Action TV
+703	Gilligan's Island	ImageSource/Live-Action TV
 703	Gilligan's Island	Fantastic Comedy
 704	Gilmore Girls	Creator/American Forces Network
 704	Gilmore Girls	Creator/The WB
 704	Gilmore Girls	JustForFun/Trope Kilowicked Franchises
 704	Gilmore Girls	American Series
+704	Gilmore Girls	QuoteSource/Live-Action TV
 704	Gilmore Girls	Series of the 2000s
 704	Gilmore Girls	Creator/The CW
 704	Gilmore Girls	Creator/Warner Bros.
@@ -4599,12 +4833,14 @@ show_id	show_name	tag
 704	Gilmore Girls	Creator/Netflix
 704	Gilmore Girls	Creator/Method Studios
 704	Gilmore Girls	Dramedy
+704	Gilmore Girls	ImageSource/Live-Action TV
 705	Gimme a Break!	Black Sitcom
 705	Gimme a Break!	Series of the 1980s
 705	Gimme a Break!	Creator/Antenna TV
 705	Gimme a Break!	Creator/NBC
 705	Gimme a Break!	American Series
 705	Gimme a Break!	African-American Media
+705	Gimme a Break!	ImageSource/Live-Action TV
 705	Gimme a Break!	Creator/Universal
 706	Girlboss	Turn of the Millennium
 706	Girlboss	American Series
@@ -4628,11 +4864,13 @@ show_id	show_name	tag
 709	Girl Meets World	Kid Com
 709	Girl Meets World	Creator/Disney Channel
 709	Girl Meets World	American Series
+709	Girl Meets World	Administrivia/Needs a Better Description
 709	Girl Meets World	Autism in Media
 710	Girls	Creator/Judd Apatow
 710	Girls	Prime Time Soap
 710	Girls	UsefulNotes/BAFTA
 710	Girls	American Series
+710	Girls	QuoteSource/Live-Action TV
 710	Girls	Series of the 2010s
 710	Girls	Creator/HBO
 710	Girls	Dramedy
@@ -4651,6 +4889,7 @@ show_id	show_name	tag
 712	Glee	JustForFun/Trope Overdosed Franchises
 712	Glee	American Series
 712	Glee	Sports Stories
+712	Glee	QuoteSource/Live-Action TV
 712	Glee	Series of the 2000s
 712	Glee	Music Stories
 712	Glee	JustForFun/Trope Overdosed
@@ -4660,6 +4899,7 @@ show_id	show_name	tag
 712	Glee	Creator/Method Studios
 712	Glee	Creator/20th Century Studios
 712	Glee	Dramedy
+712	Glee	ImageSource/Live-Action TV
 713	GLOW (2017)	The '80s
 713	GLOW (2017)	American Series
 713	GLOW (2017)	Sports Stories
@@ -4693,6 +4933,7 @@ show_id	show_name	tag
 718	The Golden Girls	JustForFun/Trope Kilowicked Franchises
 718	The Golden Girls	Creator/NBC
 718	The Golden Girls	American Series
+718	The Golden Girls	QuoteSource/Live-Action TV
 718	The Golden Girls	Series of the 1990s
 718	The Golden Girls	UsefulNotes/Emmy Award
 718	The Golden Girls	JustForFun/Trope Kilowicked
@@ -4756,13 +4997,16 @@ show_id	show_name	tag
 729	Good Luck Charlie	Dom Com
 729	Good Luck Charlie	Creator/Disney Channel
 729	Good Luck Charlie	American Series
+729	Good Luck Charlie	QuoteSource/Live-Action TV
 729	Good Luck Charlie	Series of the 2010s
 730	The Good Place	UsefulNotes/Nebula Award
 730	The Good Place	UsefulNotes/Hugo Award
 730	The Good Place	Fantastic Comedy
+730	The Good Place	VideoSource/Live-Action TV
 730	The Good Place	Creator/NBC
 730	The Good Place	Creator/Universal
 730	The Good Place	American Series
+730	The Good Place	QuoteSource/Live-Action TV
 730	The Good Place	Series of the 2010s
 730	The Good Place	Series of the 2020s
 730	The Good Place	Creator/Netflix
@@ -4810,8 +5054,10 @@ show_id	show_name	tag
 735	Gotham	Conspiracy Thriller
 735	Gotham	Superhero
 735	Gotham	American Series
+735	Gotham	QuoteSource/Live-Action TV
 735	Gotham	Creator/Warner Bros.
 735	Gotham	Series of the 2010s
+735	Gotham	ImageSource/Live-Action TV
 736	Graceland	Creator/USA Network
 736	Graceland	Cop Show
 736	Graceland	American Series
@@ -4823,11 +5069,13 @@ show_id	show_name	tag
 738	Grace Under Fire	Creator/ABC
 738	Grace Under Fire	American Series
 738	Grace Under Fire	Series of the 1990s
+738	Grace Under Fire	Administrivia/Needs Wiki Magic Love
 739	Grand Hotel	Creator/ABC
 739	Grand Hotel	American Series
 740	Granite Flats	Creator/BYUtv
 740	Granite Flats	American Series
 740	Granite Flats	Series of the 2010s
+740	Granite Flats	Administrivia/Needs Wiki Magic Love
 741	Grant	Military and Warfare Television
 741	Grant	Documentary
 741	Grant	Creator/The History Channel
@@ -4835,12 +5083,14 @@ show_id	show_name	tag
 741	Grant	Mini Series
 741	Grant	Series of the 2020s
 742	Gravity	American Series
+742	Gravity	Administrivia/Needs Wiki Magic Love
 743	The Greatest American Hero	Creator/Mill Creek Entertainment
 743	The Greatest American Hero	Series of the 1980s
 743	The Greatest American Hero	Creator/ABC
 743	The Greatest American Hero	Superhero
 743	The Greatest American Hero	American Series
 743	The Greatest American Hero	Dramedy
+743	The Greatest American Hero	ImageSource/Live-Action TV
 744	The Greatest Event in Television History	American Series
 744	The Greatest Event in Television History	Series of the 2010s
 744	The Greatest Event in Television History	Creator/[adult swim]
@@ -4851,6 +5101,7 @@ show_id	show_name	tag
 746	Great Minds with Dan Harmon	Creator/The History Channel
 746	Great Minds with Dan Harmon	American Series
 746	Great Minds with Dan Harmon	Series of the 2010s
+746	Great Minds with Dan Harmon	Administrivia/Works Needing Tropes
 747	Great News	Work Com
 747	Great News	American Series
 747	Great News	Creator/NBC
@@ -4882,6 +5133,7 @@ show_id	show_name	tag
 752	Greenleaf	Series of the 2010s
 752	Greenleaf	Creator/Netflix
 752	Greenleaf	Series of the 2020s
+752	Greenleaf	Administrivia/Needs Wiki Magic Love
 753	The Greg Gutfeld Show	Talk Show
 753	The Greg Gutfeld Show	American Series
 753	The Greg Gutfeld Show	Series of the 2010s
@@ -4921,6 +5173,7 @@ show_id	show_name	tag
 757	Grey's Anatomy	JustForFun/Trope Kilowicked Franchises
 757	Grey's Anatomy	Creator/ABC
 757	Grey's Anatomy	American Series
+757	Grey's Anatomy	QuoteSource/Live-Action TV
 757	Grey's Anatomy	Medical Drama
 757	Grey's Anatomy	Series of the 2000s
 757	Grey's Anatomy	Series of the 2020s
@@ -4928,6 +5181,7 @@ show_id	show_name	tag
 757	Grey's Anatomy	UsefulNotes/Emmy Award
 757	Grey's Anatomy	JustForFun/Trope Kilowicked
 757	Grey's Anatomy	Series of the 2010s
+757	Grey's Anatomy	ImageSource/Live-Action TV
 758	Growing Pains	Creator/American Forces Network
 758	Growing Pains	Kid Com
 758	Growing Pains	Series of the 1980s
@@ -4947,6 +5201,7 @@ show_id	show_name	tag
 759	grownish	Series of the 2020s
 760	The Guardian	American Series
 760	The Guardian	Series of the 2000s
+760	The Guardian	Administrivia/Works Needing Tropes
 760	The Guardian	Creator/CBS
 761	Guerrilla	Creator/Sky
 761	Guerrilla	Creator/Showtime
@@ -5005,6 +5260,7 @@ show_id	show_name	tag
 769	Half & Half	American Series
 769	Half & Half	Series of the 2000s
 769	Half & Half	African-American Media
+769	Half & Half	Administrivia/Works Needing Tropes
 770	Hallmark Hall of Fame	Series of the 1950s
 770	Hallmark Hall of Fame	American Series
 770	Hallmark Hall of Fame	Long-Runners
@@ -5018,11 +5274,13 @@ show_id	show_name	tag
 772	The Handmaid's Tale	Series of the 2010s
 772	The Handmaid's Tale	Series of the 2020s
 772	The Handmaid's Tale	Creator/Metro-Goldwyn-Mayer
+772	The Handmaid's Tale	ImageSource/Live-Action TV
 772	The Handmaid's Tale	Creator/Hulu
 772	The Handmaid's Tale	UsefulNotes/Emmy Award
 773	Hangin' with Mr. Cooper	Black Sitcom
 773	Hangin' with Mr. Cooper	Creator/ABC
 773	Hangin' with Mr. Cooper	American Series
+773	Hangin' with Mr. Cooper	QuoteSource/Live-Action TV
 773	Hangin' with Mr. Cooper	Series of the 1990s
 773	Hangin' with Mr. Cooper	African-American Media
 774	Hang Time	Comedy Series
@@ -5051,6 +5309,7 @@ show_id	show_name	tag
 776	Hannah Montana	Series of the 2000s
 776	Hannah Montana	Music Stories
 776	Hannah Montana	JustForFun/Trope Kilowicked
+776	Hannah Montana	ImageSource/Live-Action TV
 776	Hannah Montana	UsefulNotes/PlayStation 2
 777	Hannibal	Franchise/Hannibal Lecter
 777	Hannibal	UsefulNotes/ToonBoom
@@ -5061,7 +5320,9 @@ show_id	show_name	tag
 777	Hannibal	UsefulNotes/Saturn Award
 777	Hannibal	Horror Series
 777	Hannibal	American Series
+777	Hannibal	QuoteSource/Live-Action TV
 777	Hannibal	Series of the 2010s
+777	Hannibal	ImageSource/Live-Action TV
 778	Hap and Leonard	Criminal Procedural
 778	Hap and Leonard	The '80s
 778	Hap and Leonard	American Series
@@ -5087,13 +5348,16 @@ show_id	show_name	tag
 781	Happy Days	Creator/MeTV
 781	Happy Days	Creator/ABC
 781	Happy Days	American Series
+781	Happy Days	QuoteSource/Live-Action TV
 781	Happy Days	The '50s
 781	Happy Days	JustForFun/Trope Kilowicked
 781	Happy Days	Creator/Paramount
+781	Happy Days	ImageSource/Live-Action TV
 782	Happy Endings	Creator/Mill Creek Entertainment
 782	Happy Endings	Creator/Sony Pictures Television
 782	Happy Endings	Creator/ABC
 782	Happy Endings	American Series
+782	Happy Endings	QuoteSource/Live-Action TV
 782	Happy Endings	Series of the 2010s
 782	Happy Endings	Queer Media
 783	Happy Town	Creator/ABC
@@ -5111,6 +5375,7 @@ show_id	show_name	tag
 785	The Hardy Boys/Nancy Drew Mysteries	Creator/ABC
 785	The Hardy Boys/Nancy Drew Mysteries	American Series
 785	The Hardy Boys/Nancy Drew Mysteries	Creator/Universal
+786	Harper's Island	VideoSource/Live-Action TV
 786	Harper's Island	Horror Series
 786	Harper's Island	American Series
 786	Harper's Island	Series of the 2000s
@@ -5122,7 +5387,9 @@ show_id	show_name	tag
 788	Harsh Realm	American Series
 788	Harsh Realm	Science Fiction Series
 788	Harsh Realm	Series of the 1990s
+788	Harsh Realm	Administrivia/Works Needing Tropes
 788	Harsh Realm	Short-Runners
+789	Hart of Dixie	VideoSource/Live-Action TV
 789	Hart of Dixie	American Series
 789	Hart of Dixie	Medical Drama
 789	Hart of Dixie	Creator/The CW
@@ -5156,11 +5423,13 @@ show_id	show_name	tag
 794	Haven	Canadian Series
 794	Haven	Series of the 2010s
 794	Haven	Urban Fantasy
+794	Haven	ImageSource/Live-Action TV
 795	Have Gun  Will Travel	Radio Drama
 795	Have Gun  Will Travel	Series of the 1950s
 795	Have Gun  Will Travel	Western Series
 795	Have Gun  Will Travel	Creator/MeTV
 795	Have Gun  Will Travel	American Series
+795	Have Gun  Will Travel	QuoteSource/Live-Action TV
 795	Have Gun  Will Travel	Creator/CBS
 796	Hawaii Five-O	Cop Show
 796	Hawaii Five-O	Crime and Punishment Series
@@ -5225,6 +5494,7 @@ show_id	show_name	tag
 807	Hell's Kitchen	Series of the 2000s
 807	Hell's Kitchen	Long-Runners
 807	Hell's Kitchen	Series of the 2010s
+807	Hell's Kitchen	ImageSource/Live-Action TV
 807	Hell's Kitchen	Series of the 2020s
 808	Hercules: The Legendary Journeys	Creator/Renaissance Pictures
 808	Hercules: The Legendary Journeys	Creator/Visual Concept Engineering
@@ -5251,6 +5521,7 @@ show_id	show_name	tag
 811	Here's Boomer	Heroic Pet Story
 811	Here's Boomer	Series of the 1980s
 811	Here's Boomer	American Series
+811	Here's Boomer	Administrivia/Works Needing Tropes
 811	Here's Boomer	Creator/NBC
 812	Heroes	Recap/RiffTrax
 812	Heroes	Trope Overdosed
@@ -5262,9 +5533,11 @@ show_id	show_name	tag
 812	Heroes	Speculative Fiction Series
 812	Heroes	Superhero
 812	Heroes	American Series
+812	Heroes	QuoteSource/Live-Action TV
 812	Heroes	Series of the 2000s
 812	Heroes	Series of the 2010s
 812	Heroes	JustForFun/Trope Overdosed
+812	Heroes	ImageSource/Live-Action TV
 813	Heroes Reborn (2015)	Speculative Fiction Series
 813	Heroes Reborn (2015)	American Series
 813	Heroes Reborn (2015)	Mini Series
@@ -5279,6 +5552,7 @@ show_id	show_name	tag
 815	The Hills	Creator/MTV
 815	The Hills	American Series
 815	The Hills	Series of the 2000s
+815	The Hills	ImageSource/Live-Action TV
 816	Hill Street Blues	Creator/Shout! Factory
 816	Hill Street Blues	Cop Show
 816	Hill Street Blues	Crime and Punishment Series
@@ -5332,7 +5606,9 @@ show_id	show_name	tag
 824	Home Improvement	Dom Com
 824	Home Improvement	Creator/ABC
 824	Home Improvement	American Series
+824	Home Improvement	QuoteSource/Live-Action TV
 824	Home Improvement	Series of the 1990s
+824	Home Improvement	ImageSource/Live-Action TV
 825	Homeland	Crime and Punishment Series
 825	Homeland	Creator/Touchstone Television
 825	Homeland	Creator/Zoic Studios
@@ -5357,6 +5633,7 @@ show_id	show_name	tag
 827	Homicide: Life on the Street	Creator/NBC
 827	Homicide: Life on the Street	Creator/Universal
 827	Homicide: Life on the Street	American Series
+827	Homicide: Life on the Street	QuoteSource/Live-Action TV
 827	Homicide: Life on the Street	Series of the 1990s
 828	Honey, I Shrunk the Kids	Creator/Disney Channel
 828	Honey, I Shrunk the Kids	Film/Honey, I Shrunk the Kids
@@ -5398,17 +5675,22 @@ show_id	show_name	tag
 836	Hot Potato	Short-Runners
 836	Hot Potato	Creator/NBC
 837	House	Trope Overdosed
+837	House	VideoSource/Live-Action TV
 837	House	JustForFun/Trope Overdosed Franchises
 837	House	American Series
+837	House	QuoteSource/Live-Action TV
 837	House	Medical Drama
 837	House	Series of the 2000s
 837	House	JustForFun/Trope Overdosed
 837	House	UsefulNotes/Emmy Award
 837	House	Series of the 2010s
+837	House	ImageSource/Live-Action TV
 837	House	Creator/Universal
 838	House of Anubis	Creator/ABC Me
 838	House of Anubis	Creator/TeenNick
+838	House of Anubis	VideoSource/Live-Action TV
 838	House of Anubis	American Series
+838	House of Anubis	QuoteSource/Live-Action TV
 838	House of Anubis	Creator/Nickelodeon
 839	House of Cards (US)	Creator/Joel Schumacher
 839	House of Cards (US)	Creator/American Forces Network
@@ -5418,6 +5700,7 @@ show_id	show_name	tag
 839	House of Cards (US)	UsefulNotes/Emmy Award
 839	House of Cards (US)	Series of the 2010s
 839	House of Cards (US)	Creator/Netflix
+839	House of Cards (US)	ImageSource/Live-Action TV
 840	Hou$e of Lie$	Creator/Showtime
 840	Hou$e of Lie$	Work Com
 840	Hou$e of Lie$	American Series
@@ -5438,12 +5721,14 @@ show_id	show_name	tag
 843	How I Met Your Mother	The New '20s
 843	How I Met Your Mother	Notable Quotables
 843	How I Met Your Mother	Turn of the Millennium
+843	How I Met Your Mother	VideoSource/Live-Action TV
 843	How I Met Your Mother	Creator/CBS
 843	How I Met Your Mother	The '90s
 843	How I Met Your Mother	JustForFun/Trope Overdosed Franchises
 843	How I Met Your Mother	The '80s
 843	How I Met Your Mother	Creator/Disney
 843	How I Met Your Mother	American Series
+843	How I Met Your Mother	QuoteSource/Live-Action TV
 843	How I Met Your Mother	The New '10s
 843	How I Met Your Mother	Series of the 2000s
 843	How I Met Your Mother	JustForFun/Trope Overdosed
@@ -5451,6 +5736,7 @@ show_id	show_name	tag
 843	How I Met Your Mother	UsefulNotes/Emmy Award
 843	How I Met Your Mother	Series of the 2010s
 843	How I Met Your Mother	Dramedy
+843	How I Met Your Mother	ImageSource/Live-Action TV
 844	How to Get Away with Murder	Creator/Shonda Rhimes
 844	How to Get Away with Murder	Creator/American Forces Network
 844	How to Get Away with Murder	Law Procedural
@@ -5472,6 +5758,7 @@ show_id	show_name	tag
 847	H.R. Pufnstuf	Series of the 1960s
 847	H.R. Pufnstuf	Puppet Shows
 847	H.R. Pufnstuf	Series of the 1970s
+847	H.R. Pufnstuf	ImageSource/Live-Action TV
 847	H.R. Pufnstuf	Witch Works
 847	H.R. Pufnstuf	American Series
 848	Huge	Creator/Shout! Factory
@@ -5485,6 +5772,7 @@ show_id	show_name	tag
 849	The Hughleys	Series of the 1990s
 849	The Hughleys	Series of the 2000s
 849	The Hughleys	African-American Media
+849	The Hughleys	Administrivia/Works Needing Tropes
 850	Human Giant	Sketch Comedy
 850	Human Giant	American Series
 851	Human Target	Creator/DC Universe
@@ -5507,6 +5795,7 @@ show_id	show_name	tag
 854	Hunter	Series of the 1980s
 854	Hunter	Creator/NBC
 854	Hunter	American Series
+854	Hunter	ImageSource/Live-Action TV
 855	I Didn't Do It	Creator/Disney Channel
 855	I Didn't Do It	American Series
 855	I Didn't Do It	Series of the 2010s
@@ -5520,6 +5809,7 @@ show_id	show_name	tag
 856	I Dream of Jeannie	American Series
 856	I Dream of Jeannie	Creator/Columbia Pictures
 856	I Dream of Jeannie	Fantastic Comedy
+856	I Dream of Jeannie	ImageSource/Live-Action TV
 857	I Love Lucy	Creator/Desilu Studios
 857	I Love Lucy	Series of the 1950s
 857	I Love Lucy	Creator/Columbia Records
@@ -5528,8 +5818,10 @@ show_id	show_name	tag
 857	I Love Lucy	Creator/CBS
 857	I Love Lucy	Creator/MeTV
 857	I Love Lucy	American Series
+857	I Love Lucy	QuoteSource/Live-Action TV
 857	I Love Lucy	Latino-American Media
 857	I Love Lucy	UsefulNotes/Emmy Award
+857	I Love Lucy	ImageSource/Live-Action TV
 858	I Spy	Creator/Desilu Studios
 858	I Spy	Crime and Punishment Series
 858	I Spy	Series of the 1960s
@@ -5546,11 +5838,14 @@ show_id	show_name	tag
 860	iCarly	Creator/TeenNick
 860	iCarly	Kid Com
 860	iCarly	JustForFun/Trope Kilowicked Franchises
+860	iCarly	VideoSource/Live-Action TV
 860	iCarly	American Series
+860	iCarly	QuoteSource/Live-Action TV
 860	iCarly	Series of the 2000s
 860	iCarly	Series of the 2010s
 860	iCarly	Creator/Nickelodeon
 860	iCarly	JustForFun/Trope Kilowicked
+860	iCarly	ImageSource/Live-Action TV
 861	Ice Road Truckers	Docu Soap
 861	Ice Road Truckers	Creator/The History Channel
 861	Ice Road Truckers	Reality TV
@@ -5567,6 +5862,7 @@ show_id	show_name	tag
 863	The Immortal	Science Fiction Series
 864	I'm Dying Up Here	American Series
 864	I'm Dying Up Here	Series of the 2010s
+864	I'm Dying Up Here	Administrivia/Works Needing Tropes
 865	I'm in the Band	Creator/Disney XD
 865	I'm in the Band	Comedy Series
 865	I'm in the Band	Creator/Disney Channel
@@ -5576,6 +5872,7 @@ show_id	show_name	tag
 866	Imposters	Series of the 2010s
 867	I'm Telling!	Game Show
 867	I'm Telling!	American Series
+867	I'm Telling!	Administrivia/Pages Needing Images
 868	Important Things with Demetri Martin	Sketch Comedy
 868	Important Things with Demetri Martin	Creator/Comedy Central
 868	Important Things with Demetri Martin	American Series
@@ -5589,6 +5886,7 @@ show_id	show_name	tag
 871	In Living Color!	Creator/Klasky-Csupo
 871	In Living Color!	Sketch Comedy
 871	In Living Color!	Creator/Fox
+871	In Living Color!	VideoSource/Live-Action TV
 871	In Living Color!	Creator/Disney
 871	In Living Color!	American Series
 871	In Living Color!	Series of the 1990s
@@ -5605,6 +5903,7 @@ show_id	show_name	tag
 873	The Incredible Hulk (1977)	Series/The 100 Greatest Scary Moments
 873	The Incredible Hulk (1977)	Speculative Fiction Series
 873	The Incredible Hulk (1977)	American Series
+873	The Incredible Hulk (1977)	QuoteSource/Live-Action TV
 873	The Incredible Hulk (1977)	Creator/Universal
 873	The Incredible Hulk (1977)	Superhero
 873	The Incredible Hulk (1977)	Creator/CBS
@@ -5613,6 +5912,7 @@ show_id	show_name	tag
 874	In Plain Sight	Creator/USA Network
 874	In Plain Sight	Crime and Punishment Series
 874	In Plain Sight	American Series
+874	In Plain Sight	QuoteSource/Live-Action TV
 874	In Plain Sight	Series of the 2000s
 874	In Plain Sight	Series of the 2010s
 875	Insane Clown Posse Theater	MST
@@ -5666,6 +5966,7 @@ show_id	show_name	tag
 885	In the House	American Series
 885	In the House	Series of the 1990s
 885	In the House	African-American Media
+885	In the House	Administrivia/Works Needing Tropes
 886	Into the Badlands	Action Series
 886	Into the Badlands	Fighting Series
 886	Into the Badlands	Asian-American Media
@@ -5711,8 +6012,10 @@ show_id	show_name	tag
 893	Iron Chef America	Creator/Food Network
 893	Iron Chef America	Non-Fiction Series
 893	Iron Chef America	American Series
+893	Iron Chef America	QuoteSource/Live-Action TV
 893	Iron Chef America	Long-Runners
 893	Iron Chef America	Cooking Show
+893	Iron Chef America	ImageSource/Live-Action TV
 894	Ironside (1967)	Creator/Shout! Factory
 894	Ironside (1967)	Crime and Punishment Series
 894	Ironside (1967)	Series of the 1960s
@@ -5726,12 +6029,14 @@ show_id	show_name	tag
 895	Ironside (2013)	Creator/Universal
 895	Ironside (2013)	Creator/NBC
 896	It Could Happen Tomorrow	American Series
+896	It Could Happen Tomorrow	ImageSource/Live-Action TV
 897	It Takes a Thief (1968)	Series of the 1960s
 897	It Takes a Thief (1968)	Creator/Antenna TV
 897	It Takes a Thief (1968)	Criminal Procedural
 897	It Takes a Thief (1968)	Action Adventure Series
 897	It Takes a Thief (1968)	Creator/ABC
 897	It Takes a Thief (1968)	American Series
+897	It Takes a Thief (1968)	Administrivia/Needs a Better Description
 897	It Takes a Thief (1968)	Spy Fiction
 897	It Takes a Thief (1968)	Creator/Universal
 898	It's About Time	Series of the 1960s
@@ -5750,12 +6055,15 @@ show_id	show_name	tag
 900	It's Always Sunny in Philadelphia	Comedy Series
 900	It's Always Sunny in Philadelphia	Creator/FX Networks
 900	It's Always Sunny in Philadelphia	JustForFun/Trope Kilowicked Franchises
+900	It's Always Sunny in Philadelphia	VideoSource/Live-Action TV
 900	It's Always Sunny in Philadelphia	Creator/Disney
 900	It's Always Sunny in Philadelphia	American Series
+900	It's Always Sunny in Philadelphia	QuoteSource/Live-Action TV
 900	It's Always Sunny in Philadelphia	Series of the 2000s
 900	It's Always Sunny in Philadelphia	Series of the 2020s
 900	It's Always Sunny in Philadelphia	Long-Runners
 900	It's Always Sunny in Philadelphia	JustForFun/Trope Kilowicked
+900	It's Always Sunny in Philadelphia	ImageSource/Live-Action TV
 900	It's Always Sunny in Philadelphia	Series of the 2010s
 901	It's Garry Shandling's Show	Creator/Shout! Factory
 901	It's Garry Shandling's Show	Series of the 1980s
@@ -5774,6 +6082,7 @@ show_id	show_name	tag
 903	iZombie	Zombie Stories
 903	iZombie	Series of the 2010s
 903	iZombie	Urban Fantasy
+903	iZombie	ImageSource/Live-Action TV
 904	Jack & Bobby	Creator/Greg Berlanti
 904	Jack & Bobby	Creator/The WB
 904	Jack & Bobby	American Series
@@ -5874,8 +6183,10 @@ show_id	show_name	tag
 916	Jeopardy!	First-Run Syndication
 916	Jeopardy!	Found Footage Films
 916	Jeopardy!	American Series
+916	Jeopardy!	QuoteSource/Live-Action TV
 916	Jeopardy!	Long-Runners
 916	Jeopardy!	UsefulNotes/Emmy Award
+916	Jeopardy!	ImageSource/Live-Action TV
 917	Jeremiah	Creator/Showtime
 917	Jeremiah	American Series
 917	Jeremiah	Science Fiction Series
@@ -5938,6 +6249,7 @@ show_id	show_name	tag
 926	Jimmy Kimmel Live!	Creator/American Forces Network
 926	Jimmy Kimmel Live!	Creator/J. J. Abrams
 926	Jimmy Kimmel Live!	Talk Show
+926	Jimmy Kimmel Live!	VideoSource/Live-Action TV
 926	Jimmy Kimmel Live!	Creator/ABC
 926	Jimmy Kimmel Live!	American Series
 926	Jimmy Kimmel Live!	Series of the 2000s
@@ -5948,6 +6260,7 @@ show_id	show_name	tag
 927	Joan of Arcadia	Christian Fiction
 927	Joan of Arcadia	Teen Drama
 927	Joan of Arcadia	American Series
+927	Joan of Arcadia	QuoteSource/Live-Action TV
 927	Joan of Arcadia	Series of the 2000s
 927	Joan of Arcadia	Short-Runners
 928	The Joe Schmo Show	Creator/Spike TV
@@ -5964,6 +6277,7 @@ show_id	show_name	tag
 931	The Joey Bishop Show	Creator/Antenna TV
 931	The Joey Bishop Show	Comedy Series
 931	The Joey Bishop Show	American Series
+931	The Joey Bishop Show	Administrivia/Works Needing Tropes
 931	The Joey Bishop Show	Creator/NBC
 931	The Joey Bishop Show	Creator/CBS
 932	John Adams	Creator/Hybride Technologies
@@ -6009,10 +6323,12 @@ show_id	show_name	tag
 939	Journeyman	Series of the 2000s
 939	Journeyman	Creator/NBC
 940	The Joy of Painting	Series of the 1980s
+940	The Joy of Painting	VideoSource/Live-Action TV
 940	The Joy of Painting	Website/Twitch
 940	The Joy of Painting	American Series
 940	The Joy of Painting	Creator/PBS
 940	The Joy of Painting	Series of the 1990s
+940	The Joy of Painting	ImageSource/Live-Action TV
 941	The Judge	First-Run Syndication
 941	The Judge	Creator/Disney
 941	The Judge	American Series
@@ -6027,10 +6343,12 @@ show_id	show_name	tag
 943	Judge Mathis	American Series
 944	Judgement Day	Creator/G4TV
 944	Judgement Day	American Series
+944	Judgement Day	Administrivia/Works Needing Tropes
 945	Judging Amy	Law Procedural
 945	Judging Amy	American Series
 945	Judging Amy	Series of the 1990s
 945	Judging Amy	Series of the 2000s
+945	Judging Amy	Administrivia/Needs Wiki Magic Love
 945	Judging Amy	Creator/CBS
 946	Julia	Series of the 1960s
 946	Julia	Black Sitcom
@@ -6055,6 +6373,7 @@ show_id	show_name	tag
 948	Jungle Jim	Creator/Columbia Pictures
 948	Jungle Jim	Films of the 1930s
 948	Jungle Jim	Radio
+948	Jungle Jim	Administrivia/Needs Wiki Magic Love
 949	Jurassic Fight Club	Creator/The History Channel
 949	Jurassic Fight Club	Dinosaur Media
 949	Jurassic Fight Club	American Series
@@ -6062,6 +6381,7 @@ show_id	show_name	tag
 950	Just For Kicks	American Series
 950	Just For Kicks	Series of the 2000s
 950	Just For Kicks	Creator/Nickelodeon
+950	Just For Kicks	Administrivia/Works Needing Tropes
 950	Just For Kicks	Sports Stories
 951	Just Jordan	Creator/TeenNick
 951	Just Jordan	American Series
@@ -6073,15 +6393,18 @@ show_id	show_name	tag
 952	Just the Ten of Us	Creator/ABC
 952	Just the Ten of Us	American Series
 952	Just the Ten of Us	Series of the 1990s
+952	Just the Ten of Us	ImageSource/Live-Action TV
 953	Justice	Creator/Fox
 953	Justice	Law Procedural
 953	Justice	American Series
 953	Justice	Series of the 2000s
+953	Justice	Administrivia/Needs a Better Description
 954	Just Shoot Me!	Creator/Shout! Factory
 954	Just Shoot Me!	Creator/American Forces Network
 954	Just Shoot Me!	Creator/Sony Pictures Television
 954	Just Shoot Me!	Work Com
 954	Just Shoot Me!	American Series
+954	Just Shoot Me!	QuoteSource/Live-Action TV
 954	Just Shoot Me!	Series of the 1990s
 954	Just Shoot Me!	Creator/NBC
 955	Justified	Creator/Michael Harding
@@ -6110,13 +6433,16 @@ show_id	show_name	tag
 959	Kenan & Kel	Series of the 2000s
 959	Kenan & Kel	Creator/Nickelodeon
 959	Kenan & Kel	African-American Media
+959	Kenan & Kel	ImageSource/Live-Action TV
 960	The Kennedys	American Series
 960	The Kennedys	Mini Series
 960	The Kennedys	Series of the 2010s
 960	The Kennedys	Canadian Series
+960	The Kennedys	Administrivia/Pages Needing Images
 961	The Kennedys After Camelot	American Series
 961	The Kennedys After Camelot	Mini Series
 961	The Kennedys After Camelot	Series of the 2010s
+961	The Kennedys After Camelot	Administrivia/Pages Needing Images
 962	Kevin Can Wait	Dom Com
 962	Kevin Can Wait	Creator/CBS
 962	Kevin Can Wait	American Series
@@ -6129,8 +6455,11 @@ show_id	show_name	tag
 964	Key & Peele	UsefulNotes/Emmy Award
 964	Key & Peele	Sketch Comedy
 964	Key & Peele	Creator/Comedy Central
+964	Key & Peele	VideoSource/Live-Action TV
 964	Key & Peele	American Series
 964	Key & Peele	African-American Media
+964	Key & Peele	Administrivia/Needs Wiki Magic Love
+964	Key & Peele	ImageSource/Live-Action TV
 965	Key West	Speculative Fiction Series
 965	Key West	American Series
 965	Key West	Short-Runners
@@ -6148,6 +6477,7 @@ show_id	show_name	tag
 969	Kid Nation	Reality TV
 969	Kid Nation	American Series
 969	Kid Nation	Series of the 2000s
+969	Kid Nation	Administrivia/Pages Needing an Entry Pimp
 970	The Kids Are Alright (2018)	The '70s
 970	The Kids Are Alright (2018)	Dom Com
 970	The Kids Are Alright (2018)	Creator/ABC
@@ -6161,6 +6491,7 @@ show_id	show_name	tag
 971	Kids Incorporated	Series of the 1990s
 972	Kidsongs	First-Run Syndication
 972	Kidsongs	American Series
+972	Kidsongs	Administrivia/Needs a Better Description
 972	Kidsongs	Creator/PBS Kids
 972	Kidsongs	Edutainment Show
 973	Killer Women	American Series
@@ -6172,6 +6503,7 @@ show_id	show_name	tag
 974	The Killing	Creator/AMC
 974	The Killing	Series of the 2010s
 974	The Killing	Creator/Netflix
+974	The Killing	ImageSource/Live-Action TV
 975	Killing Eve	UsefulNotes/BAFTA
 975	Killing Eve	Creator/The BBC
 975	Killing Eve	American Series
@@ -6193,6 +6525,7 @@ show_id	show_name	tag
 978	The King of Queens	Dom Com
 978	The King of Queens	Creator/CBS
 978	The King of Queens	American Series
+978	The King of Queens	QuoteSource/Live-Action TV
 978	The King of Queens	Creator/Columbia Pictures
 979	Kings	Government Procedural
 979	Kings	Creator/Universal
@@ -6239,6 +6572,7 @@ show_id	show_name	tag
 985	Knight Rider	Website/Twitch
 985	Knight Rider	Creator/NBC
 985	Knight Rider	American Series
+985	Knight Rider	ImageSource/Live-Action TV
 985	Knight Rider	Creator/Universal
 986	Knight Squad	Series/Nick Verse
 986	Knight Squad	Creator/TeenNick
@@ -6262,6 +6596,7 @@ show_id	show_name	tag
 988	Kojak	Creator/Universal
 988	Kojak	American Series
 988	Kojak	Series of the 2000s
+988	Kojak	ImageSource/Live-Action TV
 989	Kolchak: The Night Stalker	Series of the 1970s
 989	Kolchak: The Night Stalker	Creator/MeTV
 989	Kolchak: The Night Stalker	Creator/ABC
@@ -6303,8 +6638,10 @@ show_id	show_name	tag
 995	Kung Fu: The Legend Continues	American Series
 996	Kyle XY	Supernatural Soap Opera
 996	Kyle XY	Creator/Freeform
+996	Kyle XY	VideoSource/Live-Action TV
 996	Kyle XY	American Series
 996	Kyle XY	Series of the 2000s
+996	Kyle XY	ImageSource/Live-Action TV
 997	L.A.'s Finest	Creator/Sony Pictures Television
 997	L.A.'s Finest	Creator/Fox
 997	L.A.'s Finest	American Series
@@ -6402,8 +6739,10 @@ show_id	show_name	tag
 1013	Last Week Tonight with John Oliver	Political Programmes
 1013	Last Week Tonight with John Oliver	Non-Fiction Series
 1013	Last Week Tonight with John Oliver	American Series
+1013	Last Week Tonight with John Oliver	QuoteSource/Live-Action TV
 1013	Last Week Tonight with John Oliver	Series of the 2020s
 1013	Last Week Tonight with John Oliver	Creator/HBO
+1013	Last Week Tonight with John Oliver	ImageSource/Live-Action TV
 1013	Last Week Tonight with John Oliver	Series of the 2010s
 1014	The Late Late Show	Talk Show
 1014	The Late Late Show	Non-Fiction Series
@@ -6460,6 +6799,7 @@ show_id	show_name	tag
 1022	Laverne & Shirley	Creator/Wang Film Productions
 1022	Laverne & Shirley	American Series
 1022	Laverne & Shirley	Creator/Paramount
+1022	Laverne & Shirley	ImageSource/Live-Action TV
 1023	Law & Order	Franchise/Law & Order
 1023	Law & Order	Crime and Punishment Series
 1023	Law & Order	Police Procedural
@@ -6468,6 +6808,7 @@ show_id	show_name	tag
 1023	Law & Order	Law Procedural
 1023	Law & Order	Creator/NBC
 1023	Law & Order	American Series
+1023	Law & Order	QuoteSource/Live-Action TV
 1023	Law & Order	Series of the 1990s
 1023	Law & Order	Series of the 2000s
 1023	Law & Order	Long-Runners
@@ -6475,6 +6816,7 @@ show_id	show_name	tag
 1023	Law & Order	UsefulNotes/Emmy Award
 1023	Law & Order	JustForFun/Trope Kilowicked
 1023	Law & Order	Series of the 2010s
+1023	Law & Order	ImageSource/Live-Action TV
 1023	Law & Order	Creator/Universal
 1024	Law & Order: Criminal Intent	Creator/USA Network
 1024	Law & Order: Criminal Intent	Franchise/Law & Order
@@ -6522,16 +6864,20 @@ show_id	show_name	tag
 1028	Law & Order: Special Victims Unit	Creator/NBC
 1028	Law & Order: Special Victims Unit	JustForFun/Trope Overdosed Franchises
 1028	Law & Order: Special Victims Unit	American Series
+1028	Law & Order: Special Victims Unit	QuoteSource/Live-Action TV
 1028	Law & Order: Special Victims Unit	Series of the 1990s
 1028	Law & Order: Special Victims Unit	Series of the 2000s
 1028	Law & Order: Special Victims Unit	Long-Runners
 1028	Law & Order: Special Victims Unit	UsefulNotes/Emmy Award
 1028	Law & Order: Special Victims Unit	Series of the 2010s
+1028	Law & Order: Special Victims Unit	ImageSource/Live-Action TV
 1028	Law & Order: Special Victims Unit	Series of the 2020s
 1028	Law & Order: Special Victims Unit	Creator/Universal
 1029	Lawman	Western Series
 1029	Lawman	Creator/ABC
 1029	Lawman	American Series
+1029	Lawman	ImageSource/Live-Action TV
+1029	Lawman	Administrivia/Works Needing Tropes
 1030	Lethal Weapon (2016)	Trivia/Lethal Weapon
 1030	Lethal Weapon (2016)	Cop Show
 1030	Lethal Weapon (2016)	Crime and Punishment Series
@@ -6560,6 +6906,7 @@ show_id	show_name	tag
 1034	Legends	Series of the 2010s
 1035	Legend of the Seeker	Creator/Renaissance Pictures
 1035	Legend of the Seeker	Fantasy Series
+1035	Legend of the Seeker	VideoSource/Live-Action TV
 1035	Legend of the Seeker	Creator/Disney
 1035	Legend of the Seeker	American Series
 1035	Legend of the Seeker	Series of the 2000s
@@ -6584,6 +6931,7 @@ show_id	show_name	tag
 1037	Legends of Tomorrow	The '80s
 1037	Legends of Tomorrow	Superhero
 1037	Legends of Tomorrow	American Series
+1037	Legends of Tomorrow	QuoteSource/Live-Action TV
 1037	Legends of Tomorrow	Series/Arrowverse
 1037	Legends of Tomorrow	Series of the 2010s
 1037	Legends of Tomorrow	Creator/The CW
@@ -6592,6 +6940,7 @@ show_id	show_name	tag
 1037	Legends of Tomorrow	Creator/Warner Bros.
 1037	Legends of Tomorrow	Creator/Netflix
 1037	Legends of Tomorrow	Dramedy
+1037	Legends of Tomorrow	ImageSource/Live-Action TV
 1037	Legends of Tomorrow	The '50s
 1037	Legends of Tomorrow	Works Set In World War I
 1037	Legends of Tomorrow	Queer Media
@@ -6614,6 +6963,7 @@ show_id	show_name	tag
 1040	Let's Make a Deal	Creator/NBC
 1040	Let's Make a Deal	First-Run Syndication
 1040	Let's Make a Deal	American Series
+1040	Let's Make a Deal	ImageSource/Live-Action TV
 1041	The Letter People	Puppet Shows
 1041	The Letter People	American Series
 1041	The Letter People	Long-Runners
@@ -6624,13 +6974,16 @@ show_id	show_name	tag
 1043	Leverage	Creator/TNT
 1043	Leverage	Crime and Punishment Series
 1043	Leverage	Criminal Procedural
+1043	Leverage	VideoSource/Live-Action TV
 1043	Leverage	Action Adventure Series
 1043	Leverage	JustForFun/Trope Overdosed Franchises
 1043	Leverage	American Series
+1043	Leverage	QuoteSource/Live-Action TV
 1043	Leverage	Series of the 2000s
 1043	Leverage	Series of the 2010s
 1043	Leverage	JustForFun/Trope Kilowicked
 1043	Leverage	Dramedy
+1043	Leverage	ImageSource/Live-Action TV
 1044	Lidsville	Puppet Shows
 1044	Lidsville	Creator/Rhino Records
 1044	Lidsville	American Series
@@ -6638,11 +6991,14 @@ show_id	show_name	tag
 1045	Lie to Me	American Series
 1045	Lie to Me	Series of the 2000s
 1045	Lie to Me	Series of the 2010s
+1045	Lie to Me	ImageSource/Live-Action TV
 1046	Life	CrimeAndPunishmentSeries/Detective Drama
 1046	Life	American Series
+1046	Life	QuoteSource/Live-Action TV
 1046	Life	Creator/NBC
 1047	Life After People	Creator/The History Channel
 1047	Life After People	American Series
+1047	Life After People	ImageSource/Live-Action TV
 1048	The Life and Times of Grizzly Adams	Western Series
 1048	The Life and Times of Grizzly Adams	American Series
 1048	The Life and Times of Grizzly Adams	Creator/NBC
@@ -6685,6 +7041,7 @@ show_id	show_name	tag
 1057	Lipstick Jungle	Series of the 2000s
 1057	Lipstick Jungle	Creator/Universal
 1057	Lipstick Jungle	Short-Runners
+1057	Lipstick Jungle	Administrivia/Needs Wiki Magic Love
 1057	Lipstick Jungle	Creator/NBC
 1058	Little House on the Prairie	Series of the 1970s
 1058	Little House on the Prairie	Series of the 1980s
@@ -6692,6 +7049,7 @@ show_id	show_name	tag
 1058	Little House on the Prairie	Creator/Universal
 1058	Little House on the Prairie	American Series
 1058	Little House on the Prairie	Creator/PBS
+1058	Little House on the Prairie	ImageSource/Live-Action TV
 1059	Living Biblically	American Series
 1059	Living Biblically	Series of the 2010s
 1059	Living Biblically	Short-Runners
@@ -6699,6 +7057,7 @@ show_id	show_name	tag
 1060	Living Single	Black Sitcom
 1060	Living Single	Creator/Fox
 1060	Living Single	American Series
+1060	Living Single	QuoteSource/Live-Action TV
 1060	Living Single	Series of the 1990s
 1060	Living Single	African-American Media
 1061	Living With Yourself	American Series
@@ -6717,9 +7076,11 @@ show_id	show_name	tag
 1063	Lois & Clark	Speculative Fiction Series
 1063	Lois & Clark	Superhero
 1063	Lois & Clark	American Series
+1063	Lois & Clark	QuoteSource/Live-Action TV
 1063	Lois & Clark	Series of the 1990s
 1063	Lois & Clark	Creator/Warner Bros.
 1063	Lois & Clark	Franchise/Superman
+1063	Lois & Clark	ImageSource/Live-Action TV
 1064	The Lone Gunmen	Franchise/The X-Files
 1064	The Lone Gunmen	Speculative Fiction Series
 1064	The Lone Gunmen	Creator/Disney
@@ -6731,6 +7092,7 @@ show_id	show_name	tag
 1065	The Lone Ranger	Radio Drama
 1065	The Lone Ranger	UsefulNotes/National Recording Registry
 1065	The Lone Ranger	The Great Depression
+1065	The Lone Ranger	Administrivia/Works Needing Tropes
 1065	The Lone Ranger	Radio
 1065	The Lone Ranger	Superhero
 1066	Longmire	Creator/A&E
@@ -6751,6 +7113,7 @@ show_id	show_name	tag
 1069	Los Espookys	American Series
 1069	Los Espookys	Series of the 2010s
 1069	Los Espookys	Series of the 2020s
+1069	Los Espookys	Administrivia/Needs Wiki Magic Love
 1070	Lost	Creator/Digital Dimension
 1070	Lost	ImageLinks/Complete Monster
 1070	Lost	Creator/J. J. Abrams
@@ -6766,9 +7129,11 @@ show_id	show_name	tag
 1070	Lost	Creator/ABC
 1070	Lost	Speculative Fiction Series
 1070	Lost	American Series
+1070	Lost	QuoteSource/Live-Action TV
 1070	Lost	Series of the 2000s
 1070	Lost	Series of the 2010s
 1070	Lost	JustForFun/Trope Overdosed
+1070	Lost	ImageSource/Live-Action TV
 1071	Lost in Oz	Franchise/Land of Oz
 1071	Lost in Oz	Failed Pilot Episode
 1071	Lost in Oz	Action Adventure Series
@@ -6781,6 +7146,7 @@ show_id	show_name	tag
 1072	Lost in Space	Creator/Disney
 1072	Lost in Space	American Series
 1072	Lost in Space	Science Fiction Series
+1072	Lost in Space	ImageSource/Live-Action TV
 1072	Lost in Space	Creator/20th Century Studios
 1073	Lost in Space (2018)	Creator/Imaginary Forces
 1073	Lost in Space (2018)	American Series
@@ -6795,6 +7161,7 @@ show_id	show_name	tag
 1075	Lost Tapes	Horror Series
 1075	Lost Tapes	Found Footage Films
 1075	Lost Tapes	American Series
+1075	Lost Tapes	ImageSource/Live-Action TV
 1076	Lou Grant	Creator/Shout! Factory
 1076	Lou Grant	Series of the 1970s
 1076	Lou Grant	Series of the 1980s
@@ -6835,12 +7202,15 @@ show_id	show_name	tag
 1083	Lucifer (2016)	CrimeAndPunishmentSeries/Detective Drama
 1083	Lucifer (2016)	Creator/Fox
 1083	Lucifer (2016)	Creator/CTV
+1083	Lucifer (2016)	VideoSource/Live-Action TV
 1083	Lucifer (2016)	American Series
 1083	Lucifer (2016)	Urban Fantasy
+1083	Lucifer (2016)	QuoteSource/Live-Action TV
 1083	Lucifer (2016)	Series of the 2010s
 1083	Lucifer (2016)	Series of the 2020s
 1083	Lucifer (2016)	Creator/Warner Bros.
 1083	Lucifer (2016)	Creator/Netflix
+1083	Lucifer (2016)	ImageSource/Live-Action TV
 1084	Luck	American Series
 1084	Luck	Series of the 2010s
 1084	Luck	Creator/HBO
@@ -6877,9 +7247,11 @@ show_id	show_name	tag
 1090	MacGyver (1985)	Creator/ABC
 1090	MacGyver (1985)	American Series
 1090	MacGyver (1985)	Adventure
+1090	MacGyver (1985)	QuoteSource/Live-Action TV
 1090	MacGyver (1985)	Creator/The Ocean Group
 1090	MacGyver (1985)	Series of the 1990s
 1090	MacGyver (1985)	Creator/Paramount
+1090	MacGyver (1985)	ImageSource/Live-Action TV
 1091	MacGyver (2016)	Series/Bellisarioverse
 1091	MacGyver (2016)	Action Adventure Series
 1091	MacGyver (2016)	Creator/CBS
@@ -6901,6 +7273,7 @@ show_id	show_name	tag
 1093	Mad About You	Creator/NBC
 1093	Mad About You	American Series
 1093	Mad About You	Series of the 1990s
+1093	Mad About You	Administrivia/Pages Needing Example Context
 1094	Madam Secretary	Creator/American Forces Network
 1094	Madam Secretary	Government Procedural
 1094	Madam Secretary	American Series
@@ -6922,6 +7295,7 @@ show_id	show_name	tag
 1095	Mad Men	Series of the 2000s
 1095	Mad Men	Series of the 2010s
 1095	Mad Men	JustForFun/Trope Kilowicked
+1095	Mad Men	ImageSource/Live-Action TV
 1095	Mad Men	Creator/Lionsgate
 1096	MADtv	Creator/Shout! Factory
 1096	MADtv	Sketch Comedy
@@ -6949,6 +7323,7 @@ show_id	show_name	tag
 1099	The Magicians	Creator/Syfy
 1099	The Magicians	American Series
 1099	The Magicians	Urban Fantasy
+1099	The Magicians	QuoteSource/Live-Action TV
 1099	The Magicians	Series of the 2010s
 1099	The Magicians	Series of the 2020s
 1100	The Magnificent Seven (1998)	Western Series
@@ -6961,6 +7336,7 @@ show_id	show_name	tag
 1101	Magnum, P.I.	Creator/CBS
 1101	Magnum, P.I.	Film Noir
 1101	Magnum, P.I.	American Series
+1101	Magnum, P.I.	ImageSource/Live-Action TV
 1101	Magnum, P.I.	Creator/Universal
 1102	Magnum, P.I. (2018)	Series/Bellisarioverse
 1102	Magnum, P.I. (2018)	Recap/Hawaii Five-0
@@ -6995,9 +7371,12 @@ show_id	show_name	tag
 1107	Malcolm in the Middle	Creator/Fox
 1107	Malcolm in the Middle	Dom Com
 1107	Malcolm in the Middle	JustForFun/Trope Kilowicked Franchises
+1107	Malcolm in the Middle	VideoSource/Live-Action TV
 1107	Malcolm in the Middle	American Series
+1107	Malcolm in the Middle	QuoteSource/Live-Action TV
 1107	Malcolm in the Middle	JustForFun/Trope Kilowicked
 1107	Malcolm in the Middle	Creator/20th Century Studios
+1107	Malcolm in the Middle	ImageSource/Live-Action TV
 1108	Malibu Country	Creator/ABC
 1108	Malibu Country	American Series
 1108	Malibu Country	Series of the 2010s
@@ -7015,6 +7394,7 @@ show_id	show_name	tag
 1110	The Man from U.N.C.L.E.	American Series
 1110	The Man from U.N.C.L.E.	Creator/Metro-Goldwyn-Mayer
 1110	The Man from U.N.C.L.E.	Spy Fiction
+1110	The Man from U.N.C.L.E.	ImageSource/Live-Action TV
 1111	Manhattan Love Story	Romantic Comedy
 1111	Manhattan Love Story	American Series
 1111	Manhattan Love Story	Series of the 2010s
@@ -7034,10 +7414,12 @@ show_id	show_name	tag
 1114	Manimal	American Series
 1114	Manimal	Superhero
 1114	Manimal	Short-Runners
+1115	The Man in the High Castle	VideoSource/Live-Action TV
 1115	The Man in the High Castle	Conspiracy Thriller
 1115	The Man in the High Castle	American Series
 1115	The Man in the High Castle	Creator/Prime Video
 1115	The Man in the High Castle	Series of the 2010s
+1115	The Man in the High Castle	ImageSource/Live-Action TV
 1115	The Man in the High Castle	Thriller
 1116	Mann & Machine	Cop Show
 1116	Mann & Machine	Crime and Punishment Series
@@ -7102,9 +7484,12 @@ show_id	show_name	tag
 1126	Married... with Children	Creator/Fox
 1126	Married... with Children	Dom Com
 1126	Married... with Children	JustForFun/Trope Kilowicked Franchises
+1126	Married... with Children	VideoSource/Live-Action TV
 1126	Married... with Children	American Series
+1126	Married... with Children	QuoteSource/Live-Action TV
 1126	Married... with Children	JustForFun/Trope Kilowicked
 1126	Married... with Children	Long-Runners
+1126	Married... with Children	ImageSource/Live-Action TV
 1127	Marry Me	Creator/Sony Pictures Television
 1127	Marry Me	American Series
 1127	Marry Me	Series of the 2010s
@@ -7130,6 +7515,7 @@ show_id	show_name	tag
 1131	The Mary Tyler Moore Show	Creator/MeTV
 1131	The Mary Tyler Moore Show	Creator/Disney
 1131	The Mary Tyler Moore Show	American Series
+1131	The Mary Tyler Moore Show	QuoteSource/Live-Action TV
 1131	The Mary Tyler Moore Show	Creator/20th Century Studios
 1132	M*A*S*H	Franchise/M*A*S*H
 1132	M*A*S*H	Military and Warfare Television
@@ -7141,6 +7527,7 @@ show_id	show_name	tag
 1132	M*A*S*H	JustForFun/Trope Overdosed Franchises
 1132	M*A*S*H	Creator/Disney
 1132	M*A*S*H	American Series
+1132	M*A*S*H	QuoteSource/Live-Action TV
 1132	M*A*S*H	Medical Drama
 1132	M*A*S*H	JustForFun/Trope Overdosed
 1132	M*A*S*H	Long-Runners
@@ -7149,6 +7536,7 @@ show_id	show_name	tag
 1132	M*A*S*H	The '50s
 1132	M*A*S*H	Works Set In World War I
 1132	M*A*S*H	UsefulNotes/Emmy Award
+1132	M*A*S*H	ImageSource/Live-Action TV
 1133	Masked Rider	Creator/Saban Brands
 1133	Masked Rider	Creator/Fox Kids
 1133	Masked Rider	Franchise/Kamen Rider
@@ -7229,6 +7617,7 @@ show_id	show_name	tag
 1143	Maury	Series of the 2000s
 1143	Maury	Long-Runners
 1143	Maury	Series of the 2010s
+1143	Maury	ImageSource/Live-Action TV
 1143	Maury	Series of the 2020s
 1143	Maury	Creator/Universal
 1144	Maverick	Western Series
@@ -7236,6 +7625,7 @@ show_id	show_name	tag
 1144	Maverick	Creator/ABC
 1144	Maverick	American Series
 1144	Maverick	Creator/Warner Bros.
+1144	Maverick	ImageSource/Live-Action TV
 1145	Max Headroom	Creator/Channel 4
 1145	Max Headroom	Creator/Shout! Factory
 1145	Max Headroom	Creator/Cinemax
@@ -7311,6 +7701,7 @@ show_id	show_name	tag
 1154	Melrose Place	Series of the 2000s
 1154	Melrose Place	Creator/The CW
 1154	Melrose Place	Series of the 2010s
+1154	Melrose Place	Administrivia/Needs Wiki Magic Love
 1155	Me, Myself, and I	American Series
 1155	Me, Myself, and I	Creator/CBS
 1156	Men in Blazers	Blog
@@ -7324,6 +7715,7 @@ show_id	show_name	tag
 1157	Men of a Certain Age	Series of the 2010s
 1157	Men of a Certain Age	Dramedy
 1158	The Mentalist	Crime and Punishment Series
+1158	The Mentalist	VideoSource/Live-Action TV
 1158	The Mentalist	Creator/CBS
 1158	The Mentalist	American Series
 1158	The Mentalist	Series of the 2000s
@@ -7353,6 +7745,7 @@ show_id	show_name	tag
 1163	Miami Vice	Creator/NBC
 1163	Miami Vice	Creator/Universal
 1163	Miami Vice	American Series
+1163	Miami Vice	ImageSource/Live-Action TV
 1163	Miami Vice	Latino-American Media
 1164	The Michael J. Fox Show	Creator/Sony Pictures Television
 1164	The Michael J. Fox Show	American Series
@@ -7367,6 +7760,7 @@ show_id	show_name	tag
 1166	The Mickey Mouse Club	Franchise/Mickey Mouse
 1166	The Mickey Mouse Club	American Series
 1166	The Mickey Mouse Club	Animal Title Index
+1166	The Mickey Mouse Club	Administrivia/Pages Needing Transparent Images
 1167	The Middle	Dom Com
 1167	The Middle	Creator/ABC
 1167	The Middle	American Series
@@ -7377,6 +7771,7 @@ show_id	show_name	tag
 1168	The Middleman	U.S./Canadian Comics
 1168	The Middleman	Speculative Fiction Series
 1168	The Middleman	American Series
+1168	The Middleman	QuoteSource/Live-Action TV
 1169	Midnight Caller	Series of the 1980s
 1169	Midnight Caller	American Series
 1169	Midnight Caller	Series of the 1990s
@@ -7403,6 +7798,7 @@ show_id	show_name	tag
 1173	Millennium	Creator/Disney
 1173	Millennium	American Series
 1173	Millennium	Science Fiction Series
+1173	Millennium	QuoteSource/Live-Action TV
 1173	Millennium	Series of the 1990s
 1173	Millennium	Urban Fantasy
 1173	Millennium	Creator/Method Studios
@@ -7436,6 +7832,7 @@ show_id	show_name	tag
 1177	The Mindy Project	American Series
 1177	The Mindy Project	Creator/Hulu
 1177	The Mindy Project	Series of the 2010s
+1177	The Mindy Project	Administrivia/Needs Wiki Magic Love
 1178	Minority Report (2015)	Creator/Amblin Television
 1178	Minority Report (2015)	American Series
 1178	Minority Report (2015)	Science Fiction Series
@@ -7478,6 +7875,7 @@ show_id	show_name	tag
 1184	Mission: Impossible	Self-Demonstrating Article
 1184	Mission: Impossible	Spy Fiction
 1184	Mission: Impossible	UsefulNotes/Emmy Award
+1184	Mission: Impossible	ImageSource/Live-Action TV
 1185	The Mist	American Series
 1185	The Mist	Science Fiction Series
 1185	The Mist	Sci-Fi Horror
@@ -7527,6 +7925,7 @@ show_id	show_name	tag
 1190	Modern Family	Long-Runners
 1190	Modern Family	Creator/20th Century Studios
 1190	Modern Family	Dramedy
+1190	Modern Family	ImageSource/Live-Action TV
 1190	Modern Family	Latino-American Media
 1190	Modern Family	Queer Media
 1191	Modern Marvels	Creator/The History Channel
@@ -7577,13 +7976,16 @@ show_id	show_name	tag
 1199	Monk	JustForFun/Tropes Examined by the MythBusters
 1199	Monk	CrimeAndPunishmentSeries/Detective Drama
 1199	Monk	JustForFun/Trope Kilowicked Franchises
+1199	Monk	VideoSource/Live-Action TV
 1199	Monk	Creator/Universal Content Productions
 1199	Monk	Film Noir
 1199	Monk	Creator/Universal
 1199	Monk	American Series
+1199	Monk	QuoteSource/Live-Action TV
 1199	Monk	Series of the 2000s
 1199	Monk	JustForFun/Trope Kilowicked
 1199	Monk	Dramedy
+1199	Monk	ImageSource/Live-Action TV
 1200	The Monkees	Series of the 1960s
 1200	The Monkees	Creator/Rhino Records
 1200	The Monkees	Creator/Sony Pictures Television
@@ -7598,6 +8000,7 @@ show_id	show_name	tag
 1200	The Monkees	Music Stories
 1200	The Monkees	Creator/Columbia Pictures
 1200	The Monkees	Animal Title Index
+1200	The Monkees	ImageSource/Live-Action TV
 1201	Monsters	Series of the 1980s
 1201	Monsters	Genre Anthology
 1201	Monsters	First-Run Syndication
@@ -7610,6 +8013,7 @@ show_id	show_name	tag
 1203	Monster Squad	American Series
 1204	Moonlight	Fantasy Series
 1204	Moonlight	Vampire Fiction
+1204	Moonlight	VideoSource/Live-Action TV
 1204	Moonlight	Creator/CBS
 1204	Moonlight	American Series
 1204	Moonlight	Series of the 2000s
@@ -7715,6 +8119,7 @@ show_id	show_name	tag
 1225	The Muppets	Series of the 1970s
 1225	The Muppets	Series of the 1980s
 1225	The Muppets	The Kiddie Ride
+1225	The Muppets	ImageSource/Puppet Shows
 1225	The Muppets	Films of the 2010s  Franchises
 1225	The Muppets	Christmas Special
 1225	The Muppets	Film Series
@@ -7753,9 +8158,12 @@ show_id	show_name	tag
 1227	The Muppet Show	Creator/Disney Channel
 1227	The Muppet Show	Creator/ITC Entertainment
 1227	The Muppet Show	JustForFun/Trope Kilowicked Franchises
+1227	The Muppet Show	VideoSource/Live-Action TV
+1227	The Muppet Show	ImageSource/Puppet Shows
 1227	The Muppet Show	First-Run Syndication
 1227	The Muppet Show	Recap/Defunctland
 1227	The Muppet Show	American Series
+1227	The Muppet Show	QuoteSource/Live-Action TV
 1227	The Muppet Show	UsefulNotes/Emmy Award
 1227	The Muppet Show	Fantastic Comedy
 1228	Muppets Tonight	Franchise/The Muppets
@@ -7774,6 +8182,7 @@ show_id	show_name	tag
 1230	Murder, She Wrote	American Series
 1230	Murder, She Wrote	Long-Runners
 1230	Murder, She Wrote	Spy Fiction
+1230	Murder, She Wrote	ImageSource/Live-Action TV
 1230	Murder, She Wrote	Creator/Universal
 1230	Murder, She Wrote	Creator/CBS
 1231	Murphy Brown	Creator/American Forces Network
@@ -7816,6 +8225,7 @@ show_id	show_name	tag
 1237	My Name Is Earl	American Series
 1237	My Name Is Earl	Series of the 2000s
 1237	My Name Is Earl	Creator/20th Century Studios
+1237	My Name Is Earl	ImageSource/Live-Action TV
 1238	My Own Worst Enemy	Action Adventure Series
 1238	My Own Worst Enemy	American Series
 1238	My Own Worst Enemy	Series of the 2000s
@@ -7859,6 +8269,7 @@ show_id	show_name	tag
 1243	Mystery Science Theater 3000	American Series
 1243	Mystery Science Theater 3000	Science Fiction Series
 1243	Mystery Science Theater 3000	Creator/PBS
+1243	Mystery Science Theater 3000	QuoteSource/Live-Action TV
 1243	Mystery Science Theater 3000	Series of the 1990s
 1243	Mystery Science Theater 3000	Series of the 2000s
 1243	Mystery Science Theater 3000	JustForFun/Trope Overdosed
@@ -7868,6 +8279,7 @@ show_id	show_name	tag
 1243	Mystery Science Theater 3000	Series of the 2010s
 1243	Mystery Science Theater 3000	Creator/Netflix
 1243	Mystery Science Theater 3000	Website/Kickstarter
+1243	Mystery Science Theater 3000	ImageSource/Live-Action TV
 1244	The Mystic Knights of Tir Na Nóg	Creator/Fox Kids
 1244	The Mystic Knights of Tir Na Nóg	Toku
 1244	The Mystic Knights of Tir Na Nóg	Fantasy Series
@@ -7882,11 +8294,13 @@ show_id	show_name	tag
 1245	MythBusters	JustForFun/Trope Kilowicked Franchises
 1245	MythBusters	Edutainment Show
 1245	MythBusters	American Series
+1245	MythBusters	QuoteSource/Live-Action TV
 1245	MythBusters	Series of the 2000s
 1245	MythBusters	TruthInTelevision/A to C
 1245	MythBusters	Long-Runners
 1245	MythBusters	TruthInTelevision/P to R
 1245	MythBusters	JustForFun/Trope Kilowicked
+1245	MythBusters	ImageSource/Live-Action TV
 1245	MythBusters	Series of the 2010s
 1246	MythBusters (2017)	Reality TV
 1246	MythBusters (2017)	Non-Fiction Series
@@ -7946,6 +8360,7 @@ show_id	show_name	tag
 1256	The Nanny	Dom Com
 1256	The Nanny	Creator/Rough Draft Studios
 1256	The Nanny	American Series
+1256	The Nanny	QuoteSource/Live-Action TV
 1256	The Nanny	Series of the 1990s
 1256	The Nanny	Creator/CBS
 1257	Nanny and the Professor	Series of the 1970s
@@ -7963,6 +8378,7 @@ show_id	show_name	tag
 1258	Narcos	American Series
 1258	Narcos	Series of the 2010s
 1258	Narcos	Creator/Netflix
+1258	Narcos	ImageSource/Live-Action TV
 1259	Nash Bridges	Creator/Modern Video Film
 1259	Nash Bridges	Cop Show
 1259	Nash Bridges	American Series
@@ -8003,6 +8419,7 @@ show_id	show_name	tag
 1264	NCIS	Creator/CBS
 1264	NCIS	JustForFun/Trope Overdosed Franchises
 1264	NCIS	American Series
+1264	NCIS	QuoteSource/Live-Action TV
 1264	NCIS	Series of the 2000s
 1264	NCIS	JustForFun/Trope Overdosed
 1264	NCIS	Long-Runners
@@ -8010,16 +8427,19 @@ show_id	show_name	tag
 1264	NCIS	Series of the 2010s
 1264	NCIS	Dramedy
 1264	NCIS	Creator/Paramount
+1264	NCIS	ImageSource/Live-Action TV
 1264	NCIS	Series of the 2020s
 1265	NCIS: Los Angeles	Series/Bellisarioverse
 1265	NCIS: Los Angeles	Cop Show
 1265	NCIS: Los Angeles	Crime and Punishment Series
 1265	NCIS: Los Angeles	Military and Warfare Television
+1265	NCIS: Los Angeles	VideoSource/Live-Action TV
 1265	NCIS: Los Angeles	Creator/CBS
 1265	NCIS: Los Angeles	American Series
 1265	NCIS: Los Angeles	Series of the 2000s
 1265	NCIS: Los Angeles	Long-Runners
 1265	NCIS: Los Angeles	Series of the 2010s
+1265	NCIS: Los Angeles	ImageSource/Live-Action TV
 1265	NCIS: Los Angeles	Series of the 2020s
 1266	NCIS: New Orleans	Series/Bellisarioverse
 1266	NCIS: New Orleans	Cop Show
@@ -8028,6 +8448,7 @@ show_id	show_name	tag
 1266	NCIS: New Orleans	Creator/CBS
 1266	NCIS: New Orleans	American Series
 1266	NCIS: New Orleans	Series of the 2010s
+1266	NCIS: New Orleans	ImageSource/Live-Action TV
 1266	NCIS: New Orleans	Series of the 2020s
 1267	Necessary Roughness	Creator/USA Network
 1267	Necessary Roughness	Creator/Mill Creek Entertainment
@@ -8043,6 +8464,7 @@ show_id	show_name	tag
 1269	Ned's Declassified School Survival Guide	Kid Com
 1269	Ned's Declassified School Survival Guide	Creator/Disney Channel
 1269	Ned's Declassified School Survival Guide	American Series
+1269	Ned's Declassified School Survival Guide	QuoteSource/Live-Action TV
 1269	Ned's Declassified School Survival Guide	Creator/Nickelodeon
 1270	The Neighbors	Fantastic Comedy
 1270	The Neighbors	Dom Com
@@ -8080,8 +8502,10 @@ show_id	show_name	tag
 1277	New Girl	UsefulNotes/Latvia
 1277	New Girl	Creator/Fox
 1277	New Girl	American Series
+1277	New Girl	QuoteSource/Live-Action TV
 1277	New Girl	Series of the 2010s
 1277	New Girl	Creator/20th Century Studios
+1277	New Girl	ImageSource/Live-Action TV
 1278	The New Monkees	Franchise/The Monkees
 1278	The New Monkees	Series of the 1980s
 1278	The New Monkees	Creator/Warner (Bros.) Records
@@ -8112,6 +8536,7 @@ show_id	show_name	tag
 1282	NewsRadio	Creator/NBC
 1282	NewsRadio	Work Com
 1282	NewsRadio	American Series
+1282	NewsRadio	QuoteSource/Live-Action TV
 1282	NewsRadio	Series of the 1990s
 1283	The Newsroom	UsefulNotes/Emmy Award
 1283	The Newsroom	Creator/Aaron Sorkin
@@ -8143,12 +8568,14 @@ show_id	show_name	tag
 1288	Nickelodeon GUTS	Series of the 1990s
 1288	Nickelodeon GUTS	Creator/Nickelodeon
 1289	Nick Studio 10	Sketch Comedy
+1289	Nick Studio 10	VideoSource/Live-Action TV
 1289	Nick Studio 10	American Series
 1289	Nick Studio 10	Series of the 2010s
 1290	Nicky, Ricky, Dicky, and Dawn	Creator/TeenNick
 1290	Nicky, Ricky, Dicky, and Dawn	American Series
 1290	Nicky, Ricky, Dicky, and Dawn	Series of the 2010s
 1290	Nicky, Ricky, Dicky, and Dawn	Creator/Nickelodeon
+1290	Nicky, Ricky, Dicky, and Dawn	Administrivia/Needs a Better Description
 1291	Night Court	Series of the 1980s
 1291	Night Court	Creator/NBC
 1291	Night Court	Work Com
@@ -8195,6 +8622,7 @@ show_id	show_name	tag
 1299	The Nightmare Room	Short-Runners
 1299	The Nightmare Room	Creator/Warner Bros.
 1299	The Nightmare Room	Horror Literature
+1299	The Nightmare Room	Administrivia/Needs Wiki Magic Love
 1300	Nikita	Action Adventure Series
 1300	Nikita	Spy Fiction
 1300	Nikita	Asian-American Media
@@ -8202,6 +8630,7 @@ show_id	show_name	tag
 1300	Nikita	Series of the 2010s
 1300	Nikita	Creator/The CW
 1300	Nikita	Creator/Warner Bros.
+1300	Nikita	ImageSource/Live-Action TV
 1301	The Nine Lives of Chloe King	Creator/Freeform
 1301	The Nine Lives of Chloe King	American Series
 1302	Ninja Turtles: The Next Mutation	Creator/Saban Brands
@@ -8273,6 +8702,7 @@ show_id	show_name	tag
 1314	NUMB3RS	Edutainment Show
 1314	NUMB3RS	Creator/CBS
 1314	NUMB3RS	American Series
+1314	NUMB3RS	QuoteSource/Live-Action TV
 1314	NUMB3RS	Series of the 2000s
 1314	NUMB3RS	Series of the 2010s
 1314	NUMB3RS	Creator/Paramount
@@ -8321,6 +8751,7 @@ show_id	show_name	tag
 1321	The Odd Couple	Creator/ABC
 1321	The Odd Couple	American Series
 1321	The Odd Couple	Creator/Paramount
+1321	The Odd Couple	ImageSource/Live-Action Films (M to Z)
 1322	Oddities	Creator/Discovery Channel
 1322	Oddities	Reality TV
 1322	Oddities	Non-Fiction Series
@@ -8334,11 +8765,13 @@ show_id	show_name	tag
 1324	The Office (US)	JustForFun/Trope Kilowicked Franchises
 1324	The Office (US)	Work Com
 1324	The Office (US)	American Series
+1324	The Office (US)	QuoteSource/Live-Action TV
 1324	The Office (US)	Series of the 2000s
 1324	The Office (US)	UsefulNotes/Emmy Award
 1324	The Office (US)	JustForFun/Trope Kilowicked
 1324	The Office (US)	Series of the 2010s
 1324	The Office (US)	Dramedy
+1324	The Office (US)	ImageSource/Live-Action TV
 1324	The Office (US)	Creator/Universal
 1324	The Office (US)	Creator/NBC
 1325	The Office: An American Workplace	Localization Tropes
@@ -8347,6 +8780,7 @@ show_id	show_name	tag
 1325	The Office: An American Workplace	Creator/Osamu Tezuka
 1325	The Office: An American Workplace	Title Tropes
 1325	The Office: An American Workplace	Fighting Game
+1325	The Office: An American Workplace	ImageSource/Video Games (M to Z)
 1325	The Office: An American Workplace	Time Immemorial Index
 1326	Off Beat Cinema	American Series
 1326	Off Beat Cinema	Long-Runners
@@ -8372,13 +8806,16 @@ show_id	show_name	tag
 1331	Once Upon a Time	Creator/Zoic Studios
 1331	Once Upon a Time	Fantasy Series
 1331	Once Upon a Time	Fairy Tale
+1331	Once Upon a Time	VideoSource/Live-Action TV
 1331	Once Upon a Time	JustForFun/Trope Overdosed Franchises
 1331	Once Upon a Time	Creator/ABC
 1331	Once Upon a Time	American Series
+1331	Once Upon a Time	QuoteSource/Live-Action TV
 1331	Once Upon a Time	JustForFun/Trope Overdosed
 1331	Once Upon a Time	Series of the 2010s
 1331	Once Upon a Time	Creator/Netflix
 1331	Once Upon a Time	Urban Fantasy
+1331	Once Upon a Time	ImageSource/Live-Action TV
 1332	Once Upon a Time in Wonderland	Genie Works
 1332	Once Upon a Time in Wonderland	Fantasy Series
 1332	Once Upon a Time in Wonderland	Fairy Tale
@@ -8403,9 +8840,11 @@ show_id	show_name	tag
 1335	One Day at a Time (2017)	Creator/Sony Pictures Television
 1335	One Day at a Time (2017)	Dom Com
 1335	One Day at a Time (2017)	American Series
+1335	One Day at a Time (2017)	QuoteSource/Live-Action TV
 1335	One Day at a Time (2017)	Latino-American Media
 1335	One Day at a Time (2017)	Series of the 2010s
 1335	One Day at a Time (2017)	Creator/Netflix
+1335	One Day at a Time (2017)	ImageSource/Live-Action TV
 1336	One Life to Live	Series of the 1960s
 1336	One Life to Live	American Series
 1336	One Life to Live	Soap Opera
@@ -8474,10 +8913,12 @@ show_id	show_name	tag
 1345	The O'Reilly Factor	Series of the 1990s
 1345	The O'Reilly Factor	Series of the 2000s
 1345	The O'Reilly Factor	Long-Runners
+1345	The O'Reilly Factor	Administrivia/Pages Needing an Entry Pimp
 1345	The O'Reilly Factor	Series of the 2010s
 1345	The O'Reilly Factor	Political Programmes
 1346	The Originals	Supernatural Soap Opera
 1346	The Originals	Vampire Fiction
+1346	The Originals	VideoSource/Live-Action TV
 1346	The Originals	Werewolf Works
 1346	The Originals	Horror Series
 1346	The Originals	American Series
@@ -8491,9 +8932,11 @@ show_id	show_name	tag
 1347	The Orville	Creator/Disney
 1347	The Orville	American Series
 1347	The Orville	Science Fiction Series
+1347	The Orville	QuoteSource/Live-Action TV
 1347	The Orville	Fantastic Comedy
 1347	The Orville	Series of the 2010s
 1347	The Orville	Dramedy
+1347	The Orville	ImageSource/Live-Action TV
 1347	The Orville	Series of the 2020s
 1347	The Orville	Creator/Hulu
 1348	The Others	Creator/DreamWorks Television
@@ -8526,6 +8969,7 @@ show_id	show_name	tag
 1353	The Outer Limits (1963)	Horror Series
 1353	The Outer Limits (1963)	American Series
 1353	The Outer Limits (1963)	Science Fiction Series
+1353	The Outer Limits (1963)	QuoteSource/Live-Action TV
 1353	The Outer Limits (1963)	Sci-Fi Horror
 1354	Outlander	Creator/Sony Pictures Television
 1354	Outlander	Creator/Starz
@@ -8560,6 +9004,7 @@ show_id	show_name	tag
 1358	Outsourced	Work Com
 1358	Outsourced	American Series
 1358	Outsourced	Series of the 2010s
+1358	Outsourced	ImageSource/Live-Action TV
 1358	Outsourced	Short-Runners
 1358	Outsourced	Creator/NBC
 1359	Overhaulin	Reality TV
@@ -8571,6 +9016,7 @@ show_id	show_name	tag
 1360	Oz	Series of the 2000s
 1360	Oz	Short Titles
 1360	Oz	Creator/HBO
+1360	Oz	ImageSource/Live-Action TV
 1361	Ozark	Criminal Procedural
 1361	Ozark	American Series
 1361	Ozark	Series of the 2010s
@@ -8638,12 +9084,15 @@ show_id	show_name	tag
 1372	The Parkers	African-American Media
 1373	Parks and Recreation	Notable Quotables
 1373	Parks and Recreation	JustForFun/Trope Kilowicked Franchises
+1373	Parks and Recreation	VideoSource/Live-Action TV
 1373	Parks and Recreation	Work Com
 1373	Parks and Recreation	Government Procedural
 1373	Parks and Recreation	American Series
+1373	Parks and Recreation	QuoteSource/Live-Action TV
 1373	Parks and Recreation	Series of the 2000s
 1373	Parks and Recreation	JustForFun/Trope Kilowicked
 1373	Parks and Recreation	Series of the 2010s
+1373	Parks and Recreation	ImageSource/Live-Action TV
 1373	Parks and Recreation	Creator/Universal
 1373	Parks and Recreation	Creator/NBC
 1374	The Partridge Family	Creator/Mill Creek Entertainment
@@ -8712,6 +9161,7 @@ show_id	show_name	tag
 1385	Penn & Teller: Bullshit!	Creator/Showtime
 1385	Penn & Teller: Bullshit!	Non-Fiction Series
 1385	Penn & Teller: Bullshit!	American Series
+1385	Penn & Teller: Bullshit!	QuoteSource/Live-Action TV
 1385	Penn & Teller: Bullshit!	Edutainment Show
 1386	Penn & Teller Tell A Lie	Creator/Discovery Channel
 1386	Penn & Teller Tell A Lie	American Series
@@ -8729,6 +9179,7 @@ show_id	show_name	tag
 1388	Penny Dreadful	Creator/Showtime
 1388	Penny Dreadful	Horror Series
 1388	Penny Dreadful	American Series
+1388	Penny Dreadful	QuoteSource/Live-Action TV
 1388	Penny Dreadful	Series of the 2010s
 1388	Penny Dreadful	Werewolf Works
 1388	Penny Dreadful	Urban Fantasy
@@ -8746,12 +9197,15 @@ show_id	show_name	tag
 1392	Perfect Couples	Dom Com
 1392	Perfect Couples	Creator/NBC
 1392	Perfect Couples	American Series
+1392	Perfect Couples	Administrivia/Needs Wiki Magic Love
 1393	Perfect Hair Forever	Prime Time Cartoon
 1393	Perfect Hair Forever	American Series
 1393	Perfect Hair Forever	Western Animation of the 2000s
 1393	Perfect Hair Forever	Short-Runners
+1393	Perfect Hair Forever	Administrivia/Needs a Better Description
 1393	Perfect Hair Forever	Creator/[adult swim]
 1393	Perfect Hair Forever	Western Animation
+1393	Perfect Hair Forever	QuoteSource/Western Animation
 1394	Perfect Strangers	Series of the 1980s
 1394	Perfect Strangers	Dom Com
 1394	Perfect Strangers	JustForFun/Trope Kilowicked Franchises
@@ -8777,8 +9231,10 @@ show_id	show_name	tag
 1396	Person of Interest	Conspiracy Thriller
 1396	Person of Interest	American Series
 1396	Person of Interest	Science Fiction Series
+1396	Person of Interest	QuoteSource/Live-Action TV
 1396	Person of Interest	Series of the 2010s
 1396	Person of Interest	Creator/Warner Bros.
+1396	Person of Interest	ImageSource/Live-Action TV
 1396	Person of Interest	JustForFun/Trope Kilowicked
 1397	Persons Unknown	American Series
 1397	Persons Unknown	Mini Series
@@ -8793,6 +9249,7 @@ show_id	show_name	tag
 1399	Phil of the Future	Creator/Disney XD
 1399	Phil of the Future	Creator/Disney Channel
 1399	Phil of the Future	American Series
+1399	Phil of the Future	QuoteSource/Live-Action TV
 1399	Phil of the Future	Series of the 2000s
 1399	Phil of the Future	Fantastic Comedy
 1400	The Phil Silvers Show	Creator/Imagine Entertainment
@@ -8878,6 +9335,7 @@ show_id	show_name	tag
 1416	Police Squad!	Half Hour Comedy
 1416	Police Squad!	Series of the 1980s
 1416	Police Squad!	American Series
+1416	Police Squad!	ImageSource/Live-Action TV
 1416	Police Squad!	Short-Runners
 1417	Police Woman	Creator/Shout! Factory
 1417	Police Woman	Cop Show
@@ -8927,6 +9385,7 @@ show_id	show_name	tag
 1424	Pose	Series of the 2010s
 1424	Pose	Creator/Netflix
 1424	Pose	Series of the 2020s
+1424	Pose	Administrivia/Needs Wiki Magic Love
 1424	Pose	Queer Media
 1425	Power	Criminal Procedural
 1425	Power	American Series
@@ -8937,6 +9396,7 @@ show_id	show_name	tag
 1426	Powerless	American Series
 1426	Powerless	Creator/Warner Bros.
 1426	Powerless	Series of the 2010s
+1426	Powerless	ImageSource/Live-Action TV
 1426	Powerless	Superhero
 1426	Powerless	Short-Runners
 1426	Powerless	Creator/NBC
@@ -8955,6 +9415,7 @@ show_id	show_name	tag
 1427	Power Rangers	International Coproduction
 1427	Power Rangers	Creator/Toon Disney
 1427	Power Rangers	Fighting Series
+1427	Power Rangers	VideoSource/Live-Action TV
 1427	Power Rangers	Creator/Bandai Namco Entertainment
 1427	Power Rangers	UsefulNotes/Sega Genesis
 1427	Power Rangers	Christmas Special
@@ -8967,6 +9428,7 @@ show_id	show_name	tag
 1427	Power Rangers	Collectible Card Game
 1427	Power Rangers	Superhero
 1427	Power Rangers	American Series
+1427	Power Rangers	QuoteSource/Live-Action TV
 1427	Power Rangers	Series of the 1990s
 1428	Mighty Morphin' Power Rangers	Pantheon/Power Rangers
 1428	Mighty Morphin' Power Rangers	Creator/Modern Video Film
@@ -8975,6 +9437,7 @@ show_id	show_name	tag
 1428	Mighty Morphin' Power Rangers	Creator/Fox Kids
 1428	Mighty Morphin' Power Rangers	Trope Overdosed
 1428	Mighty Morphin' Power Rangers	Kid Com
+1428	Mighty Morphin' Power Rangers	VideoSource/Live-Action TV
 1428	Mighty Morphin' Power Rangers	UsefulNotes/Sega Genesis
 1428	Mighty Morphin' Power Rangers	Christmas Special
 1428	Mighty Morphin' Power Rangers	Dinosaur Media
@@ -8984,8 +9447,10 @@ show_id	show_name	tag
 1428	Mighty Morphin' Power Rangers	Superhero
 1428	Mighty Morphin' Power Rangers	Franchise/Power Rangers
 1428	Mighty Morphin' Power Rangers	American Series
+1428	Mighty Morphin' Power Rangers	QuoteSource/Live-Action TV
 1428	Mighty Morphin' Power Rangers	Series of the 1990s
 1428	Mighty Morphin' Power Rangers	JustForFun/Trope Overdosed
+1428	Mighty Morphin' Power Rangers	ImageSource/Live-Action TV
 1429	Power Rangers Zeo	Creator/Modern Video Film
 1429	Power Rangers Zeo	Creator/Shout! Factory
 1429	Power Rangers Zeo	Creator/Fox Kids
@@ -8994,10 +9459,12 @@ show_id	show_name	tag
 1429	Power Rangers Zeo	Franchise/Power Rangers
 1429	Power Rangers Zeo	American Series
 1429	Power Rangers Zeo	Series of the 1990s
+1429	Power Rangers Zeo	ImageSource/Live-Action TV
 1429	Power Rangers Zeo	Superhero
 1430	Power Rangers Turbo	Creator/Modern Video Film
 1430	Power Rangers Turbo	Creator/Shout! Factory
 1430	Power Rangers Turbo	Creator/Fox Kids
+1430	Power Rangers Turbo	VideoSource/Live-Action TV
 1430	Power Rangers Turbo	Speculative Fiction Series
 1430	Power Rangers Turbo	Superhero
 1430	Power Rangers Turbo	Franchise/Power Rangers
@@ -9011,6 +9478,7 @@ show_id	show_name	tag
 1431	Power Rangers in Space	Franchise/Power Rangers
 1431	Power Rangers in Space	American Series
 1431	Power Rangers in Space	Series of the 1990s
+1431	Power Rangers in Space	ImageSource/Live-Action TV
 1432	Power Rangers Lost Galaxy	Creator/Kabillion
 1432	Power Rangers Lost Galaxy	Creator/Vortexx
 1432	Power Rangers Lost Galaxy	Creator/Modern Video Film
@@ -9049,6 +9517,7 @@ show_id	show_name	tag
 1435	Power Rangers Wild Force	Franchise/Power Rangers
 1435	Power Rangers Wild Force	American Series
 1435	Power Rangers Wild Force	Series of the 2000s
+1435	Power Rangers Wild Force	ImageSource/Live-Action TV
 1436	Power Rangers Ninja Storm	Creator/Shout! Factory
 1436	Power Rangers Ninja Storm	Creator/One Saturday Morning and ABC Kids
 1436	Power Rangers Ninja Storm	Creator/ABC
@@ -9057,6 +9526,7 @@ show_id	show_name	tag
 1436	Power Rangers Ninja Storm	Franchise/Power Rangers
 1436	Power Rangers Ninja Storm	American Series
 1436	Power Rangers Ninja Storm	Series of the 2000s
+1436	Power Rangers Ninja Storm	ImageSource/Live-Action TV
 1437	Power Rangers Dino Thunder	Creator/Shout! Factory
 1437	Power Rangers Dino Thunder	Creator/One Saturday Morning and ABC Kids
 1437	Power Rangers Dino Thunder	Creator/Freeform
@@ -9065,7 +9535,9 @@ show_id	show_name	tag
 1437	Power Rangers Dino Thunder	Superhero
 1437	Power Rangers Dino Thunder	Franchise/Power Rangers
 1437	Power Rangers Dino Thunder	American Series
+1437	Power Rangers Dino Thunder	QuoteSource/Live-Action TV
 1437	Power Rangers Dino Thunder	Series of the 2000s
+1437	Power Rangers Dino Thunder	ImageSource/Live-Action TV
 1438	Power Rangers S.P.D.	Creator/Shout! Factory
 1438	Power Rangers S.P.D.	Cop Show
 1438	Power Rangers S.P.D.	Crime and Punishment Series
@@ -9077,6 +9549,7 @@ show_id	show_name	tag
 1438	Power Rangers S.P.D.	Superhero
 1438	Power Rangers S.P.D.	Franchise/Power Rangers
 1438	Power Rangers S.P.D.	American Series
+1438	Power Rangers S.P.D.	QuoteSource/Live-Action TV
 1438	Power Rangers S.P.D.	Series of the 2000s
 1439	Power Rangers Mystic Force	Creator/Dai Won
 1439	Power Rangers Mystic Force	Creator/Shout! Factory
@@ -9116,6 +9589,7 @@ show_id	show_name	tag
 1442	Power Rangers RPM	Superhero
 1442	Power Rangers RPM	Franchise/Power Rangers
 1442	Power Rangers RPM	American Series
+1442	Power Rangers RPM	QuoteSource/Live-Action TV
 1442	Power Rangers RPM	Series of the 2000s
 1443	Power Rangers Samurai	Creator/Saban Brands
 1443	Power Rangers Samurai	Creator/Inti Creates
@@ -9140,6 +9614,7 @@ show_id	show_name	tag
 1445	Power Rangers Dino Charge	American Series
 1445	Power Rangers Dino Charge	Creator/Nickelodeon
 1445	Power Rangers Dino Charge	Series of the 2010s
+1445	Power Rangers Dino Charge	ImageSource/Live-Action TV
 1445	Power Rangers Dino Charge	Superhero
 1446	Power Rangers Ninja Steel	Creator/Saban Brands
 1446	Power Rangers Ninja Steel	Speculative Fiction Series
@@ -9178,6 +9653,8 @@ show_id	show_name	tag
 1451	Press Your Luck	Series of the 1980s
 1451	Press Your Luck	Creator/ABC
 1451	Press Your Luck	American Series
+1451	Press Your Luck	QuoteSource/Live-Action TV
+1451	Press Your Luck	ImageSource/Live-Action TV
 1451	Press Your Luck	Creator/CBS
 1452	The Pretender	Creator/David Cowgill
 1452	The Pretender	Action Adventure Series
@@ -9288,6 +9765,7 @@ show_id	show_name	tag
 1470	Psych	Creator/Universal Content Productions
 1470	Psych	The '90s
 1470	Psych	American Series
+1470	Psych	QuoteSource/Live-Action TV
 1470	Psych	Series of the 2000s
 1470	Psych	JustForFun/Trope Kilowicked
 1470	Psych	Series of the 2010s
@@ -9305,6 +9783,7 @@ show_id	show_name	tag
 1472	The Punisher	Series of the 2010s
 1472	The Punisher	Creator/Netflix
 1472	The Punisher	ComicBook/The Punisher
+1472	The Punisher	ImageSource/Live-Action TV
 1472	The Punisher	Franchise/Marvel Cinematic Universe
 1472	The Punisher	Superhero
 1473	Punky Brewster	Creator/Shout! Factory
@@ -9315,6 +9794,7 @@ show_id	show_name	tag
 1473	Punky Brewster	First-Run Syndication
 1473	Punky Brewster	American Series
 1473	Punky Brewster	Creator/Columbia Pictures
+1473	Punky Brewster	ImageSource/Live-Action TV
 1473	Punky Brewster	Creator/Universal
 1473	Punky Brewster	Creator/NBC
 1474	Puppy Bowl	Creator/Animal Planet
@@ -9326,7 +9806,9 @@ show_id	show_name	tag
 1475	Pushing Daisies	Creator/Zoic Studios
 1475	Pushing Daisies	Creator/ABC
 1475	Pushing Daisies	American Series
+1475	Pushing Daisies	QuoteSource/Live-Action TV
 1475	Pushing Daisies	Series of the 2000s
+1475	Pushing Daisies	Administrivia/Pages Needing Example Context
 1475	Pushing Daisies	Creator/Warner Bros.
 1475	Pushing Daisies	UsefulNotes/Emmy Award
 1475	Pushing Daisies	Fantastic Comedy
@@ -9336,6 +9818,7 @@ show_id	show_name	tag
 1476	The Puzzle Place	Puppet Shows
 1476	The Puzzle Place	American Series
 1476	The Puzzle Place	Series of the 1990s
+1476	The Puzzle Place	Administrivia/Needs a Better Description
 1476	The Puzzle Place	Creator/PBS Kids
 1476	The Puzzle Place	Preschool Show
 1476	The Puzzle Place	Edutainment Show
@@ -9349,10 +9832,13 @@ show_id	show_name	tag
 1478	Quantum Leap	Creator/Mill Creek Entertainment
 1478	Quantum Leap	Series of the 1980s
 1478	Quantum Leap	JustForFun/Trope Kilowicked Franchises
+1478	Quantum Leap	VideoSource/Live-Action TV
 1478	Quantum Leap	Creator/NBC
+1478	Quantum Leap	ImageSource/Live-Action TV
 1478	Quantum Leap	Creator/Universal
 1478	Quantum Leap	American Series
 1478	Quantum Leap	Science Fiction Series
+1478	Quantum Leap	QuoteSource/Live-Action TV
 1478	Quantum Leap	Series of the 1990s
 1479	Quark	Series of the 1970s
 1479	Quark	American Series
@@ -9406,6 +9892,7 @@ show_id	show_name	tag
 1488	Ransom	Canadian Series
 1488	Ransom	French Series
 1488	Ransom	Series of the 2010s
+1488	Ransom	ImageSource/Live-Action TV
 1488	Ransom	Creator/CBS
 1489	Ray Donovan	Creator/Showtime
 1489	Ray Donovan	American Series
@@ -9420,8 +9907,10 @@ show_id	show_name	tag
 1491	Raising Hope	American Series
 1491	Raising Hope	Series of the 2010s
 1491	Raising Hope	Creator/20th Century Studios
+1491	Raising Hope	ImageSource/Live-Action TV
 1492	Raising the Bar	Law Procedural
 1492	Raising the Bar	American Series
+1492	Raising the Bar	Administrivia/Pages Needing Example Context
 1493	The Rat Patrol	Creator/Shout! Factory
 1493	The Rat Patrol	Series of the 1960s
 1493	The Rat Patrol	Military and Warfare Television
@@ -9467,6 +9956,7 @@ show_id	show_name	tag
 1498	The Real Husbands of Hollywood	African-American Media
 1499	The Real O'Neals	Dom Com
 1499	The Real O'Neals	American Series
+1499	The Real O'Neals	Administrivia/Pages Needing an Entry Pimp
 1499	The Real O'Neals	Series of the 2010s
 1499	The Real O'Neals	Queer Media
 1500	The Real World	Reality TV
@@ -9477,8 +9967,10 @@ show_id	show_name	tag
 1500	The Real World	Long-Runners
 1500	The Real World	Series of the 2010s
 1500	The Real World	Series of the 2020s
+1500	The Real World	Administrivia/Needs Wiki Magic Love
 1501	Reaper	Comedy Series
 1501	Reaper	American Series
+1501	Reaper	QuoteSource/Live-Action TV
 1501	Reaper	Series of the 2000s
 1501	Reaper	Creator/The CW
 1501	Reaper	Urban Fantasy
@@ -9535,6 +10027,7 @@ show_id	show_name	tag
 1510	Remote Control	Series of the 1980s
 1510	Remote Control	Creator/MTV
 1510	Remote Control	American Series
+1510	Remote Control	ImageSource/Live-Action TV
 1511	Renegade	Creator/Modern Video Film
 1511	Renegade	Creator/Mill Creek Entertainment
 1511	Renegade	Action Adventure Series
@@ -9542,6 +10035,7 @@ show_id	show_name	tag
 1512	Reno911	Creator/Comedy Central
 1512	Reno911	Work Com
 1512	Reno911	American Series
+1512	Reno911	ImageSource/Live-Action TV
 1513	Rescue Me	Creator/Modern Video Film
 1513	Rescue Me	Creator/DreamWorks Television
 1513	Rescue Me	The Roast
@@ -9639,6 +10133,7 @@ show_id	show_name	tag
 1527	The Rifleman	Creator/MeTV
 1527	The Rifleman	American Series
 1527	The Rifleman	The '50s
+1527	The Rifleman	ImageSource/Live-Action TV
 1528	The Righteous Gemstones	American Series
 1528	The Righteous Gemstones	Series of the 2010s
 1528	The Righteous Gemstones	Creator/HBO
@@ -9673,6 +10168,7 @@ show_id	show_name	tag
 1533	Riverdale	Creator/The CW
 1533	Riverdale	Series of the 2010s
 1533	Riverdale	Creator/Netflix
+1533	Riverdale	ImageSource/Live-Action TV
 1533	Riverdale	Series of the 2020s
 1533	Riverdale	Conspiracy Thriller
 1534	Rizzoli & Isles	Creator/Michael Roark
@@ -9681,6 +10177,7 @@ show_id	show_name	tag
 1534	Rizzoli & Isles	Crime and Punishment Series
 1534	Rizzoli & Isles	American Series
 1534	Rizzoli & Isles	Series of the 2010s
+1534	Rizzoli & Isles	ImageSource/Live-Action TV
 1535	Road Rules	Reality TV
 1535	Road Rules	Creator/MTV
 1535	Road Rules	American Series
@@ -9715,10 +10212,12 @@ show_id	show_name	tag
 1540	Rome	The Epic
 1540	Rome	Sword & Sandal
 1540	Rome	American Series
+1540	Rome	QuoteSource/Live-Action TV
 1540	Rome	British Series
 1540	Rome	Series of the 2000s
 1540	Rome	Historical Fiction
 1540	Rome	Creator/HBO
+1540	Rome	ImageSource/Live-Action TV
 1540	Rome	Short-Runners
 1541	The Rookie (2018)	Police Procedural
 1541	The Rookie (2018)	Creator/ABC
@@ -9733,6 +10232,7 @@ show_id	show_name	tag
 1542	Room 222	American Series
 1542	Room 222	Creator/20th Century Studios
 1542	Room 222	Dramedy
+1542	Room 222	Administrivia/Needs Wiki Magic Love
 1543	Roots (1977)	Series of the 1970s
 1543	Roots (1977)	School Study Media
 1543	Roots (1977)	Epic Movie
@@ -9759,6 +10259,7 @@ show_id	show_name	tag
 1546	Roseanne	Creator/CTV
 1546	Roseanne	Creator/ABC
 1546	Roseanne	American Series
+1546	Roseanne	QuoteSource/Live-Action TV
 1546	Roseanne	Series of the 1990s
 1546	Roseanne	Series of the 2010s
 1547	Roswell	Supernatural Soap Opera
@@ -9777,9 +10278,12 @@ show_id	show_name	tag
 1548	Rosewood	Short-Runners
 1549	The Rotten Tomatoes Show	Comedy Series
 1549	The Rotten Tomatoes Show	American Series
+1549	The Rotten Tomatoes Show	QuoteSource/Live-Action TV
 1550	Roundhouse	Sketch Comedy
 1550	Roundhouse	American Series
+1550	Roundhouse	QuoteSource/Live-Action TV
 1550	Roundhouse	Creator/Nickelodeon
+1550	Roundhouse	Administrivia/Needs Wiki Magic Love
 1551	Route 66	Creator/Shout! Factory
 1551	Route 66	Series of the 1960s
 1551	Route 66	Creator/MeTV
@@ -9794,6 +10298,7 @@ show_id	show_name	tag
 1553	ROX	Series of the 1990s
 1553	ROX	Series of the 2000s
 1553	ROX	Series of the 2010s
+1553	ROX	Administrivia/Works Needing Tropes
 1554	The Royals	American Series
 1554	The Royals	Series of the 2010s
 1555	Royal Pains	Creator/USA Network
@@ -9859,6 +10364,7 @@ show_id	show_name	tag
 1564	Sabrina the Teenage Witch	Series of the 1990s
 1564	Sabrina the Teenage Witch	Series of the 2000s
 1564	Sabrina the Teenage Witch	Creator/Paramount
+1564	Sabrina the Teenage Witch	ImageSource/Live-Action TV
 1564	Sabrina the Teenage Witch	Fantastic Comedy
 1565	Safe Harbor	Creator/The WB
 1565	Safe Harbor	American Series
@@ -9908,7 +10414,9 @@ show_id	show_name	tag
 1574	Sanford and Son	Comedy Series
 1574	Sanford and Son	Creator/NBC
 1574	Sanford and Son	American Series
+1574	Sanford and Son	QuoteSource/Live-Action TV
 1574	Sanford and Son	African-American Media
+1574	Sanford and Son	ImageSource/Live-Action TV
 1575	Santa Clarita Diet	Fantastic Comedy
 1575	Santa Clarita Diet	American Series
 1575	Santa Clarita Diet	Urban Fantasy
@@ -9931,27 +10439,35 @@ show_id	show_name	tag
 1577	Saturday Night Live	Series of the 1980s
 1577	Saturday Night Live	Comedy
 1577	Saturday Night Live	Recap/Married... with Children
+1577	Saturday Night Live	VideoSource/Live-Action TV
 1577	Saturday Night Live	Creator/NBC
 1577	Saturday Night Live	Spooky Kids Media
 1577	Saturday Night Live	JustForFun/Trope Overdosed Franchises
 1577	Saturday Night Live	American Series
+1577	Saturday Night Live	QuoteSource/Live-Action TV
 1577	Saturday Night Live	Series of the 1990s
 1577	Saturday Night Live	Series of the 2000s
 1577	Saturday Night Live	Series of the 2010s
 1577	Saturday Night Live	Series of the 2020s
 1577	Saturday Night Live	JustForFun/Trope Overdosed
 1577	Saturday Night Live	Long-Runners
+1577	Saturday Night Live	ImageSource/Live-Action TV
 1578	Saved by the Bell	Creator/Method Studios
 1578	Saved by the Bell	Creator/TeenNick
 1578	Saved by the Bell	Kid Com
 1578	Saved by the Bell	Series of the 1980s
 1578	Saved by the Bell	Recap/Married... with Children
 1578	Saved by the Bell	Creator/Disney Channel
+1578	Saved by the Bell	VideoSource/Live-Action TV
+1578	Saved by the Bell	QuoteSource/Other
 1578	Saved by the Bell	Creator/NBC
 1578	Saved by the Bell	Creator/MeTV
+1578	Saved by the Bell	QuoteSource/Literature
 1578	Saved by the Bell	Creator/Universal
 1578	Saved by the Bell	American Series
+1578	Saved by the Bell	QuoteSource/Live-Action TV
 1578	Saved by the Bell	Series of the 1990s
+1578	Saved by the Bell	ImageSource/Live-Action TV
 1578	Saved by the Bell	Creator/[adult swim]
 1579	Saved by the Bell: The New Class	Creator/USA Network
 1579	Saved by the Bell: The New Class	Creator/NBC
@@ -9999,13 +10515,16 @@ show_id	show_name	tag
 1587	Scrabble	American Series
 1588	Scream	Creator/MTV
 1588	Scream	Creator/Netflix
+1588	Scream	ImageSource/Live-Action TV
 1589	Scrubs	Creator/Method Studios
 1589	Scrubs	Trope Overdosed
 1589	Scrubs	Dramedy
 1589	Scrubs	Creator/NBC
 1589	Scrubs	Work Com
+1589	Scrubs	ImageSource/Live-Action TV
 1589	Scrubs	JustForFun/Trope Overdosed Franchises
 1589	Scrubs	American Series
+1589	Scrubs	QuoteSource/Live-Action TV
 1589	Scrubs	Medical Drama
 1589	Scrubs	Series of the 2000s
 1589	Scrubs	Series of the 2010s
@@ -10015,6 +10534,7 @@ show_id	show_name	tag
 1590	SEAL Team	Creator/CBS
 1590	SEAL Team	American Series
 1590	SEAL Team	Series of the 2010s
+1590	SEAL Team	ImageSource/Live-Action TV
 1590	SEAL Team	Series of the 2020s
 1591	seaQuest DSV	Creator/Playmates Toys
 1591	seaQuest DSV	Creator/Ted Raimi
@@ -10032,6 +10552,7 @@ show_id	show_name	tag
 1592	Search Party	Creator/HBO Max
 1592	Search Party	American Series
 1592	Search Party	Series of the 2010s
+1592	Search Party	Administrivia/Needs Wiki Magic Love
 1593	Second Chance	Game Show
 1593	Second Chance	Creator/ABC
 1593	Second Chance	American Series
@@ -10077,13 +10598,16 @@ show_id	show_name	tag
 1602	Seinfeld	Series of the 1980s
 1602	Seinfeld	Comedy
 1602	Seinfeld	Notable Quotables
+1602	Seinfeld	VideoSource/Live-Action TV
 1602	Seinfeld	Creator/NBC
 1602	Seinfeld	JustForFun/Trope Overdosed Franchises
 1602	Seinfeld	American Series
+1602	Seinfeld	QuoteSource/Live-Action TV
 1602	Seinfeld	Series of the 1990s
 1602	Seinfeld	JustForFun/Trope Overdosed
 1602	Seinfeld	Creator/Warner Bros.
 1602	Seinfeld	UsefulNotes/Emmy Award
+1602	Seinfeld	ImageSource/Live-Action TV
 1603	Selfie	Work Com
 1603	Selfie	Creator/ABC
 1603	Selfie	Asian-American Media
@@ -10103,6 +10627,7 @@ show_id	show_name	tag
 1605	A Series of Unfortunate Events (2017)	Creator/Paramount
 1605	A Series of Unfortunate Events (2017)	Creator/Netflix
 1605	A Series of Unfortunate Events (2017)	Dramedy
+1605	A Series of Unfortunate Events (2017)	ImageSource/Live-Action TV
 1606	Sesame Street	Multi-National Shows
 1606	Sesame Street	Creator/Klasky-Csupo
 1606	Sesame Street	Creator/Double Fine
@@ -10121,7 +10646,9 @@ show_id	show_name	tag
 1606	Sesame Street	Series of the 1980s
 1606	Sesame Street	International Coproduction
 1606	Sesame Street	The Kiddie Ride
+1606	Sesame Street	VideoSource/Live-Action TV
 1606	Sesame Street	Edutainment Show
+1606	Sesame Street	ImageSource/Puppet Shows
 1606	Sesame Street	Creator/Treehouse TV
 1606	Sesame Street	Creator/Sprout
 1606	Sesame Street	Creator/Rare
@@ -10139,10 +10666,13 @@ show_id	show_name	tag
 1608	Sex Sent Me To The ER	American Series
 1609	Sex and the City	UsefulNotes/Emmy Award
 1609	Sex and the City	Prime Time Soap
+1609	Sex and the City	VideoSource/Live-Action TV
 1609	Sex and the City	Dramedy
+1609	Sex and the City	ImageSource/Live-Action TV
 1609	Sex and the City	UsefulNotes/Golden Raspberry Award
 1609	Sex and the City	Creator/HBO
 1609	Sex and the City	American Series
+1609	Sex and the City	QuoteSource/Live-Action TV
 1609	Sex and the City	Series of the 1990s
 1609	Sex and the City	Series of the 2000s
 1610	Shadow Chasers	Series of the 1980s
@@ -10197,6 +10727,7 @@ show_id	show_name	tag
 1619	Shazam	Creator/Filmation
 1619	Shazam	Superhero
 1619	Shazam	American Series
+1619	Shazam	ImageSource/Live-Action TV
 1620	Sheena (2000)	Action Adventure Series
 1620	Sheena (2000)	First-Run Syndication
 1620	Sheena (2000)	American Series
@@ -10220,6 +10751,7 @@ show_id	show_name	tag
 1624	The Shield	Creator/Sony Pictures Television
 1624	The Shield	Creator/FX Networks
 1624	The Shield	American Series
+1624	The Shield	QuoteSource/Live-Action TV
 1624	The Shield	Series of the 2000s
 1625	Shining Time Station	Creator/Nick Jr.
 1625	Shining Time Station	Railroad Index
@@ -10289,6 +10821,7 @@ show_id	show_name	tag
 1638	Sirens	American Series
 1638	Sirens	Series of the 2010s
 1639	Siskel & Ebert	Creator/American Forces Network
+1639	Siskel & Ebert	VideoSource/Live-Action TV
 1639	Siskel & Ebert	Creator/Disney
 1639	Siskel & Ebert	American Series
 1639	Siskel & Ebert	Long-Runners
@@ -10296,6 +10829,7 @@ show_id	show_name	tag
 1640	Sisters	Prime Time Soap
 1640	Sisters	American Series
 1640	Sisters	Series of the 1990s
+1640	Sisters	Administrivia/Needs Wiki Magic Love
 1640	Sisters	Creator/NBC
 1641	Sister, Sister	Black Sitcom
 1641	Sister, Sister	Creator/The WB
@@ -10306,6 +10840,7 @@ show_id	show_name	tag
 1641	Sister, Sister	Series of the 1990s
 1641	Sister, Sister	African-American Media
 1641	Sister, Sister	Creator/Paramount
+1641	Sister, Sister	ImageSource/Live-Action TV
 1642	Six	Military and Warfare Television
 1642	Six	Thriller
 1642	Six	American Series
@@ -10317,6 +10852,7 @@ show_id	show_name	tag
 1643	Six Feet Under	UsefulNotes/Emmy Award
 1643	Six Feet Under	Creator/HBO
 1643	Six Feet Under	Dramedy
+1643	Six Feet Under	ImageSource/Live-Action TV
 1644	The Six Million Dollar Man	JustForFun/TV Tropes Superhero Team
 1644	The Six Million Dollar Man	Creator/Kenner
 1644	The Six Million Dollar Man	SugarWiki/TV Tropes Superhero Team
@@ -10328,12 +10864,14 @@ show_id	show_name	tag
 1644	The Six Million Dollar Man	Creator/Universal
 1644	The Six Million Dollar Man	American Series
 1644	The Six Million Dollar Man	Science Fiction Series
+1644	The Six Million Dollar Man	QuoteSource/Live-Action TV
 1644	The Six Million Dollar Man	Spy Fiction
 1645	Sledge Hammer!	Crime and Punishment Series
 1645	Sledge Hammer!	Series of the 1980s
 1645	Sledge Hammer!	Creator/MeTV
 1645	Sledge Hammer!	Creator/ABC
 1645	Sledge Hammer!	American Series
+1645	Sledge Hammer!	ImageSource/Live-Action TV
 1646	Sleeper Cell	Creator/Moving Picture Company
 1646	Sleeper Cell	American Series
 1646	Sleeper Cell	Series of the 2000s
@@ -10357,6 +10895,7 @@ show_id	show_name	tag
 1648	Sliders	Science Fiction Series
 1648	Sliders	Series of the 1990s
 1648	Sliders	Series of the 2000s
+1648	Sliders	ImageSource/Live-Action TV
 1649	Smallville	ImageLinks/Complete Monster
 1649	Smallville	Franchise/Supergirl
 1649	Smallville	Supernatural Soap Opera
@@ -10368,6 +10907,7 @@ show_id	show_name	tag
 1649	Smallville	UsefulNotes/Hugo Award
 1649	Smallville	Characters/Green Arrow
 1649	Smallville	Franchise/Justice League of America
+1649	Smallville	VideoSource/Live-Action TV
 1649	Smallville	Film Noir
 1649	Smallville	JustForFun/Trope Overdosed Franchises
 1649	Smallville	Speculative Fiction Series
@@ -10375,12 +10915,14 @@ show_id	show_name	tag
 1649	Smallville	Creator/Rainmaker Entertainment
 1649	Smallville	Superhero
 1649	Smallville	American Series
+1649	Smallville	QuoteSource/Live-Action TV
 1649	Smallville	Series of the 2000s
 1649	Smallville	Series of the 2010s
 1649	Smallville	Creator/The CW
 1649	Smallville	JustForFun/Trope Overdosed
 1649	Smallville	Long-Runners
 1649	Smallville	Creator/Warner Bros.
+1649	Smallville	ImageSource/Live-Action TV
 1649	Smallville	Franchise/Superman
 1650	Small Wonder	Creator/Shout! Factory
 1650	Small Wonder	Series of the 1980s
@@ -10392,6 +10934,7 @@ show_id	show_name	tag
 1650	Small Wonder	Science Fiction Series
 1650	Small Wonder	Creator/20th Century Studios
 1650	Small Wonder	Fantastic Comedy
+1650	Small Wonder	ImageSource/Live-Action TV
 1651	Smart Guy	Black Sitcom
 1651	Smart Guy	Creator/The WB
 1651	Smart Guy	Kid Com
@@ -10402,6 +10945,7 @@ show_id	show_name	tag
 1652	Smash	The Musical
 1652	Smash	Creator/NBC
 1652	Smash	American Series
+1652	Smash	QuoteSource/Live-Action TV
 1652	Smash	Series of the 2010s
 1652	Smash	Music Stories
 1653	SMILF	Creator/Showtime
@@ -10472,6 +11016,7 @@ show_id	show_name	tag
 1665	Sons of Anarchy	American Series
 1665	Sons of Anarchy	Series of the 2000s
 1665	Sons of Anarchy	Series of the 2010s
+1665	Sons of Anarchy	ImageSource/Live-Action TV
 1666	Sons of Guns	Creator/Discovery Channel
 1666	Sons of Guns	Docu Soap
 1666	Sons of Guns	Reality TV
@@ -10481,6 +11026,7 @@ show_id	show_name	tag
 1667	The Sopranos	Franchise/The Sopranos
 1667	The Sopranos	Criminal Procedural
 1667	The Sopranos	JustForFun/Trope Kilowicked Franchises
+1667	The Sopranos	VideoSource/Live-Action TV
 1667	The Sopranos	American Series
 1667	The Sopranos	Series of the 1990s
 1667	The Sopranos	Series of the 2000s
@@ -10489,6 +11035,7 @@ show_id	show_name	tag
 1667	The Sopranos	Creator/Method Studios
 1667	The Sopranos	Creator/HBO
 1667	The Sopranos	Dramedy
+1667	The Sopranos	ImageSource/Live-Action TV
 1668	Soul Train	Series of the 1970s
 1668	Soul Train	Series of the 1980s
 1668	Soul Train	First-Run Syndication
@@ -10553,6 +11100,7 @@ show_id	show_name	tag
 1679	Spartacus: Blood and Sand	Sword & Sandal
 1679	Spartacus: Blood and Sand	American Series
 1679	Spartacus: Blood and Sand	Series of the 2010s
+1679	Spartacus: Blood and Sand	ImageSource/Live-Action TV
 1679	Spartacus: Blood and Sand	Queer Media
 1680	Special Unit 2	Creator/UPN
 1680	Special Unit 2	Speculative Fiction Series
@@ -10564,6 +11112,7 @@ show_id	show_name	tag
 1681	Speechless	Dom Com
 1681	Speechless	Creator/ABC
 1681	Speechless	American Series
+1681	Speechless	QuoteSource/Live-Action TV
 1681	Speechless	Series of the 2010s
 1681	Speechless	Creator/20th Century Studios
 1682	Spin City	Creator/Shout! Factory
@@ -10574,6 +11123,7 @@ show_id	show_name	tag
 1682	Spin City	Series of the 1990s
 1682	Spin City	Series of the 2000s
 1682	Spin City	Creator/Paramount
+1682	Spin City	ImageSource/Live-Action TV
 1683	SportsCenter	ESPN Series
 1683	SportsCenter	American Series
 1683	SportsCenter	Long-Runners
@@ -10584,6 +11134,7 @@ show_id	show_name	tag
 1685	Sports Night	Work Com
 1685	Sports Night	Creator/ABC
 1685	Sports Night	American Series
+1685	Sports Night	QuoteSource/Live-Action TV
 1685	Sports Night	Dramedy
 1685	Sports Night	Sports Stories
 1686	Spooksville	Horror Series
@@ -10631,6 +11182,7 @@ show_id	show_name	tag
 1693	Stargate-verse	Military Science Fiction
 1693	Stargate-verse	American Series
 1693	Stargate-verse	Science Fiction Series
+1693	Stargate-verse	QuoteSource/Live-Action TV
 1693	Stargate-verse	Series of the 1990s
 1693	Stargate-verse	Series of the 2000s
 1693	Stargate-verse	Series of the 2010s
@@ -10650,6 +11202,7 @@ show_id	show_name	tag
 1694	Stargate SG-1	Creator/Rainmaker Entertainment
 1694	Stargate SG-1	American Series
 1694	Stargate SG-1	Science Fiction Series
+1694	Stargate SG-1	QuoteSource/Live-Action TV
 1694	Stargate SG-1	Creator/The Ocean Group
 1694	Stargate SG-1	Series of the 1990s
 1694	Stargate SG-1	Series of the 2000s
@@ -10657,6 +11210,7 @@ show_id	show_name	tag
 1694	Stargate SG-1	JustForFun/Trope Overdosed
 1694	Stargate SG-1	Long-Runners
 1694	Stargate SG-1	Creator/Metro-Goldwyn-Mayer
+1694	Stargate SG-1	ImageSource/Live-Action TV
 1695	Stargate Atlantis	Creator/Image Engine
 1695	Stargate Atlantis	UsefulNotes/Nebula Award
 1695	Stargate Atlantis	Franchise/Stargate-verse
@@ -10668,10 +11222,12 @@ show_id	show_name	tag
 1695	Stargate Atlantis	Creator/Rainmaker Entertainment
 1695	Stargate Atlantis	American Series
 1695	Stargate Atlantis	Science Fiction Series
+1695	Stargate Atlantis	QuoteSource/Live-Action TV
 1695	Stargate Atlantis	Series of the 2000s
 1695	Stargate Atlantis	Canadian Series
 1695	Stargate Atlantis	JustForFun/Trope Overdosed
 1695	Stargate Atlantis	Creator/Metro-Goldwyn-Mayer
+1695	Stargate Atlantis	ImageSource/Live-Action TV
 1696	Stargate Universe	Creator/Image Engine
 1696	Stargate Universe	Franchise/Stargate-verse
 1696	Stargate Universe	Creator/Syfy
@@ -10729,6 +11285,7 @@ show_id	show_name	tag
 1701	Star Trek	Collectible Card Game
 1701	Star Trek	American Series
 1701	Star Trek	Science Fiction Series
+1701	Star Trek	QuoteSource/Live-Action TV
 1701	Star Trek	Series of the 1990s
 1701	Star Trek	Series of the 2000s
 1701	Star Trek	Franchise Index
@@ -10750,8 +11307,10 @@ show_id	show_name	tag
 1702	Star Trek: The Original Series	American Series
 1702	Star Trek: The Original Series	Science Fiction Series
 1702	Star Trek: The Original Series	Creator/PBS
+1702	Star Trek: The Original Series	QuoteSource/Live-Action TV
 1702	Star Trek: The Original Series	JustForFun/Trope Overdosed
 1702	Star Trek: The Original Series	Creator/Paramount
+1702	Star Trek: The Original Series	ImageSource/Live-Action TV
 1703	Star Trek: The Next Generation	Creator/Galoob
 1703	Star Trek: The Next Generation	Creator/WildStorm
 1703	Star Trek: The Next Generation	Creator/Playmates Toys
@@ -10761,13 +11320,16 @@ show_id	show_name	tag
 1703	Star Trek: The Next Generation	UsefulNotes/Hugo Award
 1703	Star Trek: The Next Generation	Series of the 1980s
 1703	Star Trek: The Next Generation	The New '20s
+1703	Star Trek: The Next Generation	VideoSource/Live-Action TV
 1703	Star Trek: The Next Generation	First-Run Syndication
 1703	Star Trek: The Next Generation	JustForFun/Trope Overdosed Franchises
 1703	Star Trek: The Next Generation	American Series
 1703	Star Trek: The Next Generation	Science Fiction Series
+1703	Star Trek: The Next Generation	QuoteSource/Live-Action TV
 1703	Star Trek: The Next Generation	Series of the 1990s
 1703	Star Trek: The Next Generation	JustForFun/Trope Overdosed
 1703	Star Trek: The Next Generation	Creator/Paramount
+1703	Star Trek: The Next Generation	ImageSource/Live-Action TV
 1704	Star Trek: Deep Space Nine	Creator/Method Studios
 1704	Star Trek: Deep Space Nine	Creator/Playmates Toys
 1704	Star Trek: Deep Space Nine	Creator/Modern Video Film
@@ -10780,10 +11342,12 @@ show_id	show_name	tag
 1704	Star Trek: Deep Space Nine	Military Science Fiction
 1704	Star Trek: Deep Space Nine	American Series
 1704	Star Trek: Deep Space Nine	Science Fiction Series
+1704	Star Trek: Deep Space Nine	QuoteSource/Live-Action TV
 1704	Star Trek: Deep Space Nine	Series of the 1990s
 1704	Star Trek: Deep Space Nine	JustForFun/Trope Overdosed
 1704	Star Trek: Deep Space Nine	Creator/Paramount
 1704	Star Trek: Deep Space Nine	Spy Fiction
+1704	Star Trek: Deep Space Nine	ImageSource/Live-Action TV
 1705	Star Trek: Voyager	Creator/David Cowgill
 1705	Star Trek: Voyager	Creator/WildStorm
 1705	Star Trek: Voyager	Creator/Playmates Toys
@@ -10791,15 +11355,18 @@ show_id	show_name	tag
 1705	Star Trek: Voyager	Creator/Illusion Arts
 1705	Star Trek: Voyager	Trope Overdosed
 1705	Star Trek: Voyager	Creator/UPN
+1705	Star Trek: Voyager	VideoSource/Live-Action TV
 1705	Star Trek: Voyager	The Roaring '20s
 1705	Star Trek: Voyager	JustForFun/Trope Overdosed Franchises
 1705	Star Trek: Voyager	American Series
 1705	Star Trek: Voyager	Science Fiction Series
+1705	Star Trek: Voyager	QuoteSource/Live-Action TV
 1705	Star Trek: Voyager	Series of the 1990s
 1705	Star Trek: Voyager	Series of the 2000s
 1705	Star Trek: Voyager	JustForFun/Trope Overdosed
 1705	Star Trek: Voyager	Creator/Method Studios
 1705	Star Trek: Voyager	Creator/Paramount
+1705	Star Trek: Voyager	ImageSource/Live-Action TV
 1706	Star Trek: Enterprise	Creator/Illusion Arts
 1706	Star Trek: Enterprise	Trope Overdosed
 1706	Star Trek: Enterprise	Creator/UPN
@@ -10808,10 +11375,12 @@ show_id	show_name	tag
 1706	Star Trek: Enterprise	JustForFun/Trope Overdosed Franchises
 1706	Star Trek: Enterprise	American Series
 1706	Star Trek: Enterprise	Science Fiction Series
+1706	Star Trek: Enterprise	QuoteSource/Live-Action TV
 1706	Star Trek: Enterprise	Series of the 2000s
 1706	Star Trek: Enterprise	JustForFun/Trope Overdosed
 1706	Star Trek: Enterprise	Creator/Method Studios
 1706	Star Trek: Enterprise	Creator/Paramount
+1706	Star Trek: Enterprise	ImageSource/Live-Action TV
 1707	Star Trek: Discovery	Creator/CBS All Access
 1707	Star Trek: Discovery	UsefulNotes/Hugo Award
 1707	Star Trek: Discovery	Creator/CTV
@@ -10940,10 +11509,12 @@ show_id	show_name	tag
 1735	Strong Medicine	American Series
 1736	Studio C	Creator/BYUtv
 1736	Studio C	Sketch Comedy
+1736	Studio C	VideoSource/Live-Action TV
 1736	Studio C	American Series
 1737	Studio 60 on the Sunset Strip	Creator/Aaron Sorkin
 1737	Studio 60 on the Sunset Strip	Creator/NBC
 1737	Studio 60 on the Sunset Strip	American Series
+1737	Studio 60 on the Sunset Strip	QuoteSource/Live-Action TV
 1737	Studio 60 on the Sunset Strip	Series of the 2000s
 1737	Studio 60 on the Sunset Strip	Short-Runners
 1737	Studio 60 on the Sunset Strip	Creator/Warner Bros.
@@ -10973,7 +11544,9 @@ show_id	show_name	tag
 1742	The Suite Life of Zack and Cody	Comedy Series
 1742	The Suite Life of Zack and Cody	Creator/Disney Channel
 1742	The Suite Life of Zack and Cody	JustForFun/Trope Kilowicked Franchises
+1742	The Suite Life of Zack and Cody	ImageSource/Live-Action TV
 1742	The Suite Life of Zack and Cody	American Series
+1742	The Suite Life of Zack and Cody	QuoteSource/Live-Action TV
 1742	The Suite Life of Zack and Cody	Series of the 2000s
 1742	The Suite Life of Zack and Cody	JustForFun/Trope Kilowicked
 1743	Suits	Creator/USA Network
@@ -11018,6 +11591,7 @@ show_id	show_name	tag
 1748	Supergirl	Series of the 2020s
 1748	Supergirl	JustForFun/Trope Kilowicked
 1748	Supergirl	Creator/Warner Bros.
+1748	Supergirl	ImageSource/Live-Action TV
 1748	Supergirl	Franchise/Superman
 1748	Supergirl	Queer Media
 1749	Super Force	Creator/Galoob
@@ -11031,6 +11605,7 @@ show_id	show_name	tag
 1751	The Super Mario Bros Super Show!	Franchise/Super Mario Bros.
 1751	The Super Mario Bros Super Show!	Saturday Morning Cartoon
 1751	The Super Mario Bros Super Show!	American Series
+1751	The Super Mario Bros Super Show!	QuoteSource/Western Animation
 1751	The Super Mario Bros Super Show!	Western Animation of the 1980s
 1751	The Super Mario Bros Super Show!	Western Animation
 1752	Superhuman Samurai Syber-Squad	Creator/Playmates Toys
@@ -11053,10 +11628,12 @@ show_id	show_name	tag
 1754	Supernatural	Trope Overdosed
 1754	Supernatural	Creator/The WB
 1754	Supernatural	Fantasy Series
+1754	Supernatural	VideoSource/Live-Action TV
 1754	Supernatural	Ghost Fiction
 1754	Supernatural	JustForFun/Trope Overdosed Franchises
 1754	Supernatural	Horror Series
 1754	Supernatural	American Series
+1754	Supernatural	QuoteSource/Live-Action TV
 1754	Supernatural	Series of the 2000s
 1754	Supernatural	Creator/The CW
 1754	Supernatural	JustForFun/Trope Overdosed
@@ -11066,6 +11643,7 @@ show_id	show_name	tag
 1754	Supernatural	Series of the 2010s
 1754	Supernatural	Supernatural Fiction
 1754	Supernatural	Urban Fantasy
+1754	Supernatural	ImageSource/Live-Action TV
 1754	Supernatural	Series of the 2020s
 1755	Superstition	Creator/Syfy
 1755	Superstition	American Series
@@ -11204,24 +11782,30 @@ show_id	show_name	tag
 1780	Teen Wolf	Creator/TeenNick
 1780	Teen Wolf	Latino-American Media
 1780	Teen Wolf	Creator/MTV
+1780	Teen Wolf	VideoSource/Live-Action TV
 1780	Teen Wolf	Werewolf Works
 1780	Teen Wolf	Horror Series
 1780	Teen Wolf	Animal Title Index
 1780	Teen Wolf	American Series
 1780	Teen Wolf	Urban Fantasy
+1780	Teen Wolf	QuoteSource/Live-Action TV
 1780	Teen Wolf	Creator/Metro-Goldwyn-Mayer
+1780	Teen Wolf	ImageSource/Live-Action TV
 1781	Telenovela (2016)	Telenovela
 1781	Telenovela (2016)	Work Com
 1781	Telenovela (2016)	American Series
 1781	Telenovela (2016)	Latino-American Media
 1781	Telenovela (2016)	Series of the 2010s
+1781	Telenovela (2016)	ImageSource/Live-Action TV
 1781	Telenovela (2016)	Short-Runners
 1781	Telenovela (2016)	Creator/NBC
 1782	The Television Ghost	American Series
+1782	The Television Ghost	Administrivia/Works Needing Tropes
 1782	The Television Ghost	Creator/CBS
 1783	Tell Me a Story	Creator/CBS All Access
 1783	Tell Me a Story	American Series
 1783	Tell Me a Story	Series of the 2010s
+1784	Tenacious D	VideoSource/Live-Action TV
 1784	Tenacious D	American Series
 1784	Tenacious D	Series of the 1990s
 1784	Tenacious D	Series of the 2000s
@@ -11243,6 +11827,7 @@ show_id	show_name	tag
 1786	Terminator: The Sarah Connor Chronicles	The New '10s
 1786	Terminator: The Sarah Connor Chronicles	Series of the 2000s
 1786	Terminator: The Sarah Connor Chronicles	Creator/Warner Bros.
+1786	Terminator: The Sarah Connor Chronicles	ImageSource/Live-Action TV
 1787	Terriers	CrimeAndPunishmentSeries/Detective Drama
 1787	Terriers	Creator/FX Networks
 1787	Terriers	Film Noir
@@ -11274,9 +11859,11 @@ show_id	show_name	tag
 1791	That '70s Show	Dom Com
 1791	That '70s Show	JustForFun/Trope Kilowicked Franchises
 1791	That '70s Show	American Series
+1791	That '70s Show	QuoteSource/Live-Action TV
 1791	That '70s Show	Series of the 1990s
 1791	That '70s Show	Series of the 2000s
 1791	That '70s Show	JustForFun/Trope Kilowicked
+1791	That '70s Show	ImageSource/Live-Action TV
 1792	That '80s Show	Creator/Carsey Werner
 1792	That '80s Show	Kid Com
 1792	That '80s Show	Creator/Fox
@@ -11295,8 +11882,10 @@ show_id	show_name	tag
 1794	That's So Raven	Creator/Mattel
 1794	That's So Raven	Creator/Disney Channel
 1794	That's So Raven	American Series
+1794	That's So Raven	QuoteSource/Live-Action TV
 1794	That's So Raven	Series of the 2000s
 1794	That's So Raven	African-American Media
+1794	That's So Raven	ImageSource/Live-Action TV
 1795	Thea	Creator/Castle Rock Entertainment
 1795	Thea	Black Sitcom
 1795	Thea	Dom Com
@@ -11449,6 +12038,7 @@ show_id	show_name	tag
 1817	Titus	Creator/Fox
 1817	Titus	Dom Com
 1817	Titus	American Series
+1817	Titus	QuoteSource/Live-Action TV
 1817	Titus	Series of the 2000s
 1818	T.J. Hooker	Creator/Shout! Factory
 1818	T.J. Hooker	Cop Show
@@ -11457,6 +12047,7 @@ show_id	show_name	tag
 1818	T.J. Hooker	Series of the 1980s
 1818	T.J. Hooker	Creator/ABC
 1818	T.J. Hooker	American Series
+1818	T.J. Hooker	ImageSource/Live-Action TV
 1819	Today	Series of the 1960s
 1819	Today	Series of the 1950s
 1819	Today	Series of the 1970s
@@ -11488,6 +12079,7 @@ show_id	show_name	tag
 1823	The Tonight Show	Non-Fiction Series
 1823	The Tonight Show	Creator/NBC
 1823	The Tonight Show	American Series
+1823	The Tonight Show	QuoteSource/Live-Action TV
 1823	The Tonight Show	Series of the 1990s
 1823	The Tonight Show	Series of the 2000s
 1823	The Tonight Show	Series of the 2010s
@@ -11525,8 +12117,10 @@ show_id	show_name	tag
 1827	The Tonight Show Starring Jimmy Fallon	Variety Show
 1827	The Tonight Show Starring Jimmy Fallon	Talk Show
 1827	The Tonight Show Starring Jimmy Fallon	Non-Fiction Series
+1827	The Tonight Show Starring Jimmy Fallon	VideoSource/Live-Action TV
 1827	The Tonight Show Starring Jimmy Fallon	American Series
 1827	The Tonight Show Starring Jimmy Fallon	Series of the 2010s
+1827	The Tonight Show Starring Jimmy Fallon	ImageSource/Live-Action TV
 1827	The Tonight Show Starring Jimmy Fallon	Series of the 2020s
 1827	The Tonight Show Starring Jimmy Fallon	Creator/NBC
 1828	Top Gear (US)	Magazine Show
@@ -11542,6 +12136,7 @@ show_id	show_name	tag
 1829	Torchwood: Miracle Day	Mini Series
 1829	Torchwood: Miracle Day	British Series
 1829	Torchwood: Miracle Day	Series of the 2010s
+1829	Torchwood: Miracle Day	ImageSource/Live-Action TV
 1830	Tosh0	Creator/Comedy Central
 1830	Tosh0	American Series
 1830	Tosh0	Series of the 2000s
@@ -11563,6 +12158,7 @@ show_id	show_name	tag
 1833	Topper	Creator/CBS
 1833	Topper	Ghost Fiction
 1833	Topper	American Series
+1833	Topper	Administrivia/Needs a Better Description
 1833	Topper	Fantastic Comedy
 1834	Total Divas	Creator/USA Network
 1834	Total Divas	Reality TV
@@ -11589,10 +12185,12 @@ show_id	show_name	tag
 1837	Tour of Duty	Creator/CBS
 1838	Transparent	UsefulNotes/BAFTA
 1838	Transparent	American Series
+1838	Transparent	QuoteSource/Live-Action TV
 1838	Transparent	Creator/Prime Video
 1838	Transparent	Dramedy
 1838	Transparent	Queer Media
 1838	Transparent	UsefulNotes/Emmy Award
+1838	Transparent	Administrivia/Needs Wiki Magic Love
 1838	Transparent	Series of the 2010s
 1839	Trashed	Game Show
 1839	Trashed	Creator/MTV
@@ -11667,6 +12265,7 @@ show_id	show_name	tag
 1850	True Blood	Supernatural Fiction
 1850	True Blood	Urban Fantasy
 1850	True Blood	Creator/HBO
+1850	True Blood	ImageSource/Live-Action TV
 1850	True Blood	Queer Media
 1851	True Jackson, VP	Creator/TeenNick
 1851	True Jackson, VP	American Series
@@ -11708,6 +12307,7 @@ show_id	show_name	tag
 1859	Turks	Cop Show
 1859	Turks	Crime and Punishment Series
 1859	Turks	American Series
+1859	Turks	Administrivia/Works Needing Tropes
 1860	21	Creator/Jack Barry
 1860	21	Game Show
 1860	21	American Series
@@ -11727,10 +12327,12 @@ show_id	show_name	tag
 1861	The Twilight Zone (1959)	Works Set in World War II
 1861	The Twilight Zone (1959)	American Series
 1861	The Twilight Zone (1959)	Science Fiction Series
+1861	The Twilight Zone (1959)	QuoteSource/Live-Action TV
 1861	The Twilight Zone (1959)	Sci-Fi Horror
 1861	The Twilight Zone (1959)	JustForFun/Trope Kilowicked
 1861	The Twilight Zone (1959)	Supernatural Fiction
 1861	The Twilight Zone (1959)	Urban Fantasy
+1861	The Twilight Zone (1959)	ImageSource/Live-Action TV
 1862	The Twilight Zone (1985)	Franchise/The Twilight Zone
 1862	The Twilight Zone (1985)	Series of the 1980s
 1862	The Twilight Zone (1985)	The New '20s
@@ -11754,6 +12356,7 @@ show_id	show_name	tag
 1863	The Twilight Zone (2002)	Science Fiction Series
 1863	The Twilight Zone (2002)	Sci-Fi Horror
 1863	The Twilight Zone (2002)	Series of the 2000s
+1863	The Twilight Zone (2002)	Administrivia/Needs a Better Description
 1863	The Twilight Zone (2002)	Supernatural Fiction
 1863	The Twilight Zone (2002)	Urban Fantasy
 1863	The Twilight Zone (2002)	Short-Runners
@@ -11784,6 +12387,7 @@ show_id	show_name	tag
 1865	True Detective	Series of the 2020s
 1865	True Detective	Creator/HBO
 1865	True Detective	UsefulNotes/Emmy Award
+1865	True Detective	ImageSource/Live-Action TV
 1865	True Detective	Series of the 2010s
 1866	TV Funhouse	Creator/Comedy Central
 1866	TV Funhouse	American Series
@@ -11803,6 +12407,7 @@ show_id	show_name	tag
 1867	Twin Peaks	The '80s
 1867	Twin Peaks	American Series
 1867	Twin Peaks	Urban Fantasy
+1867	Twin Peaks	QuoteSource/Live-Action TV
 1867	Twin Peaks	Series of the 1990s
 1867	Twin Peaks	Series of the 2010s
 1867	Twin Peaks	JustForFun/Trope Kilowicked
@@ -11810,8 +12415,11 @@ show_id	show_name	tag
 1868	Two and a Half Men	Creator/Moving Picture Company
 1868	Two and a Half Men	Creator/Zoic Studios
 1868	Two and a Half Men	Creator/CTV
+1868	Two and a Half Men	VideoSource/Live-Action TV
 1868	Two and a Half Men	Creator/CBS
+1868	Two and a Half Men	ImageSource/Live-Action TV
 1868	Two and a Half Men	American Series
+1868	Two and a Half Men	QuoteSource/Live-Action TV
 1868	Two and a Half Men	Series of the 2000s
 1868	Two and a Half Men	Series of the 2010s
 1868	Two and a Half Men	Long-Runners
@@ -11838,6 +12446,7 @@ show_id	show_name	tag
 1873	Ugly Betty	UsefulNotes/Emmy Award
 1873	Ugly Betty	Series of the 2010s
 1873	Ugly Betty	Dramedy
+1873	Ugly Betty	ImageSource/Live-Action TV
 1874	The Ultimate Fighter	Creator/Spike TV
 1874	The Ultimate Fighter	American Series
 1874	The Ultimate Fighter	Series of the 2000s
@@ -11846,11 +12455,14 @@ show_id	show_name	tag
 1875	The Umbrella Academy (2019)	Creator/Universal Content Productions
 1875	The Umbrella Academy (2019)	Superhero
 1875	The Umbrella Academy (2019)	American Series
+1875	The Umbrella Academy (2019)	QuoteSource/Live-Action TV
 1875	The Umbrella Academy (2019)	Series of the 2020s
 1875	The Umbrella Academy (2019)	Series of the 2010s
 1875	The Umbrella Academy (2019)	Creator/Netflix
+1875	The Umbrella Academy (2019)	ImageSource/Live-Action TV
 1876	Unbreakable Kimmy Schmidt	Comedy Series
 1876	Unbreakable Kimmy Schmidt	American Series
+1876	Unbreakable Kimmy Schmidt	QuoteSource/Live-Action TV
 1876	Unbreakable Kimmy Schmidt	Series of the 2010s
 1876	Unbreakable Kimmy Schmidt	Creator/Netflix
 1876	Unbreakable Kimmy Schmidt	Series of the 2020s
@@ -11899,6 +12511,7 @@ show_id	show_name	tag
 1885	Unnatural History	American Series
 1885	Unnatural History	Adventure
 1885	Unnatural History	Series of the 2000s
+1885	Unnatural History	Administrivia/Pages Needing an Entry Pimp
 1885	Unnatural History	Creator/YTV
 1885	Unnatural History	Creator/Cartoon Network
 1885	Unnatural History	Series of the 2010s
@@ -11962,6 +12575,7 @@ show_id	show_name	tag
 1894	V (2009)	Series of the 2000s
 1894	V (2009)	Series of the 2010s
 1894	V (2009)	Creator/Method Studios
+1894	V (2009)	ImageSource/Live-Action TV
 1895	Valor	Military and Warfare Television
 1895	Valor	Conspiracy Thriller
 1895	Valor	American Series
@@ -11981,14 +12595,17 @@ show_id	show_name	tag
 1896	The Vampire Diaries	Creator/CTV
 1896	The Vampire Diaries	Vampire Fiction
 1896	The Vampire Diaries	JustForFun/Trope Kilowicked Franchises
+1896	The Vampire Diaries	VideoSource/Live-Action TV
 1896	The Vampire Diaries	Horror Series
 1896	The Vampire Diaries	American Series
+1896	The Vampire Diaries	QuoteSource/Live-Action TV
 1896	The Vampire Diaries	Series of the 2000s
 1896	The Vampire Diaries	Creator/The CW
 1896	The Vampire Diaries	Creator/Warner Bros.
 1896	The Vampire Diaries	JustForFun/Trope Kilowicked
 1896	The Vampire Diaries	Series of the 2010s
 1896	The Vampire Diaries	Urban Fantasy
+1896	The Vampire Diaries	ImageSource/Live-Action TV
 1897	Van Helsing (2016)	Vampire Fiction
 1897	Van Helsing (2016)	Creator/Syfy
 1897	Van Helsing (2016)	American Series
@@ -12036,9 +12653,11 @@ show_id	show_name	tag
 1904	Victorious	Kid Com
 1904	Victorious	Creator/Bandai Namco Entertainment
 1904	Victorious	American Series
+1904	Victorious	QuoteSource/Live-Action TV
 1904	Victorious	Creator/Nickelodeon
 1904	Victorious	Latino-American Media
 1904	Victorious	Series of the 2010s
+1904	Victorious	ImageSource/Live-Action TV
 1905	Vida	Creator/Starz
 1905	Vida	American Series
 1905	Vida	Latino-American Media
@@ -12146,17 +12765,21 @@ show_id	show_name	tag
 1919	The Walking Dead	Horror Series
 1919	The Walking Dead	American Series
 1919	The Walking Dead	Creator/AMC
+1919	The Walking Dead	QuoteSource/Live-Action TV
 1919	The Walking Dead	Series of the 2010s
 1919	The Walking Dead	Series of the 2020s
 1919	The Walking Dead	JustForFun/Trope Kilowicked
 1919	The Walking Dead	Long-Runners
 1919	The Walking Dead	Zombie Stories
+1919	The Walking Dead	ImageSource/Live-Action TV
 1920	Walt Disney Presents	Creator/American Forces Network
 1920	Walt Disney Presents	Series of the 1950s
 1920	Walt Disney Presents	Christmas Special
 1920	Walt Disney Presents	Creator/Disney
 1920	Walt Disney Presents	American Series
+1920	Walt Disney Presents	QuoteSource/Live-Action TV
 1920	Walt Disney Presents	UsefulNotes/Emmy Award
+1920	Walt Disney Presents	ImageSource/Western Animation
 1921	The Waltons	The Great Depression
 1921	The Waltons	Series of the 1970s
 1921	The Waltons	The '40s
@@ -12188,6 +12811,7 @@ show_id	show_name	tag
 1926	Warehouse 13	Creator/Syfy
 1926	Warehouse 13	American Series
 1926	Warehouse 13	Science Fiction Series
+1926	Warehouse 13	QuoteSource/Live-Action TV
 1926	Warehouse 13	Series of the 2000s
 1926	Warehouse 13	Series of the 2010s
 1926	Warehouse 13	Urban Fantasy
@@ -12203,6 +12827,7 @@ show_id	show_name	tag
 1929	Wayward Pines	Speculative Fiction Series
 1929	Wayward Pines	American Series
 1929	Wayward Pines	Series of the 2010s
+1929	Wayward Pines	ImageSource/Live-Action TV
 1930	Web Soup	Creator/G4TV
 1930	Web Soup	American Series
 1930	Web Soup	Series of the 2000s
@@ -12216,6 +12841,7 @@ show_id	show_name	tag
 1931	Webster	American Series
 1931	Webster	African-American Media
 1931	Webster	Creator/Paramount
+1931	Webster	ImageSource/Live-Action TV
 1932	Weeds	Crime and Punishment Series
 1932	Weeds	Criminal Procedural
 1932	Weeds	Creator/Showtime
@@ -12244,9 +12870,11 @@ show_id	show_name	tag
 1936	The West Wing	JustForFun/Tropes Examined by the MythBusters
 1936	The West Wing	Creator/Aaron Sorkin
 1936	The West Wing	JustForFun/Trope Kilowicked Franchises
+1936	The West Wing	VideoSource/Live-Action TV
 1936	The West Wing	Creator/NBC
 1936	The West Wing	Government Procedural
 1936	The West Wing	American Series
+1936	The West Wing	QuoteSource/Live-Action TV
 1936	The West Wing	Series of the 1990s
 1936	The West Wing	Series of the 2000s
 1936	The West Wing	JustForFun/Trope Kilowicked
@@ -12286,6 +12914,7 @@ show_id	show_name	tag
 1942	When Things Were Rotten	Series of the 1970s
 1942	When Things Were Rotten	Creator/ABC
 1942	When Things Were Rotten	American Series
+1942	When Things Were Rotten	Administrivia/Needs Wiki Magic Love
 1943	Where in the World Is Carmen Sandiego?	Creator/Greggo
 1943	Where in the World Is Carmen Sandiego?	Game Show
 1943	Where in the World Is Carmen Sandiego?	Franchise/Carmen Sandiego
@@ -12305,6 +12934,7 @@ show_id	show_name	tag
 1945	White Collar	Creator/Touchstone Television
 1945	White Collar	Creator/Disney
 1945	White Collar	American Series
+1945	White Collar	QuoteSource/Live-Action TV
 1945	White Collar	Series of the 2000s
 1945	White Collar	Series of the 2010s
 1946	The Whitest Kids U' Know	Creator/IFC
@@ -12327,6 +12957,7 @@ show_id	show_name	tag
 1950	Who Wants to Be a Superhero?	Reality TV
 1950	Who Wants to Be a Superhero?	Creator/Syfy
 1950	Who Wants to Be a Superhero?	American Series
+1950	Who Wants to Be a Superhero?	ImageSource/Live-Action TV
 1951	Why Women Kill	Creator/CBS All Access
 1951	Why Women Kill	American Series
 1951	Why Women Kill	Dramedy
@@ -12392,13 +13023,16 @@ show_id	show_name	tag
 1962	The Wire	The Epic
 1962	The Wire	Government Procedural
 1962	The Wire	American Series
+1962	The Wire	QuoteSource/Live-Action TV
 1962	The Wire	Series of the 2000s
 1962	The Wire	African-American Media
 1962	The Wire	JustForFun/Trope Kilowicked
 1962	The Wire	Creator/HBO
+1962	The Wire	ImageSource/Live-Action TV
 1963	Wiseguy	Crime and Punishment Series
 1963	Wiseguy	Series of the 1980s
 1963	Wiseguy	American Series
+1963	Wiseguy	QuoteSource/Live-Action TV
 1963	Wiseguy	Creator/CBS
 1964	Wishbone	Creator/American Forces Network
 1964	Wishbone	Creator/HiT Entertainment
@@ -12464,6 +13098,7 @@ show_id	show_name	tag
 1974	Wonderfalls	Creator/Fox
 1974	Wonderfalls	Speculative Fiction Series
 1974	Wonderfalls	American Series
+1974	Wonderfalls	QuoteSource/Live-Action TV
 1974	Wonderfalls	Short-Runners
 1974	Wonderfalls	Dramedy
 1975	Wonder Woman (1975)	Wonder Woman
@@ -12485,9 +13120,11 @@ show_id	show_name	tag
 1976	The Wonder Years	Creator/ABC
 1976	The Wonder Years	Creator/Disney
 1976	The Wonder Years	American Series
+1976	The Wonder Years	QuoteSource/Live-Action TV
 1976	The Wonder Years	Series of the 1990s
 1976	The Wonder Years	UsefulNotes/Emmy Award
 1976	The Wonder Years	Dramedy
+1976	The Wonder Years	ImageSource/Live-Action TV
 1976	The Wonder Years	Creator/20th Century Studios
 1977	Working Class	Creator/CMT
 1977	Working Class	American Series
@@ -12515,6 +13152,7 @@ show_id	show_name	tag
 1982	The Wubbulous World of Dr. Seuss	American Series
 1982	The Wubbulous World of Dr. Seuss	Series of the 1990s
 1982	The Wubbulous World of Dr. Seuss	Preschool Show
+1982	The Wubbulous World of Dr. Seuss	Administrivia/Needs Wiki Magic Love
 1983	WWII in HD	Creator/The History Channel
 1983	WWII in HD	Non-Fiction Series
 1983	WWII in HD	American Series
@@ -12526,6 +13164,7 @@ show_id	show_name	tag
 1984	WWE NXT	Professional Wrestling
 1984	WWE NXT	Series of the 2010s
 1985	WWE Raw	Creator/Spike TV
+1985	WWE Raw	ImageSource/Magazines
 1985	WWE Raw	The '90s
 1985	WWE Raw	Quote Source
 1985	WWE Raw	American Series
@@ -12557,6 +13196,7 @@ show_id	show_name	tag
 1988	The X-Files	Franchise/The X-Files
 1988	The X-Files	Trope Overdosed
 1988	The X-Files	Creator/Fox
+1988	The X-Files	VideoSource/Live-Action TV
 1988	The X-Files	The Epic
 1988	The X-Files	Series/The 100 Greatest Scary Moments
 1988	The X-Files	JustForFun/Trope Overdosed Franchises
@@ -12566,6 +13206,7 @@ show_id	show_name	tag
 1988	The X-Files	Creator/Disney
 1988	The X-Files	American Series
 1988	The X-Files	Science Fiction Series
+1988	The X-Files	QuoteSource/Live-Action TV
 1988	The X-Files	Sci-Fi Horror
 1988	The X-Files	Series of the 1990s
 1988	The X-Files	Series of the 2000s
@@ -12575,26 +13216,31 @@ show_id	show_name	tag
 1988	The X-Files	Urban Fantasy
 1988	The X-Files	Creator/Method Studios
 1988	The X-Files	Creator/20th Century Studios
+1988	The X-Files	ImageSource/Live-Action TV
 1989	X-Play	The Musical
 1989	X-Play	Creator/G4TV
 1989	X-Play	Non-Fiction Series
 1989	X-Play	Video Review Show
 1989	X-Play	American Series
+1989	X-Play	QuoteSource/Live-Action TV
 1989	X-Play	Series of the 2000s
 1989	X-Play	Long-Runners
 1990	Xena: Warrior Princess	Creator/Renaissance Pictures
 1990	Xena: Warrior Princess	Creator/Ted Raimi
 1990	Xena: Warrior Princess	Fantasy Series
 1990	Xena: Warrior Princess	JustForFun/Trope Kilowicked Franchises
+1990	Xena: Warrior Princess	VideoSource/Live-Action TV
 1990	Xena: Warrior Princess	First-Run Syndication
 1990	Xena: Warrior Princess	Queer Romance
 1990	Xena: Warrior Princess	Sword & Sandal
 1990	Xena: Warrior Princess	Creator/Universal
 1990	Xena: Warrior Princess	American Series
 1990	Xena: Warrior Princess	Adventure
+1990	Xena: Warrior Princess	QuoteSource/Live-Action TV
 1990	Xena: Warrior Princess	Series of the 1990s
 1990	Xena: Warrior Princess	Series of the 2000s
 1990	Xena: Warrior Princess	JustForFun/Trope Kilowicked
+1990	Xena: Warrior Princess	ImageSource/Live-Action TV
 1990	Xena: Warrior Princess	Queer Media
 1991	Yancy Derringer	Creator/Desilu Studios
 1991	Yancy Derringer	Series of the 1950s
@@ -12604,6 +13250,7 @@ show_id	show_name	tag
 1991	Yancy Derringer	Creator/CBS
 1992	A Year at the Top	Series of the 1970s
 1992	A Year at the Top	American Series
+1992	A Year at the Top	Administrivia/Works Needing Tropes
 1992	A Year at the Top	Short-Runners
 1992	A Year at the Top	Creator/CBS
 1993	Yellowstone	Creator/Paramount Network
@@ -12620,12 +13267,14 @@ show_id	show_name	tag
 1995	Yo Gabba Gabba!	Creator/Nick Jr.
 1995	Yo Gabba Gabba!	UsefulNotes/Adobe Flash
 1995	Yo Gabba Gabba!	Creator/WildBrain
+1995	Yo Gabba Gabba!	ImageSource/Puppet Shows
 1995	Yo Gabba Gabba!	Creator/Treehouse TV
 1995	Yo Gabba Gabba!	American Series
 1995	Yo Gabba Gabba!	Series of the 2000s
 1995	Yo Gabba Gabba!	Series of the 2010s
 1995	Yo Gabba Gabba!	Preschool Show
 1995	Yo Gabba Gabba!	Edutainment Show
+1995	Yo Gabba Gabba!	Administrivia/Pages Needing Transparent Images
 1996	You Bet Your Life	Creator/Shout! Factory
 1996	You Bet Your Life	Creator/Carsey Werner
 1996	You Bet Your Life	Game Show
@@ -12691,6 +13340,7 @@ show_id	show_name	tag
 2005	The Young Indiana Jones Chronicles	Historical Fiction
 2005	The Young Indiana Jones Chronicles	Works Set In World War I
 2005	The Young Indiana Jones Chronicles	Creator/Paramount
+2005	The Young Indiana Jones Chronicles	ImageSource/Live-Action TV
 2005	The Young Indiana Jones Chronicles	The Edwardian Era
 2005	The Young Indiana Jones Chronicles	Edutainment Show
 2006	The Young Riders	Western Series
@@ -12727,6 +13377,7 @@ show_id	show_name	tag
 2013	Zeke and Luther	Comedy Series
 2013	Zeke and Luther	Creator/Disney Channel
 2013	Zeke and Luther	American Series
+2013	Zeke and Luther	Administrivia/Needs a Better Description
 2014	Zero Hour	Creator/ABC
 2014	Zero Hour	American Series
 2014	Zero Hour	Series of the 2010s
@@ -12742,6 +13393,7 @@ show_id	show_name	tag
 2016	Zoboomafoo	Creator/Cookie Jar Entertainment
 2016	Zoboomafoo	Recap/Defunctland
 2016	Zoboomafoo	American Series
+2016	Zoboomafoo	QuoteSource/Live-Action TV
 2016	Zoboomafoo	Series of the 1990s
 2016	Zoboomafoo	Series of the 2000s
 2016	Zoboomafoo	Preschool Show
@@ -12767,6 +13419,7 @@ show_id	show_name	tag
 2020	The Zoo	Creator/WildBrain
 2020	The Zoo	American Series
 2020	The Zoo	Series of the 2010s
+2020	The Zoo	Administrivia/Needs Wiki Magic Love
 2021	Zoom	American Series
 2021	Zoom	Creator/PBS
 2021	Zoom	Creator/PBS Kids
