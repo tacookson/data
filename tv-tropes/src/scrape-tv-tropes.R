@@ -125,6 +125,7 @@ shows <- show_list %>%
   # We scraped all hyperlinks, so an inner_join will filter out non-trope links
   # (semi_join would probably work better, but I had already run this code)
   inner_join(tropes %>% select(-description), by = "trope_url") %>%
+  distinct(show_id, trope_name, .keep_all = TRUE) %>%
   select(show_id, show_name, trope_name)
 
 # Index tags of shows -------------------------------------------------------------------
