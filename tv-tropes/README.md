@@ -14,6 +14,10 @@ Some interesting examples of tropes include:
 
 
 
+<img src="https://www.mediavillage.com/media/articles/i-love-lucy-ss2.jpg.1440x1000_q85_box-74%2C0%2C529%2C315_crop_detail.jpg" alt="https://www.mediavillage.com/media/articles/i-love-lucy-ss2.jpg.1440x1000_q85_box-74%2C0%2C529%2C315_crop_detail.jpg" style="zoom:150%;" />
+
+
+
 #### Data Source
 
 The data, needless to say, is from [TV Tropes](https://tvtropes.org/). This data includes all individual tropes, but because of how extensive the site is, only includes shows and related tropes for American television series.
