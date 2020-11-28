@@ -158,7 +158,8 @@ tags <- show_list %>%
          !str_detect(tag, "QuoteSource"),
          !str_detect(tag, "Administrivia"),
          !str_detect(tag, "VideoSource")) %>%
-  select(show_id, show_name, tag)
+  select(show_id, show_name, tag) %>%
+  rename(show = show_name)
 
 
 ### Write to TXT file -----------------------------------------------------------------------------
