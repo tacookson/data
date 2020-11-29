@@ -72,7 +72,7 @@ weights <- weights_raw %>%
             infant_litter_size = infant_lit_sz_if_preg)
 
 
-### Write to CSV ----------------------------------------------------------------------------------
-write_csv(animals, "./duke-lemur-center/animals.csv")
+### Write to TXT ----------------------------------------------------------------------------------
+write_tsv(animals, "./duke-lemur-center/animals.txt")
 
-write_csv(weights, "./duke-lemur-center/weights.csv")
+write_tsv(weights, "./duke-lemur-center/weights.txt")
